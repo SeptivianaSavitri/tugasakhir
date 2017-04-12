@@ -69,7 +69,7 @@ Blackpool F.C.
 Bread
 MIS Amiroh Wm
 SDN Pondok Bambu 13
-÷sterreichische Bundesbahnen
+√ñsterreichische Bundesbahnen
 SMA Negeri 2 Bukittinggi
 SDLB Kembar Karya I
 Sekolah Vianney Jakarta
@@ -79,14 +79,14 @@ Sarbedaran
 SMA Negeri 1 Simpang Ulim
 IZhMASh
 U.S.D. Lavagnese 1919
-Uniunea Democrat? Maghiar? din Rom‚nia
+Uniunea Democrat? Maghiar? din Rom√¢nia
 MIS Al Ihsaniyah, Jl. Kebun Sayur I
 Hertha BSC
 Persebi Boyolali
 Universitas Pramita Indonesia
-J˙bilo Iwata
+J√∫bilo Iwata
 Six Feet Under
-Fortuna D¸sseldorf
+Fortuna D√ºsseldorf
 Church's Chicken
 Crawley Town F.C.
 Institut Seni Indonesia Yogyakarta
@@ -131,7 +131,7 @@ SMA Vianney Jakarta
 SMA Negeri 1 Sungaipenuh
 Divisi Dua Liga Indonesia
 SDN Gedong 04
-Õbis Sport Club
+√çbis Sport Club
 Interpol
 Universitas Gajayana
 Universitas Nasional
@@ -290,7 +290,7 @@ Anthrax
 SD Negeri 4 Gribig
 SMA Negeri 2 Temanggung
 Supercell
-FK éeljezni?ar Sarajevo
+FK ≈Ωeljezni?ar Sarajevo
 SMA Kristen 5 Penabur Jakarta
 SMA Negeri 83 Jakarta
 Mizuho Financial Group
@@ -317,7 +317,7 @@ Hellas Verona F.C.
 SDN Cipinang Besar Utara 11 Pagi
 SMA Negeri 2 Kotabaru
 SMA Negeri 1 Tebas
-C.S. VisÈ
+C.S. Vis√©
 Sekolah Tinggi Ilmu Kesehatan Suaka Insan
 SDLB Kusumo Asih
 Bandung FC
@@ -382,7 +382,7 @@ Persibangga Purbalingga
 Samsung
 Winner
 SMA Negeri 14 Surabaya
-Club GuaranÌ
+Club Guaran√≠
 Micro-Star International
 Universitas Wesleyan
 SD Negeri Tegalsari
@@ -394,7 +394,7 @@ Universitas Esa Unggul
 Murba
 SD Negeri 007 Bulang
 Gereja Yesus Kristus dari Orang-orang Suci Zaman Akhir
-KnattspyrnufÈlag ReykjavÌkur
+Knattspyrnuf√©lag Reykjav√≠kur
 Politeknik Negeri Manado
 Universitas Malahayati
 Boavista SC
@@ -414,7 +414,7 @@ Vancouver Whitecaps FC
 Fiat
 SMPN 1 Bandung Tulungagung
 SMK Telekomunikasi Sandhy Putra Jakarta
-SpVgg Greuther F¸rth
+SpVgg Greuther F√ºrth
 MI Miftahul Huda
 Gimnasia La Plata
 Bohemian F.C.
@@ -601,7 +601,7 @@ STAIN Sultan Qaimuddin
 Perguruan Tinggi Dartmouth
 SMK Al Ikhsan Batujajar
 SMP Negeri 14 Surabaya
-Wis?a KrakÛw
+Wis?a Krak√≥w
 Politeknik Negeri Pontianak
 Luton Town F.C.
 SD Favorit Barelang
@@ -621,7 +621,7 @@ SDN Cijantung 02
 Pondok Pesantren Sabilurrosyidin Surabaya
 MIS Ar Rahmah, Jl. P. Komarudin
 AirPutih
-Campeonato Brasileiro SÈrie D
+Campeonato Brasileiro S√©rie D
 Sekolah Dasar Islam Terpadu di Padang
 SMA Trinitas
 FC Zenit St Petersburg
@@ -679,7 +679,7 @@ Universitas Negeri Manado
 SD Negeri 3 Jekulo
 SD Negeri 018 Galang
 Ajax Amsterdam
-Clube AtlÈtico Paranaense
+Clube Atl√©tico Paranaense
 STMIK Indonesia
 Persatuan Gerakan Masyarakat
 SDN Babat II
@@ -699,7 +699,7 @@ SV Austria Salzburg
 Partai Daulat Rakyat
 RCD Mallorca
 FC Dynamo Kiev
-LB Ch‚teauroux
+LB Ch√¢teauroux
 Sekolah menengah farmasi
 MIS Al Amin
 Lenovo
@@ -713,7 +713,7 @@ Dewan Hubungan Internasional
 SD Kartika X-7 Pagi
 SD Marsudirini Bsb
 SMP Negeri 2 Cirebon
-Standard LiËge
+Standard Li√®ge
 SMA Negeri 58 Jakarta
 SDN Duren Sawit 14
 SDN Cilangkap 03
@@ -737,7 +737,7 @@ Kayseri Erciyesspor
 SMA Negeri 3 Jember
 SD Kartika VIII-2
 SDN Cakung Barat 03 Pagi
-AssociaÁ„o AcadÈmica de Coimbra - O.A.F.
+Associa√ß√£o Acad√©mica de Coimbra - O.A.F.
 Angkasa Pura I
 Regar-TadAZ Tursunzoda
 SMA Kolese Gonzaga Jakarta
@@ -767,7 +767,7 @@ SMA Negeri 7 Padang
 Coritiba Foot Ball Club
 XXX
 Akademi Angkatan Laut Amerika Serikat
-Arsenal de SarandÌ
+Arsenal de Sarand√≠
 SMP Negeri 1 Padang
 Bugatti Automobiles SAS
 SDN Ceger 01
@@ -777,7 +777,7 @@ SDN Malaka Jaya 09
 Tiket
 SDN Cipinang Muara 21
 SMP Negeri 19 Bandung
-FeralpiSalÚ
+FeralpiSal√≤
 SDN Kebon Pala 10 Petang
 MA Negeri 1 Padang
 SDN Cipayung 04 Pagi
@@ -798,7 +798,7 @@ SDN Cipinang Besar Selatan 04
 Universitas Lehigh
 SD Negeri 3 Getassrabi
 Sekolah Tinggi Ilmu Elektronika dan Komputer Semarang
-S.S.D. Citt‡ di Messina
+S.S.D. Citt√† di Messina
 Politeknik Negeri Bandung
 Universitas 17 Agustus 1945 Samarinda
 SD Negeri 008 Nongsa
@@ -842,7 +842,7 @@ SMKN 1 Banjar
 SDN Balimester 07 Petang
 Arbil SC
 Cruzeiro EC
-Universitas Eˆtvˆs Lor·nd
+Universitas E√∂tv√∂s Lor√°nd
 Real Salt Lake
 NeXT
 SDN Jatinegara Kaum 15 Pagi
@@ -889,7 +889,7 @@ Parma F.C.
 Verizon Communications
 Seattle Sounders FC
 Sekolah Tinggi Agama Kristen Protestan Negeri Sentani
-Club AtlÈtico de Madrid
+Club Atl√©tico de Madrid
 Scientology
 SD Clarissa
 SMP Negeri 2 Depok
@@ -955,7 +955,7 @@ SD Negeri 003 Batam Kota
 The Darkness
 SMP Negeri 1 Lumajang
 SMP Negeri 10 Palembang
-EC VitÛria
+EC Vit√≥ria
 SMA Negeri 1 Tigalingga
 SMA Negeri 1 Sliyeg
 Persinab Nabire
@@ -1053,9 +1053,9 @@ Sekolah Tinggi Ilmu Manajemen Dhyana Pura
 Borgosesia Calcio
 SMA Negeri 3 Bengkulu
 AGL Energy
-Yokohama F∑ Marinos
+Yokohama F¬∑ Marinos
 ?l?sk Wroc?aw
-TecnolÛgico de Antioquia
+Tecnol√≥gico de Antioquia
 SDN Gedong 08
 MIS Nurul Falah, Jl. Kayu Tinggi
 SMA Negeri 11 Batam
@@ -1145,7 +1145,7 @@ Orange County Blue Stars
 SDN Cibubur 01 Pagi
 U.S. Cremonese
 SD DCB Palad
-Bolsas y Mercados EspaÒoles
+Bolsas y Mercados Espa√±oles
 Universitas Edinburgh
 SMK-SPP Tanjungsari
 SMA Negeri 8 Jakarta
@@ -1221,13 +1221,12 @@ Universitas KwaZulu-Natal
 Liga Conference Wilayah Utara Inggris
 SMP Negeri 4 Malang
 Freescale Semiconductor
-Asia
 Villarreal CF
 SD Al Falah
 S.S. Manfredonia
 Daimler AG
 SD Tunas Baru
-Havnar BÛltfelag
+Havnar B√≥ltfelag
 SMK PGRI Wlingi
 U.S. Fermana
 SD Negeri Alasombo 01
@@ -1238,7 +1237,7 @@ SMP Negeri 13 Semarang
 Modena F.C.
 SD Negeri 5 Cranggang
 Universitas Satyagama
-FC NordsjÊlland
+FC Nordsj√¶lland
 Universitas Muhammadiyah Gorontalo
 SMA Negeri 1 Depok
 STIKES Katolik St. Vincentius a Paulo Surabaya
@@ -1271,7 +1270,7 @@ SMP Negeri 1 Lamongan
 SMA Negeri 9 Medan
 MIS Raudlatul Falah
 SMKN 1 Paringin
-UE Sant Juli‡
+UE Sant Juli√†
 SDN Pondok Bambu 07 Pagi
 SDN Jatinegara Kaum 06 Pagi
 Derby County F.C.
@@ -1308,15 +1307,15 @@ SDN Kalisari 06
 SDN Cipinang Besar Utara 10
 SDN Klender 01 Pagi
 MIS Citra Dharma
-…toile Sportive du Sahel
+√âtoile Sportive du Sahel
 Universitas Sjakhyakirti
 SDN Cibubur 10 Pagi
 SD Negeri 3 Japan
-Campeonato Brasileiro SÈrie C
+Campeonato Brasileiro S√©rie C
 MIS Al Amin Karpus
 Watford F.C.
 Universitas Guru Gobind Singh Indraprastha
-C.S. MarÌtimo
+C.S. Mar√≠timo
 PSKS Krakatau Steel
 SMA Negeri 2 Bantul
 Universitas Cambridge
@@ -1365,7 +1364,7 @@ MA Negeri 9 Jakarta
 Pribadi Bilingual Boarding School Depok
 SD Negeri Kleco I
 SMA Negeri 5 Banjarmasin
-PeÒarol
+Pe√±arol
 SD Negeri 012 Bengkong
 Universitas Firenze
 SDN Malaka Jaya 03
@@ -1380,7 +1379,7 @@ A.S.D. Chiavari Calcio Caperana
 SMA Negeri 1 Lhokseumawe
 SMA Negeri 1 Wonosari
 Pondok Pesantren Sidogiri
-Institut Teknologi Konfederasi Z¸rich
+Institut Teknologi Konfederasi Z√ºrich
 Universitas Stockholm
 SMP Tarsisius Vireta Tangerang
 Netcars
@@ -1390,7 +1389,7 @@ MIS Ruhul Ulum
 Institut Sains Weizmann
 SDN Jati 08
 SMA Negeri 15 Batam
-AtlÈtico Nacional
+Atl√©tico Nacional
 SMA Negeri 2 Jakarta
 SMK Eppata
 IKIP PGRI Madiun
@@ -1437,7 +1436,7 @@ Institut Teknologi Sumatera
 Persijap Jepara
 Universitas Islam Sumatera Barat
 Persbul Buol
-Clube AtlÈtico Mineiro
+Clube Atl√©tico Mineiro
 FC Karpaty Lviv
 Uni Sepeda Internasional
 Universitas Janabadra
@@ -1505,12 +1504,12 @@ Universitas Donghua
 SMA Negeri 10 Makassar
 SDN Dukuh 08 Pagi
 Lille OSC
-Neuch‚tel Xamax
+Neuch√¢tel Xamax
 Partai Demokrasi Kebangsaan
 The Grace
 Meistriliiga
 SDN Jatinegara Kaum 11 Pagi
-TelefÛnica
+Telef√≥nica
 SD Negeri 004 Sagulung
 SD Negeri 006 Nongsa
 SD Karya Mulya
@@ -1537,7 +1536,7 @@ SMA Negeri 1 Curup
 SMK Muhamadiyah Kramat
 SMA Negeri 1 Cikalongwetan
 Universitas Suryadarma
-⁄jpest FC
+√öjpest FC
 SD Negeri Tunggulsari II
 Agrani Bank
 Persika Karawang
@@ -1562,7 +1561,7 @@ SD Negeri 005 Bengkong
 SDN Cawang 08
 SDN Cipinang Muara 17
 Sekolah Djuwita Batam
-SwissÙtel
+Swiss√¥tel
 UE Santa Coloma
 SMA Negeri 1 Sutojayan
 SMA Negeri 1 Bukittinggi
@@ -1606,7 +1605,7 @@ Mahanagar Telephone Nigam Limited
 C.F. Estrela da Amadora
 SMA Negeri 13 Bandar Lampung
 Innerbeauty
-Lillestr¯m S.K.
+Lillestr√∏m S.K.
 Politeknik Informatika Del
 FK Zeta
 Liga Super Denmark
@@ -1688,7 +1687,7 @@ SMP Negeri 3 Padang
 1. FC Union Berlin
 TK Tarsisius Vireta Tangerang
 SDN Cipinang Besar Utara 07
-FC BanÌk Ostrava
+FC Ban√≠k Ostrava
 CA Osasuna
 Radio PPI Dunia
 Skype Technologies
@@ -1911,12 +1910,12 @@ SDS Bakti
 SMA Negeri 1 Kota Ternate
 SMP Islam Nurul Amanatul Haq
 SD Negeri 3 Pasuruhan Kidul
-Rot-Weiﬂ Oberhausen
+Rot-Wei√ü Oberhausen
 SD Ibnu Sina 02 Kabil
 UniCredit
 EHC Norad
 SD Strada Dipamarga
-VitÛria S.C.
+Vit√≥ria S.C.
 SMA Negeri Unggulan Mohammad Husni Thamrin Jakarta
 SMA Negeri 8 Tangerang Selatan
 SDN Cipinang 03 Pagi
@@ -1945,7 +1944,7 @@ PS Bangka
 MIN Duren Sawit
 Komite Internasional Palang Merah
 A.S.D. Cittanova Interpiana Calcio
-Tonnerre YaoundÈ
+Tonnerre Yaound√©
 Camaiore Calcio A.S.D.
 SMP Negeri 88 Jakarta
 Partai Nasionalis Bangladesh
@@ -1989,7 +1988,7 @@ SMA Negeri 1 Tangerang Selatan
 SMA Negeri 13 Jakarta
 SD Al - Kaffah
 SD Negeri Begalon I
-Uni„o S„o Jo„o Esporte Clube
+Uni√£o S√£o Jo√£o Esporte Clube
 SMP Negeri 4 Tulakan
 SD Negeri Mangkubumen Kidul
 Universitas Sultan Mahesa
@@ -2028,7 +2027,7 @@ Roman F.C.
 SMP Negeri 41 Batam
 SMPLB Abdi Gumelar, Jl. Swadaya
 SD Islam Al-Azhar 27
-A.S.D. Citt‡ di Giulianova 1924
+A.S.D. Citt√† di Giulianova 1924
 SMP Negeri 2 Pekanbaru
 SMA Negeri 4 Samarinda
 SD Bhakti
@@ -2085,7 +2084,7 @@ FC Sibir Novosibirsk
 Los Angeles Galaxy
 SMP Negeri 20 Makassar
 Petang
-GrÍmio Esportivo Brasil
+Gr√™mio Esportivo Brasil
 Universitas Ferrara
 PFC CSKA Moskwa
 Persigar Garut
@@ -2106,7 +2105,7 @@ SMA Negeri 3 Bontang
 Sekolah Pertanian Pembangunan Negeri Kupang
 SDN Cakung Barat 01 Pagi
 Odense Boldklub
-Deportivo de La CoruÒa
+Deportivo de La Coru√±a
 MIS Hikmatul Husnaa
 Universitas Bina Nusantara
 Rotor
@@ -2125,7 +2124,7 @@ SMP Negeri 1 Samarinda
 SD Baitul Iman
 Sekolah Tinggi Penyuluhan Pertanian Bogor
 FK Vojvodina
-FK Mlad· Boleslav
+FK Mlad√° Boleslav
 SD Negeri 013 Sagulung
 SD Muhammadiyah
 Universitas Pisa
@@ -2143,7 +2142,7 @@ Candy
 SDN Cakung Barat 18 Petang
 SMA Negeri 4 Blitar
 Universitas Bangka Belitung
-AtlÈtico Clube Goianiense
+Atl√©tico Clube Goianiense
 MIN Pekuncen
 Dresdner Kleinwort
 A.S.D. Nuova Pro Sesto
@@ -2190,7 +2189,7 @@ Pondok Pesantren Matholi'ul Anwar
 SMP Indonesia Baru
 SD Negeri 4 Besito
 SMP Negeri 1 Bengkulu
-Gimn‡stic de Tarragona
+Gimn√†stic de Tarragona
 Fakultas Kedokteran Universitas Mulawarman
 SD YPK Wijaya
 FC Groningen
@@ -2205,7 +2204,7 @@ SMK Negeri 3 Gorontalo
 Persikabumi Kabupaten Sukabumi
 Universitas Greenland
 One Night Only
-Club Deportivo Universidad CatÛlica
+Club Deportivo Universidad Cat√≥lica
 SDN Cakung Timur 02 Pagi
 SD Negeri Begalon II
 SD Negeri 003 Batu Aji
@@ -2267,7 +2266,7 @@ Universitas Ia?i
 SDI Jerapah Kecil
 SMA Negeri 81 Jakarta
 Miss Teen USA
-Universitas Paris 1 PanthÈon-Sorbonne
+Universitas Paris 1 Panth√©on-Sorbonne
 A.C.D. Trissino-Valdagno
 SD Negeri 006 Sagulung
 Mr Gay World
@@ -2369,7 +2368,7 @@ A.C. Voghera
 SMA Negeri 7 Bogor
 SMA Damai Jakarta
 Kickers Offenbach
-SociÈtÈ Bic
+Soci√©t√© Bic
 SsangYong
 Institut Dirosat Islamiyah Al-Amien
 SDN Klender 17
@@ -2539,7 +2538,7 @@ SMA Negeri 1 Purworejo
 A.C. Bastia 1924
 SD Negeri 4 Pasuruhan Lor
 SMP Negeri 15 Jakarta
-??ng T‚m Long An F.C.
+??ng T√¢m Long An F.C.
 SD Negeri 3 Jurang
 MIN Kawistolegi Karanggeneng
 SMP Negeri 191 Jakarta
@@ -2586,7 +2585,7 @@ FC Sibir-2 Novosibirsk
 Solo FC
 SMA Negeri 13 Medan
 Queens Park Rangers F.C.
-Club AtlÈtico VÈlez S·rsfield
+Club Atl√©tico V√©lez S√°rsfield
 SD Negeri 7 Bulungkulon
 Sony Mobile Communications
 Likud
@@ -2685,7 +2684,7 @@ Gainax
 FC Lorient
 Sekolah Tinggi Agama Kristen Negeri Palangka Raya
 Sekolah Tinggi Teologi HKBP Pematangsiantar
-FenerbahÁe S.K.
+Fenerbah√ße S.K.
 Partai Nasional Indonesia Marhaenisme
 Liga Utama Rusia
 SD Negeri 5 Pasuruhan Lor
@@ -2747,14 +2746,14 @@ Yeovil Town F.C.
 SDS Al Aziz
 SMP Negeri 16 Semarang
 SD Negeri 5 Lau
-IFK Gˆteborg
+IFK G√∂teborg
 SD Negeri 6 Ciputat
 Lollipop
 Universitas Terbuka
-AS Saint-…tienne
+AS Saint-√âtienne
 Mito Hollyhock
 Universitas Arizona
-B36 TÛrshavn
+B36 T√≥rshavn
 China CITIC Bank
 SMA Negeri 5 Jambi
 SMA Negeri 4 Denpasar
@@ -2762,7 +2761,7 @@ SMA Negeri 1 Muaro Jambi
 SMA Islam Dwiwarna Bogor
 Universitas PGRI Palangka Raya
 Tengkorak
-HÈrcules CF
+H√©rcules CF
 Ternana Calcio
 Universitas Setia Budi
 SD Juan Harapan
@@ -2832,7 +2831,7 @@ SMA Negeri 1 Sragen
 Partai Syarikat Islam Indonesia
 SMA Taruna Nusantara Magelang
 Universitas Sarjanawiyata Tamansiswa
-Universitas NiccolÚ Cusano
+Universitas Niccol√≤ Cusano
 Pondok Pesantren Daarut Tauhiid
 Partai Pemuda Indonesia
 SDN Cawang 07 Pagi
@@ -2884,7 +2883,7 @@ SD Negeri 5 Klaling
 Sekolah Tinggi Manajemen Informatika dan Teknik Komputer Stikom Bali
 SD Negeri 010 Sekupang
 SMK Bina Insan Mulia
-Br¯ndby IF
+Br√∏ndby IF
 Liga Utama Irlandia Utara
 SDN Kalisari 07
 SD Negeri 3 Jati Wetan
@@ -2894,7 +2893,7 @@ SMP Negeri 2 Palangkaraya
 SMP Negeri 2 Metro
 SDLB Kembar Karya Pembangunan II
 Sunderland A.F.C.
-NK Domûale
+NK Dom≈æale
 Koalisi Nasional untuk Revolusi Suriah dan Pasukan Oposisi
 Akademi Keperawatan HKBP Balige
 SDN Dukuh 01 Pagi
@@ -2960,7 +2959,7 @@ STMIK Widya Pratama Pekalongan
 SMA Negeri 52 Jakarta
 SMA Islam PB Sudirman Bekasi
 OGC Nice
-Goi·s EC
+Goi√°s EC
 SMA Negeri 16 Palembang
 Universitas Dar es Salaam
 SMP Negeri 40 Bandung
@@ -3092,7 +3091,7 @@ SMP Negeri 1 Cikalongwetan
 SDN Cipinang Muara 16
 Deltras FC
 SMA Negeri 2 Lhokseumawe
-2. Fuﬂball-Bundesliga
+2. Fu√üball-Bundesliga
 Universitas Uppsala
 Evian Thonon Gaillard F.C.
 SMK Muhammadiyah Pekalongan
@@ -3107,7 +3106,7 @@ Universitas Antakusuma
 Persikas Subang
 Semen Padang
 SMA Katolik Setia Bhakti Ruteng
-⁄rvalsdeild
+√örvalsdeild
 Universitas Nanzan
 Universitas Illinois
 SDN Ciracas 04 Pagi
@@ -3137,7 +3136,7 @@ Sekolah Manajemen Anderson UCLA
 Cartier SA
 SMA Negeri 6 Cirebon
 Real Mataram FC
-1. FC Kˆln
+1. FC K√∂ln
 SMP Negeri 2 Blitar
 SDN Cipinang Melayu 08 Pagi
 Universitas Methodist Indonesia
@@ -3197,12 +3196,12 @@ Asosiasi Pembangunan Internasional
 SMP Negeri 4 Batam
 SMP Negeri 12 Batam
 Sekolah Tinggi Ilmu Ekonomi Prasetiya Mulya
-Ferencv·rosi TC
+Ferencv√°rosi TC
 En Avant de Guingamp
 Newcastle United Jets FC
 SMA Negeri 1 Rantepao
 Masjid Jami Al-Juman
-FC Z¸rich
+FC Z√ºrich
 MIN Brebes
 SMA Negeri 1 Pacitan
 Seongnam Ilhwa Chunma
@@ -3322,7 +3321,7 @@ SMP Negeri 284 Jakarta
 Universitas Temple
 A.S. Varese 1910
 Fulham F.C.
-Deportivo T·chira F˙tbol Club
+Deportivo T√°chira F√∫tbol Club
 SMP Qur'An Center
 Universitas Dayanu Ikhsanuddin
 SMP Putra Persada
@@ -3421,7 +3420,7 @@ SD Negeri 3 Mejobo
 Demokrat Sosial Gibraltar
 Universitas Bakrie
 SDN Cipayung 09 Petang
-Malmˆ FF
+Malm√∂ FF
 Liga Super Indonesia U-21
 SMP Kartini Batam
 Universitas Jember
@@ -3515,10 +3514,10 @@ Universitas Lakidende
 Konfederasi Bulu Tangkis Afrika
 NetApp
 MA Negeri 1 Jember
-Borussia Mˆnchengladbach
+Borussia M√∂nchengladbach
 SMP Negeri 38 Surabaya
 SMP Negeri 24 Semarang
-Albacete BalompiÈ
+Albacete Balompi√©
 SDN Cipinang Muara 14
 Partai Kedaulatan
 SMA Negeri 1 Kota Sorong
@@ -3545,7 +3544,7 @@ Divisi Utama Liga Indonesia
 Esporte Clube Bahia
 Manga
 MI Miftahus Shibyan
-GrÍmio Foot-Ball Porto Alegrense
+Gr√™mio Foot-Ball Porto Alegrense
 SD Nurul Yaqin
 SDN Bambu Apus 03
 SMK Plus Krida Utama Padalarang
@@ -3554,7 +3553,7 @@ SMP Negeri 177 Jakarta
 Akademi Keuangan dan Perbankan Riau
 Sekolah Dian Harapan Tangerang
 Universitas Nagoya
-Nemzeti Bajnoks·g I
+Nemzeti Bajnoks√°g I
 Sore
 S.M. Entertainment
 U.S. Lecce
@@ -3581,7 +3580,7 @@ SDN Lubang Buaya 16 Petang
 SMA Negeri 18 Bandung
 SD Kasih Ananda II
 SDN Cipinang Besar Utara 08
-Grasshopper Club Z¸rich
+Grasshopper Club Z√ºrich
 Institut Manajemen Telkom
 SDN Cipinang Besar Utara 02 Pt
 SMA Negeri Modal Bangsa Arun
@@ -3673,7 +3672,7 @@ SDI Annur Pulomas
 SMP Negeri 11 Surabaya
 S.S.D. Pro Sesto Calcio
 F.C. Canavese
-S„o Paulo FC
+S√£o Paulo FC
 MIS Assalafiyah
 SD Oikoumene
 Institut Seni Indonesia Denpasar
@@ -3698,7 +3697,7 @@ SMA Negeri 1 Sambungmacan
 SD Negeri Tompokersan 03
 Persiks
 Universitas Negeri Padang
-Ita˙ Unibanco
+Ita√∫ Unibanco
 SMA Santa Maria Surabaya
 SMA Negeri 5 Palu
 SDN Munjul 02 Pagi
@@ -3719,7 +3718,7 @@ SD Mutiara II
 Kayak
 Aerowisata
 Liga Utama Malaysia
-Guabir·
+Guabir√°
 SMP Negeri 22 Batam
 CR Vasco da Gama
 MIS An Nahdhatul Ilmiyah
@@ -3728,7 +3727,7 @@ SDN Bidaracina 03
 University of South Carolina
 SDIT Asy Syaakiriin
 Hapoel Bnei Sakhnin FC
-AD S„o Caetano
+AD S√£o Caetano
 SMA Negeri 4 Balikpapan
 SMP Kristen Theodore
 SD Negeri 002 Sei Panas
@@ -3784,7 +3783,7 @@ MAN Banyuwangi
 STIE Riau
 SMA Negeri 2 Padang
 Veikkausliiga
-FC Sochaux-MontbÈliard
+FC Sochaux-Montb√©liard
 Liga Utara Inggris
 Akademi Perikanan Kalinyamat
 Bank Dunia
@@ -3822,7 +3821,7 @@ Badan Penerbit Kristen Gunung Mulia
 Persipasi Bekasi
 SMP Negeri 1 Banyuwangi
 SMP Negeri 7 Batam
-MKE Ankarag¸c¸
+MKE Ankarag√ºc√º
 SD Negeri 4 Kesambi
 Hapoel Tel Aviv F.C.
 SMA Negeri 4 Pekanbaru
@@ -3854,7 +3853,7 @@ Union Bank N.A.
 MIN Glesungrejo
 SMA Negeri 1 Lahat
 Politeknik Negeri Banjarmasin
-Fuﬂball-Bundesliga
+Fu√üball-Bundesliga
 Tim Hortons
 Persik Kendal
 SMA Negeri 1 Bandung
@@ -3877,7 +3876,7 @@ SMP Negeri 2 Makassar
 SD Yos Anugerah
 Universitas Duisburg-Essen
 SMP Negeri 3 Bukittinggi
-RaidiÛ TeilifÌs …ireann
+Raidi√≥ Teilif√≠s √âireann
 Sekolah Tinggi Manajemen Infomatika dan Teknik Komputer Surabaya
 SMA Negeri 1 Samarinda
 SDN Cipinang Cempedak 02
@@ -3975,7 +3974,7 @@ Kongres Dayak Malaysia
 Universitas Presiden
 Death
 SMA Negeri 1 Semarang
-AssociaÁ„o Portuguesa de Desportos
+Associa√ß√£o Portuguesa de Desportos
 SD Negeri 009 Sekupang
 SMA Negeri 6 Pekanbaru
 SMP Negeri 199 Jakarta
@@ -4062,7 +4061,7 @@ SD Negeri 015 Belakang Padang
 FC Krylia Sovetov Samara
 Valencia CF
 Uni Timor Aswa'in
-GÛrnik Zabrze
+G√≥rnik Zabrze
 SMA Negeri 1 Tabanan
 Persekap Pasuruan
 MIS Al Wathoniyah Pusat Pagi
@@ -4088,10 +4087,10 @@ Universitas Bengkulu
 Institut Teknologi Medan
 K.R.C. Genk
 F.C. Copenhagen
-Sporting de GijÛn
+Sporting de Gij√≥n
 SMA Negeri 1 Bajawa
 SDN Kebon Pala 01 Pagi
-C.F. AmÈrica
+C.F. Am√©rica
 SD Negeri 3 Temulus
 General Dynamics
 Persikoba Batu
@@ -4121,7 +4120,7 @@ Universitas Warsawa
 SDN Cipinang Cempedak 06
 Universitas Ibn Khaldun Bogor
 Universitas Mahaputra Muhammad Yamin
-BÏnh D??ng F.C.
+B√¨nh D??ng F.C.
 Liga Conference Nasional Inggris
 SD Harapan Yobel
 SMP Miftahul Iman Bandung
@@ -4134,7 +4133,7 @@ Bukit Asam
 SMA Negeri 1 Banyuwangi
 De Graafschap
 SD Negeri 007 Belakang Padang
-NescafÈ
+Nescaf√©
 Apple Pie
 SD Strada Van Lith II
 SD Negeri 002 Bengkong
@@ -4155,7 +4154,7 @@ SMA Negeri 1 Towuti
 SMA Negeri 1 Malili
 SD Negeri Sondakan
 PSV Eindhoven
-Club AtlÈtico River Plate
+Club Atl√©tico River Plate
 Bulu Tangkis Pan Am
 Puebla FC
 SD Negeri 3 Undaan Kidul
@@ -4170,7 +4169,7 @@ Institut Teknologi Sepuluh Nopember
 SDN Cipinang Muara 05
 FK Ventspils
 Pabrik Degtyarev
-Fuﬂball-Regionalliga
+Fu√üball-Regionalliga
 FC Tokyo
 Montpellier HSC
 SDN Lubang Buaya 02 Petang
@@ -4221,7 +4220,7 @@ SMP Negeri 2 Denpasar
 SD Negeri 7 Gondosari
 Liga Utama Skotlandia
 Eintracht Braunschweig
-M·laga CF
+M√°laga CF
 SMA Negeri 3 Madiun
 SD Santo Yosep Purwokerto
 Universitas Tribhuwana Tungga Dewi
@@ -4235,7 +4234,7 @@ SMP Marsudirini Maria Immaculata Jakarta
 SMA Negeri 4 Malang
 SMA Negeri 16 Makassar
 Viking FK
-Clube N·utico Capibaribe
+Clube N√°utico Capibaribe
 Commerzbank
 SDN Pondok Kelapa 08 Petang
 Partai Keadilan Sejahtera
@@ -4333,7 +4332,7 @@ Likud Yisrael Beiteinu
 Enyimba International F.C.
 Miss Earth
 SDN Batu Ampar 06 Pagi
-U.S. Citt‡ di Palermo
+U.S. Citt√† di Palermo
 SDN Balekambang 03 Pagi
 Universitas Komputer Magway
 Bank of America
@@ -4389,7 +4388,7 @@ SMA Negeri 10 Pontianak
 Lamborghini
 SMA Negeri 9 Batam
 SMP Negeri 20 Batam
-F.C. S¸dtirol-Alto Adige
+F.C. S√ºdtirol-Alto Adige
 SDIT Darul Hikmah
 SD Negeri Kayuapu
 SMA Don Bosco Padang
@@ -4429,7 +4428,7 @@ Bank Mandiri
 Persiram Raja Ampat
 SMA Negeri 5 Batam
 Partai Suara Independen Rakyat Aceh
-AmÈrica de Cali
+Am√©rica de Cali
 Sekolah Tinggi Akuntansi Negara
 SD Negeri 3 Jati Kulon
 SDN Cibubur 08 Petang
@@ -4442,7 +4441,7 @@ SMA Negeri 1 Banda Aceh
 F.C. Esperia Viareggio
 SMA Negeri 109 Jakarta
 SMA Negeri 16 Semarang
-äkoda Auto
+≈†koda Auto
 SDN Ciracas 02 Petang
 MIS Al Wathoniyah 51
 SMA Negeri 12 Bandung
@@ -4522,7 +4521,7 @@ SDN Pondok Bambu 05
 Rovio Entertainment
 FC Kavkaztransgaz-2005 Ryzdvyany
 F.C. Treviso
-Troms¯ IL
+Troms√∏ IL
 Program Akuntansi Pajak Universitas Kristen Petra
 Sekolah Tinggi Teologi Gereja Kalimantan Evangelis
 SMK Negeri 4 Malang
@@ -4605,7 +4604,7 @@ FK Partizan
 SMA Negeri 15 Jakarta
 SMA Santa Maria Pekanbaru
 SMP Negeri 2 Manado
-Club AtlÈtico Lan˙s
+Club Atl√©tico Lan√∫s
 Wings
 Yayasan Perguruan Santo Bellarminus
 Albert Einstein College of Medicine
@@ -4660,12 +4659,12 @@ Colorado Rapids
 SMA Negeri 20 Bandung
 STAIN Palopo
 SDN Ciracas 10 Pagi
-Sandon‡JesoloCalcio
+Sandon√†JesoloCalcio
 Koyote
 SMP Negeri 2 Malang
 MIS Ar Rahmah, Jl. Kelapa Dua
 SMA Negeri 5 Manado
-KnattspyrnufÈlagi Valur
+Knattspyrnuf√©lagi√∞ Valur
 Kolese Kanisius
 Universitas Columbia
 SMP Ibnu Sina Batam
@@ -5034,14 +5033,14 @@ SMP Al-Iman Parakan
 SMP Negeri 1 Garut
 SD Laboratorium Jakarta
 SMA Negeri Binaan Khusus Dumai
-Crici˙ma Esporte Clube
+Crici√∫ma Esporte Clube
 Partai Pesaka Bumiputera Bersatu
 Universitas Teknologi Sulawesi Makasar
 SMP Negeri 30 Surabaya
 SMP Negeri 21 Malang
 Persik Kediri
 Persiko Kotabaru
-TSV 1860 M¸nchen
+TSV 1860 M√ºnchen
 MIS Nurul Hidayah
 PSCS Cilacap
 PFC CSKA Sofia
@@ -5083,7 +5082,7 @@ A.C. Giacomense
 Seminari Alkitab Asia Tenggara
 S.S.D. Sporting Lucchese
 SMA Negeri 1 Gunungsitoli
-1. FC N¸rnberg
+1. FC N√ºrnberg
 SDI Favorit Assalafy
 SMA Negeri 18 Surabaya
 Port Authority of New York and New Jersey
@@ -5126,7 +5125,7 @@ Geoctroyeerde Westindische Compagnie
 SD Negeri 3 Bulung Kulon
 PFC Ludogorets Razgrad
 Front Pembela Islam
-NSÕ RunavÌk
+NS√ç Runav√≠k
 SD Negeri Bratan II
 A.T. Kearney
 Universitas Kadiri
@@ -5149,7 +5148,7 @@ Universitas Amerika di Beirut
 MI Bustanul Ulum Kota Batu
 SMP Negeri 1 Kupang
 SMP Negeri 13 Batam
-Paran· Clube
+Paran√° Clube
 SMA Negeri 8 Bandar Lampung
 SMA Negeri 1 Ketapang
 FC Piter Saint Petersburg
@@ -5198,12 +5197,12 @@ STISIP Panca Bhakti Palu
 Beijing Guoan Talent Singapore FC
 Eu Yan Sang
 SMP Tunas Baru Jin-Seung
-MäK éilina
+M≈†K ≈Ωilina
 SC Heerenveen
 Middlesbrough F.C.
 MIT Sloan School of Management
 SDI Alhayatiddiniyah
-Campeonato Brasileiro SÈrie B
+Campeonato Brasileiro S√©rie B
 SMA Negeri 2 Ambon
 Jaguar
 FK Crvena Zvezda
@@ -5216,7 +5215,7 @@ Torquay United F.C.
 SMP Negeri 1 Manokwari
 SMP Negeri 1 Mataram
 SD Negeri 002 Sei Beduk
-F.C. PaÁos de Ferreira
+F.C. Pa√ßos de Ferreira
 Sekolah Tinggi Teknik-PLN
 FC Seoul
 SMP Negeri 1 Denpasar
@@ -5336,7 +5335,7 @@ Madrasah Aliyah Al-Ihwan Cikalongwetan
 SD Sevilla
 Universitas Milano
 Liga Deportiva Universitaria
-EspÈrance Sportive de Tunis
+Esp√©rance Sportive de Tunis
 FC Irtysh Pavlodar
 FC Daugava
 SDN Cipinang Besar Selatan 01 Pagi
@@ -5348,7 +5347,7 @@ A.S.D. Sulmona Calcio
 Ran
 SMA Negeri 11 Pekanbaru
 Hugo Boss
-Club AtlÈtico Tigre
+Club Atl√©tico Tigre
 SDI At Taubah
 SD Negeri Nganguk
 SMA Negeri 1 Dompu
@@ -5369,7 +5368,7 @@ SMA Negeri 1 Kendari
 Amuse
 York City F.C.
 SDI Nurul Iman Pondok Bambu
-3. Fuﬂball-Liga
+3. Fu√üball-Liga
 Cagliari Calcio
 SD Negeri 4 Loram Wetan
 SDN Kebon Pala 02 Pagi
@@ -5439,7 +5438,7 @@ SMK Negeri 6 Bekasi
 STAIN Sultan Sulaiman
 PSLS Lhokseumawe
 SMP Negeri 24 Bekasi
-Universitas WisconsinñMadison
+Universitas Wisconsin‚ÄìMadison
 S.S. Lazio  SpA  1
 SMA Negeri 7 Samarinda
 SD Al-Washliyah
@@ -5732,7 +5731,7 @@ Sassari Torres 1903
 MI Rabiah Al Adawiyah
 Skonto FC
 FC Twente
-Campeonato Brasileiro SÈrie A
+Campeonato Brasileiro S√©rie A
 Kashiwa Reysol
 C.F. Monterrey
 Taco Bell
@@ -5760,7 +5759,7 @@ Persip Kota Pekalongan
 A.S. Avellino 1912
 SD Islam Integral Luqman Al Hakim
 SD Fajar Illahi
-Deportivo AlavÈs
+Deportivo Alav√©s
 SD Al Ikhlash, Jl. Masjid Al Muqorrobin
 Molde FK
 MIN Plosorejo Banjarejo
@@ -5803,7 +5802,7 @@ Calcio Catania
 SD Negeri 3 Kirig
 Sekolah Tinggi Teologi Sabaidah Siborongborong
 SMA Negeri 1 Bekasi
-A.S.D. NardÚ Calcio
+A.S.D. Nard√≤ Calcio
 SD Negeri 001 Bengkong
 Partai Katolik Demokrat
 Persatuan Islam
@@ -5890,14 +5889,14 @@ SD Negeri 4 Medini
 MA Negeri 3 Kediri
 SDI Al-Azhar 19, Jakarta Timur
 SMA Negeri 14 Palembang
-FC Bayern M¸nchen
+FC Bayern M√ºnchen
 SMP Negeri 10 Medan
 Sparta Praha
 Aston Villa F.C.
 Organisasi Amatir Radio Indonesia
 Ares
 SMP Negeri 7 Semarang
-UD AlmerÌa
+UD Almer√≠a
 U.S. Castelnuovo Garfagnana
 Universitas Jenderal Achmad Yani
 SD Mujahidin
@@ -5918,7 +5917,7 @@ SD Negeri 3 Undaan Tengah
 SD Negeri 4 Panjunan
 Novotel
 SMP Negeri 2 Bandung
-Caracas F˙tbol Club
+Caracas F√∫tbol Club
 SDN Pondok Kelapa 07 Pagi
 SMA Negeri 7 Depok
 SMP Negeri 102 Jakarta

@@ -23,8 +23,10 @@ from ner_ika import writeListofStringToFile
 ##########################################################################
 
 #set the input and output file
-input = "input.txt"
+
 folder = "dbpedia-new/original/"
+#input = "dbpedia-new/cleansing/nyoba.txt"
+input = "input.txt"
 output1 = folder + "person.txt"
 output2 = folder + "place.txt"
 output3 = folder + "organization.txt"
@@ -48,7 +50,8 @@ for k in flines:
         dataValue = arrValue[len(arrValue) - 1]
         if (dataType[:-1] == "Person")  and (arrType[2]=="dbpedia.org"):
             x = codecs.decode(dataValue[:-1], 'unicode_escape')
-            
+            #x = dataValue[:-1]
+             
             # if count==90:
             #     print(x.replace('_',' '))
             newListPerson.append(x.replace('_',' '))

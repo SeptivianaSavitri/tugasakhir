@@ -1,5 +1,5 @@
 ####################################################################################
-# PersonValidate.py
+# PlaceValidate.py
 # @Author: Septiviana Savitri
 # @Last update: 28 Februari 2017
 # Fasilkom Universitas Indonesia
@@ -28,11 +28,14 @@ from ner_ika import writeListofStringToFile
 ##########################################################################
 
 #set the input and output file
-input = "dbpedia-new/expanded/person.txt"
+input = "dbpedia-new/expanded/place.txt"
+inputOrg = "dbpedia-new/expanded/organization.txt"
 
 folder = "dbpedia-new/validate/"
-output = folder + "person.txt"
-outputtmp = folder + "tmp.txt"
+output = folder + "place.txt"
+outputOrg = folder + "organization.txt"
+outputtmp = folder + "tmpplace.txt"
+outputtmpOrg = folder + "tmporg.txt"
 nltk_data = "dbpedia-new/nltk_clean.txt"
 kebi_data = "dbpedia-new/kebi_clean.txt"
 dictKebi = []
@@ -56,17 +59,14 @@ def buatKamus(dict, fileKata):
 
 inputFile = open(input, 'r', errors='ignore')
 flines = inputFile.readlines()
-dictPerson = {}
+dictPlace = {}
 dictTmp = {}
 
 dictNLTK = buatKamus(dictNLTK, nltk_data)
 
 dictKebi = buatKamus(dictKebi, kebi_data)
-ROMAWI = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
-             "XI", "XII", "XIII", "XIV",
-             "XX", "XXX"]
+# print(diKamus("Arab",dictKebi))
 count = 1
-print(diKamus("Superman",dictNLTK ))
 for k in flines:
     k= k.replace("\n","")
     #Jika nama ada di kebi
@@ -78,18 +78,28 @@ for k in flines:
 
     elif(len(k) <2):
         dictTmp[k] = k
-    elif(k in ROMAWI):
-        dictTmp[k] = k
     else:
-        dictPerson[k] = k
+        dictPlace[k] = k
 inputFile.close()
 
+data1 = open("dbpedia-new/original/listNegara.txt", "r")
+data2 = "dbpedia-new/original/listNegaraWrite.txt"
+place = {}
+dataBaca = data1.readlines()
+for data in dataBaca:
+    place[data] = data
 
+writeDictToFile(place,data2)
 
-writeDictToFile(dictPerson, output)
+for placeLine in place:
+    dictPlace[placeLine] = placeLine
 
+writeDictToFile(dictPlace, output)
 writeDictToFile(dictTmp, outputtmp)
-#writeListofStringToFile(newListTmp, outputtmp)
+
+
+
+
 
 
 

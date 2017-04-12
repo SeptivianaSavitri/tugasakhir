@@ -1,0 +1,264 @@
+1. install nltk dari python
+2. language detection tool dalam java
+3. target sampai step 7
+
+studi literatur : SIM, SIL, ELSEFIER, IEEE
+
+
+1. Get the wikipedia dump
+Source : https://dumps.wikimedia.org/idwiki/latest/
+Data yang dipilih : idwiki-20170120-pages-articles-multistream.xml
+
+2. Use WikiExtractor.py to get content of Wikipedia dump
+Source code : https://github.com/attardi/wikiextractor
+Syntax : python WikiExtractor.py idwiki-20170120-pages-articles-multistream.xml -b 500K -o extracted
+Input : idwiki-20170120-pages-articles-multistream.xml
+Output : Folder extracted yang berisi folder AA....ZZ dengan setiap folder berisi maksimal 100 data.
+
+3. Use Data1_ArticleAndParagraphSelector.py to get list of paragraphs that certain criterias for each folder from step 2
+Fungsi : menghitung paragraf yang bakal diambil dan juga ngebersihin tag dari wiki. 
+input : wikitext/AA/ ->isi nya ada wiki_00 sampai wiki_99 () data yang jumlahnya 100 (or less) yang uda diproses WikiExtractor). 
+output: data/training/prep/paragraphs_test.txt  ->  list of paragraf yang sudah bersih dari tag html
+
+4. Use Data2_FileCombiner.py to combine all files resulted from step 3
+Fungsi : menggabungkan file file output langkah 3 (kan bisa AA ... ZZ) untuk dijadikan satu file
+Input  : output langkah 3 untuk file-file berbeda (jumlah file bebas).
+output : data/training/prep/allParagraphs.txt  ->  satu file hasil penggabungan biar lebih ringkas.
+
+
+5. Use Data3_SentencerNltk/py to extract sentences from step 4
+Requirement : Python 3.5, NLTK , NLTK Data
+Fungsi		: Dari list of paragraph diubah menjadi list of sentences (memotong paragraf menjadi kalimat dengan bantuan NLTK).
+input       : data/training/prep/allParagraphs.txt -? list of paragraphs
+output      : data/training/prep/allSentences.txt -> list of sentences hasil pecahan paragraf file input.
+
+
+6. Use Data4_SentencesFilter.py to filter sentences that meet certain criterias
+Fungsi 	 : Memilih kalimat yang sesuai dengan kriteria.
+Kriteria : Suatu kalimat dipilih jika memenuhi -> Terdiri dari minimal 15 kata, Mengandung minimal 5 huruf kapital, Diakhiri oleh titik (akhir kalimat).
+Input    : data/training/prep/allSentences.txt
+Output   : data/training/prep/all_good_sentences1.txt -> list of sentences yang sesuai kriteria.
+
+7. Use Data5_IndoDetector.java to filter non Indonesian language
+Requirement : https://github.com/shuyo/language-detection (Language Detection Tool), https://osdn.net/projects/jsonic/devel/ (bundle jsonic)
+Fungsi : Memilih kalimat yang menggunakan Bahasa Indonesia saja.
+input  : data/training/prep/all_good_sentences1.txt 
+output : data/training/prep/all_ID_sentences.txt -> list of sentences yang berisi kalimat berbahasa Indonesia.
+
+8. Use Data6_FileSplitter.py to split file from step 7, so that each file contains certain number of sentences
+Fungsi : Membagi keseluruhan list of sentences kedalam file berbeda dengan -n jumlah kalimat per file.
+Input  : data/training/prep/all_ID_sentences.txt
+Output : data/training/prep/ID_sentences1_xx , dimana xx mulai dari 00 - n, sesuai jumlah kalimat.
+
+9. Use Stanford NER library to format each file in step 8
+Source : http://nlp.stanford.edu/software/CRF-NER.shtml#Download
+code   : java -cp stanford-ner.jar edu.stanford.nlp.process.PTBTokenizer [file_input] > [file_output]
+Fungsi : Membuat setiap baris hanya terdapat 1 kata (token)
+Input  : data/training/prep/ID_sentences1_xx
+Output : data/training/prep/ID_formatted1_xx, dimana xx mulai dari 00 - n, menyesuaikan ID_sentences1_xx.
+ 
+10. Use NERIka_Tagger to automatically tag the data set
+input 	: data/training/prep/ID_formatted1_xx
+Output  : data/training/ready/ID_tagged1_xx, dimana xx mulai dari 00 - n, menyesuaikan ID_formatted1_xx.
+
+
+Update untuk python 3 yang ditemukan di program:
+	- not equal bukan lagi <> melainkan !=
+	- untuk print, harus pakai kurung print (var)
+	- perubahan untuk i/o (dikarenakan pesan error sering muncul dengan alasan unicode, maka untuk i/o pesan error dapat direplace dengan cara menambah  errors='replace' pada proses open file) Contoh : inputFile = open(input, "r", errors='replace')
+	- tidak perlu menambahkan .encode dan .decode
+
+	-----------------------------------------------------------------------------------------------------------------
+
+Update 13 Februari 2017
+	1. Task : Familiar dengan Stamford NER, jalanin demonya. Ubah kalimat jadi bentuk yang sesuai. Lihat file yang disebut di faq. Bisa ubah kalimat jadi token token.
+	Already done :
+	 - Download Download Stanford Named Entity Recognizer version 3.7.0  (http://nlp.stanford.edu/software/CRF-NER.shtml#Download)
+	 - Mempelajari demo dari Stanford NER
+	 	code : ner [nama_file]
+	 		   versi panjangnya : java -mx600m -cp "*;lib\*" edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz -textFile [nama_file]
+	  	Fungsi : untuk mengklasifikasi setiap kata di paragraf, apakah mengandung NER atau tidak (dalam bahasa Inggris)
+	  	*jika ingin menyimpan hasil NER, gunakan command : ner [nama_file_input] > [nama_file_output]
+
+
+	 	code : java -cp stanford-ner.jar edu.stanford.nlp.process.PTBTokenizer [file_input] > [file_output]
+	 	Fungsi : Memotong tiap satu baris hanya terdiri satu kata (token).
+
+	 Setelah data dipotong oleh Stanford NER (langkah 9), maka jadikan file yang sudah dalam bentuk token sebagai input untuk program NERIka_Tagger.py (langkah 10) lalu akan keluar file output yang sudah diberi label.
+
+	 Langkah dari README.txt (progress) :
+		9. Use Stanford NER library to format each file in step 8
+		Source : http://nlp.stanford.edu/software/CRF-NER.shtml#Download
+		code   : java -cp stanford-ner.jar edu.stanford.nlp.process.PTBTokenizer [file_input] > [file_output]
+		Fungsi : Membuat setiap baris hanya terdapat 1 kata (token)
+		Input  : data/training/prep/ID_sentences1_xx
+		Output : data/training/prep/ID_formatted1_xx, dimana xx mulai dari 00 - n, menyesuaikan ID_sentences1_xx.
+		 
+		10. Use NERIka_Tagger to automatically tag the data set
+		input 	: data/training/prep/ID_formatted1_xx
+		Output  : data/training/ready/ID_tagged1_xx, dimana xx mulai dari 00 - n, menyesuaikan ID_formatted1_xx.
+
+
+	2. DBPedia : potong potong
+	Informasi tambahan : Type di DBPedia itu Organisation, bukan organization.
+	---->Program sudah jadi. Input : text rdf dari DBPedia
+							 Output: 3 file (person.txt , organization.txt, place.txt)
+
+
+--------------------------------------------------------------------------------------------------------------
+
+Progress Tanggal 23 Februari 
+Task :
+1. Ulang eksperimen seperti pada paper
+How : 
+	- buat file properties seperti contoh : http://nlp.stanford.edu/software/crf-faq.html
+	- compile file properti (input : ID_tagged1_xx | output : outputmodelxx-xx.gz)
+	  java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop [nama_file_prop]
+	- test dengan data goldstandard
+      java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier outputmodelxx-xx.gz -testFile goldstandard-0811.txt
+
+Progress :
+Melakukan 13 kali percobaan dengan dataset berbeda. Hasil terbaik yang didapatkan : 
+P-total = 0.8254 (outputmodel3-01.gz)
+R-total = 0.2645 (outputmodel4.gz) 
+
+2. Buat program untuk expanded.
+Progress : 
+Menghilangkan unicode pada data ('\xxxx') menjadi simbol tertentu.
+code: 	import codecs
+		 x = codecs.decode(dataValue[:-1], 'unicode_escape')
+
+Mengganti tanda "_" dengan " "
+
+Masalah encoding : set PYTHONIOENCODING=437:replace
+
+----------------------------------------------------
+Progress 1 Maret 2017
+1. Mengulang program dengan 1000 kata, dikarenakan saat mencoba run dengan data yang jumlahnya 20000 selalu mengeluarkan java heap out of memory.
+
+2. 
+Melakukan cleansing ke data DBPedia
+Person  : 	kata mengandung (grup xxx)  dan (band) pada Person dipindahkan ke Organization
+			Terdapat 610 kata mengandung tanda kurung
+Organization: Kata yang berasal dari person yang mengandung (grup...) akan masuk ke organization
+Location	: none
+
+Melakukan normalisasi ke data DBPedia
+Person : - memisahkan nama AA bin/binti BB menjadi AA dan BB
+		 - menghapus keterangan AA dari BB, contoh : Edward V dari Inggris menjadi Edward V
+		   Ide : keterangan dibelakang kata dari bisa dipindahkan ke data Place. Namun, ternyata ada beberapa nama tempat yang sudah disediakan di data Place. 
+		 - menghapus keterangan da, do, dos, de (Penamaan Portugis)
+		 Dengan pertimbangan kata dibelakang da, do, dos, dan de tersebut adalah surname dari seseorang, maka kata tersebut juga bisa di tag menjadi Person. Maka jika menemukan : Juan Silveira dos Santos
+		 Akan mejadi Juan Silveira, Santos
+		 source : https://en.wikipedia.org/wiki/Portuguese_name
+		 - Menghapus keterangan Jr. dan Sr. Jika ditemukan Martin Luther King, Jr. akan diubah menjadi Martin Luther King Jr. dan Martin Luther King. Penghapusan koma didasarkan karena aturan tersebut sudah tidak digunakan lagi untuk penamaan di Amerika maupun Inggris.
+		 source : http://www.chicagomanualofstyle.org/qanda/data/faq/topics/Jr.Sr.III.html
+Organization : menghilangkan keterangan (xx)
+Location : menghilangkan keterangan (xx) dan memasukkan data yang didapat dari Person
+
+
+Concern : pada data nama, ternyata masih terdapat data  : Karier Barack Obama di Senat Illinois, Pemilihan Bupati dan Wakil Bupati Kabupaten Bandung Barat 2013. Solusi : mungkin hapus manual. Pada RDF DBPedia di tag sebagai berikut :
+<http://id.dbpedia.org/resource/Karier_Barack_Obama_di_Senat_Illinois><http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+
+normalized dan expended
+ulang 20000SENTENCES
+CATAT IDE: huruf latin jadi biasa.
+
+--------
+expansion dan kumpulin yang aneh, nama orang yang pake angka (taro di cleansing si I-k)
+
+------------------------------------------------------------------
+Progress 8 Maret 2017
+1. Melakukan expansion : menggunakan struktur data dictionary dengan {key : value} yang sama, jadi saat ingin memasukkan AA kedalam dictionary, akan menjadi {"AA" : "AA"}
+	-Person : Pembuatan ekspansi unigram, bigram dan trigram. Untuk nama : AA BB CC akan dipecah menjadi 6 entry, yaitu : "AA BB CC", "AA", "BB","CC", "AA BB","BB CC".
+	-Organization : Organisasi yang AA, BB dipecah jadi "AA, BB", "AA"
+		contoh unik : "Konfederasi Sepak Bola Amerika Utara, Tengah, dan Karibia" sepertinya tidak akan dipecah karena merupakan suatu kesatuan.
+	-Location : lokasi yang terpisah AA, BB dipecah tiga menjadi "AA, BB", "AA" dan "BB" 
+Penggunaan Dictionary membuat output tidak memiliki urutan. Sehingga, setiap running urutan kata yang keluar akan selalu berubah-ubah.
+
+
+perbaiki rule ekspansi place.
+perbaiki generalisasi n-gram
+cek kbbi apakah ada yang ngga valid
+mempelajari program tagging
+apa yang masih salah
+nltk kadang nyimpen nama orang
+eksplorasi isi nltk corpus english words
+
+-----------------------------------------------------------------
+Progress 15 Maret 2017
+1. Generalisasi n-gram pada Person
+	Untuk nama orang yang lebih dari 1 kata, potongan kata sampai n-gram sudah dapat di retrieve. Misal "AA BB CC" "AA BB CC", "AA", "BB","CC", "AA BB","BB CC" dengan jumlah n berapapun.
+2. Perbaiki Rule di Place
+	Rule "Aa, Bb, Cc" diubah menjadi "Aa", "Bb", dan "Cc" dengan pertimbangan di proses tagging nantinya akan terpisah oleh tanda koma.
+3. Eksplorasi isi nltk  & Kebi
+	Menemukan bahwa corpus nltk disimpan di sebuah folder nltk_data/corpora/words/en
+	Membandingkan isinya dengan data valid
+	Hal menarik : Seperti yang dikatakan Bu Ika, NLTK maupun KBBI menyimpan nama nama orang. 
+	Yang dilakukan : menghapus manual dari Kebi maupun NLTK. 
+	Concern : kadang nama belakang orang Inggris adalah kata biasa juga contoh : Park, Rose, Bloom, Weather, dll.
+4. Penggunaan Dictionary: Struktur data yang memang tidak terurut. untuk mengurutkan, dapat menggunakan sorted(d.keys()) , namun berdasar leksikografi, bukan berdasar urutan memasukkan elemen. Maka, untuk data dari cleansing sampai expanded, saya menggunakan list[] sedangkan untuk data yang sudah validated, baru dimasukkan ke dictionary untuk mempercepan pemrosesan.
+5. Membandingkan hasil tagging versi Bu Ika dengan versi baru , namun hasil masih sama. 
+
+googling tentag WSD (word sense disambiguation)
+
+---------------------------------------------
+Progress 22 Maret 2017
+
+1. Mempelajari WSD.
+Membaca beberapa literatur dan slide mengenai WSD. Namun, kebanyakan penerapan WSD digunakan untuk disambiguisasi POS Tagging (berfokus pada noun, ataupun POS secara keseluruhan) untuk mencari makna apa yang tepat untuk suatu kata yang bersifat polysemi. Contoh bass (english), memiliki makna suara dan ikan. Setelah mencari, ada subfokus yang mempelajari mengenai ambiguitas pada NER, yaitu Named Entity Disambiguation
+2. Mempelajari NED.
+Mempelajari mengenai NED dari beberapa sumber. Ada paper yang melakukan POS Tagging terlebih dahulu untuk menentukkan named entity. Named entity dalam pos tagging akan selalu menjadi Proper Noun/Noun. 
+
+
+identifikasi masalah kenapa recall, tampilkan semua ambigu dari kelas apa aja
+----------------------------------------------------------------------------------
+Progress 29 Maret
+Identifikasi masalah :
+1. Kode untuk melihat data ambigu.
+Terdapat 279 kata ambigu
+2. Kode untuk mengecek similarity 2 file.
+Beberapa perbedaan dari hasil tagging bu ika dan saya.
+3. Melihat pola kata kata yang ambigu (Untuk data ambigu Person dan Place, sudah terpikirkan untuk Place diawali kata "di", "ke", "dari". Namun, kalau Place diawal kalimat, bentuknya mirip dengan Person)
+4. Menentukkan suatu kata NER atau bukan. 
+Contoh : Britania Raya, atau Inggris Raya, adalah sebuah negara berdaulat yang terletak di lepas pantai barat laut benua Eropa. 
+Ibu, apakah Eropa dikalimat tersebut bisa termasuk NER?
+
+
+
+------------------------------------------------------------------------------
+Progress 5 April 2017
+1. Buang manual kata di person.txt
+kata : Pemilihan Bupati dan Wakil Bupati Kabupaten Bandung Barat 2013
+Karier Barack Obama di Senat Illinois
+
+2. benarkan place (s)
+membuang kata yang ada di kebi dan corpus nltk
+
+3. Membuat rule
+- Menambahkan nama kota dan negara ke dalam corpus , sumber : http://ilmupengetahuanumum.com/daftar-nama-negara-negara-di-dunia-beserta-ibukota-negara/
+- Mengurangi entri dari NLTK dan KEBI karena ternyata banyak nama orang yang terambil di KEBI (masih hanya menghapus yang diawali huruf besar saja, dan beberapa pengapusan manual)
+KEBI -> sebelum : 30217  sesudah : 29926
+NLTK -> sebelum : 235883  sesudah : 210686
+-Rule untuk kata ambigu 
+	-Implementasi di, ke dan dari untuk ambiguitas antara Person dan Place [Untuk Place dengan Organization, belum tentu bisa menggunakan rule ini].
+Sampai saat ini, hasil tagging menaikkan recall, namun menurunkan presisi (data yang digunakan masih mengikuti kemampuan laptop , hanya 1000 sentence , 31414 token)
+
+
+---------------------------------------------------------------------------
+
+Progress 12 April 2017
+1. Membandingkan hasil standford ner dengan hasil tagging
+2. Ide untuk rule Place
+	- untuk tempat yang berawalan Selat, Gunung, Sungai, Teluk, Laut, Pulau, Bukit (masih dipikirkan beberapa kata lain), jika dilanjutkan kata berhuruf kapital, maka akan di tag sebagai Place.
+	- masih ada grup (organisasi) yang tertinggal karena tidak ada keterangannya, contoh : Cherrybelle
+3. Ide untuk rule Organization
+	- Memisahkan kata Partai dengan nama partainya, misal entri : Partai Golongan Karya akan di expand menjadi Partai Golongan Karya dan Golongan Karya.
+	- list singkatan partai : https://id.wikipedia.org/wiki/Daftar_partai_politik_di_Indonesia#Pemilu_2014
+	- data masih bercampur dengan keterangan place
+		SDI Assaadah, Jl.Swakarsa, Jakarta Timur
+		ide : ingin memotong berdasar (,) maka yang diambil hanya kata pertama. Namun, jika entri sebagai berikut : Partai untuk Kasih, Kebebasan dan Keberagaman akan diberikan perlakuan khusus
+	- Untuk institusi pendidikan (SMP ,SMA, SMPN, SMAN) jika diikuti angka, maka merupakan organisasi (masih dipikirkan)
+4. Melakukan eksperimen dengan data lebih besar.
+Mencoba di beberapa komputer lain, namun running time nya cukup lama (lebih dari 3 jam) lalu hasilnya juga tidak keluar

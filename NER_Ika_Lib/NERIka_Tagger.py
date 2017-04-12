@@ -67,8 +67,8 @@ dbpedia = makeExpandedDBpediaDictionary()
 
 # set the input file
 
-folder = "newdata/training/"
-inputfile = folder + "prep/ID_formatted1_00.txt"
+folder = "data/training/"
+inputfile = folder + "prep/ID_formatted1_01.txt"
 
 # set the output file
 

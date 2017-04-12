@@ -19,7 +19,7 @@
 ####################################################################################
 
 #coding: utf8
-from ner_ika import makeExpandedDBpediaDictionary, listToString, getArticleType, writeListToFile
+from test_ner_ika import makeExpandedDBpediaDictionary, listToString, getArticleType, writeListToFile
 
 ##########################################################################
 #    Melakukan Splitting N-Gram
@@ -63,16 +63,20 @@ def nGramsIndex(aName, start):
 
 # create dbpedia version: original, expanded or normalized
 
-dbpedia = makeExpandedDBpediaDictionary()
+dbpedia, ambigu = makeExpandedDBpediaDictionary()
 
 # set the input file
 
 folder = "newdata/training/"
-inputfile = folder + "prep/ID_formatted1_00.txt"
+inputfile = "formatted-goldstandard-0811.txt"
+
+#inputfile = folder + "prep/coba.txt"
 
 # set the output file
 
-outputfile = folder + "ready/ID_tagged20k_vitri.txt"
+outputfile = folder + "ready/ID_tagged1_gs.txt"
+
+#outputfile = folder + "ready/coba.txt"
 
 
 ############################ BEGIN ###########################
@@ -129,7 +133,6 @@ while i < len(wordList):
 
         if len(tmp) == 1:
             kata = tmp[0].strip()
-
             # if kata.isupper() and len(kata) > 2:
             #     wordList[i][1] = "Organisation"
             #
@@ -137,12 +140,25 @@ while i < len(wordList):
 
             title = getArticleType(dbpedia, kata)
 
+            if kata in ambigu.keys():
+                titleAmbigu = getArticleType(ambigu,kata)
+                if titleAmbigu == "Person - Place":
+
+                    if (wordList[i-1][0] == "di") or (wordList[i-1][0] == "ke") or (wordList[i-1][0] == "dari"):
+                        
+                        wordList[i][1] = "Place"
+                        title = "Place"
+                    else: title = "O"
+                else:
+                    wordList[i][1] = "O"
+                    title = "O"
+
+
             if title is not "O":
 
                 print ("Nama Panjang 1 : " + kata + "   " + title)
-
-
                 wordList[i][1] = title
+
 
 
         else: # len(tmp)> 1:
@@ -157,6 +173,17 @@ while i < len(wordList):
 
                     namanya = namasaja[0] # salin namanya saja
                     type = getArticleType(dbpedia, namanya.strip())
+                    # if (type != "Place") or (type != "Person") or (type != "Organisation"):
+
+                    #     if type == "Per-Pl":
+
+                    #         if (wordList[i-1][0] == "di") or (wordList[i-1][0] == "ke") or (wordList[i-1][0] == "dari"):
+                        
+                    #             wordList[i][1] = "Place"
+                    #             type = "Place"
+                    #     else:
+                    #         wordList[i][1] = "O"
+                    #         type = "O"
 
                     if type is not "O":
 

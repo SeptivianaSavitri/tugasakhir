@@ -22,14 +22,14 @@ def makeExpandedDBpediaDictionary():
 
     person = open("dbpedia-new/validate/person.txt", "r")
     place = open("dbpedia-new/validate/place.txt", "r")
-    org = open("dbpedia-new/validate/organization.txt", "r")
+    org = open("dbpedia-new/validate/organization.txt", "r", encoding = "Latin1")
 
     personLines = person.readlines()
     placeLines = place.readlines()
     orgLines = org.readlines()
 
     ambiguNames = {}
-
+    counter = 0
     for name in personLines:
         key = name.strip()
         aDict[key] = "Person"
@@ -37,9 +37,9 @@ def makeExpandedDBpediaDictionary():
 
     for name in placeLines:
         key = name.strip()
-
+        counter = counter+1
         value = "Place"
-
+       
         if key in aDict:
 
             if aDict[key] == value:
@@ -79,8 +79,17 @@ def makeExpandedDBpediaDictionary():
     #     print "%s is %s" % (name, type)
     #
     # print "\nJumlah kata ambigu = " + str(len(ambiguNames))
+    thefile = open("ambigu.txt", "w", errors='replace')
+    counter = 0
+    for k, v in ambiguNames.items():
+        thefile.write(k + "   ")
+        thefile.write(v)
+        thefile.write("\n")
+        counter = counter + 1
 
-    return aDict
+    thefile.write("Terdapat "+str(counter)+" kata ambigu")
+    thefile.close()
+    return aDict , ambiguNames
 
 
 ####################################################################################
