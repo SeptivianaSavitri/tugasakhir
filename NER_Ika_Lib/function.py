@@ -1,7 +1,7 @@
 ####################################################################################
 # NER Library for DBpedia Entities Expansion
-# @Author: Ika Alfina
-# @Last update: 19 Agustus 2016
+# @Author: Septiviana Savitri
+# @Last update: 19 April 2017
 # Fasilkom Universitas Indonesia
 ####################################################################################
 
@@ -12,10 +12,41 @@ ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
 
 SPECIAL_CHARS = [",", "'"]
 
+
+####################################################################################
+# Mencari indeks tanda buka kurung
+####################################################################################
+
+def cariBukaKurung(kata, pnjg):
+    idx = pnjg
+    while (idx != 0):
+        if kata[idx] == "(":
+            return idx
+        idx=idx-1
+
+####################################################################################
+# Aturan untuk melihat kamus
+####################################################################################
+
+
+def diKamus(kata, dict):
+    if kata in dict.keys() or kata.lower() in dict.keys():
+        return True
+    
+    return False
+
+def buatKamus(dict, fileKata):
+    dataFile = open(fileKata, 'r', errors='ignore')
+    dict = {}
+    for line in dataFile:
+        line = line.replace("\n","")
+        dict[line] = line
+    dataFile.close()
+    return dict
+
 ####################################################################################
 # Membuat Kamus DBpedia Expanded
 ####################################################################################
-
 def makeExpandedDBpediaDictionary():
 
     aDict = {}
@@ -90,6 +121,7 @@ def makeExpandedDBpediaDictionary():
     thefile.write("Terdapat "+str(counter)+" kata ambigu")
     thefile.close()
     return aDict , ambiguNames
+
 
 
 ####################################################################################

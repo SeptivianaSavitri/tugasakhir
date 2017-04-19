@@ -9,11 +9,11 @@
 #   - File contain each type of clean data
 
 # output: normalized version of data :
-#    - remove all the description in (xx)
+#    - remove all the description  (xx) in the middle.
 ####################################################################################
 
 
-from ner_ika import writeListofStringToFile
+from function import writeListofStringToFile
 
 ##########################################################################
 # M A I N

@@ -19,7 +19,7 @@
 ####################################################################################
 
 #coding: utf8
-from test_ner_ika import makeExpandedDBpediaDictionary, listToString, getArticleType, writeListToFile
+from function import makeExpandedDBpediaDictionary, listToString, getArticleType, writeListToFile
 
 ##########################################################################
 #    Melakukan Splitting N-Gram
@@ -68,13 +68,13 @@ dbpedia, ambigu = makeExpandedDBpediaDictionary()
 # set the input file
 
 folder = "newdata/training/"
-inputfile = "formatted-goldstandard-0811.txt"
+#inputfile = "capedeh.txt"
 
-#inputfile = folder + "prep/coba.txt"
+inputfile = folder + "prep/ID_formatted10k.txt"
 
 # set the output file
 
-outputfile = folder + "ready/ID_tagged1_gs.txt"
+outputfile = folder + "ready/ID_tagged10k_vitri.txt"
 
 #outputfile = folder + "ready/coba.txt"
 
@@ -102,13 +102,16 @@ for i in inputLines:
 #mulai melakukan tagging
 
 i = 0
+print(len(wordList))
 while i < len(wordList):
 
     percen = float(i)/float(len_input)
     print ("Now ... " + str(i) + " of " + str(len_input) + "          (" + str(percen) + ")")
 
     kata = wordList[i][0]
-
+    kata_next=""
+    if i < len(wordList) - 1:
+        kata_next = wordList[i+1][0]
     if kata[0].isupper(): #jika diawali huruf kapital
 
         tmp = []
@@ -153,6 +156,10 @@ while i < len(wordList):
                     wordList[i][1] = "O"
                     title = "O"
 
+            if (kata == "SD") or (kata == "SDN" or (kata == "SMP") or (kata == "SMPN") or (kata == "SMA") or (kata == "SMAN")):
+                if kata_next != "" :
+                    if(kata_next.isnumeric() or kata_next.isupper()):
+                        title = "Organisation"
 
             if title is not "O":
 

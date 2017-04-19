@@ -1,4 +1,4 @@
-from ner_ika import writeDictToFile
+from function import writeDictToFile
 
 data1 = open("dbpedia-new/original/listNegara.txt", "r")
 data2 = "dbpedia-new/original/listNegaraWrite.txt"

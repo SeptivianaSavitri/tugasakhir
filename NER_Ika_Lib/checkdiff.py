@@ -1,7 +1,7 @@
 
-from test_ner_ika import writeListofStringToFile
-data1 = open("newdata/training/ready/ID_tagged1_gs.txt", "r")
-data2 = open("nospace-goldstandard-0811.txt", "r")
+from function import writeListofStringToFile
+data1 = open("newdata/training/ready/ID_tagged5k.txt", "r")
+data2 = open("data/training/ready/ID_tagged5k.txt", "r")
 
 outputdata1 =  "newdata/training/ready/withTab_ID_tagged1_gs.txt"
 output =   open("different.txt", "w", errors='replace')
@@ -22,8 +22,6 @@ writeListofStringToFile(line1, outputdata1)
 
 
 
-inputdata1 =   open("newdata/training/ready/withTab_ID_tagged1_gs.txt", "r", errors='replace')
-data1Lines = inputdata1.readlines()
 counterSama = 0
 counterBeda = 0
 for i in range(0,len(data1Lines)):

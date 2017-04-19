@@ -15,9 +15,8 @@
 ####################################################################################
 
 
-from ner_ika import writeDictToFile
-from ner_ika import writeListofListToFile
-from ner_ika import writeListofStringToFile
+from function import writeDictToFile, writeListofStringToFile, writeListofListToFile
+
 
 ##########################################################################
 # M A I N

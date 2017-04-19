@@ -16,7 +16,7 @@
 ####################################################################################
 
 
-from ner_ika import writeDictToFile
+from function import writeListofStringToFile
 
 ##########################################################################
 # M A I N
@@ -32,26 +32,32 @@ output = folder + "organization.txt"
 
 inputFile = open(input, 'r', errors='ignore')
 flines = inputFile.readlines()
-dictOrganization = {}
+listOrganization = []
 
 count = 1
 for k in flines: 
 	k= k.replace("\n","")
 	komaspasiSplit = k.split(", ")
+
 	if len(komaspasiSplit) > 1: 
-		dictOrganization[k] = k
+		listOrganization.append(k)
 		for i in range(0, len(komaspasiSplit)):
-			dictOrganization[komaspasiSplit[0]] = komaspasiSplit[0]
+			listOrganization.append(komaspasiSplit[0])
+
 		   
    
 	else:
-		dictOrganization[k] = k
+		listOrganization.append(k)
+
+	spasiSplit = k.split(" ")
+	if(spasiSplit[0] == "Partai"):
+		listOrganization.append(k[7:])
 	count += 1
 inputFile.close()
 
 
 
-writeDictToFile(dictOrganization, output)
+writeListofStringToFile(listOrganization, output)
 
 
 

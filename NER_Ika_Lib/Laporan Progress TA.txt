@@ -113,7 +113,7 @@ Task :
 How : 
 	- buat file properties seperti contoh : http://nlp.stanford.edu/software/crf-faq.html
 	- compile file properti (input : ID_tagged1_xx | output : outputmodelxx-xx.gz)
-	  java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop [nama_file_prop]
+	  java -mx4g -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop [nama_file_prop]
 	- test dengan data goldstandard
       java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier outputmodelxx-xx.gz -testFile goldstandard-0811.txt
 
@@ -262,3 +262,22 @@ Progress 12 April 2017
 	- Untuk institusi pendidikan (SMP ,SMA, SMPN, SMAN) jika diikuti angka, maka merupakan organisasi (masih dipikirkan)
 4. Melakukan eksperimen dengan data lebih besar.
 Mencoba di beberapa komputer lain, namun running time nya cukup lama (lebih dari 3 jam) lalu hasilnya juga tidak keluar
+
+
+--------------------------------------------------------------------
+Progress 17 April 2017
+Tahap ekspansi data Organization
+cleansing :
+	- buang keterangan dalam kurung (xx) diakhir nama.
+	- memasukkan nama grup musik dari entity Person
+normalizing :
+	- buang keterangan kurung di tengah kalimat
+expand :
+	- organization with coma seperator "aa, bb" is seperated into "aa, bb" and "aa"  
+	- Untuk nama yang mengandung kata "Partai xx", maka akan dipecah menjadi "Partai xx" dan "xx". 
+	- Penambahan nama partai serta singkatannya. source : https://id.wikipedia.org/wiki/Daftar_partai_politik_di_Indonesia#Pemilu_2014
+	- Penambahan instansi pemerintah beserta singkatannya, source: https://www.menpan.go.id/jdih/permen-kepmen/permenpan-rb/file/3568-permenpan-2012-no-081?start=100
+validate :
+	-gabungkan entity dari organisation (expand), listPartai dan listInstansi (menggunakan dictionary untuk menjamin keunikan data)
+Rule tambahan pada tagging :
+-jika muncul kata "SD", "SDN", "SMP", "SMPN", "SMA", "SMAN", maka akan di tag sebagai Organisation

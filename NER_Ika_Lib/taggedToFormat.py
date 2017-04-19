@@ -13,7 +13,9 @@
 ####################################################################################
 
 #set the input and output file
-from test_ner_ika import writeListofStringToFile
+from function import writeListofStringToFile
+
+
 inputTag = "goldstandard-0811.txt"
 output = "formatted-goldstandard-0811.txt"
 outputNoSpace = "nospace-goldstandard-0811.txt"

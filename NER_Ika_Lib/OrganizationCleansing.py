@@ -10,11 +10,11 @@
 
 # output: clean version of data :
 #    - additional data from dataset Person
-#    - data cleaning from word contains (xx)
+#    - data cleaning from word contains (xx) at the end of entity
 ####################################################################################
 
 
-from ner_ika import writeListofStringToFile
+from function import writeListofStringToFile
 
 ##########################################################################
 # M A I N

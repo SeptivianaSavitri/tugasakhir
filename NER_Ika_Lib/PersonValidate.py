@@ -19,9 +19,7 @@
 ####################################################################################
 
 
-from ner_ika import writeDictToFile
-from ner_ika import writeListofListToFile
-from ner_ika import writeListofStringToFile
+from function import writeDictToFile, writeListofStringToFile, writeListofListToFile, diKamus, buatKamus
 
 ##########################################################################
 # M A I N
@@ -35,23 +33,8 @@ output = folder + "person.txt"
 outputtmp = folder + "tmp.txt"
 nltk_data = "dbpedia-new/nltk_clean.txt"
 kebi_data = "dbpedia-new/kebi_clean.txt"
-dictKebi = []
-dictNLTK = []
-
-def diKamus(kata, dict):
-    if kata in dict.keys() or kata.lower() in dict.keys():
-        return True
-    
-    return False
-
-def buatKamus(dict, fileKata):
-    dataFile = open(fileKata, 'r', errors='ignore')
-    dict = {}
-    for line in dataFile:
-        line = line.replace("\n","")
-        dict[line] = line
-    dataFile.close()
-    return dict
+dictKebi = {}
+dictNLTK = {}
 #########################  begin ################################
 
 inputFile = open(input, 'r', errors='ignore')

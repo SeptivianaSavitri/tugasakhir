@@ -14,7 +14,7 @@
 ####################################################################################
 
 
-from ner_ika import writeListofStringToFile
+from function import writeListofStringToFile
 
 ##########################################################################
 # M A I N

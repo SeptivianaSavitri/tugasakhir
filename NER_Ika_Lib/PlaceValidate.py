@@ -19,9 +19,8 @@
 ####################################################################################
 
 
-from ner_ika import writeDictToFile
-from ner_ika import writeListofListToFile
-from ner_ika import writeListofStringToFile
+from function import writeDictToFile, writeListofListToFile, writeListofStringToFile, diKamus, buatKamus
+
 
 ##########################################################################
 # M A I N
@@ -38,23 +37,10 @@ outputtmp = folder + "tmpplace.txt"
 outputtmpOrg = folder + "tmporg.txt"
 nltk_data = "dbpedia-new/nltk_clean.txt"
 kebi_data = "dbpedia-new/kebi_clean.txt"
-dictKebi = []
-dictNLTK = []
+dictKebi = {}
+dictNLTK = {}
 
-def diKamus(kata, dict):
-    if kata in dict.keys() or kata.lower() in dict.keys():
-        return True
-    
-    return False
 
-def buatKamus(dict, fileKata):
-    dataFile = open(fileKata, 'r', errors='ignore')
-    dict = {}
-    for line in dataFile:
-        line = line.replace("\n","")
-        dict[line] = line
-    dataFile.close()
-    return dict
 #########################  begin ################################
 
 inputFile = open(input, 'r', errors='ignore')
@@ -65,6 +51,9 @@ dictTmp = {}
 dictNLTK = buatKamus(dictNLTK, nltk_data)
 
 dictKebi = buatKamus(dictKebi, kebi_data)
+ROMAWI = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
+             "XI", "XII", "XIII", "XIV",
+             "XX", "XXX"]
 # print(diKamus("Arab",dictKebi))
 count = 1
 for k in flines:
@@ -77,6 +66,8 @@ for k in flines:
         dictTmp[k] = k
 
     elif(len(k) <2):
+        dictTmp[k] = k
+    elif(k in ROMAWI):
         dictTmp[k] = k
     else:
         dictPlace[k] = k
