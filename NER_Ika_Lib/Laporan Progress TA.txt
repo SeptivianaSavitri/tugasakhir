@@ -281,3 +281,76 @@ validate :
 	-gabungkan entity dari organisation (expand), listPartai dan listInstansi (menggunakan dictionary untuk menjamin keunikan data)
 Rule tambahan pada tagging :
 -jika muncul kata "SD", "SDN", "SMP", "SMPN", "SMA", "SMAN", maka akan di tag sebagai Organisation
+
+
+
+-----------------------------------------------------------------
+Progress 19 April 2017
+1. Membenarkan aturan di Organisation (filter kata di kebi maupun nltk)
+2. Perbaikan rule untuk lembaga pendidikan (SD, SMP, DLL) hanya akan di tag jika dilanjutkan angka atau Huruf besar.
+3. Perbaikan rule ambigu yang lebih spesifik
+	- Untuk Person-Place-ORG akan di tag sebagai Place [melihat anggotanya hanya ada "Aceh" dan "Asia"]
+	- Untuk Place-ORG, jika entrinya "Indonesia" akan di tag sebagai "Place"
+4. Buat kode untuk keluaran standford NER (memisahkan TP, FN dan FP)
+5. Melakukan eksperimen 10000 data
+	[hasil dilampirkan pada dokumen drive yang sudah saya share dengan Ibu Ika.], f1 scorenya naik dari 43.58% menjadi 51.4%. 
+
+
+---------------------------------------------------------------
+Progress 25 April 2017
+1. Melakukan eksperimen untuk 5000 dan 10000 kalimat.
+2. Menambah rule untuk meningkatkan precission Person :
+	- Buang nama yang mengandung bulan (April, Juni, Juli)
+	- Tambahkan entry ejaan lama "oe" menjadi "u"
+3. Buat kode untuk menghitung rule based murni. [CaculatePrecRec.py]
+	Concern : sepertinya CRF melihat hasil dalam bentuk sequence, sedangkan kode yang saya buat untuk masing masing nilai. Maka, jika ada "Joko Widodo" yang aslinya adalah Person Person, dengan hasil prediksi Person Person, di kode yang saya buat akan dihitung sebagai 2 True Positive, sedangkan di CRF di tag sebagai 1 True Positive
+Buat list hasil eksperimenn
+5000
+10000
+20000
+person usahain ngga dibawah 70% precissionnya
+cari tau kenapa recall person naik hingga 13%
+kirim ke Bu Ika untuk data 200000
+
+rule based murni -> goldstandard tanpa label, bandingkan dengan CRF.
+
+Ide rule : nama dengan ejaann lama juga dibuat versi ejaan barunya. Misal : Soekarno menjadi Sukarno
+April, Juni jadi Person
+Juli jadi Place
+1. Di beberapa negara Barat[Place],nama Soekarno kadang-kadang ditulis Achmed Soekarno.
+Apakah Barat di tag sebagai Place, Bu?
+2. Dalam beberapa versi lain, disebutkan pemberian nama Achmed[Person] di depan nama Sukarno[Person], dilakukan oleh para diplomat muslim asal Indonesia[Place] yang sedang melakukan misi luar[Place] negeri[Place] dalam upaya untuk mendapatkan pengakuan kedaulatan negara Indonesia[Place] oleh negara[Place] - negara[Place] Arab[Place].
+3. Melalui ajang pencarian bakat Cherrybelle[ORGANISATION] Cari Chibi[ORGANISATION], pada tangga l8 Juni 2012, Kezia dan Steffy terpilih menjadi anggota barunya.
+Sepertinya Chibi disini bukan organisation, bu. Karena Chibi adalah panggilan untuk 1 orang personel saja.
+
+
+How to make the expansion?
+1. Cleansing
+- PersonCleansing.py [menghasilkan file person.txt dan place.txt di folder cleansing]
+- OrganizationCleansing.py
+2. Normalization
+- PersonNormalization.py
+- PlaceNormalization.py
+- OrganizationNormalization.py
+3. Expansion
+- PersonExpansion.py
+- PlaceExpansion.py
+- OrganizationExpansion.py
+- OrganizationMergedPartai.py [melakukan ekspansi dari file original/listPartai.txt , dan menyimpan hasilnya pada folder expanded/listPartai.txt]
+4. Validate [semua file dalam bentuk dictionary untuk menjamin keunikan entry]
+- PersonValidate.py
+- PlaceValidate.py
+- OrganizationValidate.py [menggabungkan hasil expanded organisasi, expanded listPartai dan original listInstansi]
+
+
+1. Coba rule Cleansing Person : nama di stem, jika semua kata ada dikamus, buang entry nya.
+2. Buat perbedaan entry DBPedia (yang sama, yang ada di buika tapi gaaada diaku dan sebaliknya)
+3. perubahan : NLTK Inggrisnya dibuang huruf besar.
+
+
+-----------------------------------------------------------------
+28 April 2017
+
+1. Membuang entry Person yang memiliki stem yang seluruhnya ada di NLTK
+	(karena beberapa nama band tidak semua potongan katanya ada di NLTK, dibuat aturan tambahan, jika nama tersebut mengandung the, maka akan dibuang).
+	Hasil : 93 entry terfilter.

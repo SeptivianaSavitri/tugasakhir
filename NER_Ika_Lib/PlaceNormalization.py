@@ -10,7 +10,7 @@
 
 # output: normalized version of data :
 #    - remove all the description in (xx)
-#    - get the data from Person
+#   
 ####################################################################################
 
 

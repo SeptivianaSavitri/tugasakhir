@@ -10,7 +10,7 @@
 
 # output: normalized version of data :
 #   - seperatE AA bin BB into AA and BB
- 
+#   - normalized form of name that contains "oe", make the entry that also replaced by "u"
 ####################################################################################
 
 
@@ -43,6 +43,10 @@ for k in flines:
     dosSplit = k.split(" dos ")
     deSplit = k.split(" de ")
     jrSplit = k.split(" ")
+    
+    if("oe" in k):
+        ejaanBaru = k.replace("oe","u")
+        newListPerson.append(ejaanBaru)
     #Jika nama mengandung kata bin
     if len(binSplit) > 1: 
         for i in range(0, len(binSplit)):

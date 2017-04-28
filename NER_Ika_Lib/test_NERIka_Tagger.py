@@ -25,6 +25,7 @@ from function import makeExpandedDBpediaDictionary, listToString, getArticleType
 #    Melakukan Splitting N-Gram
 ##########################################################################
 
+
 def nGramsIndex(aName, start):
 
 
@@ -68,13 +69,13 @@ dbpedia, ambigu = makeExpandedDBpediaDictionary()
 # set the input file
 
 folder = "newdata/training/"
-#inputfile = "capedeh.txt"
+#inputfile = "formatted-goldstandard-0811.txt"
 
-inputfile = folder + "prep/ID_formatted10k.txt"
+inputfile = folder + "prep/ID_formatted5k.txt"
 
 # set the output file
 
-outputfile = folder + "ready/ID_tagged10k_vitri.txt"
+outputfile = folder + "ready/ID_tagged5k_vitri2804-2.txt"
 
 #outputfile = folder + "ready/coba.txt"
 

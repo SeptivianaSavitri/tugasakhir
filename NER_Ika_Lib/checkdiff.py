@@ -1,11 +1,13 @@
 
 from function import writeListofStringToFile
-data1 = open("newdata/training/ready/ID_tagged5k.txt", "r")
-data2 = open("data/training/ready/ID_tagged5k.txt", "r")
+data1 = open("newdata/training/ready/ID_tagged5k_vitri2804-2.txt", "r")
+#data2 = open("newdata/training/ready/ID_tagged5k_vitri2804-1.txt", "r")
+data2 = open("data/training/ready/ID_tagged5k_buika2404.txt", "r")
 
 outputdata1 =  "newdata/training/ready/withTab_ID_tagged1_gs.txt"
 output =   open("different.txt", "w", errors='replace')
 outputBeda =   open("differentBeda.txt", "w", errors='replace')
+outputPerson = open("identPerson.txt", "w", errors='replace')
 
 data1Lines = data1.readlines()
 data2Lines = data2.readlines()
@@ -25,12 +27,17 @@ writeListofStringToFile(line1, outputdata1)
 counterSama = 0
 counterBeda = 0
 for i in range(0,len(data1Lines)):
+        splitData1 = data1Lines[i].replace("\n","").split(" ")
+        splitData2 = data2Lines[i].replace("\n","").split(" ")
         if data1Lines[i] == data2Lines[i]:
-            output.write( data1Lines[i].replace("\n","")+" SAMA\n")
+            output.write(data1Lines[i].replace("\n","")+" SAMA\n")
             counterSama = counterSama + 1
         else:
             output.write(data1Lines[i].replace("\n","") + " "+ data2Lines[i].replace("\n","")+ " BERBEDA\n")
             outputBeda.write(data1Lines[i].replace("\n","") + " "+ data2Lines[i].replace("\n","")+ " BERBEDA\n")
+            if(splitData1[1] =="Person") or(splitData2[1] =="Person") :
+                outputPerson.write(data1Lines[i].replace("\n","") + " "+ data2Lines[i].replace("\n","")+ " BERBEDA\n")
+
             counterBeda = counterBeda + 1
 
 print("Jumlah kata sama  :    "+str(counterSama))

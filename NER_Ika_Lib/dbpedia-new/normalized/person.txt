@@ -1,6 +1,7 @@
 Anwar Sadat
 Chairil Anwar
 Gamal Abdul Nasir
+Gunawan Mohamad
 Goenawan Mohamad
 Sapardi Djoko Damono
 Xanana Gusmão
@@ -12,11 +13,15 @@ Adam Malik
 Siddhartha Gautama
 Anwar Ibrahim
 Antoine Lavoisier
+Sukarno
 Soekarno
+Suharto
 Soeharto
 George Walker Bush
 Kekal
+Wage Rudolf Supratman
 Wage Rudolf Soepratman
+Megawati Sukarnoputri
 Megawati Soekarnoputri
 Benjamin Franklin
 Bill Gates
@@ -62,6 +67,7 @@ Hidayat Nur Wahid
 Rhoma Irama
 Sofyan Djalil
 Ajip Rosidi
+Sugiharto
 Soegiharto
 M. S. Kaban
 Jusuf Anwar
@@ -69,6 +75,7 @@ Aburizal Bakrie
 Kristoforus Kolumbus
 Kusmayanto Kadiman
 Abdul Haris Nasution
+Abdul Muis
 Abdoel Moeis
 Agus Salim
 Ahmad Dahlan
@@ -82,13 +89,16 @@ Ernest Douwes Dekker
 Fatmawati
 Ferdinand Lumbantobing
 Frans Kaisiepo
+Gatot Subroto
 Gatot Soebroto
 Halim Perdanakusuma
 Mas Tirtodarmo Harjono
 Hasyim Asyari
 Hazairin
 Tuanku Imam Bonjol
+Djatikusumo
 Djatikoesoemo
+Djuanda Kartawidjaja
 Djoeanda Kartawidjaja
 Karel Satsuit Tubun
 Katamso Darmokusumo
@@ -96,6 +106,7 @@ Ki Hadjar Dewantara
 Kusumah Atmaja
 Maria Walanda Maramis
 R.E. Martadinata
+Mas Mansur
 Mas Mansoer
 Mohammad Hatta
 Mohammad Yamin
@@ -109,6 +120,7 @@ Tan Malaka
 Bambang Sudibyo
 Hatta Rajasa
 Dede Yusuf
+Yon Kuswoyo
 Yon Koeswoyo
 Iwan Fals
 Anton Apriyantono
@@ -120,6 +132,7 @@ George Washington
 John Adams
 Thomas Jefferson
 James Madison
+James Monru
 James Monroe
 John Quincy Adams
 Andrew Jackson
@@ -176,6 +189,7 @@ Ismail Omar Guelleh
 Hamid Karzai
 Chiang Kai-shek
 Mao Zedong
+Mohammad Nur
 Mohammad Noer
 Daud Beureu'eh
 Yusril Ihza Mahendra
@@ -185,6 +199,7 @@ Aleksandr Vladimirovich Rutskoy
 Nadezhda Krupskaya
 R. Hartono
 Burhanuddin Abdullah
+Miranda Gultom
 Miranda Goeltom
 Wright Bersaudara
 Saddam Hussein
@@ -206,6 +221,7 @@ Vladimir Putin
 Lev Trotski
 Josef Stalin
 Mangkunegara III
+Sudharmono
 Soedharmono
 Saharjo
 Sam Ratulangi
@@ -213,11 +229,14 @@ Samanhudi
 Siswondo Parman
 Sugiono
 Supeno
+Supomo
 Soepomo
 R. Suprapto
 Suprijadi
+Surjo
 Soerjo
 Sutan Syahrir
+Sutomo
 Soetomo
 Sutoyo Siswomiharjo
 Teuku Umar
@@ -251,6 +270,7 @@ Joseph E. Stiglitz
 Che Guevara
 Tuty Alawiyah
 Tanri Abeng
+Satrio Budihardjo Judono
 Satrio Budihardjo Joedono
 Abdul Rahman Saleh
 Agung Laksono
@@ -278,6 +298,7 @@ Richard Feynman
 Henry Ford
 Sigmund Freud
 Johannes Gutenberg
+Hetty Kus Endang
 Hetty Koes Endang
 Dwiki Dharmawan
 Emilia Contessa
@@ -294,6 +315,7 @@ Susan Bachtiar
 Shimon Peres
 Abraham Lincoln
 Didik J. Rachbini
+Sutrisno Bachir
 Soetrisno Bachir
 Agatha Christie
 Kim Jong-il
@@ -327,6 +349,7 @@ Benjamin Netanyahu
 Carlos Mesa
 Islam Karimov
 Kwame Nkrumah
+Antony van Leeuwenhuk
 Antony van Leeuwenhoek
 Gregor Mendel
 Louis Pasteur
@@ -334,6 +357,7 @@ Steve Wozniak
 Lee Kuan Yew
 Susi Susanti
 Hifikepunye Pohamba
+Kus Plus
 Koes Plus
 Kristin Kreuk
 Robert Koch
@@ -431,11 +455,11 @@ Bunda Teresa
 Franklin Delano Roosevelt
 Ali
 Abi Thalib
+Putera Sampurna
 Putera Sampoerna
 Ho Chi Minh
 King Crimson
 Gerhard Schröder
-The Beatles
 Peter Banks
 Arno Penzias
 Vitaly Lazarevich Ginzburg
@@ -459,6 +483,7 @@ Hans Georg Dehmelt
 Otto von Bismarck
 Dave Grohl
 Padhyangan
+Arifin C. Nur
 Arifin C. Noer
 Laurent-Désiré Kabila
 Pervez Musharraf
@@ -511,6 +536,7 @@ Chaim Herzog
 Lucky Octavian
 Charles Dickens
 Petrus Kanisius Ojong
+Su Hok Gie
 Soe Hok Gie
 Hans Christian Andersen
 Khaleda Zia
@@ -623,6 +649,7 @@ Hans Bethe
 Sid Vicious
 Arswendo Atmowiloto
 Wolfgang Pauli
+Ruslan Abdulgani
 Roeslan Abdulgani
 Kim Il-sung
 Aria Lamanjiji
@@ -634,7 +661,6 @@ Chris Martin
 Eminem
 John Garang
 Rip Slyme
-The Rolling Stones
 Franciscus Georgius Josephus van Lith
 Radius Prawiro
 Kiss
@@ -676,6 +702,7 @@ Joko Anwar
 Auguste Rodin
 Theys Hiyo Eluay
 I Made Mangku Pastika
+Mohamad Rum
 Mohamad Roem
 Giuseppe Meazza
 Dodi al-Fayed
@@ -729,6 +756,7 @@ Helmi Johannes
 Surya Paloh
 Christian Worabay
 Herman Johannes
+Ali Murtopo
 Ali Moertopo
 Tifatul Sembiring
 Michael Jackson
@@ -761,6 +789,7 @@ Ahn Jung-Hwan
 Probosutedjo
 Kenny G
 Harold Clayton Urey
+Johann Wolfgang von Guthe
 Johann Wolfgang von Goethe
 Tokugawa Ieyasu
 Backstreet Boys
@@ -839,6 +868,7 @@ Jorge Sampaio
 Mikhail Saakashvili
 Hugo Chávez
 Milton Obote
+Budiono
 Boediono
 Eduard Shevardnadze
 Mari Elka Pangestu
@@ -862,6 +892,7 @@ Sri Mulyani Indrawati
 Fahmi Idris
 Freddy Numberi
 Widodo A. S.
+Erman Suparno
 Erman Soeparno
 Alejandro Toledo
 Nicanor Duarte Frutos
@@ -879,8 +910,8 @@ Nicholas Saputra
 Muhammad al-Idrisi
 Widi Mulia
 Danny Setiawan
+Rudi Sudjarwo
 Rudi Soedjarwo
-The Killers
 Maximilian Weber
 Hugo Banzer
 Jacobus Perviddya Solossa
@@ -931,6 +962,7 @@ Grigori Rasputin
 Franky Sahilatua
 Pahala Tambunan
 Teodoro Obiang Nguema Mbasogo
+Brury Marantika
 Broery Marantika
 Luluk Purwanto
 Joko Wiryanto Suwito
@@ -954,6 +986,7 @@ Olusegun Obasanjo
 Rudini
 Álvaro Uribe Vélez
 Tabaré Vázquez
+Amir Sjarifuddin
 Amir Sjarifoeddin
 Aníbal Cavaco Silva
 Beatrix
@@ -969,6 +1002,7 @@ Flavio Cotti
 Alphons Egli
 Ismail Saleh
 Ali Said
+Sudjono C. Atmonegoro
 Soedjono C. Atmonegoro
 Baharuddin Lopa
 Marsillam Simanjuntak
@@ -995,6 +1029,7 @@ Sam Hinds
 Tommy Remengesau
 Seno Gumira Ajidarma
 Stephen Harper
+Leo Sukoto
 Leo Soekoto
 Tuilaepa Aiono Sailele Malielegaoi
 Said Agil Husin Al Munawar
@@ -1010,6 +1045,7 @@ José Maria Neves
 Hassan Gouled Aptidon
 Dileita Mohamed Dileita
 Nicholas Liverpool
+Susilo Sudarman
 Soesilo Soedarman
 Ahmet Necdet Sezer
 Robert Kocharian
@@ -1028,6 +1064,7 @@ Mello
 José Sarney
 Festus Mogae
 Barry Prima
+Harry Rusli
 Harry Roesli
 David Beckham
 Alex Ferguson
@@ -1088,6 +1125,7 @@ Paula Rodrigues Alves
 François Bozizé
 Laurent Gbagbo
 Dahir Riyale Kahin
+Manul Ferraz de Campos Salles
 Manoel Ferraz de Campos Salles
 Manoel Ferraz
 Campos Salles
@@ -1100,6 +1138,7 @@ Deodoro
 Fonseca
 Liamine Zéroual
 Denzil Douglas
+Hugeng Imam Santoso
 Hoegeng Imam Santoso
 Awaluddin Djamin
 Ibrahim Egal
@@ -1153,6 +1192,7 @@ Leon M'ba
 Albert Pintat
 Baldwin Spencer
 Dominique Agisca Diyose
+Jajang C. Nur
 Jajang C. Noer
 Artur Rasizade
 Ayaz Mutalibov
@@ -1163,6 +1203,7 @@ Agus Martowardojo
 Edgar F. Codd
 Mochtar Lubis
 Ayu Utami
+Marah Rusli
 Marah Roesli
 Gianluigi Buffon
 Peter Withe
@@ -1225,8 +1266,11 @@ Maatia Toafa
 George Maxwell Richards
 Parviz Dawoodi
 Feleti Sevele
+Susanto Tirtoprodjo
 Soesanto Tirtoprodjo
+Abdul Halim
 Abdoel Halim
+Sukiman Wirjosandjojo
 Soekiman Wirjosandjojo
 Wilopo
 Ali Sastroamidjojo
@@ -1239,12 +1283,14 @@ Once Mekel
 Komeng
 Benyamin Sueb
 Elis Regina
+Subandrio
 Soebandrio
 Johannes Leimena
 Hikaru Utada
 Tassos Papadopoulos
 Svetozar Marovi?
 Andrea Bocelli
+Iwa Kusumasumantri
 Iwa Koesoemasoemantri
 C?lin Popescu-T?riceanu
 Kazimierz Marcinkiewicz
@@ -1267,8 +1313,11 @@ Than Shwe
 Lionel Richie
 Jean-Paul Proust
 Luciano Pavarotti
+Achmad Subardjo
 Achmad Soebardjo
+Raden Aria Adipati Wiranatakusuma
 Raden Aria Adipati Wiranatakoesoema
+Pandji Surachman Tjokroadisurjo
 Pandji Soerachman Tjokroadisoerjo
 Alexander Andries Maramis
 Abdul Azis Saleh
@@ -1291,6 +1340,7 @@ Alessandro Del Piero
 Paul Anka
 Filippo Inzaghi
 Mauro Esposito
+Billy Jul
 Billy Joel
 Alberto Gilardino
 Sergey Sidorsky
@@ -1324,6 +1374,7 @@ Djoko Kirmanto
 Bachtiar Chamsyah
 Muhammad Maftuh Basyuni
 Suryadharma Ali
+Rachmat Witular
 Rachmat Witoelar
 Taufiq Effendi
 Saifullah Yusuf
@@ -1343,6 +1394,7 @@ Enrique Iglesias
 Carlo Ancelotti
 Elvis Costello
 Jacob Nuwa Wea
+Rini Mariani Sumarno Suwandi
 Rini Mariani Soemarno Soewandi
 Agum Gumelar
 Bungaran Saragih
@@ -1360,9 +1412,11 @@ Nino Burjanadze
 Jean Eyeghe Ndong
 Matti Vanhanen
 Josefa Iloilo
+Sunarno
 Soenarno
 Rokhmin Dahuri
 Muhammad Feisal Tamin
+Leonardus Benyamin Murdani
 Leonardus Benyamin Moerdani
 Manuel Kaisiepo
 Edi Sudradjat
@@ -1371,7 +1425,9 @@ Laksamana Sukardi
 Alimarwan Hanan
 Sri Redjeki Sumarjoto
 Nabiel Makarim
+Wimar Witular
 Wimar Witoelar
+A. Kasum
 A. Kasoem
 Douglas Engelbart
 Nicky Astria
@@ -1395,6 +1451,7 @@ Assaat
 Wisran Hadi
 Sophie Ellis-Bextor
 Feisal Tanjung
+Surjadi Sudirdja
 Soerjadi Soedirdja
 Syarwan Hamid
 Muhammad Alwi Dahlan
@@ -1407,6 +1464,7 @@ Alexander Sonny Keraf
 Ryaas Rasyid
 Khofifah Indar Parawansa
 Sarwono Kusumaatmadja
+Erna Witular
 Erna Witoelar
 Luhut Binsar Panjaitan
 Anton Chekhov
@@ -1435,7 +1493,6 @@ Laisenia Qarase
 Martti Ahtisaari
 Kalkot Mataskelekele
 Sarah Brightman
-The Corrs
 Daniel Scioli
 Bryan Adams
 John Forbes Nash
@@ -1446,6 +1503,7 @@ Natalie Portman
 Barnabas Suebu
 Alex Hesegem
 Yogie Suardi Memet
+Supardjo Rustam
 Soepardjo Rustam
 Amirmachmud
 Dewa Budjana
@@ -1532,6 +1590,7 @@ Karl Dönitz
 Chinghiz Aitmatov
 Achilles Alferaki
 Lev Yashin
+Alfredo Strussner
 Alfredo Stroessner
 Rudolf Hess
 Vanessa Amorosi
@@ -1546,6 +1605,7 @@ Arif Mardin
 Quincy Jones
 Grantley Herbert Adams
 Georges Pompidou
+Ju Perry
 Joe Perry
 Anthony Montgomery
 Sholom Aleichem
@@ -1568,6 +1628,7 @@ Martti Miettunen
 Urho Kekkonen
 Mauno Koivisto
 Levon Ter-Petrossian
+Eric Vluimans
 Eric Vloeimans
 Louis Armstrong
 Diane Lane
@@ -1642,6 +1703,7 @@ James Chadwick
 Hideki Yukawa
 Maxine Hong Kingston
 Vigdís Finnbogadóttir
+Kusnadi Hardjasumantri
 Koesnadi Hardjasoemantri
 Cheb Hasni
 Abderrahmane Youssoufi
@@ -1652,7 +1714,6 @@ Pete Best
 Stuart Sutcliffe
 Paul Gascoigne
 Muhammad Saleh Werdisastro
-The Offspring
 Voltaire
 Jimi Hendrix
 Victor Hugo
@@ -1781,13 +1842,11 @@ Dietmar Hamann
 Mona Ratuliu
 Giorgio Napolitano
 Def Leppard
-The Jimi Hendrix Experience
 Aerosmith
 Red Hot Chili Peppers
 Javier Zanetti
 Juan Sebastián Verón
 Rafael Benítez
-The Police
 Nicky Tirta
 Tommy Kurniawan
 Indra Bruggman
@@ -1860,6 +1919,7 @@ Olivier Rochus
 Jay Bothroyd
 Leonard Cohen
 Anggun Nugroho
+Jermain Defu
 Jermain Defoe
 Vojislav Koštunica
 Shareefa Daanish
@@ -1869,6 +1929,7 @@ Jane Shalimar
 Cut Memey
 Tiara Lestari
 Wulan Guritno
+Moreno Suprapto
 Moreno Soeprapto
 Ferry Rotinsulu
 Michael Essien
@@ -1882,6 +1943,7 @@ Achmad Tahir
 Korinus Fingkreuw
 Syamsul Bachri Chaeruddin
 Samuel Eto'o
+Ju Cole
 Joe Cole
 Asier del Horno
 Aliaksandr Hleb
@@ -2034,6 +2096,7 @@ Amir Hossein Sadeqi
 Bruce Arena
 Claudio Reyna
 Eddie Lewis
+Samuel K. Du
 Samuel K. Doe
 Yayi Boni
 Billie Holiday
@@ -2076,6 +2139,7 @@ Lucho González
 Mochtar Kusumaatmadja
 Yoann Gourcuff
 Gennaro Gattuso
+Alamsjah Ratu Perwiranegara
 Alamsjah Ratoe Perwiranegara
 Bustanil Arifin
 Luis Ernesto Pérez
@@ -2090,11 +2154,13 @@ Philippe Senderos
 Daniel Gygax
 Philipp Degen
 Nguy?n V?n An
+Adrianus Djajaseputra
 Adrianus Djajasepoetra
 Mary Anderson
 Hernán Crespo
 Anggun C. Sasmi
 Maliq & D'Essentials
+Sukarno M. Nur
 Soekarno M. Noer
 Andreas Isaksson
 Henrik Larsson
@@ -2232,6 +2298,7 @@ Bernd Schneider
 Tim Howard
 Eddie Pope
 Brian McBride
+Pablo Mastruni
 Pablo Mastroeni
 Carlos Bocanegra
 Steve Cherundolo
@@ -2372,6 +2439,7 @@ Stipe Pletikosa
 Igor Tudor
 Jurica Vranješ
 Marko Babi?
+Juy Didulica
 Joey Didulica
 Stjepan Tomas
 Luka Modri?
@@ -2417,6 +2485,7 @@ Roberto Ayala
 Juan Pablo Sorín
 Gabriel Heinze
 Javier Mascherano
+Leonardo Nuren Franco
 Leonardo Noeren Franco
 Lionel Scaloni
 Pablo Aimar
@@ -2508,11 +2577,13 @@ Giovanni Giolitti
 Masayoshi Ohira
 Geoffrey Chaucer
 Hara Takashi
+Gonnohyu Yamamoto
 Gonnohyoe Yamamoto
 Marco Motta
 Kinmochi Saionji
 Radmila Šekerinska
 George Bernard Shaw
+Daud Jusuf
 Daoed Joesoef
 Paul Thomas Mann
 Mariusz Jop
@@ -2580,7 +2651,9 @@ Eugene Wigner
 Gnarls Barkley
 Vina Yuanna
 Milli Vanilli
+Tonny Kuswoyo
 Tonny Koeswoyo
+Yok Kuswoyo
 Yok Koeswoyo
 Igor Djuric
 Firman Utina
@@ -2589,7 +2662,6 @@ Zhang Zuolin
 Hello Kitty
 Brian David Josephson
 Leon Max Lederman
-The Alan Parsons Project
 Anastas Mikoyan
 Pepeng
 Avram Hershko
@@ -2612,6 +2684,7 @@ Puput Melati
 Ibrahim Imran
 Julia Perez
 Basuki Effendy
+Konu Fumimaro
 Konoe Fumimaro
 Kiichiro Hiranuma
 David Saul Marshall
@@ -2634,6 +2707,7 @@ Indra Bekti
 Ulfa Dwiyanti
 Twista
 Syarmi Amanda
+Marilyn Monru
 Marilyn Monroe
 Bella Saphira
 Dina Lorenza
@@ -2653,6 +2727,7 @@ Mario Méndez
 Frans Seda
 Francisco Fonseca
 Brent Sancho
+Sumitro Djojohadikusumo
 Soemitro Djojohadikoesoemo
 Cyd Gray
 Aurtis Whitley
@@ -2694,7 +2769,9 @@ Bernika Irnadianis Ifada
 Syaukani Hasan Rais
 Zulfikar Ali Bhutto
 Muhammad Zia-ul-Haq
+Awang Faruk Ishak
 Awang Faroek Ishak
+Daniel Defu
 Daniel Defoe
 Jonathan Swift
 Robert Louis Stevenson
@@ -2741,6 +2818,7 @@ Fifi Young
 Henk Ngantung
 Jimly Asshiddiqie
 Kusbini
+Suwandi
 Soewandi
 Charlize Theron
 Flea
@@ -2763,11 +2841,11 @@ Ilya Prigogine
 Eros Djarot
 Mieke Wijaya
 Lulu Tobing
+Ju Rosenthal
 Joe Rosenthal
 Herbert Charles Brown
 Sveinn Björnsson
 Sophan Sophiaan
-The Who
 Tompi
 Ashley Tisdale
 Francisco I. Madero
@@ -2789,6 +2867,7 @@ Fates Warning
 Godsmack
 Steve Hackett
 Iced Earth
+Ju Satriani
 Joe Satriani
 Primus
 Mike Oldfield
@@ -2864,6 +2943,7 @@ James Dean
 Pussycat Dolls
 Imam Tantowi
 Steve Irwin
+Ismail Subardjo
 Ismail Soebardjo
 Cristian Gonzáles
 John Frusciante
@@ -2872,7 +2952,6 @@ Queensrÿche
 Racer X
 Neutral Milk Hotel
 Quicksilver Messenger Service
-Queens of the Stone Age
 Rage
 Rainbow
 Jamie Foxx
@@ -2906,13 +2985,14 @@ Andy F. Noya
 Dana Iswara
 Jules Verne
 Sick Puppies
+Hartarto Sastrosunarto
 Hartarto Sastrosoenarto
 Stop Crackdown
+Billie Ju Armstrong
 Billie Joe Armstrong
 Elie Wiesel
 Johann Jakob Balmer
 Elisabeth Kübler-Ross
-The All-American Rejects
 American Hi-Fi
 Lifehouse
 Onky Alexander
@@ -2954,7 +3034,6 @@ John Wayne
 Yuke Elvandari
 Carlos P. Garcia
 Vanessa Hudgens
-Rage Against the Machine
 David O. Selznick
 Agusrin Maryono Najamuddin
 Memes
@@ -2967,6 +3046,7 @@ Widodo Cahyono Putro
 Stewart Copeland
 Robert Plant
 Simple Plan
+Edgar Allan Pu
 Edgar Allan Poe
 Ban Ki-moon
 Wolly Sutinah
@@ -2982,8 +3062,8 @@ Canaan Banana
 Roger D. Kornberg
 Jeffry Waworuntu
 Mikaël Silvestre
-The Moffatts
 Mark Foley
+Fadjrul Rachman
 Fadjroel Rachman
 David Bowie
 Prince
@@ -2991,6 +3071,7 @@ Sitiveni Rabuka
 Emil Adolf von Behring
 Ludwig Karl Martin Leonhard Albrecht Kossel
 Ilya Ilyich Mechnikov
+Otto Luwi
 Otto Loewi
 Rabindranath Tagore
 Woody Allen
@@ -3019,9 +3100,11 @@ Robert Peel
 Clement Attlee
 X Japan
 Mardiyanto
+R. Suprapto
 R. Soeprapto
 Tjokropranolo
 Ngô ?ình Di?m
+Sumarno Sosroatmodjo
 Soemarno Sosroatmodjo
 Abu Sayeed Chowdhury
 Rudolph Arthur Marcus
@@ -3041,6 +3124,7 @@ Nia Zulkarnaen
 Ari Sihasale
 Kinaryosih
 Sissy Spacek
+Alyssa Subandono
 Alyssa Soebandono
 Sarah Azhari
 Dada Rosada
@@ -3165,6 +3249,7 @@ Timothy Dalton
 Sophie Marceau
 Daniel Craig
 Stanley B. Prusiner
+Bagus Hermanto
 Bagoes Hermanto
 Ovidius
 Hendro Kartiko
@@ -3178,6 +3263,7 @@ Adil Abdul-Mahdi
 Hartono Rekso Dharsono
 Howard Martin Temin
 Alfred G. Gilman
+Abdul Muis Hasan
 Abdoel Moeis Hasan
 Muhammad Ardans
 APT Pranoto
@@ -3225,6 +3311,7 @@ Giuseppe Lepori
 Paul Chaudet
 Hans Streuli
 Ratu Atut Chosiyah
+Deliar Nur
 Deliar Noer
 Mengistu Haile Mariam
 Marcus Hahnemann
@@ -3240,7 +3327,9 @@ Karl Schenk
 Numa Droz
 Irwandi Yusuf
 John Milton
+Ira Kusno
 Ira Koesno
+Revo Arka Giri Sukatno
 Revo Arka Giri Soekatno
 Stefano Franscini
 Giovanni Battista Pioda
@@ -3284,6 +3373,7 @@ Lucas Neill
 Kaiser Chiefs
 Jose Rizal Manua
 Didier Deschamps
+Melky Guslaw
 Melky Goeslaw
 Tony Jaa
 Jean-Jacques Challet-Venel
@@ -3371,7 +3461,6 @@ Hasballah M. Saad
 Sarvepalli Radhakrishnan
 J-Rocks
 Anis Matta
-The Rollies
 Jack Nicholson
 Fernando Couto
 Jorge Valdano
@@ -3379,11 +3468,13 @@ Danny Mills
 Adinia Wirasti
 Arthur Kornberg
 EdanE
+Chicha Kuswoyo
 Chicha Koeswoyo
 François Jacob
 Éric Cantona
 Lily Allen
 Helen Keller
+Surjopranoto
 Soerjopranoto
 Bayu Oktara
 Winda Viska
@@ -3396,6 +3487,7 @@ Jikustik
 Aleister Crowley
 Mel Gibson
 David Caruso
+Sudjatmoko
 Soedjatmoko
 Tike Priatnakusumah
 David Bayu Danangjaya
@@ -3429,6 +3521,7 @@ Julio Lopez
 Pandji Pragiwaksono
 Glenn Alinskie
 Spice Girls
+Alex Nurdin
 Alex Noerdin
 David Petraeus
 Kangta
@@ -3440,6 +3533,7 @@ Andrew V. Schally
 Muhyiddin Yassin
 Daniel Nathans
 Frida Kahlo
+Bagus Hadikusumo
 Bagoes Hadikoesoemo
 Anastasio Somoza Debayle
 Aom Kusman
@@ -3493,15 +3587,18 @@ Andien
 Adjie Massaid
 Adjie Notonegoro
 Annisa Trihapsari
+Billy Budjanger
 Billy Boedjanger
 Taylor Hicks
 Ismed Sofyan
 José Mourinho
+Suryo Guritno
 Soeryo Goeritno
 5566
 Andhara Early
 Peggy Melati Sukma
 Harya Suraminata
+Mooryati Sudibyo
 Mooryati Soedibyo
 Martin Rodbell
 Sir Józef Rotblat
@@ -3526,6 +3623,7 @@ Michael Jakarimilena
 Inez Tagor
 Davina Veronica
 Ponaryo Astaman
+Sundari Sukotjo
 Sundari Soekotjo
 Sergio Claudio dos Santos
 Sergio Claudio
@@ -3602,6 +3700,7 @@ Cindy Claudia Harahap
 Be3
 Ihsan Tarore
 Hayao Miyazaki
+Melly Guslaw
 Melly Goeslaw
 David Berg
 Anne Hathaway
@@ -3625,6 +3724,7 @@ Saul Bellow
 Yochanan Vollach
 Fauzi Baadilla
 Larry Wall
+Mukarto Notowidigdo
 Moekarto Notowidigdo
 Sunario Sastrowardoyo
 Ida Anak Agung Gde Agung
@@ -3672,8 +3772,10 @@ Inggrid Kansil
 Leily Sagita
 Reinhard Heydrich
 Michael Fu Tieshan
+Buntaran Martoatmodjo
 Boentaran Martoatmodjo
 Martinus Putuhena
+Joseph Gubbels
 Joseph Goebbels
 Hermann Göring
 Eka Ramdani
@@ -3809,10 +3911,10 @@ Kangen Band
 Syd Barrett
 Bob Klose
 Tofu
-The Titans
 Hideaki Takizawa
 Janet Leigh
 Panangian Siregar
+Rozik Budioro Sutjipto
 Rozik Boedioro Soetjipto
 Alirahman
 Hidayat Jaelani
@@ -3825,6 +3927,7 @@ Rinus Michels
 Ichiro Mizuki
 Gusti Hendy
 Shiri Appleby
+Endank Sukamti
 Endank Soekamti
 Buddy Holly
 Marlon Brando
@@ -3842,6 +3945,7 @@ William Golding
 Derek Alton Walcott
 Toni Morrison
 Vidiadhar Surajprasad Naipaul
+John Maxwell Cutzee
 John Maxwell Coetzee
 Koichi Tanaka
 Herry Kiswanto
@@ -3863,7 +3967,6 @@ Lionel Jospin
 Valdis Zatlers
 Ruhiat
 SKIN
-Andra and The BackBone
 Alain Juppé
 Charles Aznavour
 Ray Milland
@@ -3879,6 +3982,7 @@ José
 Sousa Saramago
 Damayanti Rusli Sjarif
 Brittany Murphy
+Frank de Bur
 Frank de Boer
 Frank
 Boer
@@ -3917,6 +4021,7 @@ Yati Octavia
 Lukman Sardi
 Masaharu Fukuyama
 Masami Nagasawa
+Guruh Sukarnoputra
 Guruh Soekarnoputra
 Pratibha Patil
 Kazuya Kamenashi
@@ -4004,6 +4109,7 @@ Arudji Kartawinata
 Marilyn Manson
 Naoko Takeuchi
 Dewi Dewi
+Surjadi Surjadarma
 Soerjadi Soerjadarma
 Ivan Venkov Kolev
 Jennifer Aniston
@@ -4077,6 +4183,7 @@ Nugie
 Nino Fernandez
 Didik Nini Thowok
 Suzanne Vega
+Maudy Kusnaedi
 Maudy Koesnaedi
 Rieke Diah Pitaloka
 Josh Hartnett
@@ -4142,7 +4249,6 @@ Adrian Maulana
 Johannes Georg Bednorz
 Siti KDI
 Cici Paramida
-Temple of the Dog
 Sarah Jessica Parker
 Barry Bonds
 Jackie Robinson
@@ -4206,6 +4312,7 @@ Jessica Alba
 Okky Asokawati
 Jack Nicklaus
 Kristina
+Inneke Kusherawati
 Inneke Koesherawati
 Dewi Gita
 Miley Cyrus
@@ -4225,6 +4332,7 @@ Aline Adita
 Ushio Hashimoto
 Matthew Lewis
 Sinta Nuriyah
+Nu
 Noe
 Xero
 Ikang Fawzi
@@ -4248,6 +4356,7 @@ Ali Mohammed Mujawar
 Chester Bennington
 Lafcadio Hearn
 Dead By Sunrise
+Ju Hahn
 Joe Hahn
 Elena Paparizou
 John Bunyan
@@ -4302,7 +4411,6 @@ Sam Mendes
 Kevin Spacey
 Annette Bening
 Benicio del Toro
-The Buggles
 Titi, Tita, dan Tati
 John Cleese
 Cut Mini Theo
@@ -4367,6 +4475,7 @@ James L. Brooks
 Shirley MacLaine
 Robert McNamara
 Michael Oren
+Paulo Culho
 Paulo Coelho
 Saigon Kick
 Luciano Zauri
@@ -4423,13 +4532,13 @@ Jane Fonda
 Miguel Primo de Rivera
 Miguel Primo
 Rivera
-...And You Will Know Us by the Trail of Dead
 Mohammad Laica Marzuki
 Ernest Borgnine
 Jack Lemmon
 Sean Combs
 Leslie Caron
 Matta Band
+Ronald de Bur
 Ronald de Boer
 Ronald
 Boer
@@ -4437,6 +4546,7 @@ Ian Kasela
 Mori ?gai
 David Copperfield
 William Holden
+Nicolaas Blumbergen
 Nicolaas Bloembergen
 Olivia de Havilland
 Olivia
@@ -4467,6 +4577,7 @@ Jack Kevorkian
 Meuthia Kasim
 Prudence Halliwell
 Richard Burton
+Faried Anfasa Muluk
 Faried Anfasa Moeloek
 Stefano Mauri
 Simone Del Nero
@@ -4477,7 +4588,6 @@ Cristian Zenoni
 Hyakken Uchida
 Carol Reed
 Nagita Slavina
-The brilliant green
 Nadia Mulya
 Nana Khairina
 Robbie Coltrane
@@ -4502,6 +4612,7 @@ Ellen Burstyn
 Francis Ford Coppola
 WaT
 Ron Paul
+Ju Biden
 Joe Biden
 Narji
 Natasha Chairani
@@ -4519,6 +4630,7 @@ Gary Iskak
 Netta Puspita
 Nia Paramitha
 Surya Suryadi
+Haley Jul Osment
 Haley Joel Osment
 Abdur Rahman Farès
 Daniel Day-Lewis
@@ -4610,11 +4722,13 @@ Carlos Saavedra Lamas
 Mike Lewis
 Mario Capecchi
 Grace Simon
+Arie Kusmiran
 Arie Koesmiran
 Ray Sahetapy
 Mike Muliadro
 Frank Wilczek
 Dewi Puspa
+Henidar Amru
 Henidar Amroe
 Dwi Sasono
 Eddie Karsito
@@ -4631,6 +4745,7 @@ Alyson Hannigan
 Vicente López y Planes
 Adolf Schärf
 Eddy Silitonga
+Herbert Krumer
 Herbert Kroemer
 Good Charlotte
 Doris Callebaute
@@ -4662,6 +4777,7 @@ Nita Tilana
 Telly Savalas
 Dodo Zakaria
 Ifa Isfansyah
+Sudarpo Sastrosatomo
 Soedarpo Sastrosatomo
 Mae West
 James Stewart
@@ -4710,6 +4826,7 @@ Makki
 Onci
 Rowman
 Enda
+Ratno Timur
 Ratno Timoer
 Jefri Al Buchori
 Anthony Minghella
@@ -4793,6 +4910,7 @@ Rudy Gunawan
 Peter Schmeichel
 Bae Yong Joon
 Roger Vadim
+Nicolas Rug
 Nicolas Roeg
 Jacques Rivette
 Juliette Gréco
@@ -4801,7 +4919,9 @@ Mr. Children
 Big Dicky
 Rafika Duri
 Farid Hardja
+Maya Sutoro-Ng
 Maya Soetoro-Ng
+Teddy Suriaatmadja
 Teddy Soeriaatmadja
 Eddie Vedder
 T2
@@ -4827,6 +4947,7 @@ Rica Matsumoto
 Rasmus Lerdorf
 Vira Yuniar
 Trio Macan
+Hary Tanusudibjo
 Hary Tanoesoedibjo
 Ong Eng Die
 Charles Durning
@@ -4842,6 +4963,7 @@ Leslie Nielsen
 Donald Tusk
 Kenneth G. Wilson
 Klaus von Klitzing
+Ju Zawinul
 Joe Zawinul
 Yadi Timo
 Christopher Reeve
@@ -4910,6 +5032,7 @@ Peter Finch
 Ken Hirai
 Ermy Kullit
 Dian Piesesha
+Jul Roberts Poinsett
 Joel Roberts Poinsett
 Malyda
 January Christy
@@ -4981,6 +5104,7 @@ Rachmat Hidayat
 Connie Sutedja
 Victoria Margareta
 Misbach Yusa Biran
+Lumongga
 Loemongga
 Anneke Grönloh
 Patricio Aylwin Azócar
@@ -5099,6 +5223,7 @@ Justina Machado
 Terrence C. Carson
 David Paetkau
 Mayumi Gojo
+Ju Odagiri
 Joe Odagiri
 Richard Matheson
 Lillian Moller Gilbreth
@@ -5138,7 +5263,6 @@ Mutia Datau
 Dhalia
 Delapan Rusa Cakar Jaguar
 Village People
-Kool & The Gang
 Ida Kusumah
 Anneke Putri
 Herman Felani
@@ -5186,6 +5310,7 @@ Sean Biggerstaff
 Fandy Santoso
 Leon Agusta
 Arie Apriludy
+Ju Elliott
 Joe Elliott
 Enteng Tanamal
 Rudy Choirudin
@@ -5243,6 +5368,7 @@ Velvet Revolver
 S. Bono
 Oemar Seno Adji
 Steven Tyler
+Murdiono
 Moerdiono
 Iwan Tirta
 Dana International
@@ -5268,6 +5394,7 @@ Pak Tile
 Mia Audina Tjiptawan
 Mandra
 Mat Solar
+Juy Kramer
 Joey Kramer
 Li Chun
 Brad Whitford
@@ -5313,6 +5440,7 @@ Faye Wong
 Doyok
 Kadir
 Nani
+Ratna Sari Dewi Sukarno
 Ratna Sari Dewi Soekarno
 Ben Joshua
 Fung Permadi
@@ -5349,6 +5477,7 @@ Nawi Ismail
 James Blunt
 Purwacaraka
 Donny Fattah
+Ronald Kuman
 Ronald Koeman
 Nico Siahaan
 Dimas Beck
@@ -5356,10 +5485,12 @@ Aida Nurmala
 Amr Zaky
 Rachel Carson
 Mary Harris
+Abadi Susman
 Abadi Soesman
 Mega Utami
 Sultan Djorghi
 Mang Dudung
+Suroso
 Soeroso
 Carissa Putri
 Sojourner Truth
@@ -5385,6 +5516,7 @@ Christian Clavier
 Log Guns
 Melissa Karim
 Henri Camara
+Willem Dafu
 Willem Dafoe
 Adul
 Alvin Adam
@@ -5397,7 +5529,6 @@ Darussalam
 Casper Van Dien
 Bill Murray
 Megumi Hayashibara
-The Tielman Brothers
 Afgansyah Reza
 Mayangsari
 María Isabel
@@ -5430,7 +5561,6 @@ Pitrajaya Burnama
 Cahaya Mustika
 Metha Yunatria
 Aice5
-The Black Eyed Peas
 George Grey
 Ayaka
 Lia
@@ -5468,6 +5598,7 @@ Desi Florita
 Nadila
 Fatur
 New York Philharmonic
+Suripto
 Soeripto
 Ali Syakieb
 Bullet For My Valentine
@@ -5486,6 +5617,7 @@ Tom Welling
 Adam Baldwin
 George Gordon Byron
 Brandon Routh
+Juy Jordison
 Joey Jordison
 Chris Pattikawa
 Element
@@ -5584,6 +5716,7 @@ Dino Zoff
 Halimah Agustina Kamil
 Eiji Wentz
 Acoustic Alchemy
+Anto Hud
 Anto Hoed
 Mang Koko
 Yves Leterme
@@ -5693,6 +5826,7 @@ George Lam
 Gigi Leung
 Léopold Sédar Senghor
 Ken Livingstone
+Juy Yung
 Joey Yung
 Twins
 Vincy Chan
@@ -5717,6 +5851,7 @@ Jean-Baptiste-Gabriel-Joachim Dausset
 Johann Deisenhofer
 Brendan Fraser
 Sonny Chiba
+Kartika Sari Dewi Sukarno
 Kartika Sari Dewi Soekarno
 Colin Salmon
 Henry Wadsworth Longfellow
@@ -5837,10 +5972,10 @@ Tony Gunawan
 Burt Bacharach
 Chage and Aska
 Syahrial Oesman
-The Wynners
 Jerry Yang
 Widjojo Nitisastro
 Ali Wardhana
+Frank Lebuuf
 Frank Leboeuf
 Sawung Jabo
 Tetty Liz Indriati
@@ -5870,7 +6005,6 @@ Fairuz A Rafiq
 Gunawan Sudradjat
 Alessandro Faiolhe Amantino Mancini
 Chieko Kawabe
-The Changcuters
 Dewiq
 Gerard Piqué
 Vincenzo Grella
@@ -5881,6 +6015,7 @@ Marcelo Zalayeta
 Georgios Samaras
 Kana Ueda
 Katinka Dasiah
+Manul de Oliveira
 Manoel de Oliveira
 Manoel
 Oliveira
@@ -5901,9 +6036,7 @@ Saleh Ali
 Gillian Chung
 Luigi Di Biagio
 Siti Hartati Murdaya
-The Blue Hearts
 Dima Bilan
-The Veronicas
 Tracy Chapman
 Flo Rida
 Michel Suleiman
@@ -6004,6 +6137,7 @@ Melody.
 R. Mas Sewaka
 Murdjani
 Datuk Djamin
+Manteb Sudharsono
 Manteb Soedharsono
 Jeff Gordon
 Andreas Herzog
@@ -6062,6 +6196,7 @@ Tasha Khalida
 Paola Tobing
 Evangeline Lilly
 Tahmoh Penikett
+Katherine Munnig
 Katherine Moennig
 Ariel Lin
 Keenan Nasution
@@ -6366,11 +6501,14 @@ Jason Alexander
 Dan Aykroyd
 Janeane Garofalo
 Volland Humonggio
+Jeremias Nyangun
 Jeremias Nyangoen
 Ferry Maryadi
+Badjuri Widagdo
 Badjoeri Widagdo
 Baron Soulmates
 Meggy Z
+Ju Taslim
 Joe Taslim
 Sharena Rizki
 Yoshitaka Tamba
@@ -6408,7 +6546,6 @@ Alain Delon
 Zivanna Letisha Siregar
 Eno Sigit
 Keish
-Panic! at the Disco
 Helen Zille
 Nicky Hilton
 He Hanbin
@@ -6473,6 +6610,7 @@ Zulkifli Nurdin
 Usman Ja'far
 Iie Sumirat
 Bob Paisley
+Ju Fagan
 Joe Fagan
 Viona Rosalina
 Roy Evans
@@ -6483,8 +6621,10 @@ Patrick Tang
 Rolando Bianchi
 Ian Callaghan
 Jan Mølby
+Moju
 Mojoe
 Tania Hardjosubroto
+Phube Cates
 Phoebe Cates
 Dominique A
 Kelvin Anggara
@@ -6504,6 +6644,7 @@ Jennifer Beals
 Sudirman Arshad
 Maud Adams
 Desmond Llewelyn
+Lolo Sutoro
 Lolo Soetoro
 Bill Cosby
 Sarah Palin
@@ -6516,7 +6657,6 @@ Rustriningsih
 Madeline Kahn
 Groove Coverage
 Melanie Munch
-The Sisters
 John Toshack
 Lidya Lau
 New Eta
@@ -6536,7 +6676,6 @@ Robert Wadlow
 Isabella Leong
 Roosilawaty
 Lostprophets
-The Used
 New Found Glory
 Jada Pinkett Smith
 Ibra Azhari
@@ -6605,6 +6744,7 @@ Mandala Shoji
 Eric Bana
 Tsubouchi Shoyo
 Ridley Scott
+Bram Mursas
 Bram Moersas
 Wendy Fitzwilliam
 Gary Sinise
@@ -6644,6 +6784,7 @@ Kartika Yudia Ramlan
 Emile Heskey
 Jerzy Dudek
 Masafumi Akikawa
+Amy Puhler
 Amy Poehler
 Jacob Zuma
 Jim Sturgess
@@ -6702,7 +6843,6 @@ Uriah Heep
 Electric Light Orchestra
 Louis-Ferdinand Céline
 Cliff Richard
-The Shadows
 The Supremes
 Chuck Berry
 Paul Sabatier
@@ -6712,7 +6852,6 @@ Nikolay Semyonov
 Phillip Allen Sharp
 William F. Sharpe
 Bill Haley & His Comets
-The Temptations
 The Yardbirds
 Janis Joplin
 Garth Brooks
@@ -6721,7 +6860,6 @@ Yoichiro Nambu
 Teuku Rifnu Wikana
 Anizabella Putri
 Robert Ludlum
-The Four Lads
 The Crew-Cuts
 Gordon Lightfoot
 Paulo Kassoma
@@ -6736,7 +6874,6 @@ Lemony Snicket
 Charles Gibson
 Anne Murray
 Andy Rooney
-The Stampeders
 Tara MacLean
 Richard Kruspe-Bernstein
 Karl Barry Sharpless
@@ -6813,6 +6950,7 @@ Brian Williams
 Ibrahim Kadir
 Dedy Lisan
 Lesik Kati Ara
+Abu Muse Azhari
 Abu Moese Azhari
 Salman Yoga S
 Fikar W. Eda
@@ -6822,8 +6960,9 @@ Porno Graffitti
 Dick Clark
 Max Robinson
 Slade
-The Moody Blues
+Sukmawati Sukarnoputri
 Sukmawati Soekarnoputri
+Yoga Sugomo
 Yoga Soegomo
 Maladi
 Cornelis
@@ -6831,6 +6970,7 @@ Lucy Wiryono
 Soraya Hylmi
 Paramore
 M. Night Shyamalan
+Zouy Deschanel
 Zooey Deschanel
 Calvin Michel Sidjaja
 Chubby Checker
@@ -6879,7 +7019,6 @@ Mike Patton
 Mary Parker Follett
 Bruce Springsteen
 Janet Reno
-The Specials
 Yousaf Raza Gillani
 Ann Dunham
 Edgar Rice Burroughs
@@ -6888,7 +7027,9 @@ Dylan Walsh
 MC Lyte
 Jeffrey Wright
 David Westin
+Juy Tempest
 Joey Tempest
+Sukarmen
 Soekarmen
 Iqbal Rais
 Noumira Sjahril
@@ -6930,7 +7071,6 @@ Vedran Smailovi?
 Hardi Fadhillah
 Fendi Trihartanto
 Adelia Rasya
-The Video
 Charis Yulianto
 Adrian B. Lapian
 Status Quo
@@ -6939,7 +7079,6 @@ O. Henry
 Álvaro Colom
 Titien Wattimena
 Rod Stewart
-The Faces
 Ronnie Wood
 Small Faces
 Butet Manurung
@@ -6948,7 +7087,6 @@ Hubert Ingraham
 Dean Barrow
 Ian Fleming
 Arcade Fire
-Echo & the Bunnymen
 The Streets
 Apisai Ielemia
 Pierre Wome
@@ -7005,6 +7143,7 @@ Teräsbetoni
 Rob Halford
 Glenn Tipton
 Whitesnake
+Dul Sumbang
 Doel Sumbang
 Abhisit Vejjajiva
 Pradikta Wicaksono
@@ -7047,7 +7186,6 @@ Charlotte Perrelli
 Vienna Philharmonic
 Jagostu
 Stinky
-The Rain
 Bob Bell
 Ade Surya Akbar
 Isnan Ali
@@ -7084,6 +7222,7 @@ Walter H. Schottky
 Moussa Dadis Camara
 Richard Clayderman
 Surono Reksodimedjo
+Rusmin Nurjadin
 Roesmin Noerjadin
 Ricardo Quaresma
 MahaDewi
@@ -7117,10 +7256,13 @@ Yasir Hadibroto
 Chris Watson
 Yakov Smirnoff
 Shoji Tabuchi
+Budiardjo
 Boediardjo
 Basofi Sudirman
 Abraham Octavianus Atururi
+Sularso
 Soelarso
+Sunandar Prijosudarmo
 Soenandar Prijosoedarmo
 Aspar Aswin
 Frédéric Kanouté
@@ -7162,6 +7304,7 @@ Demian Aditya
 Niniek L. Karim
 Mikha Tambayong
 Christiandy Sanjaya
+Sudjarwo
 Soedjarwo
 Hasjrul Harahap
 G.A. Siwabessy
@@ -7182,18 +7325,20 @@ Syarief Thayeb
 Tokugawa Tsunayoshi
 Betty Buckley
 Dudu Aouate
+Lasiyah Sutanto
 Lasiyah Soetanto
 Sulasikin Murpratomo
 Rachmat Saleh
 Sudrajad Djiwandono
 Syahril Sabirin
 Haryanto Dhanutirto
-White Shoes & The Couples Company
 Ariel Tatum
+Suratin Sosrosugondo
 Soeratin Sosrosoegondo
 Chaseiro
 Volodymyr Ohryzko
 János Bolyai
+Ju Mantegna
 Joe Mantegna
 Ayu Pratiwi
 Candra Darusman
@@ -7203,6 +7348,7 @@ Rosemary Clooney
 Angel Ibrahim
 Kings of Convenience
 Febby Lawrence
+Jerun Krabbé
 Jeroen Krabbé
 Roweina Umboh
 Claus von Stauffenberg
@@ -7216,7 +7362,6 @@ Wondoamiseno
 Konstantin Eduardovich Tsiolkovskii
 Syarif Kasim II
 Erlend Øye
-The Whitest Boy Alive
 Debby Kristy
 Lynn Redgrave
 David Arquette
@@ -7231,6 +7376,7 @@ Manuel Roxas
 Ridho Irama
 Sergio Osmeña
 Muchamad Ahadiyat
+Nani Sudarsono
 Nani Soedarsono
 Tahir Hadiwijoyo
 Mohammed Kamga
@@ -7248,7 +7394,6 @@ Melanie Griffith
 William Friedkin
 Jose P. Laurel
 Wikana
-The Pink Panther
 Jason Patric
 Jennifer Coolidge
 Jóhanna Sigurðardóttir
@@ -7278,6 +7423,7 @@ Pure Saturday
 Marisa Tomei
 Mentari
 Jajang Mulyana
+Sukarwo
 Soekarwo
 Ne-Yo
 Michelle Rodriguez
@@ -7291,7 +7437,6 @@ Herfiza Novianti
 Pompeius
 Sandy Denny
 Lee Hyun-il
-The Adams
 Juwita Maritsa
 Lian Firman
 Nina Shaqi
@@ -7424,7 +7569,9 @@ Leon Osman
 Salim Bungsu
 Udit Narayan
 Tatiek Maliyati
+Andry Rajulina
 Andry Rajoelina
+Miss Rukiah
 Miss Roekiah
 Lou Diamond Phillips
 Lee Dorrian
@@ -7457,13 +7604,13 @@ Buono!
 Miyabi Natsuyaki
 Airi Suzuki
 Momoko Tsugunaga
+Rachmawati Sukarnoputri
 Rachmawati Soekarnoputri
 Demi Lovato
 Ian Harte
 Christian Ziege
 Vidi Aldiano
 M. Shadows
-The Rev
 Zacky Vengeance
 Ulf Kirsten
 Andreas Köpke
@@ -7525,6 +7672,7 @@ Carlos Alberto Torres
 Bobby Moore
 Kevin Mitnick
 Márcio Amoroso
+Erwin Kuman
 Erwin Koeman
 Robert Enke
 Mario Gómez
@@ -7550,7 +7698,6 @@ Nílton Santos
 Djalma Santos
 Debby Ayu
 Omar Sívori
-The Fray
 Ángel López
 Gordon Bajnai
 George Abela
@@ -7567,7 +7714,6 @@ Egi Fedly
 Band Instinct
 Peter Chin Fah Kui
 Liow Tiong Lai
-The Clash
 Fanny Bauty
 Willebrord Snellius
 Joseph Black
@@ -7582,6 +7728,7 @@ Tuncay ?anl?
 Volkan Demirel
 Minami Minegishi
 Ismail Suny
+Ju Project P
 Joe Project P
 Jaume Bartumeu
 Hasan ?a?
@@ -7607,6 +7754,7 @@ Annie Wu
 Jan Shulga
 Jan Fischer
 Tomokazu Yoshida
+Mutojib
 Moetojib
 Mikel Arteta
 Gianluca Vialli
@@ -7633,9 +7781,9 @@ Asep Sumantri
 Tamás Hajnal
 Mesut Özil
 Zvjezdan Misimovi?
+Rustam Effendi
 Roestam Effendi
 Saleh Djasit
-The KUBS
 Ben Barnes
 Peter Bjorn and John
 Stephen Covey
@@ -7668,14 +7816,12 @@ Eiður Guðjohnsen
 Tsutomu Isobe
 Kris Allen
 Djamaludin Malik
-The Dance Company
 Yasuka Saito
 Channing Tatum
 Ayelet Zurer
 Legimin Raharjo
 Kevin Aprilio
 Moza Pramitha
-The Virgin
 Jean-François Champollion
 Freddie Highmore
 Grace Wijaya
@@ -7703,6 +7849,7 @@ Ken Loach
 Chris Pine
 Flanella
 Hirofumi Araki
+Ju Sandy
 Joe Sandy
 Kerenina Sunny Halim
 Oki Setiana Dewi
@@ -7781,6 +7928,7 @@ Chace Crawford
 Tuffy
 Lightning
 Topsy
+Mammy Two Shus
 Mammy Two Shoes
 Winda Amanta
 Tyke
@@ -7868,7 +8016,6 @@ Gerald Pangkali
 Heru Nerly
 Forrest Landis
 Brent Kinsman
-The Dodos
 Purnomosidi Hadjisarosa
 Thoyib Hadiwidjaja
 Morgan York
@@ -7923,6 +8070,7 @@ Barney Clark
 Mustapha Hadji
 Helsi Herlinda
 Bobby Robson
+Yul Vai
 Yoel Vai
 Nao Oikawa
 Armando Manzanero
@@ -7964,7 +8112,6 @@ Park Ji-bin
 Fernando Carrillo
 Haruka Suenaga
 Aya Ueto
-Alvin and the Chipmunks
 Marlon Renaldy
 Clinton Hart Merriam
 David de Lautour
@@ -7990,6 +8137,7 @@ AnnaSophia Robb
 Bailee Madison
 Haddad Alwi
 Daniel Jarque
+Yaya Muktio
 Yaya Moektio
 Masayuki Deai
 Noriko Sakai
@@ -8032,6 +8180,7 @@ Adam Hicks
 Rory Culkin
 Dominic West
 David Thewlis
+Adipati Kusmadji
 Adipati Koesmadji
 Tom Wisdom
 Amy Acker
@@ -8042,13 +8191,16 @@ Ria Enes
 Cameria Happy Pramita
 Dara Rizki Ruhiana
 Muhammad Ilyas
+A.R. Suhud
 A.R. Soehoed
 Suharnoko Harbani
 Asnawi Mangku Alam
 Yun Po Sun
 Martono
 Ben Mboi
+Haryati Subadio
 Haryati Soebadio
+Sudarsono Hadisaputro
 Soedarsono Hadisapoetro
 Denny Januar Ali
 Mudjono
@@ -8102,6 +8254,7 @@ Ion Antonescu
 James McFadden
 Stephen Carr
 Adriano Galliani
+Sjafrie Sjamsuddin
 Sjafrie Sjamsoeddin
 Alex Hood
 Giorgio Cantarini
@@ -8155,6 +8308,7 @@ Hayono Isman
 Eza Gionino
 Jusup Sitepu
 Kim Kibum
+Aaron Mokuna
 Aaron Mokoena
 Albert R. Broccoli
 John Utaka
@@ -8275,7 +8429,6 @@ Chris Wolstenholme
 Carol W. Greider
 Elizabeth Blackburn
 Jack W. Szostak
-The Potter's
 Renata Kusmanto
 Charles K. Kao
 Willard Sterling Boyle
@@ -8288,6 +8441,7 @@ Thomas A. Steitz
 Ada Yonath
 Thomas Doll
 Ada Lovelace
+Ju Jonas
 Joe Jonas
 Seme Pierre Pattrick
 Herta Müller
@@ -8356,6 +8510,7 @@ Salim Segaf Al-Jufri
 Helmy Faishal Zaini
 David Lambert
 Spencer Perceval
+Nila Djuwita Anfasa Muluk
 Nila Djuwita Anfasa Moeloek
 Philip Wiegratz
 Sterling Beaumon
@@ -8380,6 +8535,7 @@ Sergey Prokudin-Gorsky
 Dolley Madison
 Julia Gardiner Tyler
 Letitia Christian Tyler
+Gunarso
 Goenarso
 Muhammad Sjafei
 Christina Milian
@@ -8433,10 +8589,12 @@ Reza Pahlevi
 Lou Henry Hoover
 Mario Teguh
 Michio Kaku
+Elizabeth Kortright Monru
 Elizabeth Kortright Monroe
 Sena A. Utoyo
 Denny Sakrie
 Dipangkorn Rasmijoti
+Ashley Buttcher
 Ashley Boettcher
 Jimmy Bennett
 Khamani Griffin
@@ -8463,6 +8621,7 @@ Caroline Harrison
 Yericho Christiantoko
 Tri Windu
 Shindong
+Yuwanto Stya Beny
 Yoewanto Stya Beny
 Lee Hyun Woo
 Syamsir Alam
@@ -8590,6 +8749,7 @@ Lucas Till
 Sébastien Izambard
 Harjanto Prabowo
 Navy Rizky Tavania
+Ekki Sukarno
 Ekki Soekarno
 Olesya Rulin
 Matt Prokop
@@ -8629,7 +8789,6 @@ Aty Cancer Zein
 Marc Musso
 Michael Weatherly
 Vamps
-Tika and The Dissidents
 Coreana Agashi
 Dicky Cheung
 Titus Livius
@@ -8642,6 +8801,7 @@ Derrick Hanson
 Jang Geun-suk
 Jane Hadley Barkley
 Anita Hara
+Ken Kawan Sutanto
 Ken Kawan Soetanto
 Ivo Josipovi?
 Bradley Cooper
@@ -8671,6 +8831,7 @@ Paul Truswell
 Liestiadi
 Linda Lingle
 Jordan Nagai
+Juy Massey
 Joey Massey
 Sleep Warp
 Daniel Samonas
@@ -8699,6 +8860,7 @@ Hebe Camargo
 Spencer Breslin
 Mitchell Nye
 Leonard Roberts
+Tjokorda Gde Raka Sukawati
 Tjokorda Gde Raka Soekawati
 Kate Mulgrew
 Johan Ahmad Farizi
@@ -8717,6 +8879,7 @@ Katherine DeMille
 Aji Muhammad Salehuddin II
 Amparo Arozamena
 Martín Hernández
+Juy Pearson
 Joey Pearson
 Logan O'Brien
 Lee Seung-gi
@@ -8751,11 +8914,11 @@ David Miller
 Bobby Andrews
 Georgios Papadopoulos
 Solange Knowles
-The Cliks
 Mihail Kog?lniceanu
 Tudor Arghezi
 Lucian Blaga
 Mircea C?rt?rescu
+Aurelie Muremans
 Aurelie Moeremans
 Jasmine Jessica Anthony
 Samuel Honywood
@@ -8795,6 +8958,7 @@ Sonya Fatmala
 Jason Dolley
 Will Shadley
 Coralie Gerard
+Ginatri S. Nur
 Ginatri S. Noer
 Agim Çeku
 Hafiz
@@ -8839,6 +9003,7 @@ Afdhal
 James Clavell
 Ernest Satow
 George Sampson
+Sjachrudin Zainal Pagaralam
 Sjachroedin Zainal Pagaralam
 Syamsurya Ryacudu
 Yurnalis Ngayoh
@@ -8855,6 +9020,7 @@ Jordan Orr
 Grisel Margarita
 Howard Hughes
 Valery Leontiev
+Setyadjit Sugondo
 Setyadjit Soegondo
 Adam Lambert
 John Mellencamp
@@ -8867,6 +9033,7 @@ Rasiyo
 George MacKay
 N'dambi
 Erykah Badu
+Abdul Wahab Sjachranie
 Abdoel Wahab Sjachranie
 Lee Yo-won
 Jaguar Wright
@@ -8919,6 +9086,7 @@ Ernst W. Mayr
 Nova Soraya
 Ruzaidin Noor
 Yoris Sebastian
+William Surjadjaja
 William Soerjadjaja
 Sandra Dewi
 Ayu Dewi
@@ -8975,6 +9143,7 @@ Nguyen Khanh
 Lauren Conrad
 Sandiaga Salahudin Uno
 Oktovianus Maniani
+Billy Bun
 Billy Boen
 Hilman Hariwijaya
 Adriana Lima
@@ -9080,6 +9249,7 @@ Jane Irwin Harrison
 Sergey Lavrov
 Mihai Ghimpu
 Eva Köhler
+Sandra Rulofs
 Sandra Roelofs
 Jan Fischer
 Livia Klausová
@@ -9112,6 +9282,7 @@ Abul Kashem
 Cesare Lombroso
 Billy Unger
 Naelee Rae
+Juy Zimmerman
 Joey Zimmerman
 J
 Randall Bentley
@@ -9207,6 +9378,7 @@ Lewis Carroll
 Nicholas Hoult
 Lazzaro Spallanzani
 Francesco Redi
+Suwardi Idris
 Soewardi Idris
 Javier Fernández
 Astri Nurdin
@@ -9247,6 +9419,7 @@ Cees Paauwe
 Febby Angguni
 Wandly Yazid
 Leigh Lezark
+Candice Swanepul
 Candice Swanepoel
 Joserizal Jurnalis
 Coco Rocha
@@ -9319,6 +9492,7 @@ Freddy P. Zen
 Carlos Tenorio
 Hakan Yakin
 Katharine McPhee
+Tatalu
 Tataloe
 Thoby Mutis
 LaKisha Jones
@@ -9633,6 +9807,7 @@ Michiya Mihashi
 A. R. Rahman
 Willem Drees
 Home Made Kazoku
+Dolf Jukes
 Dolf Joekes
 Nana Mouskouri
 Dries van Agt
@@ -9777,6 +9952,7 @@ Greg Nwokolo
 Eric Arsène Bayemi Maemble
 Bertha
 Erie Suzan
+Renny Djajusman
 Renny Djajoesman
 Shamila Cahya
 Tuti Maryati
@@ -9838,7 +10014,6 @@ Kamaya
 Daman Hongren
 Ahmad Fuad Ismail
 Ucie Nurul
-The Letter Black
 Eka Deli
 Inke Prima
 William Booth
@@ -9850,6 +10025,7 @@ Saro Arcidiacono
 Omar Abdirashid Ali-Sharmarke
 Dike Ardilla
 Jerry In't Veld
+Yudi Khurudin
 Yudi Khoerudin
 Jejen Zaenal Abidin
 Muhammad Agung Pribadi
@@ -9865,7 +10041,6 @@ Honoré
 Balzac
 Gustave Flaubert
 Marie Corelli
-The Temper Trap
 Henry James
 Italo Calvino
 Tecumseh
@@ -9890,6 +10065,7 @@ F. Scott Fitzgerald
 Barry Gibb
 Robert G. Edwards
 Jawahir Thontowi
+Patrick Steptu
 Patrick Steptoe
 Andre K. Geim
 Konstantin Novoselov
@@ -9927,7 +10103,6 @@ Reza Mustofa
 Brand New Storm
 Procopius
 Hedwig
-Selena Gomez & the Scene
 Myles Jeffrey
 Nira Diana
 Syahrul Ujud
@@ -10081,7 +10256,6 @@ Keizo Obuchi
 Yoshiro Mori
 Basrief Arief
 Mikio Aoki
-KC and the Sunshine Band
 Heatwave
 Boney M.
 Ragdi F. Daye
@@ -10186,7 +10360,6 @@ Shota Arveladze
 Mohd Sabre Mat Abu
 Mohd Asraruddin Putra Omar
 Eric van der Woodsen
-The Lucky Laki
 Kim Hee-sun
 Mano Menezes
 Khairul Fahmi Che Mat
@@ -10234,6 +10407,7 @@ Ide
 Rizky Alatas
 Raline Shah
 Bart?omiej Bartosiak
+Juniar Arief
 Joeniar Arief
 Putri Ayu Silaen
 Maksim Shatskikh
@@ -10259,7 +10433,6 @@ Omelette
 Kuno Becker
 Keith Martin
 Míriam Colón
-The Arians
 Shane Graham
 Rebel Rodriguez
 KRU
@@ -10486,19 +10659,20 @@ Kie Nakai
 James Hal Cone
 Badrodin Haiti
 Katsuo Nakamura
+Rama Yaya Muktio
 Rama Yaya Moektio
 Gadiz
 Charly's Angels
 Ma99na
 Nadya Fatira
 Joan Gamper
+Rangga Dewamula
 Rangga Dewamoela
 Puan Maharani
 Charles Finney
 Nik Adruce
 Diselamatkan oleh anugerah
 Bisma Karisma
-SM the Ballad
 Francis George
 Rafael Landry Tanubrata
 Genjiro Arato
@@ -10550,6 +10724,7 @@ Hans Podlipnik-Castillo
 Pakubuwana XIII
 Fadli Zon
 Kadek Devie
+Tino Sarungallo
 Tino Saroengallo
 Lars Rasmussen
 Justin Rosenstein
@@ -10569,11 +10744,13 @@ Virginia Apgar
 Ivan Dodig
 Georgios Papanikolaou
 Ru?er Boškovi?
+Rukmini Sukarno
 Rukmini Soekarno
 Seiji Maehara
 Ryan Phillippe
 Shahbaz Bhatti
 Björn Phau
+Nanan Sukarna
 Nanan Soekarna
 Fiorello La Guardia
 Robert Farah Maksoud
@@ -10583,6 +10760,7 @@ Scotty McCreery
 Salimuzzaman Siddiqui
 Satyendra Nath Bose
 Srinivasa Ramanujan
+River Phunix
 River Phoenix
 Morgan Nicholls
 Samsul Arif
@@ -10624,6 +10802,7 @@ Lolita Putri
 Citra Kirana
 Zendaya
 Tania Putri
+Widy Sudiro Nichlany
 Widy Soediro Nichlany
 Alex O'Loughlin
 Ratu Tika Bravani
@@ -10645,20 +10824,19 @@ Marin ?ili?
 Yoon Young-kwan
 Surakiart Sathirathai
 Vijay K. Nambiar
+B. Lynn Pascu
 B. Lynn Pascoe
 James Randi
 Haya Rashed Al-Khalifa
 Morgan Baker
 Thomaz Bellucci
 Paolo Lorenzi
-The Smashing Pumpkins
 Nano
 Number One
 LVT
 Sahila Hisyam
 Song Min-soon
 Stanley Hauerwas
-The Cash
 Nusyirwan Ismail
 Paul Capdeville
 Javier Pastore
@@ -10757,6 +10935,7 @@ James Ussher
 Donald O'Connor
 Jack Wilshere
 Kardinal Richelieu
+Juy Suk
 Joey Suk
 Marcelo Demoliner
 Kieran Gibbs
@@ -10784,12 +10963,12 @@ Wilhelm von Humboldt
 7icons
 Milan Kundera
 Raquel del Rosario
-The Groove
 Putri Penelope
 Alan Gustafson
 Teddy Wilson
 Mutya Lorenza
 Tom Ewell
+Tjok Sinsu
 Tjok Sinsoe
 Soulvibe
 Soul ID
@@ -10895,6 +11074,7 @@ James, Viscount Severn
 Judith Lewis Herman
 Baby Niken
 IU
+Sisca Suwitomo
 Sisca Soewitomo
 Tatang
 Willem II
@@ -10903,10 +11083,10 @@ Ernest Townsend
 Jack DeJohnette
 Dhisa
 John Lipsky
-The Wanted
 George Turner
 Dasho Jigme Dorji Wangchuck
 Pat Metheny
+Ju McElderry
 Joe McElderry
 Marine Le Pen
 Josh Farro
@@ -10915,6 +11095,7 @@ Anthony Sauthier
 Nicolás Peñailillo
 Ferenc Rácz
 White Watson
+Wu, Is Me
 Woe, Is Me
 Song Seung-heon
 Alexis Sánchez
@@ -11009,6 +11190,7 @@ Erasmus Darwin
 John Hamilton Mortimer
 George I
 Jacob Salatun
+Rendra Sudjono
 Rendra Soedjono
 Winny Charita
 Pras Michel
@@ -11059,6 +11241,7 @@ Mike Lazaridis
 Gianpiero Combi
 Virginio Rosetta
 Felice Borel
+Pedro Passos Culho
 Pedro Passos Coelho
 Samuel Ward
 Adam Osborne
@@ -11185,7 +11368,6 @@ Rahmat Adianto
 Airis Emiliana
 Jumino Suhadi
 Titus Bonai
-The Cranberries
 Nadya Melati
 Tiara Rosalia Nuraidah
 Gebby Ristiyani Imawan
@@ -11207,6 +11389,7 @@ Anuar Zain
 Riza Shahab
 Phan Dinh Phung
 Robert Whittaker
+Carl Wuse
 Carl Woese
 Giovanni Boccaccio
 Yoon Chan
@@ -11315,6 +11498,7 @@ Kimun Ongkosandjojo
 Cornelis Weber
 Henk Badings
 Ryan Kelley
+André Burstra
 André Boerstra
 Gugum Gumbira
 Jan Hanlo
@@ -11348,6 +11532,7 @@ Ricardo Gabriel Álvarez
 Luca Castellazzi
 Ivan Toplak
 Pierre Fitch
+Wiel Curver
 Wiel Coerver
 Shandy Susilo Ridjali
 H.C. Klinkert
@@ -11435,7 +11620,6 @@ Michelle Williams
 Hyun Bin
 William Richardson Linton
 Muhammad Nur Maulana
-Forever the Sickest Kids
 Brendan Hines
 Arctic Monkeys
 Edward Harrigan
@@ -11523,6 +11707,7 @@ Jenna Gozali
 Damian McGinty
 Ram Soraya
 Chand Parwez Servia
+Budi Susilo Supandji
 Budi Susilo Soepandji
 Eliza Dushku
 Ellen Pompeo
@@ -11534,8 +11719,8 @@ Aries Budiman
 Fernando Garibay
 Maria Aragon
 Christoffer Nelwan
+Fábio Cuntrão
 Fábio Coentrão
-The Adly's
 Lee Joon
 Val Valentino
 Debbie Harry
@@ -11578,6 +11763,7 @@ Amel Carla
 Eriska Reinisa
 Alexey Zhigalkovich
 Anisa Rahma
+Liliana Tanaja Tanusudibjo
 Liliana Tanaja Tanoesoedibjo
 Sabino Barinaga Alberdi
 Rafael Martín Vázquez
@@ -11876,7 +12062,6 @@ Andy Hunter
 Song Chang-ui
 Balthasar Kambuaya
 Hiroshi Arikawa
-The Stone Roses
 Amir Syamsuddin
 Takako Okamura
 Riefian Fajarsyah
@@ -11885,6 +12070,7 @@ Roberto Boninsegna
 Dead by April
 Rio Matsumoto
 Keith David
+Christy Saura Nula Unu
 Christy Saura Noela Unu
 Ronny Setiawan
 Henrique Hilário
@@ -11922,12 +12108,15 @@ Andre Hardjana
 Aoh K. Hadimaja
 Asahan Alham
 Astama
+B. Sularto
 B. Soelarto
+Bakdi Sumanto
 Bakdi Soemanto
 Basyral Hamidy Harahap
 Beni Setia
 Eka Budianta
 Ferdinand Wiggers
+Jubaar Ajub
 Joebaar Ajoeb
 Mochtar Pabottingi
 Kuslan Budiman
@@ -11940,9 +12129,11 @@ Saadah Alim
 Saini KM
 Salim Said
 Satyadharma
+Suprijadi Tomodihardjo
 Soeprijadi Tomodihardjo
 Surachman RM.
 Sutrisno Martoatmojo
+Tuti Heraty
 Toeti Heraty
 Toha Yahya Omar
 Ahmad Syadali
@@ -11953,6 +12144,7 @@ Chye Retty Isnendes
 Ellen G. White
 Marina Eva
 Helenio Herrera
+Mahmud Junus
 Mahmoed Joenoes
 Ahmad Bakri
 Muhammad Wahib Wahab
@@ -11970,12 +12162,16 @@ Bondan Prakoso & Fade 2 Black
 Park Ji-Yeon
 Djan Faridz
 Ichlasul Amal
+Sukanto Reksohadiprodjo
 Soekanto Reksohadiprodjo
 Mohammad Adnan
 Jerry Finn
+Suroso Prawirohardjo
 Soeroso Prawirohardjo
+Supojo Padmodiputro
 Soepojo Padmodipoetro
 Nazir Alwi
+Sunarjo
 Soenarjo
 Sylvia Fully
 Nurhayati Ali Assegaf
@@ -11995,6 +12191,7 @@ Alec Campbell
 Peto Coast
 Jason Crew
 Wardana
+Abdul Kahar Muzakir
 Abdoel Kahar Moezakir
 Bishweshwar Prasad Koirala
 Kasmat Bahuwinangun
@@ -12098,6 +12295,7 @@ Ewil-Merodakh
 Sh? Tai
 Flórián Albert
 Paul Mattick
+Antonie Pannekuk
 Antonie Pannekoek
 Corinna Schumacher
 Imelda Soraya
@@ -12134,6 +12332,7 @@ Vania Larissa
 Blake Michael
 Henri Poincaré
 Maria Canals Barrera
+Chlu Bridges
 Chloe Bridges
 Margo Harshman
 Rumer Willis
@@ -12160,6 +12359,7 @@ Anwaruddin
 Denise Perrier
 Rod Barry
 Farley Granger
+Abdul Gaffar Pringgodigdo
 Abdoel Gaffar Pringgodigdo
 Vista Putri
 Wojciech Szcz?sny
@@ -12175,6 +12375,7 @@ Thomas Sebastian
 Alonso Fernández Alvarez
 Jeffrey Zheng Yu Guang
 I Gede Siman Sudartawa
+Edwin Suryadjaya
 Edwin Soeryadjaya
 Novel American
 Yuna
@@ -12213,6 +12414,7 @@ Infinite
 Portia Doubleday
 Paul Ekman
 Han Geng
+Muljatno
 Moeljatno
 Asmir Begovi?
 Mahmoud Jibril
@@ -12301,6 +12503,7 @@ Madison De La Garza
 Justin Bartha
 Jo Hyeon-jae
 Anggara Mulia
+Sonny Munru
 Sonny Munroe
 José Manuel Flores Sánchez
 Florian Mayer
@@ -12397,6 +12600,7 @@ Dipa Nandastyra Hasibuan
 Erick Nindyoastomo
 Tantri Syalindri Ichlasari
 Unggung Cahyono
+Christopher Luak
 Christopher Loeak
 Johan Maurits Mohr
 Gege Elisa
@@ -12409,6 +12613,7 @@ Sutan Anwar
 Jamadevi
 Joo Min Soo
 Nicolas Steno
+Yulitta Palar
 Yoelitta Palar
 Coboy Junior
 Azmi Bishara
@@ -12417,6 +12622,7 @@ Hendro Siswanto
 Luis Jiménez de Asúa
 Luis Jiménez
 Asúa
+Sunardjo Abu Ngusman
 Soenardjo Abu Ngusman
 Bagus Karyanegara
 Kang Min Hyuk
@@ -12426,12 +12632,10 @@ Miho Miyazaki
 Manami Oku
 Aika ?ta
 Ami Maeda
-The Junas Monkey
 Asuka Kuramochi
 Rocker Kasarunk
 Misaki Iwasa
 Mika Komori
-The Zakies
 Merah Delima
 Antik
 Second Civil
@@ -12440,8 +12644,8 @@ James Bond
 Amina Sat?
 Sumire Sat?
 Melly Herlina
+Muno Nit?
 Moeno Nit?
-The Banery
 Emmy Labib
 Irene Sáez
 Stephen Geoffreys
@@ -12490,6 +12694,7 @@ Nike Kusmarini
 Mariko Shinoda
 Mitchie Torres
 Nogizaka46
+Isyana Bagus Oka
 Isyana Bagoes Oka
 Fenny Anastasia
 Fitri Ekawati
@@ -12509,6 +12714,7 @@ Sylvia Hitchcock
 Seo Ji-hye
 Nam Gyu-Ri
 Not Yet
+Pudjono Pranyoto
 Poedjono Pranyoto
 Clara Sinta
 Watarirouka Hashiritai 7
@@ -12690,6 +12896,7 @@ Hendra Bartholomeus
 Bennedict Alwin Surya
 Indra Fachmi Bobby
 Shoji Nishio
+Siha Sukarno
 Siha Soekarno
 Sharif Cicip Sutarjo
 Ezra Miller
@@ -12729,6 +12936,7 @@ Henrikh Mkhitaryan
 Abdul Manaf Mukhayyar
 Óscar Sonejee
 Tomas Danilevi?ius
+Meilinda Surjoko
 Meilinda Soerjoko
 Andres Oper
 Jules Rimet
@@ -12785,6 +12993,7 @@ Gazza Zubizareta
 Bosson
 Pat Jennings
 Mutiara Dea
+Ed Zulverdi
 Ed Zoelverdi
 Nil Maizar
 Fifie Buntaran
@@ -12865,7 +13074,6 @@ Bobby Darin
 DeAndre Brackensick
 Skylar Laine
 Raynald
-Nick Jonas & The Administration
 Rick Santorum
 Bill O'Reilly
 Roberto Di Matteo
@@ -12895,6 +13103,7 @@ Andrew Graham
 John Russell Hind
 Giorgino Abraham
 Kim Sung-soo
+Ju Landon
 Joe Landon
 Ivy Batuta
 Herbert Chapman
@@ -12923,6 +13132,7 @@ Hans Krankl
 Okie Agustina
 Dylan Gould
 Sofia Coppola
+Sutjipto Suntoro
 Soetjipto Soentoro
 Isaac Durnford
 Shania Junianatha
@@ -12931,6 +13141,7 @@ Steve Slater
 Hasyim Kipuw
 Tiz Zaqyah
 Zaquan Adha Abdul Razak
+Djohan Sjahruzah
 Djohan Sjahroezah
 Pierre Bouvier
 Ahmad Husein
@@ -13128,6 +13339,7 @@ Tim Ream
 Mark Connolly
 Tom Eaves
 Adam Blakeman
+Ju Riley
 Joe Riley
 Lily Collins
 Gregg Wylde
@@ -13202,6 +13414,7 @@ Adam Johnson
 Stuart Taylor
 Stefan Savi?
 Gareth Barry
+Ju Hart
 Joe Hart
 Costel Pantilimon
 Gunnar Nielsen
@@ -13339,6 +13552,7 @@ Aris Budiharti
 Dian Fitriani
 J. Bruce Ismay
 Edward Smith
+Robert Zullick
 Robert Zoellick
 Lee Sang-Min
 Hilaria Aguinaldo
@@ -13370,6 +13584,7 @@ Alejandro Faurlín
 Jamie Mackie
 Ákos Buzsáky
 Bruno Perone
+Juy Barton
 Joey Barton
 Samir Carruthers
 Rob Hulse
@@ -13440,6 +13655,7 @@ Takeshi Aono
 Prattyoda Bhayangkara
 Mohammed Ghaddar
 Lacine Kone
+Ahmad Bustamam
 Ahmad Boestamam
 Parvathy Soman
 Elvis Nelson Anes
@@ -13480,6 +13696,7 @@ Federico Bessone
 José Moreira
 Àngel Rangel
 Darnel Situ
+Ju Allen
 Joe Allen
 Drew Seeley
 Yoo Wook-Jin
@@ -13495,6 +13712,7 @@ Belinda Hanrisna Fueza
 Kemy Agustien
 Mark Gower
 Ashley Richards
+Ju Walsh
 Joe Walsh
 Khansa Dinar Adibah
 Casey Thomas
@@ -13650,6 +13868,7 @@ Honoré Gabriel Riqueti, comte
 Mirabeau
 Super Junior-Happy
 Björn Kuipers
+Pedro Prunça
 Pedro Proença
 Craig Thomson
 Damir Skomina
@@ -13739,6 +13958,7 @@ Avraam Papadopoulos
 Sokratis Papastathopoulos
 Kyriakos Papadopoulos
 Grigoris Makos
+Peron Satu
 Peron Satoe
 Noboru Ishiguro
 Giorgos Karagounis
@@ -13767,6 +13987,7 @@ James Sie
 Shinvi
 Lee Yeon Hee
 M.I.L.K
+Alan Dzaguv
 Alan Dzagoev
 Mark Harmon
 Igor Semshov
@@ -13813,6 +14034,7 @@ Simon Rolfes
 André Schürrle
 Shyla Stylez
 Johann Stamitz
+Andreas Suratman
 Andreas Soeratman
 Eduardo Carvalho
 Rui Patrício
@@ -13856,6 +14078,7 @@ Yann M'Vila
 Jérémy Menez
 Loïc Rémy
 Bafétimbi Gomis
+Jirumon Kimura
 Jiroemon Kimura
 Roppa Furukawa
 Aishah
@@ -13968,6 +14191,7 @@ Putri Estelle, Duchess of Östergötland
 Hitomi Kamanaka
 Benni Setiawan
 Przemys?aw Tyto?
+Sebastian Bunisch
 Sebastian Boenisch
 Damien Perquis
 Eugen Polanski
@@ -14086,8 +14310,10 @@ Jeane Phialsa
 Dedy Sudrajat
 Ryan Tedder
 Hot Chelle Rae
+Sumono
 Soemono
 Otong Kosasih
+Kuntoadji
 Koentoadji
 Doddy Achdiat Tisna Amidjaja
 Lilik Hendrajaya
@@ -14101,10 +14327,13 @@ Robert Peary
 Irianti Erningpraja
 Khaldoon Al Mubarak
 Ventje Sumual
+M Nur Muis
 M Noer Muis
 Abdul Madjid Ibrahim
 Zaini Abdullah
+Abdurrahman Sayuti
 Abdurrahman Sayoeti
+Sudjana Sapi'ie
 Soedjana Sapi'ie
 Martin Wolf
 Thibaut Courtois
@@ -14114,6 +14343,7 @@ Krista Voda
 Saartje Specx
 Walter Shewhart
 Billy Meredith
+Ju Mercer
 Joe Mercer
 Malcolm Allison
 Habel Melkias Suawe
@@ -14131,6 +14361,7 @@ Jeremy Rosado
 Erika Van Pelt
 Shannon Magrane
 Jessica Sanchez
+Juy Saldana
 Joey Saldana
 Suzanne Collins
 Gilbert Gottfried
@@ -14144,7 +14375,6 @@ Struggle of youth
 Zenz? Kasai
 Katniss Everdeen
 Peeta Mellark
-Daftar karakter The Hunger Games
 Regina Ivanova
 Louis XVIII
 Kamasean Matthews
@@ -14166,6 +14396,7 @@ Pater Sparrow
 Thuan Thien
 Narsha
 Jaejoong
+Haryo Pramu
 Haryo Pramoe
 Doug Savant
 Nicholas Sparks
@@ -14336,12 +14567,14 @@ Huh Gak
 BtoB
 Carly Rae Jepsen
 Leonard Blussé
+Djuhana Wiradikarta
 Djoehana Wiradikarta
 Block B
 Lee Jung Shin
 Murray Walker
 Dzhokhar Dudayev
 Dick Berggren
+Mudomo Sudigdomarto
 Moedomo Soedigdomarto
 Oceana Mahlmann
 Bakri Siregar
@@ -14357,6 +14590,7 @@ Neil Young
 Tony Book
 Aleksandr Vyacheslavovich Zhirov
 Yevgeni Zhigayev
+Ju Corrigan
 Joe Corrigan
 Denis Law
 Jens Johansson
@@ -14379,6 +14613,7 @@ Dipo Alam
 Ali Ghufron Mukti
 Lin Bo Hong
 Kangta & Vanness
+Hariadi Paminto Supangkat
 Hariadi Paminto Soepangkat
 Djuanda Suraatmadja
 Nayef
@@ -14460,6 +14695,7 @@ Wizzow
 Simone Padoin
 Alessio Tacchinardi
 Barthold Georg Niebuhr
+Ryan Briscu
 Ryan Briscoe
 Drie Warnanta
 Jeff Hammond
@@ -14492,6 +14728,7 @@ Kim Kibum
 Minzy
 Park Bom
 Hideyo Noguchi
+Nahza Subijakto
 Nahza Soebijakto
 Meimi Tamura
 Alexander Lee Eusebio
@@ -14502,7 +14739,6 @@ Kyary Pamyu Pamyu
 Helmut Schön
 Antonín Panenka
 Omar Milanetto
-The Script
 Rizky Nazar
 Danny O'Donoghue
 Tsunku
@@ -14522,6 +14758,7 @@ Erina Mano
 Azrul Azwar
 Rizky Julio
 Alexander Aan
+Sutedjo
 Soetedjo
 Piet Mondrian
 Rainilaiarivony
@@ -14601,6 +14838,7 @@ Peyton List
 Robert Capron
 Grayson Russell
 Lois Chiles
+Juy King
 Joey King
 Michael Lonsdale
 Corinne Clery
@@ -14676,7 +14914,6 @@ Sawako Hata
 Richard von Krafft-Ebing
 Thorgan Hazard
 John Dramani Mahama
-The Tremeloes
 Rahmah El Yunusiyyah
 Lot Jones
 Eli Fletcher
@@ -14692,6 +14929,7 @@ Airi Furukawa
 Manatsu Mukaida
 Miki Yakata
 Nirwan Dewanto
+Ju Royle
 Joe Royle
 J. M. Ziman
 Frank Clark
@@ -14813,6 +15051,7 @@ M. Ali Yacob
 Jeremy Clarkson
 Richard Hammond
 James May
+Poorwo Sudarmo
 Poorwo Soedarmo
 Marzuki Daud
 Aziz Syamsuddin
@@ -14827,10 +15066,12 @@ Hayu Dyah Patria
 Andi Taufan Garuda Putra
 Anglurah Agung
 Christopher Seeley
+Ju Foster
 Joe Foster
 Aelita Schaeffer
 Gabriela Margareth Warouw
 Chan Santokhi
+Dean Phunix
 Dean Phoenix
 Yogi Ahmad Erlangga
 Hulk
@@ -14874,6 +15115,7 @@ Robbie Fowler
 Sarifuddin Sudding
 Muhidin M. Said
 Stefanny Margaretha Aay
+Diana Widura
 Diana Widoera
 Stephen Wolfram
 Nick Dean
@@ -14894,7 +15136,6 @@ Nurmawati Dewi Bantilan
 Imela Kei
 Pussy Riot
 Yu Wenxia
-The Blue
 Son Ji Chang
 Kim Isak
 Lina
@@ -14902,6 +15143,7 @@ Muhammad Idris Luthfi
 Ibrahim Sakty Batubara
 Hasrul Azwar
 Abdul Wahab Dalimunthe
+Sutan Bhatugana
 Sutan Bhatoegana
 Sri Novida
 Jafar Nainggolan
@@ -14949,6 +15191,7 @@ Alex Pearce
 Adrian Mariappa
 Mikele Leigertwood
 Adam le Fondre
+Nul Hunt
 Noel Hunt
 Garath McCleary
 Jimmy Kébé
@@ -15035,6 +15278,7 @@ Modibo Maïga
 Matthew Taylor
 Harry Styles
 Mark Noble
+Juy O'Brien
 Joey O'Brien
 Gary O'Neil
 Carol Thatcher
@@ -15044,6 +15288,7 @@ Pablo Thiam
 Ciriaco Sforza
 César Sánchez
 Alfred Roberts
+Ichsan Sulistio
 Ichsan Soelistio
 Salmaneser III
 Iskandar Widjaja
@@ -15095,6 +15340,7 @@ Jeong Bo-seok
 Arin
 Seo Young-joo
 Ashley Westwood
+Sierra Sutedjo
 Sierra Soetedjo
 Yoon Yeo-jeong
 Vienna Fridiana
@@ -15114,10 +15360,12 @@ Matija Nastasi?
 Cynomadeus
 Lee Minhyuk
 Jordan Bowery
+Ju Bennett
 Joe Bennett
 Matthew Lowton
 Graham Burke
 Benjamin Siegrist
+Vadis Odjidja-Ofu
 Vadis Odjidja-Ofoe
 Luke Garbutt
 Conor McAleny
@@ -15132,6 +15380,7 @@ Diego
 Silva Costa
 João Miranda
 Domingo Cisma González
+Jul Robles
 Joel Robles
 Óliver Torres
 Yahdil Abdi Harahap
@@ -15168,6 +15417,7 @@ Alejandro Pozuelo
 Paulo Afonso Santos Júnior
 Adrián San Miguel del Castillo
 Salva Sevilla
+Jul Campbell
 Joel Campbell
 Salvador Agra
 Jorge Molina Vidal
@@ -15277,6 +15527,7 @@ Callum Driver
 George Moncur
 Robert Hall
 Fraser Fyvie
+Jordan Mustu
 Jordan Mustoe
 Daniel Redmond
 Rob Kiernan
@@ -15427,7 +15678,6 @@ Stefano Colantuono
 Katie Findlay
 Torrance Coombs
 Brock Kelly
-Fly to the Sky
 Angsa dan Serigala
 Nakoula Basseley Nakoula
 Gianluca Curci
@@ -15448,8 +15698,8 @@ Mikel Rico Moreno
 Pape Diakhaté
 Brayan Angulo
 Hassan Yebda
+Sumardi
 Soemardi
-The Civil Wears Monza
 Jimi Mistry
 Sultan Said Ali
 Said Umar
@@ -15577,6 +15827,7 @@ Mario Paglialunga
 Carter Burwell
 Kate Bracks
 Tomas Tranströmer
+Ju Hin Tjio
 Joe Hin Tjio
 Alejandro Darío Gómez
 Blazej Augustyn
@@ -15716,6 +15967,7 @@ Ivo Pulga
 Cesare Bovo
 Damiano Ferronetti
 Marco Rossi
+Nul Streatfeild
 Noel Streatfeild
 Asier Riesgo
 Marc Bertrán Vilanova
@@ -15772,6 +16024,7 @@ Morten Strange
 Serge Haroche
 David J. Wineland
 McDonald Mariga
+Jul Chukwuma Obi
 Joel Chukwuma Obi
 Walter Gargano
 Vid Belec
@@ -15879,6 +16132,7 @@ Syamsu Djalal
 Syaiful Sulun
 Matuzalém
 Antonio Candreva
+Mien Sudarpo
 Mien Soedarpo
 Ettore Mendicino
 Risa Yoshiki
@@ -16040,8 +16294,11 @@ Paco Jémez
 Li Xiannian
 Tomonobu Togasaki
 Yang Shangkun
+Yaumil Agus Achir
 Yaumil Agoes Achir
+Utami Rusli
 Utami Roesli
+Rushan Rusli
 Roeshan Roesli
 Dieter Elsneg
 Alain Chabat
@@ -16391,6 +16648,7 @@ Diyego Malaniya
 Sergei Gushchin
 Francis Weston Sears
 Pablo Daniel Osvaldo
+Mauro Goicuchea
 Mauro Goicoechea
 Miralem Pjani?
 Nicolás López
@@ -16928,6 +17186,7 @@ Bertrand Laquait
 Aldo Angoula
 Yannick Sagbo
 Yusuf Mahardika
+Bur Mauna
 Boer Mauna
 Cédric Mongongu
 Cédric Cambon
@@ -16940,7 +17199,6 @@ Fabrice Ehret
 Saber Khelifa
 Pascal Dupraz
 Florent Balmont
-The Tokens
 Xherdan Shaqiri
 Lucas Digne
 Idrissa Gana Gueye
@@ -16951,7 +17209,6 @@ Melo
 Ryan Mendes da Graça
 Ryan Mendes
 Graça
-The Teenagers
 Djibril Sidibé
 Steeve Elana
 Benoît Pedretti
@@ -17080,6 +17337,7 @@ Lucien Favre
 Marc-André ter Stegen
 Matthias Zimmermann
 Filip Daems
+Rul Brouwers
 Roel Brouwers
 Alexander Ring
 Tolga Ci?erci
@@ -17444,6 +17702,7 @@ Viktor Olegovich Vorobyov
 Dea Mongkar
 Denis Vasilyevich Polyakov
 Abdul Khalim Atef Safadie
+Subijakto
 Soebijakto
 Rudy Mater
 Tavakkyul Mamedov
@@ -17534,6 +17793,7 @@ Sung Hoon
 Christian Gourcuff
 Éric Hély
 Claude Puel
+Derk Burrigter
 Derk Boerrigter
 Beg Ferati
 Vegar Eggen Hedenstad
@@ -17570,6 +17830,7 @@ Daley Blind
 Davy Klaassen
 Tobias Sana
 Jasper Cillessen
+Danny Husen
 Danny Hoesen
 Ricardo van Rhijn
 Thulani Serero
@@ -17620,6 +17881,7 @@ Ilya Mironov
 Aleksei Mishin
 Oleg Misyura
 Artyom Mitasov
+Suwardi
 Soewardi
 Tonnie Cusell
 Roman Neustädter
@@ -17670,6 +17932,7 @@ Eduard Movsesyan
 Kenneth Omeruo
 Danny Holla
 Kevin Jansen
+Rydell Pupon
 Rydell Poepon
 Jens Toornstra
 Tjaronn Chery
@@ -17708,6 +17971,7 @@ Kelvin Leerdam
 Denis Voronov
 Guyon Fernandez
 Lex Immers
+Wesley Verhuk
 Wesley Verhoek
 Thaib Armaiyn
 Ronald Graafland
@@ -17803,10 +18067,11 @@ Pele van Anholt
 Renze Fij
 Rakuto Tochihara
 Masri Nur
-The Finest Tree
 Immanuel Velikovsky
+Milano Kunders
 Milano Koenders
 Bart Schenkeveld
+Jerun Veldmate
 Jeroen Veldmate
 Christian Dorda
 Dario Vuji?evi?
@@ -17832,13 +18097,13 @@ Arie Sukanti Hutagalung
 Samantha Smith
 Geoffrey Castillion
 Remko Pasveer
-The Strokes
 The Bravery
 Willie Overtoom
 Daryl van Mieghem
 Jason Davidson
 Leon van Dijk
 Mike te Wierik
+Juy Belterman
 Joey Belterman
 Norbert Meier
 They Might Be Giants
@@ -17880,6 +18145,7 @@ Melvin Platje
 Kevin Conboy
 Rick ten Voorde
 Pavel ?movš
+Youri Lun
 Youri Loen
 Khalid Sinouh
 Michel Breuer
@@ -17909,6 +18175,7 @@ Patricia Devina
 Zaurbek Olisayev
 Arthur Stratton
 Gamzat Omarov
+Jerun Zut
 Jeroen Zoet
 Henrico Drost
 Frank van Mosselveld
@@ -18013,7 +18280,6 @@ Davy Bulthuis
 Jan Wuytens
 John W. Geary
 Barry Maguire
-The Cure
 Charles James Brenham
 Niclas Heimann
 Stephen Randall Harris
@@ -18030,6 +18296,7 @@ Djajang Nurjaman  1
 Oleg Ponomaryov
 Indra Thohir
 Indra Thohir  1
+Daniel Rukito
 Daniel Roekito
 Ahmed Ammi
 Ismo Vorstermans
@@ -18097,6 +18364,7 @@ Ricardo Ippel
 Philipp Haastrup
 Niek Vossebelt
 Danny Guijt
+Jerun Lumu
 Jeroen Lumu
 Sofian Akouili
 Kevin Brands
@@ -18105,6 +18373,7 @@ Jens Podevijn
 Gaby Jallo
 Ryan Sanusi
 Furdjel Narsingh
+Diederik Bur
 Diederik Boer
 Bram van Polen
 Aleksandr Soklakov
@@ -18115,6 +18384,7 @@ Yaroslav Puzanov
 Roman Pyakshev
 Nikolai Raychenko
 Darryl Lachman
+Juy van den Berg
 Joey van den Berg
 Djair Warni
 Bart van Hintum
@@ -18124,6 +18394,7 @@ Fred Benson
 Arne Slot
 Jesper Drost
 Giovanni Gravenbeek
+Joost Brurse
 Joost Broerse
 Ronnie Reniers
 Norichio Nieveld
@@ -18134,6 +18405,7 @@ Mustafa Saymak
 Leon ter Wielen
 Sherwin Grot
 Wiljan Pluim
+Mike Kunders
 Mike Koenders
 Gerard Aafjes
 Christiaan Cicek
@@ -18421,6 +18693,7 @@ Sergei Tumasyan
 Yaroslav Tyurikov
 Cosima Wagner
 Parvizdzhon Umarbaev
+Saerun
 Saeroen
 Mikhail Urinovich
 Taymuraz Urtayev
@@ -18455,6 +18728,7 @@ Joselu
 Bahr Idriss Abu Garda
 Denis Streker
 Vincenzo Grifo
+Kun Casteels
 Koen Casteels
 Jajang Paliama
 Tate Stevens
@@ -18644,6 +18918,7 @@ Heryani
 Domingos Paciência
 Gusmardi Bustami
 Ibrahim Adjie
+Kushartono
 Koeshartono
 Manai Sophiaan
 Pierre Habumuremyi
@@ -18714,8 +18989,8 @@ Emral Djamal Datuk Rajo Mudo
 Tubagus Anis Angkawijaya
 Nasrun Syahrun
 Hedy Lamarr
+Rusdi Rusli
 Roesdi Roesli
-The Beach Boys
 Alex Sandro
 James Rodríguez
 Damir Dzhalimov
@@ -18759,7 +19034,9 @@ Dane Milovanovi?
 Rendi Saputra
 Alyssa Saufika Umari
 Jurnalis Kamil
+Saafrudin Bahar
 Saafroedin Bahar
+Masud Abidin
 Masoed Abidin
 Yetty Rizali Noor
 Vyacheslav Grab
@@ -18774,7 +19051,6 @@ Aleksei Sabanov
 Sergei Dunayev
 Aleksei Pashchenko
 Khasan Dzhunidov
-The Doors
 Motion
 Grace Wong
 Grigori Guz
@@ -18819,9 +19095,9 @@ Ditta Amahorseya
 Sri Artaria Alisjahbana
 Jetti Rosila Hadi
 E.H. Nizar Datuk Kayo
+Marthias Dusky Pandu
 Marthias Dusky Pandoe
 Joni Marsinih
-The 5th Dimension
 Bilal Ag Acherif
 Mahamadou Djeri Maïga
 Ivan Asyutin
@@ -18835,6 +19111,7 @@ Pedro de Valdivia
 Pedro
 Valdivia
 Junisaf Anwar
+Rusman Anwar
 Roesman Anwar
 Yozar Anwar
 Abu Bakar Borgo
@@ -18854,7 +19131,6 @@ Jigyel Ugyen Wangchuck
 Brandon Lee
 Far East Movement
 Max Tera
-The Coasters
 Endang Irzal
 William Arnold Newton
 Carl Reichenbach
@@ -18894,7 +19170,6 @@ Raja Zarith Sofia
 Fahrina Fahmi Idris
 Elthon Maran
 Frans Freno Sauyai
-The Platters
 Aleksandr Glebov
 Armen Goaryan
 Igor Golban
@@ -18927,6 +19202,7 @@ Danil Paybarshev
 Albert Khayrutdinov
 Ruslan Galiakberov
 Sutan Zaili Asril
+Sjurkani
 Sjoerkani
 Pak Tarno
 José Manuel Balmaceda
@@ -18945,7 +19221,9 @@ Akhsarbek Kirguyev
 Murat Revazov
 Peter Fitzgerald
 Roland Burris
+Remy Sutansyah
 Remy Soetansyah
+Nur Bahri Said Pamuncak
 Noer Bahri Said Pamuncak
 Prita Kemal Gani
 José Paulo Bezerra Maciel Júnior
@@ -19004,7 +19282,6 @@ Alex Teixeira
 Calvin Harris
 Emily Blunt
 Hanggini Purinda Retto
-The Extra Large
 Thomas R. DiBenedetto
 Nining Indra Shaleh
 Vaughan Arnell
@@ -19072,8 +19349,6 @@ Andrea Iannone
 Febrian Nindyo
 Ezra Mandira
 Asep Maulana
-SMP Negeri 6 Pekalongan
-SMA Negeri 3 Pekalongan
 Alexius II Komnenos
 Maria
 Emmanuel Emenike
@@ -19088,6 +19363,7 @@ Alexis Bachelot
 Felicya Angelista
 Hermanto
 Ryan Newman
+Pumpida Hidayatulloh
 Poempida Hidayatulloh
 Indy
 Bella Shofie
@@ -19181,10 +19457,10 @@ Timofei Margasov
 Agus Hamdani
 Bustami Narda
 Jackie Evancho
-Foster the People
 Erison J. Kambari
 Tommy Wiseau
 Josrizal Zain
+Taher Marah Sutan
 Taher Marah Soetan
 Jean Baptiste Rives
 Patrick Short
@@ -19263,6 +19539,7 @@ Lee Jae-jin
 Dmitri Kozhemyakin
 Ivan Kozyr
 Elvyn G. Masassya
+Ika Ratih Puspa
 Ika Ratih Poespa
 Kojek
 Abang Muhammad Salahuddin
@@ -19277,7 +19554,6 @@ Ichsan Akbar
 Edward Tudor-Pole
 Abdullah Amu
 Sastri Yunizarti Bakry
-The SeeYa
 Leonid Krupskiy
 Konstantin Kulabukhov
 Mursyid Bustami
@@ -19315,6 +19591,7 @@ Ismael Kiram, Sultan Sulu
 Nuzli Arismal
 Muhammad Shah
 Abdul Samad
+Buddha Lutla Nabhalai
 Buddha Loetla Nabhalai
 Nangklao
 Andrei Kurasov
@@ -19387,6 +19664,7 @@ Winson Silvo
 Rudjito
 Solihin Kalla
 Januar Muin
+Dwi Sutjipto
 Dwi Soetjipto
 Wiwoho Basuki
 Gatot M Suwondo
@@ -19411,6 +19689,7 @@ Mochtar Apin
 M. Sayuti Datuak Rajo Panghulu
 Jacques Bertin
 Zulkarnaen Djabar
+Santosa Dullah
 Santosa Doellah
 Lindarti Purwaningsih
 Irawan Satriotomo
@@ -19469,6 +19748,7 @@ Djang Jusi
 César Chávez
 George Washington Bush
 Buyar Winarso
+Sudiro Atmo Prawiro
 Soediro Atmo Prawiro
 Heppy Trenggono
 Mikha Angelo
@@ -19504,6 +19784,7 @@ Yuki Kajiura
 Alvon Kurnia Palma
 Yun Chi-young
 Zainuddin Labai el-Yunusiyah
+Mansur Daud Dt. Palimo Kayo
 Mansoer Daoed Dt. Palimo Kayo
 Tegar Septian
 Max Goof
@@ -19536,6 +19817,7 @@ Giuseppe Baresi
 Fadjar Panjaitan
 Abdou Diouf
 Sara Wijayanto
+Paula Verhuven
 Paula Verhoeven
 Reynavenzka Deyandra
 Reginald Heber
@@ -19562,6 +19844,7 @@ Alwis Azizat Murad
 Arantxa Sánchez Vicario
 Moufdi Zakaria
 Aswin Darwis
+Azhari Bur
 Azhari Boer
 Adlinsjah Jenie
 Djanamar Adjam
@@ -19590,6 +19873,7 @@ Kang Sora
 Ahmed el-Thayeb
 Manda Cello
 E.C. Stuart Baker
+Muldoko
 Moeldoko
 R Ediwan Prabowo
 Umar Anggara Jenie
@@ -19670,6 +19954,7 @@ Mazni Harun
 Billy Herrington
 Fairfax Harrison
 Alfian Yusuf Helmi
+Juliana Muchtar
 Juliana Moechtar
 Yusbar Djamil
 Dmitri Yevgenyevich Yermakov
@@ -19749,6 +20034,7 @@ Pete Teo
 Daphne Iking
 Andrei Vladimirovich Kravchenko
 Andrei Chichkin
+Jul Edgerton
 Joel Edgerton
 Sabrina Carpenter
 Vincent Tan
@@ -19771,6 +20057,7 @@ Todd Graff
 Zsazsa Utari
 Nikita Zotyev
 Anton Apatin
+Bambang Susatyo
 Bambang Soesatyo
 Sascha Lewandowski
 Viktor Borisov

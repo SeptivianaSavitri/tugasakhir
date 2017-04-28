@@ -54,6 +54,7 @@ dictKebi = buatKamus(dictKebi, kebi_data)
 ROMAWI = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
              "XI", "XII", "XIII", "XIV",
              "XX", "XXX"]
+BULAN = ["April", "Juni", "Juli"]
 # print(diKamus("Arab",dictKebi))
 count = 1
 for k in flines:
@@ -68,6 +69,8 @@ for k in flines:
     elif(len(k) <2):
         dictTmp[k] = k
     elif(k in ROMAWI):
+        dictTmp[k] = k
+    elif(k in BULAN):
         dictTmp[k] = k
     else:
         dictPlace[k] = k

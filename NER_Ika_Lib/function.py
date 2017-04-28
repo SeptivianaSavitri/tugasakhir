@@ -14,6 +14,20 @@ SPECIAL_CHARS = [",", "'"]
 
 
 ####################################################################################
+# Mencari jumlah huruf Kapital dalam suatu kata
+####################################################################################
+def hitungKapital(kata):
+    len_kata = len(kata)
+    counter = 0
+    i = 0
+    while(i < len_kata):
+        if kata[i].isupper():
+            counter = counter +1
+
+        i = i+1   
+    return counter
+
+####################################################################################
 # Mencari indeks tanda buka kurung
 ####################################################################################
 
@@ -92,20 +106,24 @@ def makeExpandedDBpediaDictionary():
             if aDict[key] == value:
                 continue
 
-            if aDict[key] == "O":
-                ambiguNames[key] = "Person - Place - ORG"
+            if aDict[key] == "O": #menandakan entity yang terdapat di Person, Place dan ORG             
+                ambiguNames.pop(key)
+                value = "Place"
 
             else:
                 if aDict[key] == "Person":
                     ambiguNames[key] = "Person - ORG"
+                    value = "O"
                 else:
-                    ambiguNames[key] = "Place - ORG"
-
-            value = "O"
+                    if(key == "Indonesia"):
+                        value = "Place"
+                    else:
+                        ambiguNames[key] = "Place - ORG"
+                        value = "O"
+                    
 
 
         aDict[key] = value
-
     # for name, type in ambiguNames.iteritems():
     #     print "%s is %s" % (name, type)
     #
@@ -122,8 +140,9 @@ def makeExpandedDBpediaDictionary():
     thefile.close()
     return aDict , ambiguNames
 
-
-
+x = {}
+y = {}
+x,y = makeExpandedDBpediaDictionary()
 ####################################################################################
 # Mebuat Kamus DBpedia Asli
 ####################################################################################

@@ -29,7 +29,7 @@ Zona O
 Oseania O
 ke O
 Zona O
-Asia O
+Asia Place
 demi O
 mempermudah O
 mereka O
@@ -696,7 +696,7 @@ umat O
 Islam O
 dan O
 bangsa O
-Indonesia O
+Indonesia Place
 pada O
 umumnya O
 sejak O
@@ -1502,7 +1502,7 @@ penyair O
 , O
 dan O
 esais O
-Indonesia O
+Indonesia Place
 . O
 Ia O
 belajar O
@@ -3019,14 +3019,14 @@ antara O
 lain O
 Yayasan O
 Bambu O
-Indonesia O
+Indonesia Place
 -LRB- O
 1993 O
 -RRB- O
 , O
 Yayasan O
 Biodiversitas O
-Indonesia O
+Indonesia Place
 -LRB- O
 1993 O
 -RRB- O
@@ -3074,7 +3074,7 @@ Kabupaten Place
 Bireuen Place
 , O
 Provinsi O
-Aceh O
+Aceh Place
 , O
 Indonesia.Peusangan O
 adalah O
@@ -3089,7 +3089,7 @@ Kabupaten Place
 Bireuen Place
 , O
 Provinsi O
-Aceh O
+Aceh Place
 . O
 Sejarah O
 Aceh Place
@@ -3124,7 +3124,7 @@ Agama O
 Islam O
 di O
 kawasan O
-Asia O
+Asia Place
 Tenggara O
 . O
 Pemerintah O
@@ -3132,7 +3132,7 @@ Hindia O
 Belanda Place
 membagi O
 Daerah O
-Aceh O
+Aceh Place
 atas O
 6 O
 -LRB- O
@@ -3155,7 +3155,7 @@ Affleefing O
 Noord O
 Kust O
 Van O
-Aceh O
+Aceh Place
 -LRB- O
 Kabupaten Place
 Aceh Place
@@ -3202,12 +3202,12 @@ Desember O
 Belanda Place
 mengakui O
 kemerdekaan O
-Indonesia O
+Indonesia Place
 dalam O
 bentuk O
 Negara O
 Republik O
-Indonesia O
+Indonesia Place
 Serikat O
 yang O
 terdiri O
@@ -3319,10 +3319,10 @@ Aceh Place
 Selatan Place
 , O
 Nanggroe O
-Aceh O
+Aceh Place
 Darussalam O
 , O
-Indonesia O
+Indonesia Place
 . O
 Selain O
 suku O
@@ -3336,7 +3336,7 @@ juga O
 banyak O
 bermukim O
 Suku O
-Aceh O
+Aceh Place
 khusus O
 nya O
 mereka O
@@ -3465,7 +3465,7 @@ Ciamis Place
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Sebagai O
 bukti O
@@ -3526,7 +3526,7 @@ masyarakat O
 , O
 kantor O
 pos O
-Indonesia O
+Indonesia Place
 , O
 taman O
 atau O
@@ -3544,7 +3544,7 @@ tempat O
 peringatan O
 Proklamasi O
 Kemerdekaan O
-Indonesia O
+Indonesia Place
 . O
 Di O
 sana O
@@ -3907,7 +3907,7 @@ Bondowoso Place
 Jawa Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Untuk O
 mencapai O
@@ -4342,7 +4342,7 @@ di O
 Kedutaan O
 Besar O
 Republik O
-Indonesia O
+Indonesia Place
 di O
 Den Place
 Haag Place
@@ -4413,7 +4413,7 @@ kecelakaan O
 pesawat O
 terbang O
 Garuda O
-Indonesia O
+Indonesia Place
 Penerbangan O
 200 O
 pada O
@@ -4973,7 +4973,7 @@ Provinsi O
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 yang O
 tebagi O
 kedalam O
@@ -5658,7 +5658,7 @@ Provinsi O
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 Sebagai O
 Lumbung O
 Padi O
@@ -8431,7 +8431,7 @@ yang O
 direkrut O
 oleh O
 militer O
-Indonesia O
+Indonesia Place
 dengan O
 menjabat O
 sebagai O
@@ -8861,7 +8861,7 @@ banyak O
 orang-orang O
 Eropa Place
 , O
-Asia O
+Asia Place
 , O
 Afrika Place
 , O
@@ -9377,7 +9377,7 @@ swasta O
 di O
 Bandung O
 , O
-Indonesia O
+Indonesia Place
 , O
 yang O
 memiliki O
@@ -9444,7 +9444,7 @@ kehidupan O
 dan O
 kesejahteraan O
 bangsa O
-Indonesia O
+Indonesia Place
 . O
 Unpas O
 telah O
@@ -9487,7 +9487,7 @@ Provinsi O
 yang O
 ada O
 di O
-Indonesia O
+Indonesia Place
 , O
 tetapi O
 juga O
@@ -10670,7 +10670,7 @@ di O
 selatan O
 dengan O
 Samudra O
-Indonesia O
+Indonesia Place
 , O
 di O
 barat O
@@ -11399,7 +11399,7 @@ dalam O
 Museum O
 Rekor O
 Dunia O
-Indonesia O
+Indonesia Place
 . O
 Kecamatan Place
 ini O
@@ -11460,7 +11460,7 @@ Kudungga O
 aksen O
 dalam O
 Bahasa O
-Indonesia O
+Indonesia Place
 -RRB- O
 atau O
 lebih O
@@ -11908,7 +11908,7 @@ Daerah Place
 Istimewa Place
 Yogyakarta Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Berdasarkan O
 Maklumat O
@@ -11976,7 +11976,7 @@ Daerah Place
 Istimewa Place
 Yogyakarta Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Berdasarkan O
 Maklumat O
@@ -12139,7 +12139,7 @@ Daerah Place
 Istimewa Place
 Yogyakarta Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Desa O
 Sendangsari Place
@@ -12761,7 +12761,7 @@ Daerah Place
 Istimewa Place
 Yogyakarta Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Balecatur Place
 dibelah O
@@ -12872,7 +12872,7 @@ Daerah Place
 Istimewa Place
 Yogyakarta Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Karena O
 letaknya O
@@ -13099,7 +13099,7 @@ Daerah Place
 Istimewa Place
 Yogyakarta Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Nama O
 Maguwoharjo Place
@@ -13275,7 +13275,7 @@ Daerah Place
 Istimewa Place
 Yogyakarta Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Kampung O
 yang O
@@ -13379,7 +13379,7 @@ dengan O
 pembauran O
 suku O
 di O
-Indonesia O
+Indonesia Place
 , O
 hal O
 ini O
@@ -13576,7 +13576,7 @@ bertahan O
 Persatuan O
 Sepak O
 bola O
-Indonesia O
+Indonesia Place
 Tangerang Place
 -LRB- O
 disingkat O
@@ -13590,7 +13590,7 @@ sebuah O
 klub O
 sepak O
 bola O
-Indonesia O
+Indonesia Place
 yang O
 bermarkas O
 di O
@@ -13668,7 +13668,7 @@ sebuah O
 klub O
 sepak O
 bola O
-Indonesia O
+Indonesia Place
 yang O
 bermarkas O
 di O
@@ -14065,7 +14065,7 @@ diberikan O
 oleh O
 EIB O
 di O
-Asia O
+Asia Place
 ; O
 persetujuan O
 itu O
@@ -16895,7 +16895,7 @@ Selatan Place
 Jakarta Place
 Selatan Place
 , O
-Indonesia O
+Indonesia Place
 yang O
 merupakan O
 pusat O
@@ -17063,7 +17063,7 @@ Kabupaten Place
 Aceh Place
 Tengah Place
 Provinsi O
-Aceh O
+Aceh Place
 sampai O
 ke O
 Kecamatan O
@@ -17392,7 +17392,7 @@ sebagai O
 `` O
 Bom O
 Seks O
-Indonesia O
+Indonesia Place
 '' O
 . O
 Adegan O
@@ -17411,7 +17411,7 @@ dibatalkan O
 di O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 di O
 `` O
 Tropenmuseum Place
@@ -18894,7 +18894,7 @@ Ilmu O
 Keuangan O
 dan O
 Perbankan O
-Indonesia O
+Indonesia Place
 -RRB- O
 . O
 Namun O
@@ -19544,7 +19544,7 @@ lolos O
 ke O
 Liga O
 Champions O
-Asia O
+Asia Place
 -LRB- O
 2008 O
 , O
@@ -19946,7 +19946,7 @@ tersebar O
 di O
 seluruh O
 pelosok O
-Indonesia O
+Indonesia Place
 . O
 Bandar Place
 Udara Place
@@ -20157,7 +20157,7 @@ baru O
 di O
 dunia O
 film O
-Indonesia O
+Indonesia Place
 . O
 Ia O
 pun O
@@ -20170,7 +20170,7 @@ dalam O
 ajang O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 2006 O
 namun O
 kalah O
@@ -20194,7 +20194,7 @@ Most O
 Rising O
 Star O
 MTV O
-Indonesia O
+Indonesia Place
 Movie O
 Awards O
 2005 O
@@ -22441,7 +22441,7 @@ Malaysia Place
 yang O
 ditayangkan O
 di O
-Indonesia O
+Indonesia Place
 , O
 Malaysia Place
 , O
@@ -22455,7 +22455,7 @@ India Place
 Selain O
 pemain O
 dari O
-Indonesia O
+Indonesia Place
 , O
 film O
 ini O
@@ -22471,7 +22471,7 @@ industri O
 film O
 terbesar O
 di O
-Asia O
+Asia Place
 , O
 Bollywood O
 , O
@@ -22564,7 +22564,7 @@ Pria O
 Terbaik O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 -LRB- O
 FFI O
 -RRB- O
@@ -22587,7 +22587,7 @@ baru O
 terfavorit O
 di O
 arena O
-Indonesia O
+Indonesia Place
 Movie O
 Award O
 2007 O
@@ -22609,7 +22609,7 @@ Satria O
 Muda O
 sempat O
 mewakili O
-Indonesia O
+Indonesia Place
 pada O
 kejuaraan O
 three O
@@ -22670,7 +22670,7 @@ Favorite O
 Actor O
 dalam O
 MTV O
-Indonesia O
+Indonesia Place
 Movie O
 Awards O
 -LRB- O
@@ -23044,12 +23044,12 @@ adalah O
 ahli O
 ekonomi O
 dari O
-Indonesia O
+Indonesia Place
 dan O
 mantan O
 Gubernur O
 Bank O
-Indonesia O
+Indonesia Place
 masa O
 jabatan O
 1988-1993 O
@@ -23536,7 +23536,7 @@ aktris O
 film O
 termahal O
 di O
-Indonesia O
+Indonesia Place
 dengan O
 honor O
 Rp O
@@ -25092,7 +25092,7 @@ Provinsi O
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 yang O
 memiliki O
 banyak O
@@ -25353,7 +25353,7 @@ Provinsi O
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 , O
 kepadatan O
 tertinggi O
@@ -26196,7 +26196,7 @@ sebuah O
 klub O
 sepak O
 bola O
-Indonesia O
+Indonesia Place
 yang O
 bermarkas O
 di O
@@ -26271,7 +26271,7 @@ melakukan O
 tur O
 pertandingan O
 di O
-Asia O
+Asia Place
 Tenggara O
 . O
 Dalam O
@@ -26509,7 +26509,7 @@ Provinsi O
 Jawa Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 , O
 yang O
 tergolong O
@@ -27632,7 +27632,7 @@ Televisi O
 pada O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 2005 O
 . O
 Di O
@@ -27684,7 +27684,7 @@ Actress O
 dalam O
 ajang O
 MTV O
-Indonesia O
+Indonesia Place
 Movie O
 Awards O
 -LRB- O
@@ -27721,7 +27721,7 @@ Terbaik O
 dalam O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 2007 O
 yang O
 diadakan O
@@ -27797,7 +27797,7 @@ sinetron O
 dalam O
 dunia O
 hiburan O
-Indonesia O
+Indonesia Place
 . O
 Putri O
 pasangan O
@@ -27813,7 +27813,7 @@ SMP-nya O
 di O
 Lhokseumawe Place
 , O
-Aceh O
+Aceh Place
 , O
 lalu O
 pindah O
@@ -29269,7 +29269,7 @@ Video O
 Jockey O
 -RRB- O
 MTV O
-Indonesia O
+Indonesia Place
 . O
 Dewi O
 memutuskan O
@@ -29345,7 +29345,7 @@ Persembahan O
 untuk O
 Pecinta O
 Film O
-Indonesia O
+Indonesia Place
 '' O
 dan O
 `` O
@@ -30183,7 +30183,7 @@ berjudul O
 Wo O
 Ai O
 Ni O
-Indonesia O
+Indonesia Place
 '' O
 pada O
 tahun O
@@ -30524,7 +30524,7 @@ beberapa O
 medali O
 kejuaraan O
 renang O
-Asia O
+Asia Place
 maupun O
 dunia O
 . O
@@ -30581,7 +30581,7 @@ sekolahnya O
 -LRB- O
 satu-satunya O
 orang O
-Indonesia O
+Indonesia Place
 yang O
 pernah O
 mencapai O
@@ -30890,7 +30890,7 @@ dengan O
 layanan O
 non-stop O
 menuju O
-Asia O
+Asia Place
 , O
 Eropa Place
 , O
@@ -31322,7 +31322,7 @@ SPA O
 -LRB- O
 Semarang Place
 Pesona O
-Asia O
+Asia Place
 -RRB- O
 , O
 Gunungpati Place
@@ -31556,7 +31556,7 @@ dan O
 yang O
 ketujuh O
 di O
-Asia O
+Asia Place
 Pasifik O
 . O
 Bandara Place
@@ -33987,7 +33987,7 @@ mengundang O
 berbagai O
 Barongan O
 seluruh O
-Indonesia O
+Indonesia Place
 untuk O
 memeriahkan O
 Demak Place
@@ -34263,7 +34263,7 @@ PMI O
 adalah O
 membantu O
 pemerintah O
-Indonesia O
+Indonesia Place
 di O
 bidang O
 sosial O
@@ -34675,7 +34675,7 @@ tahun O
 meraih O
 juara O
 2 O
-Indonesia O
+Indonesia Place
 Open O
 di O
 Jakarta Place
@@ -36213,7 +36213,7 @@ Provinsi O
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 , O
 terletak O
 kurang O
@@ -38487,7 +38487,7 @@ F.C O
 menjadi O
 juara O
 Piala O
-Indonesia O
+Indonesia Place
 2007 O
 setelah O
 di O
@@ -38640,7 +38640,7 @@ sebagai O
 pemain O
 terbaik O
 Copa O
-Indonesia O
+Indonesia Place
 2007 O
 yang O
 jatuh O
@@ -38900,7 +38900,7 @@ Persib Organisation
 Bandung Organisation
 maupun O
 Timnas O
-Indonesia O
+Indonesia Place
 . O
 Yandri O
 Christian Person
@@ -38911,7 +38911,7 @@ adalah O
 pesepak O
 bola O
 putra O
-Indonesia O
+Indonesia Place
 yang O
 bertinggi O
 tubuh O
@@ -39001,7 +39001,7 @@ Umum O
 Legiun O
 Veteran O
 Republik O
-Indonesia O
+Indonesia Place
 -LRB- O
 LVRI O
 -RRB- O
@@ -40314,7 +40314,7 @@ kariernya O
 di O
 dunia O
 hiburan O
-Indonesia O
+Indonesia Place
 sejak O
 meraih O
 gelar O
@@ -41468,7 +41468,7 @@ penyanyi O
 dan O
 aktris O
 berkebangsaan O
-Indonesia O
+Indonesia Place
 . O
 Setelah O
 mundur O
@@ -41503,7 +41503,7 @@ perempuan O
 paling O
 populer O
 di O
-Indonesia O
+Indonesia Place
 . O
 Mulan Person
 mengawali O
@@ -41656,12 +41656,12 @@ ia O
 menjadi O
 satu-satunya O
 solois O
-Indonesia O
+Indonesia Place
 yang O
 dinominasikan O
 pada O
 MTV O
-Asia O
+Asia Place
 Awards O
 2008 O
 di O
@@ -41703,7 +41703,7 @@ terhadap O
 Negara O
 Kesatuan Place
 Republik O
-Indonesia O
+Indonesia Place
 , O
 pemerintah O
 dan O
@@ -42253,7 +42253,7 @@ seorang O
 sutradara O
 film O
 legendaris O
-Indonesia O
+Indonesia Place
 . O
 Akhirnya O
 dibawah O
@@ -43034,7 +43034,7 @@ oleh O
 Belanda Place
 kepada O
 Pemerintah O
-Indonesia O
+Indonesia Place
 -LRB- O
 APRI O
 -RRB- O
@@ -43043,7 +43043,7 @@ selanjutnya O
 digunakan O
 oleh O
 Pemerintah O
-Indonesia O
+Indonesia Place
 sebagai O
 instalasi O
 kesehatan O
@@ -43168,7 +43168,7 @@ Jepang Place
 menyerang O
 ibu O
 kota O
-Indonesia O
+Indonesia Place
 yang O
 pada O
 saat O
@@ -43180,7 +43180,7 @@ Jogjakarta O
 banyak O
 sukarelawan O
 tentara O
-Indonesia O
+Indonesia Place
 mengungsi O
 ke O
 tempat O
@@ -43280,7 +43280,7 @@ Provinsi O
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Secara O
 geografis O
@@ -43935,7 +43935,7 @@ berkaitan O
 dengan O
 reshuffle O
 Kabinet O
-Indonesia O
+Indonesia Place
 Bersatu O
 II O
 , O
@@ -43972,7 +43972,7 @@ surat O
 kabar O
 terbesar O
 di O
-Indonesia O
+Indonesia Place
 yang O
 memiliki O
 134 O
@@ -43989,7 +43989,7 @@ serta O
 jaringan O
 percetakan O
 di O
-Indonesia O
+Indonesia Place
 . O
 Pada O
 tahun O
@@ -44080,7 +44080,7 @@ bebas O
 byar O
 pet O
 se O
-Indonesia O
+Indonesia Place
 dalam O
 waktu O
 6 O
@@ -44104,7 +44104,7 @@ di O
 5 O
 pulau O
 di O
-Indonesia O
+Indonesia Place
 bagian O
 Timur O
 yaitu O
@@ -45696,7 +45696,7 @@ sejumlah O
 klub O
 besar O
 di O
-Indonesia O
+Indonesia Place
 , O
 seperti O
 Persebaya O
@@ -45900,10 +45900,10 @@ berkomunikasi O
 dengan O
 menggunakan O
 Bahasa O
-Indonesia O
+Indonesia Place
 dengan O
 aksen O
-Indonesia O
+Indonesia Place
 Timur O
 , O
 walaupun O
@@ -45917,7 +45917,7 @@ yang O
 ada O
 dalam O
 Bahasa O
-Indonesia O
+Indonesia Place
 . O
 Sebagai O
 guru O
@@ -46178,7 +46178,7 @@ Penddikan O
 dan O
 Kebudayaan O
 Republik O
-Indonesia O
+Indonesia Place
 No O
 . O
 Seiring O
@@ -46624,7 +46624,7 @@ lagunya O
 yang O
 terkenal O
 di O
-Indonesia O
+Indonesia Place
 , O
 antara O
 lain O
@@ -47562,7 +47562,7 @@ Provinsi O
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Kecamatan Place
 ini O
@@ -51429,7 +51429,7 @@ Aliance O
 University O
 NIIT Organisation
 di O
-Indonesia O
+Indonesia Place
 yang O
 memungkinkan O
 lulusan O
@@ -52185,7 +52185,7 @@ dalam O
 acara O
 realitas O
 `` O
-Indonesia O
+Indonesia Place
 Mencari O
 Bakat O
 '' O
@@ -52198,7 +52198,7 @@ TransTV O
 stasiun O
 TV O
 swasta O
-Indonesia O
+Indonesia Place
 pada O
 tanggal O
 27 O
@@ -52886,7 +52886,7 @@ tahun O
 Kemudian O
 kembali O
 ke O
-Indonesia O
+Indonesia Place
 pada O
 tahun O
 2006 O
@@ -53705,7 +53705,7 @@ diterbitkannya O
 Peraturan O
 Pemerintah O
 Republik O
-Indonesia O
+Indonesia Place
 Nomor O
 39 O
 Tahun O
@@ -53918,7 +53918,7 @@ Surabaya Place
 Jawa Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Secara O
 organisasi O
@@ -54919,7 +54919,7 @@ mutu O
 internal O
 terbaik O
 di O
-Indonesia O
+Indonesia Place
 versi O
 Direktorat O
 Jenderal O
@@ -54949,7 +54949,7 @@ Hatta Person
 Wakil O
 Presiden O
 Pertama O
-Indonesia O
+Indonesia Place
 -RRB- O
 , O
 Mohammad Person
@@ -55427,7 +55427,7 @@ organisasi O
 untuk O
 membangun O
 kembali O
-Asia O
+Asia Place
 Tenggara O
 karena O
 tsunami O
@@ -57815,7 +57815,7 @@ di O
 Dunia O
 . O
 Wakil O
-Indonesia O
+Indonesia Place
 pada O
 Sidang O
 PBB Organisation
@@ -57850,7 +57850,7 @@ dan O
 batas O
 landas O
 kontinen O
-Indonesia O
+Indonesia Place
 . O
 Alumni O
 S1 O
@@ -58204,7 +58204,7 @@ pada O
 masa O
 revolusi O
 di O
-Aceh O
+Aceh Place
 dan O
 Medan Place
 Area Place
@@ -58356,7 +58356,7 @@ dan O
 provikaris O
 dalam O
 wilayah O
-Indonesia O
+Indonesia Place
 . O
 Setelah O
 penunjukkan O
@@ -58387,7 +58387,7 @@ oleh O
 Nuncio O
 Apostolic O
 untuk O
-Indonesia O
+Indonesia Place
 sekaligus O
 Uskup O
 Agung O
@@ -58579,7 +58579,7 @@ maupun O
 wilayah O
 lain O
 di O
-Indonesia O
+Indonesia Place
 . O
 Anggun O
 Cipta O
@@ -58593,7 +58593,7 @@ Anggun O
 -RRB- O
 adalah O
 penyanyi O
-Indonesia O
+Indonesia Place
 yang O
 saat O
 ini O
@@ -58639,7 +58639,7 @@ album O
 studio O
 pertamanya O
 di O
-Indonesia O
+Indonesia Place
 berjudul O
 `` O
 Dunia O
@@ -58766,7 +58766,7 @@ lewat O
 `` O
 X O
 Factor O
-Indonesia O
+Indonesia Place
 '' O
 -LRB- O
 2013 O
@@ -58779,7 +58779,7 @@ termahal O
 dalam O
 sejarah O
 pertelevisian O
-Indonesia O
+Indonesia Place
 . O
 Ia O
 selanjutnya O
@@ -58787,7 +58787,7 @@ juga O
 menjadi O
 juri O
 `` O
-Asia O
+Asia Place
 's O
 Got O
 Talent O
@@ -58804,7 +58804,7 @@ dari O
 negara O
 di O
 Benua O
-Asia O
+Asia Place
 . O
 Beberapa O
 penghargaan O
@@ -58844,7 +58844,7 @@ Music O
 Awards O
 sebagai O
 artis O
-Indonesia O
+Indonesia Place
 dengan O
 penjualan O
 album O
@@ -58856,7 +58856,7 @@ dunia O
 Ia O
 merupakan O
 orang O
-Indonesia O
+Indonesia Place
 kedua O
 setelah O
 Proklamator O
@@ -59073,7 +59073,7 @@ Terbaik O
 dalam O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 -LRB- O
 Piala O
 Citra O
@@ -59316,7 +59316,7 @@ berkedudukan O
 di O
 Yogyakarta Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Walaupun O
 usianya O
@@ -59345,7 +59345,7 @@ dalam O
 perkembangan O
 seni O
 di O
-Indonesia O
+Indonesia Place
 . O
 But O
 Muchtar Person
@@ -59448,7 +59448,7 @@ para O
 pecinta O
 seni O
 budaya O
-Indonesia O
+Indonesia Place
 untuk O
 mengmbangkan O
 apa O
@@ -59564,7 +59564,7 @@ untuk O
 menyedianan O
 Guru O
 Bahasa O
-Indonesia O
+Indonesia Place
 tahun O
 1955 O
 dan O
@@ -60025,7 +60025,7 @@ Pendidikan O
 Persatuan O
 Guru O
 Republik O
-Indonesia O
+Indonesia Place
 disingkat O
 IKIP O
 PGRI O
@@ -60236,7 +60236,7 @@ Provinsi O
 Kalimantan Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Secara O
 geografis O
@@ -60856,7 +60856,7 @@ announcer O
 '' O
 Radio O
 Republik O
-Indonesia O
+Indonesia Place
 Jakarta Place
 -RRB- O
 . O
@@ -60992,7 +60992,7 @@ penyanyi O
 dan O
 pencipta O
 lagu O
-Indonesia O
+Indonesia Place
 yang O
 baik O
 . O
@@ -61250,7 +61250,7 @@ terpilih O
 sebagai O
 Pemain O
 Terbaik O
-Asia O
+Asia Place
 yang O
 dipilih O
 oleh O
@@ -61411,7 +61411,7 @@ pernah O
 diikutinya O
 adalah O
 Piala O
-Asia O
+Asia Place
 -LRB- O
 2000 O
 , O
@@ -62554,7 +62554,7 @@ majalah O
 , O
 seperti O
 Mimbar O
-Indonesia O
+Indonesia Place
 , O
 Zenith O
 , O
@@ -62878,7 +62878,7 @@ Crying O
 Scene O
 ajang O
 MTV O
-Indonesia O
+Indonesia Place
 Movie O
 Awards O
 -LRB- O
@@ -62941,7 +62941,7 @@ Actor O
 dalam O
 ajang O
 MTV O
-Indonesia O
+Indonesia Place
 Movie O
 Award O
 2006 O
@@ -63156,7 +63156,7 @@ satu O
 universitas O
 swasta O
 di O
-Indonesia O
+Indonesia Place
 yang O
 didirikan O
 pada O
@@ -63185,7 +63185,7 @@ pindah O
 ke O
 gedung O
 Menara O
-Asia O
+Asia Place
 , O
 di O
 kota O
@@ -63204,7 +63204,7 @@ perkuliahan O
 dimulai O
 di O
 Menara O
-Asia O
+Asia Place
 dengan O
 kurang O
 lebih O
@@ -63267,7 +63267,7 @@ mendapatkan O
 gelar O
 Sarjana O
 di O
-Indonesia O
+Indonesia Place
 . O
 Tahun O
 2007 O
@@ -63736,7 +63736,7 @@ di O
 acara O
 D O
 Academy O
-Asia O
+Asia Place
 , O
 juga O
 pernah O
@@ -64628,7 +64628,7 @@ provinsi O
 Sulawesi Place
 Utara Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Bandara Place
 ini O
@@ -64644,7 +64644,7 @@ Ratulangi Person
 , O
 pahlawan O
 nasional O
-Indonesia O
+Indonesia Place
 asal O
 Sulawesi Place
 Utara Place
@@ -65823,7 +65823,7 @@ Groningen Organisation
 Hubungan O
 Heitinga Person
 dengan O
-Indonesia O
+Indonesia Place
 ternyata O
 berawal O
 dari O
@@ -65874,7 +65874,7 @@ komputer O
 di O
 kalangan O
 masyarakat O
-Indonesia O
+Indonesia Place
 melalui O
 usaha O
 pendidikan O
@@ -67870,7 +67870,7 @@ tahun O
 dan O
 2011 O
 Piala O
-Asia O
+Asia Place
 . O
 Dia O
 adalah O
@@ -68594,7 +68594,7 @@ Arab Place
 Hezbollah O
 , O
 bahasa O
-Indonesia O
+Indonesia Place
 : O
 `` O
 Partai O
@@ -68746,7 +68746,7 @@ mereka O
 ke O
 Sony Person
 Music O
-Indonesia O
+Indonesia Place
 . O
 Tahun O
 2007 O
@@ -68754,7 +68754,7 @@ Tahun O
 Eross Person
 bersama O
 Puteri O
-Indonesia O
+Indonesia Place
 2004 O
 , O
 Artika Person
@@ -68906,7 +68906,7 @@ cadetteria O
 yang O
 dalam O
 bahasa O
-Indonesia O
+Indonesia Place
 berarti O
 yunior O
 atau O
@@ -68953,7 +68953,7 @@ salah O
 seorang O
 dramawan O
 terkemuka O
-Indonesia O
+Indonesia Place
 dan O
 ikut O
 mendirikan O
@@ -68979,7 +68979,7 @@ yang O
 paling O
 produktif O
 di O
-Indonesia O
+Indonesia Place
 saat O
 ini O
 . O
@@ -69001,7 +69001,7 @@ pada O
 Sekolah O
 Tinggi O
 Seni O
-Indonesia O
+Indonesia Place
 -LRB- O
 STSI O
 -RRB- O
@@ -69354,7 +69354,7 @@ tetangga O
 . O
 Ia O
 mewakili O
-Indonesia O
+Indonesia Place
 di O
 ajang O
 Miss O
@@ -71740,7 +71740,7 @@ Shinbun O
 Surat O
 Kabar O
 Kebebasan O
-Asia O
+Asia Place
 Timur O
 -RRB- O
 . O
@@ -71996,7 +71996,7 @@ di O
 universitas-universitas O
 di O
 seluruh O
-Indonesia O
+Indonesia Place
 dan O
 praktis O
 melumpuhkan O
@@ -73148,7 +73148,7 @@ pindah O
 ke O
 pembangunan O
 Hotel O
-Indonesia O
+Indonesia Place
 -LRB- O
 HI O
 -RRB- O
@@ -73334,12 +73334,12 @@ salah O
 satunya O
 ketika O
 pertandingan O
-Indonesia O
+Indonesia Place
 melawan O
 Bahrain Place
 di O
 Piala O
-Asia O
+Asia Place
 2007 O
 . O
 Firman Person
@@ -73352,7 +73352,7 @@ di O
 klub O
 Sepak O
 bola O
-Indonesia O
+Indonesia Place
 Muda O
 dan O
 kemudian O
@@ -73900,7 +73900,7 @@ Malang O
 Jawa Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Institut Organisation
 Teknologi Organisation
@@ -75223,7 +75223,7 @@ dunia O
 Persatuan O
 Sepak O
 bola O
-Indonesia O
+Indonesia Place
 Bantul Place
 -LRB- O
 biasa O
@@ -75235,7 +75235,7 @@ sebuah O
 klub O
 sepak O
 bola O
-Indonesia O
+Indonesia Place
 yang O
 berasal O
 dari O
@@ -75331,7 +75331,7 @@ dan O
 telah O
 merakyat O
 di O
-Indonesia O
+Indonesia Place
 , O
 yang O
 berupakan O
@@ -75340,7 +75340,7 @@ untuk O
 menunjang O
 pembangunan O
 Bangsa O
-Indonesia O
+Indonesia Place
 khususnya O
 dalam O
 meningkatkan O
@@ -75361,7 +75361,7 @@ nama O
 baik O
 nama O
 bangsa O
-Indonesia O
+Indonesia Place
 dalam O
 percaturan O
 bidang O
@@ -75524,7 +75524,7 @@ khususnya O
 di O
 dunia O
 sinetron O
-Indonesia O
+Indonesia Place
 . O
 Ia O
 ditarik O
@@ -75902,7 +75902,7 @@ television O
 personality O
 '' O
 berkebangsaan O
-Indonesia O
+Indonesia Place
 . O
 Perkenalannya O
 dengan O
@@ -76033,7 +76033,7 @@ ia O
 banyak O
 dicekal O
 di O
-Indonesia O
+Indonesia Place
 , O
 seperti O
 di O
@@ -76735,7 +76735,7 @@ kali O
 dalam O
 sejarah O
 perfilman O
-Indonesia O
+Indonesia Place
 . O
 Lewat O
 film O
@@ -76754,7 +76754,7 @@ dalam O
 `` O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 2004 O
 '' O
 juga O
@@ -76765,7 +76765,7 @@ Actor O
 dalam O
 `` O
 MTV O
-Indonesia O
+Indonesia Place
 Movie O
 Awards O
 2004 O
@@ -76789,7 +76789,7 @@ dalam O
 `` O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 2005 O
 '' O
 . O
@@ -76844,7 +76844,7 @@ laki-laki O
 dewasa O
 dari O
 suku O
-Aceh O
+Aceh Place
 dapat O
 disapa O
 dengan O
@@ -76857,7 +76857,7 @@ dalam O
 hadih O
 maja O
 `` O
-Aceh O
+Aceh Place
 teungku O
 , O
 Meulayu O
@@ -76874,12 +76874,12 @@ Pepatah O
 tersebut O
 dalam O
 Bahasa O
-Indonesia O
+Indonesia Place
 dapat O
 ditafsirkan O
 bahwa O
 orang O
-Aceh O
+Aceh Place
 bergelar O
 teungku O
 , O
@@ -77993,7 +77993,7 @@ Sadah O
 -RRB- O
 -LRB- O
 Bahasa O
-Indonesia O
+Indonesia Place
 : O
 Tuan O
 -RRB- O
@@ -78223,7 +78223,7 @@ Yusuf Person
 . O
 Perempuan O
 berdarah O
-Aceh O
+Aceh Place
 -- O
 Sumatera Place
 Barat Place
@@ -78320,7 +78320,7 @@ Penyanyi O
 & O
 Aktor O
 berkebangsaan O
-Indonesia O
+Indonesia Place
 berdarah O
 Jawa Place
 dan O
@@ -78364,7 +78364,7 @@ pengalamannya O
 di O
 dunia O
 hiburan O
-Indonesia O
+Indonesia Place
 . O
 Ulfa Person
 telah O
@@ -79266,7 +79266,7 @@ masa O
 perjuangan O
 kemerdekaan O
 Republik O
-Indonesia O
+Indonesia Place
 , O
 ia O
 aktif O
@@ -79340,7 +79340,7 @@ Kongres O
 Umat O
 Katolik Organisation
 Seluruh O
-Indonesia O
+Indonesia Place
 I O
 di O
 Yogyakarta Place
@@ -79351,7 +79351,7 @@ Yogyakarta Place
 anggota O
 Persatuan O
 Pelajar O
-Indonesia O
+Indonesia Place
 -LRB- O
 PPI Organisation
 -RRB- O
@@ -79363,7 +79363,7 @@ pendiri/pengurus O
 Ikatan O
 Mahasiswa O
 Katolik Organisation
-Indonesia O
+Indonesia Place
 -LRB- O
 IMKI O
 -RRB- O
@@ -79374,7 +79374,7 @@ Nederland O
 -RRB- O
 . O
 Setelah O
-Indonesia O
+Indonesia Place
 merdeka O
 , O
 jabatan O
@@ -79427,7 +79427,7 @@ dalam O
 keadaan O
 keuangan O
 Republik O
-Indonesia O
+Indonesia Place
 di O
 awal O
 Orde O
@@ -79453,7 +79453,7 @@ Seda Person
 mampu O
 membawa O
 ekonomi O
-Indonesia O
+Indonesia Place
 ke O
 arah O
 yang O
@@ -79467,7 +79467,7 @@ hingga O
 % O
 , O
 mengarahkan O
-Indonesia O
+Indonesia Place
 kembali O
 dalam O
 pergaulan O
@@ -79502,7 +79502,7 @@ diterapkan O
 dalam O
 dunia O
 keuangan O
-Indonesia O
+Indonesia Place
 . O
 Inilah O
 yang O
@@ -79524,7 +79524,7 @@ menyebutnya O
 sebagai O
 Pahlawan O
 Keuangan O
-Indonesia O
+Indonesia Place
 . O
 Selanjutnya O
 , O
@@ -79555,11 +79555,11 @@ di O
 berbagai O
 daerah O
 di O
-Indonesia O
+Indonesia Place
 , O
 khususnya O
 di O
-Indonesia O
+Indonesia Place
 bagian O
 Timur O
 , O
@@ -79591,7 +79591,7 @@ seperti O
 Duta O
 Besar O
 Republik O
-Indonesia O
+Indonesia Place
 di O
 Brussels O
 untuk O
@@ -79611,7 +79611,7 @@ Dewan O
 Pertimbangan O
 Agung O
 Republik O
-Indonesia O
+Indonesia Place
 -LRB- O
 1976-1978 O
 ; O
@@ -79660,7 +79660,7 @@ kemudian O
 menjadi O
 Presiden O
 Republik O
-Indonesia O
+Indonesia Place
 . O
 Dalam O
 bidang O
@@ -79753,7 +79753,7 @@ dari O
 mantan O
 Gubernur O
 Bank O
-Indonesia O
+Indonesia Place
 , O
 Soedradjad O
 Djiwandono Person
@@ -79764,7 +79764,7 @@ besan O
 dari O
 mantan O
 Presiden O
-Indonesia O
+Indonesia Place
 , O
 Soeharto Person
 . O
@@ -80057,7 +80057,7 @@ sebagai O
 Wakil O
 Perdana O
 Menteri O
-Indonesia O
+Indonesia Place
 pada O
 Kabinet O
 Ali Person
@@ -80149,7 +80149,7 @@ seorang O
 penyanyi O
 dan O
 pemusik O
-Indonesia O
+Indonesia Place
 yang O
 merupakan O
 vokalis O
@@ -80436,7 +80436,7 @@ salah O
 satu O
 maestro O
 lawak O
-Indonesia O
+Indonesia Place
 pada O
 masanya O
 bersama O
@@ -80514,7 +80514,7 @@ militer O
 dan O
 politisi O
 berkebangasaan O
-Indonesia O
+Indonesia Place
 . O
 Kecamatan Place
 Kaubun Place
@@ -80724,7 +80724,7 @@ karena O
 menentang O
 pembentukan O
 Negara O
-Indonesia O
+Indonesia Place
 Timur O
 dan O
 sempat O
@@ -80787,7 +80787,7 @@ sibuk O
 Persatuan O
 Sepak O
 bola O
-Indonesia O
+Indonesia Place
 Solo O
 -LRB- O
 disingkat O
@@ -80801,7 +80801,7 @@ klub O
 sepak O
 bola O
 di O
-Indonesia O
+Indonesia Place
 . O
 Pendiriannya O
 diadakan O
@@ -80814,7 +80814,7 @@ Surakarta Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 oleh O
 Sastrosaksono O
 -LRB- O
@@ -80845,7 +80845,7 @@ menjadi O
 Persatuan O
 Sepak O
 bola O
-Indonesia O
+Indonesia Place
 Solo O
 , O
 disingkat O
@@ -81428,7 +81428,7 @@ beberapa O
 tahun O
 setelah O
 kemerdekaan O
-Indonesia O
+Indonesia Place
 yang O
 dipakai O
 di O
@@ -81727,7 +81727,7 @@ Kudus Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Sampai O
 dengan O
@@ -81879,7 +81879,7 @@ dalam O
 ajang O
 pemilihan O
 Puteri O
-Indonesia O
+Indonesia Place
 2004 O
 . O
 Wanita O
@@ -81892,7 +81892,7 @@ berhasil O
 menjadi O
 satu-satunya O
 wanita O
-Asia O
+Asia Place
 yang O
 berhasil O
 masuk O
@@ -83920,7 +83920,7 @@ terbesar O
 dari O
 Bank O
 Central O
-Asia O
+Asia Place
 -LRB- O
 BCA O
 -RRB- O
@@ -83950,7 +83950,7 @@ di O
 antaranya O
 pemilik O
 Grand O
-Indonesia O
+Indonesia Place
 dan O
 perusahaan O
 elektronik O
@@ -86432,13 +86432,13 @@ mengangkat O
 marwah O
 persepak O
 bolaan O
-Aceh O
+Aceh Place
 yang O
 sebelumnya O
 tenggelam O
 akibat O
 Konflik O
-Aceh O
+Aceh Place
 dengan O
 menjadi O
 juara O
@@ -86484,11 +86484,11 @@ tertinggi O
 kompetisi O
 sepak O
 bola O
-Indonesia O
+Indonesia Place
 yang O
 lebih O
 dikenal O
-Indonesia O
+Indonesia Place
 Super O
 League O
 -LRB- O
@@ -86511,7 +86511,7 @@ Persatuan O
 Sepak O
 bola O
 Seluruh O
-Indonesia O
+Indonesia Place
 -RRB- O
 dikarenakan O
 kepengurusan O
@@ -86529,7 +86529,7 @@ memajukan O
 prestasi O
 sepak O
 bola O
-Indonesia O
+Indonesia Place
 . O
 Nama O
 kompetisi O
@@ -86807,7 +86807,7 @@ satu O
 penyanyi O
 dangdut O
 berkebangsaan O
-Indonesia O
+Indonesia Place
 yang O
 legendaris O
 dan O
@@ -87371,7 +87371,7 @@ ayah O
 ini O
 kembali O
 ke O
-Indonesia O
+Indonesia Place
 pada O
 tahun O
 1982 O
@@ -87416,7 +87416,7 @@ Wanita O
 Terbaik O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 2007 O
 dalam O
 film O
@@ -88365,7 +88365,7 @@ tahun O
 -LRB- O
 diterbitkan O
 di O
-Indonesia O
+Indonesia Place
 tahun O
 1982 O
 oleh O
@@ -88867,7 +88867,7 @@ Rai O
 adalah O
 seorang O
 binaragawan O
-Indonesia O
+Indonesia Place
 . O
 Terlahir O
 dengan O
@@ -88942,7 +88942,7 @@ internasional O
 pertamanya O
 yakni O
 Mr. Person
-Asia O
+Asia Place
 . O
 Dengan O
 persiapan O
@@ -88987,7 +88987,7 @@ untuk O
 mengikuti O
 kompetisi O
 multi-event O
-Asia O
+Asia Place
 Tenggara O
 -LRB- O
 SEA O
@@ -89010,7 +89010,7 @@ menyumbangkan O
 medali O
 emas O
 untuk O
-Indonesia O
+Indonesia Place
 . O
 Tahun O
 1998 O
@@ -89019,11 +89019,11 @@ Ade Person
 Rai Person
 kembali O
 mewakili O
-Indonesia O
+Indonesia Place
 ke O
 ajang O
 Mr. Person
-Asia O
+Asia Place
 Pro/Am O
 Classic O
 dan O
@@ -89065,7 +89065,7 @@ ke O
 berbagai O
 tempat O
 di O
-Indonesia O
+Indonesia Place
 , O
 bahkan O
 juga O
@@ -89251,7 +89251,7 @@ melalui O
 Desa O
 Pulo Place
 Saruk O
-Aceh O
+Aceh Place
 singkil O
 dengan O
 ferry O
@@ -89307,7 +89307,7 @@ Salah O
 satu O
 Kabupaten O
 di O
-Aceh O
+Aceh Place
 apalagi O
 hanya O
 nama O
@@ -89466,7 +89466,7 @@ gagasan O
 modernisasi O
 peradilan O
 di O
-Indonesia O
+Indonesia Place
 . O
 Ia O
 meraih O
@@ -89908,7 +89908,7 @@ Natal Place
 Sumatera Place
 Utara Place
 , O
-Indonesia O
+Indonesia Place
 , O
 di O
 pantai O
@@ -90291,7 +90291,7 @@ SMINDO O
 -LRB- O
 Sekolah O
 Musik O
-Indonesia O
+Indonesia Place
 Yogyakarta Place
 milik O
 Pemerintah O
@@ -90315,7 +90315,7 @@ SOSI O
 Sekolah O
 Olah O
 Seni O
-Indonesia O
+Indonesia Place
 -RRB- O
 yang O
 sekarang O
@@ -90429,7 +90429,7 @@ sebagai O
 sistem O
 Ejaan O
 Republik O
-Indonesia O
+Indonesia Place
 . O
 Ejaan O
 Soewandi Person
@@ -90455,7 +90455,7 @@ Baru O
 dengan O
 Ejaan O
 Bahasa O
-Indonesia O
+Indonesia Place
 yang O
 Disempurnakan O
 -LRB- O
@@ -90904,7 +90904,7 @@ penulis O
 dan O
 penyanyi O
 asal O
-Indonesia O
+Indonesia Place
 . O
 Dee O
 terlahir O
@@ -91177,7 +91177,7 @@ pertanian O
 kepada O
 para O
 imigran O
-Asia O
+Asia Place
 . O
 Karena O
 populasi O
@@ -92094,7 +92094,7 @@ menjadi O
 Ketua O
 Badan O
 Perfilman O
-Indonesia O
+Indonesia Place
 periode O
 2014-2017 O
 setelah O
@@ -92108,7 +92108,7 @@ Mubes O
 Pembentukan O
 Badan O
 Perfilman O
-Indonesia O
+Indonesia Place
 -LRB- O
 BPI O
 -RRB- O
@@ -92333,7 +92333,7 @@ sebagai O
 Anggota O
 DPR Organisation
 Republik O
-Indonesia O
+Indonesia Place
 periode O
 2004 O
 -- O
@@ -92363,7 +92363,7 @@ yang O
 melibatkan O
 sejumlah O
 politikus O
-Indonesia O
+Indonesia Place
 lainnya O
 . O
 Ia O
@@ -92629,7 +92629,7 @@ pemeran O
 sinetron O
 dan O
 film O
-Indonesia O
+Indonesia Place
 . O
 Lulu O
 menikah O
@@ -92740,7 +92740,7 @@ Timur Place
 Setelah O
 Belanda Place
 meninggalkan O
-Indonesia O
+Indonesia Place
 bulan O
 September O
 1949 O
@@ -92758,7 +92758,7 @@ ada O
 pengakuan O
 dari O
 pemerintah O
-Indonesia O
+Indonesia Place
 . O
 Dan O
 atas O
@@ -93544,7 +93544,7 @@ dan O
 besar O
 di O
 Lhokseumawe Place
-Aceh O
+Aceh Place
 , O
 karakter O
 vokalnya O
@@ -93552,7 +93552,7 @@ dipengaruhi O
 oleh O
 nyanyian O
 tradisional O
-Aceh O
+Aceh Place
 dan O
 mengaji O
 Al-Qur O
@@ -93563,7 +93563,7 @@ Dan O
 pengaruh O
 nyanyian O
 tradisional O
-Aceh O
+Aceh Place
 itulah O
 ia O
 sumbangkan O
@@ -93585,7 +93585,7 @@ lagu O
 tersebut O
 dengan O
 bahasa O
-Aceh O
+Aceh Place
 . O
 Lagu O
 tersebut O
@@ -93602,7 +93602,7 @@ Hindia O
 yang O
 sempat O
 melanda O
-Aceh O
+Aceh Place
 pada O
 saat O
 itu O
@@ -94039,7 +94039,7 @@ dan O
 juga O
 mantan O
 peragawati O
-Indonesia O
+Indonesia Place
 . O
 Suaminya O
 yang O
@@ -94055,7 +94055,7 @@ salah O
 satu O
 aktor O
 senior O
-Indonesia O
+Indonesia Place
 dan O
 mereka O
 menikah O
@@ -94074,7 +94074,7 @@ juga O
 pada O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 tahun O
 1973 O
 dalam O
@@ -94120,7 +94120,7 @@ di O
 beberapa O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 yaitu O
 dalam O
 film O
@@ -94170,7 +94170,7 @@ Pada O
 ajang O
 Festival O
 Film O
-Asia O
+Asia Place
 Pasifik O
 ke-50 O
 , O
@@ -94432,7 +94432,7 @@ Rawas Place
 Sumatera Place
 Selatan Place
 , O
-Indonesia O
+Indonesia Place
 Daerah O
 inipenghasil O
 sawit O
@@ -95155,7 +95155,7 @@ oleh O
 presiden O
 ke-6 O
 Republik O
-Indonesia O
+Indonesia Place
 , O
 Susilo Person
 Bambang Person
@@ -95831,7 +95831,7 @@ progressive O
 rock O
 Yes O
 dan O
-Asia O
+Asia Place
 -RRB- O
 mendirikan O
 supergrup O
@@ -96364,7 +96364,7 @@ Timur Place
 Sumatera Place
 Selatan Place
 , O
-Indonesia O
+Indonesia Place
 Merupakan O
 sebuah O
 Kecamatan Place
@@ -96836,7 +96836,7 @@ Dewan Organisation
 Perwakilan Organisation
 Rakyat Organisation
 Republik O
-Indonesia O
+Indonesia Place
 masa O
 jabatan O
 2014-2019 O
@@ -96978,7 +96978,7 @@ untuk O
 kuliah O
 Akademi O
 Kepariwisataan O
-Indonesia O
+Indonesia Place
 -LRB- O
 AKI O
 -RRB- O
@@ -97139,7 +97139,7 @@ Kelompok O
 Perusahaan O
 BASF O
 di O
-Indonesia O
+Indonesia Place
 . O
 Selama O
 7 O
@@ -97175,7 +97175,7 @@ sebagai O
 `` O
 Raja O
 Kuis O
-Indonesia O
+Indonesia Place
 '' O
 setelah O
 Ani O
@@ -98226,7 +98226,7 @@ masyarakat O
 sehari-hari O
 adalah O
 Bahasa O
-Indonesia O
+Indonesia Place
 , O
 Bahasa O
 Palembang Place
@@ -99559,7 +99559,7 @@ Agam Place
 Sumatera Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Dengan O
 pindahnya O
@@ -100081,7 +100081,7 @@ Sebelum O
 menyandang O
 gelar O
 Puteri O
-Indonesia O
+Indonesia Place
 2006 O
 , O
 Agni Person
@@ -100109,7 +100109,7 @@ kemudian O
 terpilih O
 menjadi O
 Puteri O
-Indonesia O
+Indonesia Place
 2007 O
 di O
 Teater O
@@ -100133,7 +100133,7 @@ Tabanan Place
 provinsi O
 Bali Place
 , O
-Indonesia O
+Indonesia Place
 terletak O
 kurang O
 lebih O
@@ -101178,7 +101178,7 @@ membawa O
 Tim O
 Olimpiade O
 Fisika O
-Indonesia O
+Indonesia Place
 -LRB- O
 TOFI O
 -RRB- O
@@ -101639,7 +101639,7 @@ yang O
 terkenal O
 sampai O
 kawasan O
-Asia O
+Asia Place
 dan O
 Timur O
 Tengah O
@@ -102731,7 +102731,7 @@ atau O
 album O
 pertama O
 di O
-Indonesia O
+Indonesia Place
 , O
 dengan O
 judul O
@@ -102779,7 +102779,7 @@ dengan O
 agency O
 Look O
 Model O
-Indonesia O
+Indonesia Place
 pada O
 tahun O
 1998-1999 O
@@ -103328,7 +103328,7 @@ mengingat O
 semakin O
 pesatnya O
 perkeretaapian O
-Indonesia O
+Indonesia Place
 yang O
 revilatilasasi O
 stasiun O
@@ -103715,7 +103715,7 @@ Provinsi O
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 , O
 yang O
 berada O
@@ -103902,7 +103902,7 @@ seorang O
 penulis O
 wanita O
 di O
-Indonesia O
+Indonesia Place
 . O
 Grigori Person
 Yakovlevich O
@@ -103951,7 +103951,7 @@ salah O
 satu O
 Aktris O
 senior O
-Indonesia O
+Indonesia Place
 . O
 Dia O
 menikah O
@@ -104489,7 +104489,7 @@ berdasarkan O
 Peraturan O
 Pemerintah O
 Republik O
-Indonesia O
+Indonesia Place
 Nomor O
 13 O
 Tahun O
@@ -105556,7 +105556,7 @@ dibacanya O
 Keputusan O
 Presiden O
 Republik O
-Indonesia O
+Indonesia Place
 tentang O
 pembukaan O
 `` O
@@ -105620,7 +105620,7 @@ sebagai O
 nominasi O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 di O
 Yogyakarta Place
 untuk O
@@ -105742,13 +105742,13 @@ Tiongkok O
 dan O
 negara-negara O
 di O
-Asia O
+Asia Place
 lainnya O
 yang O
 mendominasi O
 perfilaman O
 di O
-Indonesia O
+Indonesia Place
 . O
 Dia O
 berhasil O
@@ -105763,7 +105763,7 @@ terbaik O
 dalam O
 Festival O
 Sinetron O
-Indonesia O
+Indonesia Place
 1994 O
 untuk O
 sinetron O
@@ -105783,7 +105783,7 @@ terbaik O
 dalam O
 Festival O
 Sinetron O
-Indonesia O
+Indonesia Place
 tahun O
 1995 O
 untuk O
@@ -105812,7 +105812,7 @@ terbaik O
 dalam O
 Festival O
 Sinetron O
-Indonesia O
+Indonesia Place
 1996 O
 untuk O
 sinetron O
@@ -106747,7 +106747,7 @@ garis O
 pangkal O
 wilayah O
 Kepulauan O
-Indonesia O
+Indonesia Place
 di O
 Kecamatan Place
 Belakang O
@@ -106759,7 +106759,7 @@ garis O
 pangkal O
 wilayah O
 Kepulauan O
-Indonesia O
+Indonesia Place
 terdapat O
 di O
 Pulau O
@@ -107729,7 +107729,7 @@ tahun O
 pada O
 saat O
 itu O
-Indonesia O
+Indonesia Place
 menjadi O
 pengekspor O
 kayu O
@@ -107747,7 +107747,7 @@ sebelum O
 diimpor O
 kembali O
 ke O
-Indonesia O
+Indonesia Place
 dengan O
 harga O
 yang O
@@ -108303,7 +108303,7 @@ Kepulauan Place
 Bangka Place
 Belitung Place
 , O
-Indonesia O
+Indonesia Place
 , O
 sekaligus O
 menjadi O
@@ -108862,7 +108862,7 @@ Kotabaru Place
 Kalimantan Place
 Selatan Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Pulau O
 ini O
@@ -108872,13 +108872,13 @@ tengah-tengah O
 Negara O
 Kesatuan Place
 Republik O
-Indonesia O
+Indonesia Place
 -LRB- O
 The O
 Centerest O
 Island O
 of O
-Indonesia O
+Indonesia Place
 -RRB- O
 , O
 atau O
@@ -109036,7 +109036,7 @@ Tabalong Place
 Lembaran O
 Negara O
 Republik O
-Indonesia O
+Indonesia Place
 Nomor O
 51 O
 , O
@@ -109044,7 +109044,7 @@ Tambahan Place
 Lembaran O
 Negara O
 Republik O
-Indonesia O
+Indonesia Place
 Nomor O
 2765 O
 -RRB- O
@@ -109522,7 +109522,7 @@ menjadi O
 Akademi O
 Seni O
 Karawitan O
-Indonesia O
+Indonesia Place
 -LRB- O
 ASKI O
 -RRB- O
@@ -109547,7 +109547,7 @@ berkembang O
 menjadi O
 Institut O
 Seni O
-Indonesia O
+Indonesia Place
 -LRB- O
 ISI O
 -RRB- O
@@ -109596,7 +109596,7 @@ menjadi O
 Akademi O
 Seni O
 Karawitan O
-Indonesia O
+Indonesia Place
 -LRB- O
 ASKI O
 -RRB- O
@@ -109621,7 +109621,7 @@ berkembang O
 menjadi O
 Institut O
 Seni O
-Indonesia O
+Indonesia Place
 -LRB- O
 ISI O
 -RRB- O
@@ -110122,7 +110122,7 @@ di O
 Provinsi O
 Banten Place
 , O
-Indonesia O
+Indonesia Place
 Dengan O
 kampus O
 utama O
@@ -110154,7 +110154,7 @@ Perguruan Place
 Tinggi O
 Negeri O
 di O
-Indonesia O
+Indonesia Place
 yang O
 berada O
 di O
@@ -110463,7 +110463,7 @@ Indonesia Organisation
 dengan O
 Pusat O
 Grafika O
-Indonesia O
+Indonesia Place
 . O
 Kemudian O
 , O
@@ -110505,7 +110505,7 @@ Provinsi O
 Jawa Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Universitas Organisation
 Trunojoyo Organisation
@@ -110557,7 +110557,7 @@ Wahid Person
 sebagai O
 Presiden O
 Republik O
-Indonesia O
+Indonesia Place
 pada O
 waktu O
 itu O
@@ -110726,7 +110726,7 @@ mengirim O
 5 O
 orang O
 pengajar O
-Indonesia O
+Indonesia Place
 ke O
 perguruan O
 tinggi O
@@ -110752,7 +110752,7 @@ gedung O
 kampus O
 kepada O
 pemerintah O
-Indonesia O
+Indonesia Place
 lengkap O
 dengan O
 berbagai O
@@ -111090,7 +111090,7 @@ dan O
 pembangunan O
 nasional O
 di O
-Indonesia O
+Indonesia Place
 , O
 pada O
 tahun O
@@ -111139,7 +111139,7 @@ beberapa O
 tenaga O
 ahli O
 dari O
-Indonesia O
+Indonesia Place
 yang O
 telah O
 mendapat O
@@ -111737,7 +111737,7 @@ dikembangkan O
 beberapa O
 politeknik O
 di O
-Indonesia O
+Indonesia Place
 yakni O
 Politeknik O
 Universitas Organisation
@@ -111771,12 +111771,12 @@ pada O
 tahun O
 1984 O
 pemerintah O
-Indonesia O
+Indonesia Place
 mengembangkan O
 Politeknik O
 di O
 seluruh O
-Indonesia O
+Indonesia Place
 , O
 salah O
 satunya O
@@ -111870,7 +111870,7 @@ Pendidikan O
 dan O
 Kebudayaan O
 Republik O
-Indonesia O
+Indonesia Place
 Nomor O
 081/O/1997 O
 tentang O
@@ -111907,7 +111907,7 @@ sebagai O
 `` O
 maestro O
 keroncong O
-Indonesia O
+Indonesia Place
 , O
 '' O
 ia O
@@ -111923,11 +111923,11 @@ ciptaannya O
 yang O
 terkenal O
 di O
-Asia O
+Asia Place
 , O
 terutama O
 di O
-Indonesia O
+Indonesia Place
 dan O
 Jepang Place
 . O
@@ -112547,7 +112547,7 @@ Pada O
 tahun O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 1974 O
 penataan O
 seni O
@@ -112590,7 +112590,7 @@ ini O
 yang O
 merupakan O
 film O
-Indonesia O
+Indonesia Place
 kedua O
 yang O
 paling O
@@ -112794,7 +112794,7 @@ Operasi O
 Pemulihan O
 Keamanan O
 di O
-Aceh O
+Aceh Place
 . O
 Seiring O
 dengan O
@@ -112831,7 +112831,7 @@ Setahun O
 setelah O
 kembali O
 dari O
-Aceh O
+Aceh Place
 , O
 Agus O
 menjabat O
@@ -112866,7 +112866,7 @@ peringatan O
 Proklamasi O
 Kemerdekaan O
 Republik O
-Indonesia O
+Indonesia Place
 ke-70 O
 , O
 tanggal O
@@ -113293,7 +113293,7 @@ Utara Place
 Kalimantan Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Segala O
 pusat O
@@ -114577,7 +114577,7 @@ Melawi Place
 Kalimantan Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Di O
 kecamatan O
@@ -114672,7 +114672,7 @@ lautan O
 sebelah O
 Timur O
 -LRB- O
-Asia O
+Asia Place
 -RRB- O
 . O
 Salah O
@@ -114817,7 +114817,7 @@ Kubu Place
 Raya Place
 Kalimantan Place
 Barat Place
-Indonesia O
+Indonesia Place
 . O
 Kecamatan Place
 Galing Place
@@ -115093,7 +115093,7 @@ berdasarkan O
 Peraturan O
 Pemerintah O
 Republik O
-Indonesia O
+Indonesia Place
 Nomor O
 39 O
 Tahun O
@@ -115303,7 +115303,7 @@ lélé O
 di O
 dalam O
 bahasa O
-Indonesia O
+Indonesia Place
 . O
 Kurang O
 lebih O
@@ -115360,7 +115360,7 @@ diberlakukannya O
 Peraturan O
 Pemerintah O
 Republik O
-Indonesia O
+Indonesia Place
 Nomor O
 39 O
 Tahun O
@@ -115634,7 +115634,7 @@ oleh O
 bus O
 baik O
 dari O
-Indonesia O
+Indonesia Place
 maupun O
 dari O
 Malaysia Place
@@ -115929,7 +115929,7 @@ sejarah O
 tersebut O
 . O
 Setelah O
-Indonesia O
+Indonesia Place
 diproklamasikan O
 pada O
 Tanggal O
@@ -115950,7 +115950,7 @@ satu O
 provinsi O
 dari O
 Republik O
-Indonesia O
+Indonesia Place
 . O
 Pada O
 Tanggal O
@@ -117468,7 +117468,7 @@ Bahasa O
 Mandarin O
 ke O
 Bahasa O
-Indonesia O
+Indonesia Place
 dan O
 akhirnya O
 dipromosikan O
@@ -117508,7 +117508,7 @@ barat O
 betiup O
 dari O
 Benua O
-Asia O
+Asia Place
 serta O
 Lautan O
 Pasifik O
@@ -117585,7 +117585,7 @@ Kolaka Place
 Sulawesi Place
 Tenggara Place
 , O
-Indonesia O
+Indonesia Place
 yang O
 memiliki O
 pantai O
@@ -117744,7 +117744,7 @@ Tahun O
 1952 O
 Sekolah O
 Musik O
-Indonesia O
+Indonesia Place
 -LRB- O
 SMIND O
 -RRB- O
@@ -118147,7 +118147,7 @@ dari O
 berbagai O
 pulau O
 di O
-Indonesia O
+Indonesia Place
 , O
 baik O
 itu O
@@ -118486,7 +118486,7 @@ ujung O
 paling O
 utara O
 wilayah O
-Indonesia O
+Indonesia Place
 dan O
 secara O
 administratif O
@@ -118691,7 +118691,7 @@ Minahasa Place
 Sulawesi Place
 Utara Place
 , O
-Indonesia O
+Indonesia Place
 sebelah O
 Utara O
 berbatasan O
@@ -118789,7 +118789,7 @@ Tondano O
 Sulawesi Place
 Utara Place
 , O
-Indonesia O
+Indonesia Place
 Batas-batas O
 wilayah O
 : O
@@ -119023,7 +119023,7 @@ Utara Place
 Sulawesi Place
 Utara Place
 , O
-Indonesia O
+Indonesia Place
 , O
 sebelah O
 utara O
@@ -119310,7 +119310,7 @@ adalah O
 Menteri O
 Pertahanan Place
 Republik O
-Indonesia O
+Indonesia Place
 dari O
 19 O
 Maret O
@@ -120113,7 +120113,7 @@ Jambi Place
 Provinsi O
 Jambi Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Saat O
 ini O
@@ -120133,7 +120133,7 @@ kali O
 di O
 antaranya O
 Garuda O
-Indonesia O
+Indonesia Place
 , O
 Citilink O
 , O
@@ -120210,7 +120210,7 @@ Tengah Place
 , O
 Maluku Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Sedangkan O
 untuk O
@@ -120629,7 +120629,7 @@ Provinsi O
 Sulawesi Place
 Selatan Place
 , O
-Indonesia O
+Indonesia Place
 , O
 yang O
 terletak O
@@ -120990,7 +120990,7 @@ Indonesia O
 Sulawesi Place
 Selatan Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Balocci Place
 adalah O
@@ -121743,7 +121743,7 @@ Pangkajene Place
 Sulawesi Place
 Selatan Place
 , O
-Indonesia O
+Indonesia Place
 yang O
 terletak O
 sekitar O
@@ -122053,7 +122053,7 @@ Timur Place
 Sulawesi Place
 Selatan Place
 , O
-Indonesia O
+Indonesia Place
 , O
 dan O
 merupakan O
@@ -122861,7 +122861,7 @@ Provinsi O
 Sulawesi Place
 Selatan Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Dalam O
 perjalanan O
@@ -123545,7 +123545,7 @@ dengan O
 Sulawesi Place
 Tenggara Place
 dan O
-Indonesia O
+Indonesia Place
 bahagian O
 timur O
 . O
@@ -123560,7 +123560,7 @@ tinggi O
 negeri O
 lainnya O
 di O
-Indonesia O
+Indonesia Place
 yang O
 terletak O
 di O
@@ -123593,7 +123593,7 @@ Kabupaten Place
 Maluku Place
 Tenggara Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Disamping O
 itu O
@@ -123784,7 +123784,7 @@ kota O
 Tual O
 merupakan O
 miniaturnya O
-Indonesia O
+Indonesia Place
 . O
 Oleh O
 karena O
@@ -124758,7 +124758,7 @@ satu-satunya O
 yang O
 ada O
 di O
-Indonesia O
+Indonesia Place
 yang O
 lulusannya O
 mempunyai O
@@ -124919,7 +124919,7 @@ Samarinda Place
 Kalimantan Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Sebelumnya O
 bernama O
@@ -125428,7 +125428,7 @@ Nusa Place
 Tenggara Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 yang O
 juga O
 merupakan O
@@ -126735,7 +126735,7 @@ saat O
 harian O
 ekonomi O
 Bisnis O
-Indonesia O
+Indonesia Place
 hendak O
 terbit O
 -LRB- O
@@ -126764,7 +126764,7 @@ dua O
 tahun O
 di O
 Bisnis O
-Indonesia O
+Indonesia Place
 , O
 Andy Person
 diajak O
@@ -126791,7 +126791,7 @@ wartawan O
 program O
 berita O
 Seputar O
-Indonesia O
+Indonesia Place
 berkaitan O
 dengan O
 adanya O
@@ -126807,7 +126807,7 @@ RCTI O
 yang O
 menaungi O
 Seputar O
-Indonesia O
+Indonesia Place
 , O
 untuk O
 bergabung O
@@ -127184,7 +127184,7 @@ perguruan O
 tinggi O
 terkemuka O
 di O
-Indonesia O
+Indonesia Place
 , O
 seperti O
 UGM O
@@ -127688,7 +127688,7 @@ di O
 berbagai O
 negara O
 di O
-Asia O
+Asia Place
 dan O
 Eropa Place
 . O
@@ -127877,7 +127877,7 @@ Nusa Place
 Tenggara Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Riung Place
 Barat Place
@@ -128069,7 +128069,7 @@ aktor O
 terbaik O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 -LRB- O
 FFI O
 -RRB- O
@@ -128287,7 +128287,7 @@ Nusa Place
 Tenggara Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Umalulu Place
 atau O
@@ -128307,7 +128307,7 @@ Nusa Place
 Tenggara Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Pada O
 masa O
@@ -128418,7 +128418,7 @@ Nusa Place
 Tenggara Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Arti O
 dari O
@@ -128555,7 +128555,7 @@ Nusa Place
 Tenggara Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Adik O
 Ira Person
@@ -128748,7 +128748,7 @@ cucu O
 dari O
 pelawak O
 senior O
-Indonesia O
+Indonesia Place
 , O
 Bing Person
 Slamet Person
@@ -128759,7 +128759,7 @@ aktor O
 dan O
 penyanyi O
 senior O
-Indonesia O
+Indonesia Place
 , O
 Adi Person
 Bing Person
@@ -129191,7 +129191,7 @@ terletak O
 paling O
 ujung O
 timur O
-Indonesia O
+Indonesia Place
 yang O
 sering O
 disebut O
@@ -129490,7 +129490,7 @@ dan O
 patok O
 perbatasan O
 antara O
-Indonesia O
+Indonesia Place
 dengan O
 Papua Place
 Nugini Place
@@ -129633,7 +129633,7 @@ Minangkabau O
 % O
 , O
 suku O
-Aceh O
+Aceh Place
 = O
 6 O
 % O
@@ -130208,7 +130208,7 @@ air O
 Berdasarkan O
 hasil O
 BPS Organisation
-Aceh O
+Aceh Place
 timur O
 20116 O
 maka O
@@ -130277,7 +130277,7 @@ dikenal O
 sebagai O
 basis O
 Gerakan O
-Aceh O
+Aceh Place
 Mardeka O
 -LRB- O
 GAM O
@@ -130293,7 +130293,7 @@ Surat O
 Keputusan O
 Gubernur O
 Nanggroe O
-Aceh O
+Aceh Place
 Darussalam O
 atas O
 nama O
@@ -130399,8 +130399,8 @@ Kota Place
 Banda Place
 Aceh Place
 Provinsi O
-Aceh O
-Indonesia O
+Aceh Place
+Indonesia Place
 , O
 Kecamatan O
 Glumpang Place
@@ -130411,10 +130411,10 @@ Birokrat O
 handal O
 di O
 Pemerintah O
-Aceh O
+Aceh Place
 dan O
 DPR Organisation
-Aceh O
+Aceh Place
 di O
 Antaranya O
 Drs. O
@@ -130427,7 +130427,7 @@ Juga O
 wakil O
 ketua O
 DPR Organisation
-Aceh O
+Aceh Place
 , O
 Rusydi Person
 Adam O
@@ -130436,13 +130436,13 @@ SE O
 Direktur O
 Operasional O
 Bank O
-Aceh O
+Aceh Place
 , O
 Kepala O
 Biro O
 Pembangunan O
 Prov O
-Aceh O
+Aceh Place
 Ir O
 . O
 Ke O
@@ -131146,7 +131146,7 @@ Desa O
 . O
 Setelah O
 kemerdekaan O
-Indonesia O
+Indonesia Place
 tanggal O
 17 O
 Agustus O
@@ -131334,7 +131334,7 @@ Undang O
 Undang O
 darurat O
 Republik O
-Indonesia O
+Indonesia Place
 Nomor O
 7 O
 Tahun O
@@ -131387,7 +131387,7 @@ lainnya O
 Setelah O
 kemerdekaan O
 Republik O
-Indonesia O
+Indonesia Place
 17 O
 Agustus O
 1945 O
@@ -131412,7 +131412,7 @@ Setelah O
 masa O
 kemerdekaan O
 Republik O
-Indonesia O
+Indonesia Place
 , O
 pembangunan O
 pertumbuhan O
@@ -131946,7 +131946,7 @@ periode O
 sebelum O
 kemerdekaan O
 Republik O
-Indonesia O
+Indonesia Place
 , O
 yakni O
 saat O
@@ -132772,7 +132772,7 @@ Nias Place
 pada O
 khususnya O
 dan O
-Indonesia O
+Indonesia Place
 pada O
 umumnya O
 . O
@@ -133040,7 +133040,7 @@ di O
 selatan O
 ; O
 Samudera O
-Indonesia O
+Indonesia Place
 di O
 barat O
 ; O
@@ -133084,7 +133084,7 @@ data O
 hasil O
 Sensus O
 Penduduk O
-Indonesia O
+Indonesia Place
 2010 O
 , O
 Amandraya Place
@@ -133847,7 +133847,7 @@ Organisasi O
 Mahasiswa O
 tebesar O
 se O
-Indonesia O
+Indonesia Place
 yakni O
 Himpunan Organisation
 Mahasiswa Organisation
@@ -134265,7 +134265,7 @@ dimana O
 peneliti O
 Prancis O
 dan O
-Indonesia O
+Indonesia Place
 melakukan O
 eksplorasi O
 arkeologi O
@@ -134329,7 +134329,7 @@ Sunda O
 , O
 Jawa Place
 , O
-Aceh O
+Aceh Place
 , O
 Gayo Person
 , O
@@ -134505,7 +134505,7 @@ ada O
 sejak O
 awal O
 kemerdekaan O
-Indonesia O
+Indonesia Place
 yang O
 mana O
 pada O
@@ -134979,7 +134979,7 @@ pada O
 zaman O
 penjajahan O
 ketika O
-Indonesia O
+Indonesia Place
 masih O
 menjadi O
 Hindia O
@@ -135841,7 +135841,7 @@ Barat Place
 , O
 Lampung O
 , O
-Indonesia O
+Indonesia Place
 , O
 yang O
 memiliki O
@@ -135863,7 +135863,7 @@ beberapa O
 etnis O
 suku O
 di O
-Indonesia O
+Indonesia Place
 yakni O
 Semende O
 , O
@@ -136234,7 +136234,7 @@ Selatan Place
 Sumatera Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 , O
 dan O
 beribu O
@@ -137307,7 +137307,7 @@ dan O
 penduduk O
 pendatang O
 dari O
-Aceh O
+Aceh Place
 , O
 Medan O
 , O
@@ -137587,7 +137587,7 @@ Datar Place
 Sumatera Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Kecamatan Place
 ini O
@@ -138656,7 +138656,7 @@ telah O
 ada O
 sejak O
 sebelum O
-Indonesia O
+Indonesia Place
 merdeka O
 serta O
 Pasarde O
@@ -139141,7 +139141,7 @@ Secara O
 umum O
 iklim O
 di O
-Indonesia O
+Indonesia Place
 beriklim O
 tropis O
 yang O
@@ -139215,7 +139215,7 @@ bahasa O
 dominasi O
 penggunaan O
 Bahasa O
-Indonesia O
+Indonesia Place
 merupakan O
 bahasa O
 kedua O
@@ -139878,7 +139878,7 @@ Pringsewu Place
 , O
 Lampung O
 , O
-Indonesia O
+Indonesia Place
 . O
 Kecamatan Place
 Pagelaran O
@@ -140288,7 +140288,7 @@ Bawang Place
 , O
 Lampung O
 , O
-Indonesia O
+Indonesia Place
 . O
 Sebelum O
 tahun O
@@ -140601,7 +140601,7 @@ bagi O
 produksi O
 minyak O
 mentah O
-Indonesia O
+Indonesia Place
 . O
 Wilayah O
 Kecamatan Place
@@ -140743,7 +140743,7 @@ sebuah O
 partai O
 politik O
 di O
-Indonesia O
+Indonesia Place
 . O
 Partai O
 ini O
@@ -141077,7 +141077,7 @@ Zalianty Person
 -RRB- O
 adalah O
 aktris O
-Indonesia O
+Indonesia Place
 yang O
 merupakan O
 putri O
@@ -141156,7 +141156,7 @@ di O
 ajang O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 . O
 Ketika O
 suaminya O
@@ -141390,7 +141390,7 @@ Semarang Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 yang O
 terletak O
 di O
@@ -145237,7 +145237,7 @@ yang O
 terkenal O
 sebagai O
 delegasi O
-Indonesia O
+Indonesia Place
 dalam O
 perundingan O
 diplomasi O
@@ -145931,7 +145931,7 @@ dikirim O
 ke O
 Taman O
 Mini O
-Indonesia O
+Indonesia Place
 Indah O
 adalah O
 kesenian O
@@ -146020,7 +146020,7 @@ Selatan O
 Jawa Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Dari O
 sekolah O
@@ -146347,7 +146347,7 @@ Universe O
 , O
 dan O
 Miss O
-Indonesia O
+Indonesia Place
 2006 O
 . O
 Di O
@@ -146399,7 +146399,7 @@ nasional O
 tayangan O
 pertama O
 di O
-Indonesia O
+Indonesia Place
 yang O
 berseluruh O
 daerah O
@@ -146474,7 +146474,7 @@ Tim O
 nasional O
 sepak O
 bola O
-Indonesia O
+Indonesia Place
 hingga O
 ia O
 meraih O
@@ -146492,7 +146492,7 @@ sebagai O
 gol O
 terbaik O
 Piala O
-Asia O
+Asia Place
 AFC O
 1996 O
 . O
@@ -146559,7 +146559,7 @@ Tim O
 nasional O
 sepak O
 bola O
-Indonesia O
+Indonesia Place
 Pra O
 Olimpiade O
 , O
@@ -146568,7 +146568,7 @@ Games Person
 dan O
 Kualifikasi O
 Piala O
-Asia O
+Asia Place
 . O
 Ia O
 kembali O
@@ -147568,7 +147568,7 @@ Sunda-Manado-Ambon O
 ini O
 kembali O
 ke O
-Indonesia O
+Indonesia Place
 dan O
 bertemu O
 dengan O
@@ -147831,7 +147831,7 @@ PARSI O
 Persatuan O
 Artis O
 Sinetron O
-Indonesia O
+Indonesia Place
 -RRB- O
 , O
 terhadap O
@@ -148132,7 +148132,7 @@ pemimpin O
 redaksi O
 di O
 Seputar O
-Indonesia O
+Indonesia Place
 RCTI O
 . O
 Arief Person
@@ -148142,7 +148142,7 @@ pemimpin O
 redaksi O
 di O
 Seputar O
-Indonesia O
+Indonesia Place
 RCTI O
 sejak O
 pada O
@@ -148284,7 +148284,7 @@ Indian O
 , O
 5,09 O
 % O
-Asia O
+Asia Place
 , O
 0,03 O
 % O
@@ -148502,7 +148502,7 @@ yang O
 disebut O
 Safir O
 Bintang O
-Asia O
+Asia Place
 . O
 Stadion Place
 Olimpiade Place
@@ -149124,7 +149124,7 @@ Negara O
 Kesejahteraan O
 -LRB- O
 Pedoman O
-Indonesia O
+Indonesia Place
 -RRB- O
 atau O
 Research O
@@ -149147,7 +149147,7 @@ for O
 Democracy O
 , O
 dan O
-Asia O
+Asia Place
 Pacific O
 Youth O
 Forum O
@@ -149166,7 +149166,7 @@ Pemuda O
 dan O
 Mahasiswa O
 Sosial-Demokrat O
-Indonesia O
+Indonesia Place
 -LRB- O
 KPMSI O
 -RRB- O
@@ -149174,7 +149174,7 @@ KPMSI O
 dan O
 Masyarakat O
 Sosial-Demokrat O
-Indonesia O
+Indonesia Place
 -LRB- O
 MSI/Ketua O
 Badan O
@@ -149193,7 +149193,7 @@ Social O
 Democracy O
 Movement O
 in O
-Indonesia O
+Indonesia Place
 '' O
 -LRB- O
 FES O
@@ -149291,7 +149291,7 @@ Studi O
 Tentang O
 PT O
 Freeport O
-Indonesia O
+Indonesia Place
 '' O
 -LRB- O
 2013 O
@@ -149410,7 +149410,7 @@ terlibat O
 dalam O
 Forum O
 Pemuda O
-Asia O
+Asia Place
 Pasifik O
 di O
 Tokyo Place
@@ -150163,7 +150163,7 @@ Jaksa O
 Tinggi O
 Tentara O
 untuk O
-Indonesia O
+Indonesia Place
 Timur O
 -LRB- O
 1956-1960 O
@@ -150659,7 +150659,7 @@ sendiri O
 di O
 Amerika Place
 dan O
-Asia O
+Asia Place
 . O
 Serangkaian O
 kemenangan O
@@ -150740,7 +150740,7 @@ koloni O
 di O
 Afrika Place
 , O
-Asia O
+Asia Place
 dan O
 Pasifik O
 . O
@@ -150760,7 +150760,7 @@ menjadi O
 Sekolah O
 Tinggi O
 Seni O
-Indonesia O
+Indonesia Place
 -LRB- O
 STSI O
 -RRB- O
@@ -151143,7 +151143,7 @@ Banda Place
 Aceh Place
 , O
 Provinsi O
-Aceh O
+Aceh Place
 , O
 Indonesia.Yayasan O
 Pembangunan O
@@ -151164,7 +151164,7 @@ seorang O
 pendiri O
 negara O
 Republik O
-Indonesia O
+Indonesia Place
 -LRB- O
 Pahlawan O
 Nasional O
@@ -151198,7 +151198,7 @@ I O
 Sumatera Place
 Utara Place
 dan O
-Aceh O
+Aceh Place
 , O
 dibawah O
 YPSM O
@@ -151254,7 +151254,7 @@ yang O
 besar O
 dari O
 masyarakat O
-Aceh O
+Aceh Place
 , O
 sebagai O
 bukti O
@@ -151297,7 +151297,7 @@ merespons O
 kebutuhan O
 nyata O
 masyarakat O
-Aceh O
+Aceh Place
 , O
 dengan O
 mengubah O
@@ -153142,7 +153142,7 @@ Provinsi O
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Sejarah O
 panjang O
@@ -153768,7 +153768,7 @@ Barat Place
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 ... O
 seperti O
 desa-desa O
@@ -154592,7 +154592,7 @@ Barat Place
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 , O
 Cibogo Place
 diambil O
@@ -155125,7 +155125,7 @@ Hijau O
 ITB O
 dan O
 Kampung O
-Asia O
+Asia Place
 Afrika Place
 yang O
 akan O
@@ -155218,7 +155218,7 @@ Hijau O
 ITB O
 dan O
 Kampung O
-Asia O
+Asia Place
 Afrika Place
 yang O
 akan O
@@ -155425,7 +155425,7 @@ selaras O
 dengan O
 rancangan O
 pemerintah O
-Indonesia O
+Indonesia Place
 untuk O
 mencapai O
 Millennium O
@@ -155932,7 +155932,7 @@ Barat Place
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 sebuah O
 desa O
 disudut O
@@ -157077,7 +157077,7 @@ menjadi O
 kepala O
 bagian O
 Kesusasteraan O
-Indonesia O
+Indonesia Place
 Modern O
 . O
 Ia O
@@ -157270,7 +157270,7 @@ Magelang Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Pada O
 saat O
@@ -157363,7 +157363,7 @@ Pendidikan O
 Bahasa O
 dan O
 Sastra O
-Indonesia O
+Indonesia Place
 . O
 Pada O
 tanggal O
@@ -157390,7 +157390,7 @@ Pendidikan O
 dan O
 Kebudayaan O
 Republik O
-Indonesia O
+Indonesia Place
 . O
 Status O
 terdaftar O
@@ -157404,7 +157404,7 @@ Pendidikan O
 dan O
 Kebudayaan O
 Republik O
-Indonesia O
+Indonesia Place
 nomor O
 03950/1984 O
 tanggal O
@@ -157455,7 +157455,7 @@ Studi O
 Bahasa O
 dan O
 Sastra O
-Indonesia O
+Indonesia Place
 dan O
 Program O
 Studi O
@@ -157524,7 +157524,7 @@ Pendidikan O
 Bahasa O
 dan O
 Sastra O
-Indonesia O
+Indonesia Place
 . O
 Dengan O
 Surat O
@@ -157646,7 +157646,7 @@ Kementerian O
 Pendidikan O
 Nasional Organisation
 Republik Organisation
-Indonesia O
+Indonesia Place
 -RRB- O
 . O
 Didirikan O
@@ -157901,7 +157901,7 @@ sumbangan O
 Solidaritas O
 Istri-istri O
 Kabinet O
-Indonesia O
+Indonesia Place
 Bersatu O
 -LRB- O
 SIKIB O
@@ -158587,7 +158587,7 @@ Bogor O
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 berada O
 diketinggian O
 200 O
@@ -159030,7 +159030,7 @@ desa-desa O
 lain O
 di O
 wilayah O
-Indonesia O
+Indonesia Place
 dalam O
 wilayah O
 Tropis O
@@ -159092,7 +159092,7 @@ Bulakjagung O
 akibat O
 Krisis O
 finansial O
-Asia O
+Asia Place
 1997 O
 -RRB- O
 , O
@@ -159118,7 +159118,7 @@ Sirnagalih Place
 akibat O
 Krisis O
 finansial O
-Asia O
+Asia Place
 1997 O
 -RRB- O
 dan O
@@ -159745,7 +159745,7 @@ Kerja O
 Sama O
 Pondok O
 Pesantren O
-Indonesia O
+Indonesia Place
 -RRB- O
 lalu O
 ada O
@@ -161854,7 +161854,7 @@ CGMI O
 Comite O
 Gerakan O
 Mahasiswa O
-Indonesia O
+Indonesia Place
 -RRB- O
 yang O
 berafiliasi O
@@ -162575,7 +162575,7 @@ itu O
 , O
 Universiteit O
 van O
-Indonesia O
+Indonesia Place
 -LRB- O
 kini O
 Universitas Organisation
@@ -162633,7 +162633,7 @@ Pendidikan O
 Pengajaran O
 dan O
 Kebudayaan O
-Indonesia O
+Indonesia Place
 yang O
 berkedudukan O
 di O
@@ -163788,7 +163788,7 @@ Indramayu Place
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 , O
 Balai O
 Desa O
@@ -164023,7 +164023,7 @@ Indramayu Place
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 , O
 desa O
 ini O
@@ -166021,17 +166021,17 @@ politikus O
 dan O
 tokoh O
 militer O
-Indonesia O
+Indonesia Place
 , O
 dan O
 Menteri O
 Dalam O
 Negeri O
 Republik O
-Indonesia O
+Indonesia Place
 pada O
 Kabinet O
-Indonesia O
+Indonesia Place
 Bersatu O
 . O
 Lulus O
@@ -166106,7 +166106,7 @@ militer O
 dalam O
 sejarah O
 perjuangan O
-Indonesia O
+Indonesia Place
 . O
 Dia O
 menjadi O
@@ -166306,7 +166306,7 @@ Selama O
 perang O
 pembelaan O
 kemerdekaan O
-Indonesia O
+Indonesia Place
 melawan O
 Belanda Place
 , O
@@ -167564,7 +167564,7 @@ besar O
 Tionghoa O
 perantauan O
 di O
-Asia O
+Asia Place
 Tenggara O
 . O
 Xiamen Place
@@ -167868,7 +167868,7 @@ langsung O
 menghadap O
 ke O
 Samudra O
-Indonesia O
+Indonesia Place
 dan O
 kesebelah O
 utara O
@@ -168178,7 +168178,7 @@ menjadi O
 tempat O
 pertama O
 di O
-Indonesia O
+Indonesia Place
 yang O
 membangun O
 Pembangkit O
@@ -169176,7 +169176,7 @@ satu O
 dari O
 sepuluh O
 `` O
-Asia O
+Asia Place
 Abad O
 Ini O
 '' O
@@ -169225,7 +169225,7 @@ Zulkarnaen Person
 , O
 seorang O
 pembalap O
-Indonesia O
+Indonesia Place
 yang O
 meninggal O
 dunia O
@@ -169408,7 +169408,7 @@ ia O
 bergabung O
 di O
 CNN O
-Indonesia O
+Indonesia Place
 pada O
 tahun O
 yang O
@@ -169895,7 +169895,7 @@ meraih O
 nominasi O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 1986 O
 sebagai O
 Aktris O
@@ -169938,7 +169938,7 @@ FFI O
 Di O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 2006 O
 dirinya O
 kembali O
@@ -170904,7 +170904,7 @@ sama O
 Pihak O
 Amerika Place
 dengan O
-Indonesia O
+Indonesia Place
 dalam O
 hal O
 ini O
@@ -171374,7 +171374,7 @@ sebagai O
 Sekjen O
 Departemen O
 Agama O
-Indonesia O
+Indonesia Place
 selama O
 lima O
 tahun O
@@ -171443,7 +171443,7 @@ Pimpinan O
 Pusat O
 Dewan O
 Masjid O
-Indonesia O
+Indonesia Place
 periode O
 2006 O
 -- O
@@ -172657,7 +172657,7 @@ provinsi O
 Sumatera Place
 Utara Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Damanik Person
 berarti O
@@ -172718,7 +172718,7 @@ zamannya O
 Kerajaan Place
 Sulaiman Person
 di O
-Asia O
+Asia Place
 Muka O
 , O
 pakaian O
@@ -173087,7 +173087,7 @@ menggunakan O
 BI-an O
 alias O
 Bahasa O
-Indonesia O
+Indonesia Place
 campuran O
 dialek O
 / O
@@ -174229,7 +174229,7 @@ Cirebon Place
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 , O
 terletak O
 di O
@@ -175424,7 +175424,7 @@ Cirebon Place
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 , O
 tegalgubug O
 sendiri O
@@ -179185,7 +179185,7 @@ Cirebon Place
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Namun O
 ada O
@@ -179612,7 +179612,7 @@ Cirebon Place
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 , O
 yang O
 mayoritas O
@@ -180279,7 +180279,7 @@ Barat Place
 , O
 -LSB- O
 -LSB- O
-Indonesia O
+Indonesia Place
 -RSB- O
 -RSB- O
 letaknya O
@@ -182772,7 +182772,7 @@ Pagi O
 , O
 Editorial O
 Media O
-Indonesia O
+Indonesia Place
 , O
 Metro O
 This O
@@ -182782,7 +182782,7 @@ kini O
 namanya O
 berubah O
 menjadi O
-Indonesia O
+Indonesia Place
 This O
 Morning O
 -RRB- O
@@ -182816,7 +182816,7 @@ tentu O
 saja O
 , O
 bahasa O
-Indonesia O
+Indonesia Place
 . O
 Martin O
 dilahirkan O
@@ -183067,7 +183067,7 @@ Provinsi O
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 yang O
 dibentuk O
 pada O
@@ -183184,7 +183184,7 @@ Depok Place
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Pondok O
 Terong O
@@ -183297,7 +183297,7 @@ juga O
 perguruan O
 Silat O
 Bunder O
-Indonesia O
+Indonesia Place
 yg O
 di O
 asuh O
@@ -183842,7 +183842,7 @@ Sukabumi Place
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Secara O
 umum O
@@ -184088,7 +184088,7 @@ tim O
 nasional O
 sepak O
 bola O
-Indonesia O
+Indonesia Place
 . O
 Pertama O
 kali O
@@ -184285,7 +184285,7 @@ beberapa O
 acara O
 di O
 MTV O
-Indonesia O
+Indonesia Place
 , O
 ANTV O
 Radio O
@@ -188197,7 +188197,7 @@ yang O
 ditetapkan O
 oleh O
 Pemerintah O
-Indonesia O
+Indonesia Place
 , O
 maka O
 Desa O
@@ -188308,7 +188308,7 @@ Indonesia Organisation
 Denpasar Organisation
 Institut O
 Seni O
-Indonesia O
+Indonesia Place
 -LRB- O
 ISI O
 -RRB- O
@@ -188455,7 +188455,7 @@ kepada O
 pembentukan O
 Institut O
 Seni O
-Indonesia O
+Indonesia Place
 -LRB- O
 ISI O
 -RRB- O
@@ -188465,7 +188465,7 @@ Akademi-akademi O
 kesenian O
 lainnya O
 di O
-Indonesia O
+Indonesia Place
 . O
 Dengan O
 Keputusan O
@@ -188474,12 +188474,12 @@ Pendidikan O
 dan O
 Kebudayaan O
 Republik O
-Indonesia O
+Indonesia Place
 , O
 Akademi O
 Seni O
 Tari O
-Indonesia O
+Indonesia Place
 Denpasar Place
 ditingkatkan O
 statusnya O
@@ -188487,7 +188487,7 @@ menjadi O
 Sekolah O
 Tinggi O
 Seni O
-Indonesia O
+Indonesia Place
 -LRB- O
 STSI O
 -RRB- O
@@ -190214,7 +190214,7 @@ perundingan O
 pertama O
 antara O
 Republik O
-Indonesia O
+Indonesia Place
 dengan O
 Belanda Place
 pada O
@@ -190623,7 +190623,7 @@ Kuningan O
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 yang O
 secara O
 geografis O
@@ -191719,7 +191719,7 @@ desa O
 yang O
 sama O
 di O
-Indonesia O
+Indonesia Place
 tidak O
 seperti O
 nama O
@@ -193982,7 +193982,7 @@ dilarangnya O
 program O
 MBA O
 di O
-Indonesia O
+Indonesia Place
 pada O
 1994 O
 dan O
@@ -194301,7 +194301,7 @@ Ia O
 sempat O
 harus O
 meninggalkan O
-Indonesia O
+Indonesia Place
 ke O
 Australia Place
 dari O
@@ -194425,7 +194425,7 @@ adalah O
 justru O
 grup O
 band O
-Indonesia O
+Indonesia Place
 , O
 Koes Person
 Plus Person
@@ -194515,7 +194515,7 @@ ia O
 banyak O
 bertemu O
 musisi O
-Indonesia O
+Indonesia Place
 , O
 yang O
 juga O
@@ -195182,7 +195182,7 @@ Ketua O
 Ikatan O
 Cendekiawan O
 Muslim O
-Indonesia O
+Indonesia Place
 -LRB- O
 ICMI O
 -RRB- O
@@ -196243,7 +196243,7 @@ Bogor O
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Pada O
 tahun O
@@ -196432,7 +196432,7 @@ bisa O
 menggunakan O
 pesawat O
 Garuda O
-Indonesia O
+Indonesia Place
 , O
 Lion O
 Air O
@@ -196447,7 +196447,7 @@ Batavia O
 Air O
 , O
 Air O
-Asia O
+Asia Place
 dan O
 lain O
 lain O
@@ -196803,7 +196803,7 @@ Salatiga Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 yang O
 merupakan O
 salah O
@@ -197451,7 +197451,7 @@ dengan O
 rujukan O
 khusus O
 ke O
-Asia O
+Asia Place
 dan O
 Africa O
 . O
@@ -197482,7 +197482,7 @@ bahan-bahan O
 yang O
 terkait O
 dengan O
-Asia O
+Asia Place
 dan O
 Afrika Place
 dan O
@@ -197793,7 +197793,7 @@ Nusa Place
 Tenggara Place
 Timur Place
 di O
-Indonesia O
+Indonesia Place
 . O
 Gua O
 ini O
@@ -197829,7 +197829,7 @@ di O
 tempat O
 lain O
 di O
-Indonesia O
+Indonesia Place
 , O
 juga O
 memiliki O
@@ -199161,7 +199161,7 @@ diperlukan O
 Proklamasi O
 kemerdekaan O
 Republik O
-Indonesia O
+Indonesia Place
 rencananya O
 akan O
 dibacakan O
@@ -199264,7 +199264,7 @@ persiapan O
 untuk O
 proklamasi O
 kemerdekaan O
-Indonesia O
+Indonesia Place
 . O
 Karena O
 tidak O
@@ -199498,7 +199498,7 @@ Perum O
 Percetakan O
 Uang O
 Republik O
-Indonesia O
+Indonesia Place
 -LRB- O
 PERURI O
 -RRB- O
@@ -199951,7 +199951,7 @@ bola O
 asal O
 Langsa Place
 , O
-Aceh O
+Aceh Place
 , O
 seperti O
 dua O
@@ -199960,7 +199960,7 @@ yang O
 sama-sama O
 berasal O
 dari O
-Aceh O
+Aceh Place
 yaitu O
 Persiraja Organisation
 Banda Organisation
@@ -199978,7 +199978,7 @@ Divisi O
 Utama O
 pada O
 liga O
-Indonesia O
+Indonesia Place
 Tahun O
 2007 O
 . O
@@ -200319,7 +200319,7 @@ lembaga O
 ini O
 jauh O
 sebelum O
-Indonesia O
+Indonesia Place
 merdeka O
 yaitu O
 tepatnya O
@@ -200487,7 +200487,7 @@ pengisi O
 suara O
 versi O
 bahasa O
-Indonesia O
+Indonesia Place
 untuk O
 karakter O
 April Person
@@ -200712,7 +200712,7 @@ Yang O
 Disempurnakan O
 dalam O
 bahasa O
-Indonesia O
+Indonesia Place
 yang O
 menggantikan O
 Ejaan O
@@ -201633,7 +201633,7 @@ para O
 pemimpin-pemimpin O
 besar O
 di O
-Indonesia O
+Indonesia Place
 . O
 Rumahnya O
 sempat O
@@ -201673,7 +201673,7 @@ meninggal O
 lahirlah O
 warna-warni O
 pergerakan O
-Indonesia O
+Indonesia Place
 yang O
 dibangun O
 oleh O
@@ -201720,7 +201720,7 @@ memproklamasikan O
 `` O
 Republik O
 Soviet O
-Indonesia O
+Indonesia Place
 '' O
 yang O
 dipimpin O
@@ -201767,7 +201767,7 @@ dilanjutkan O
 oleh O
 Negara O
 Islam O
-Indonesia O
+Indonesia Place
 -LRB- O
 NII O
 -RRB- O
@@ -202060,7 +202060,7 @@ sebagai O
 penyiar O
 Televisi O
 Republik O
-Indonesia O
+Indonesia Place
 dari O
 1982-1991 O
 dalam O
@@ -202084,7 +202084,7 @@ RCTI O
 Rajawali O
 Citra O
 Televisi O
-Indonesia O
+Indonesia Place
 -RRB- O
 di O
 Jakarta Place
@@ -202095,7 +202095,7 @@ dalam O
 acara O
 `` O
 Seputar O
-Indonesia O
+Indonesia Place
 '' O
 dan O
 `` O
@@ -203242,7 +203242,7 @@ Student O
 Body O
 Unversitas O
 Muslim O
-Indonesia O
+Indonesia Place
 Makassar Place
 sekitar O
 15.000 O
@@ -203293,7 +203293,7 @@ dan O
 sultan O
 di O
 wilayah O
-Indonesia O
+Indonesia Place
 Timur O
 -LRB- O
 pada O
@@ -203310,7 +203310,7 @@ menyerahkan O
 kedaulatannya O
 kepada O
 negara O
-Indonesia O
+Indonesia Place
 -RRB- O
 , O
 mereka O
@@ -203413,7 +203413,7 @@ formal O
 kolonial O
 Belanda Place
 di O
-Indonesia O
+Indonesia Place
 . O
 Maka O
 berangkatlah O
@@ -203447,7 +203447,7 @@ terhadap O
 pengetahuan O
 umum O
 tentang O
-Indonesia O
+Indonesia Place
 -RRB- O
 , O
 La O
@@ -203468,7 +203468,7 @@ dunia O
 pendidikan O
 tinggi O
 di O
-Indonesia O
+Indonesia Place
 Timur O
 . O
 H. Person
@@ -203483,7 +203483,7 @@ Kurator O
 Sarjana O
 Pertama O
 di O
-Indonesia O
+Indonesia Place
 Timur O
 lulusan O
 Universitas Organisation
@@ -203547,7 +203547,7 @@ ia O
 adalah O
 milik O
 masyarakat O
-Indonesia O
+Indonesia Place
 Timur O
 yang O
 berharap O
@@ -206058,11 +206058,11 @@ pernah O
 diikutinya O
 adalah O
 Piala O
-Asia O
+Asia Place
 1996 O
 dan O
 Piala O
-Asia O
+Asia Place
 2000 O
 di O
 mana O
@@ -206074,7 +206074,7 @@ kiper O
 utama O
 tim O
 bintang O
-Asia O
+Asia Place
 2000 O
 oleh O
 AFC O
@@ -206999,7 +206999,7 @@ beberapa O
 kantor O
 Bank O
 Central O
-Asia O
+Asia Place
 di O
 Jakarta Place
 , O
@@ -208457,7 +208457,7 @@ Pelita Place
 Jaya Place
 Purwakarta Place
 di O
-Indonesia O
+Indonesia Place
 sejak O
 musim O
 2007 O
@@ -208478,7 +208478,7 @@ bermain O
 di O
 Eropa Place
 dan O
-Asia O
+Asia Place
 serta O
 pernah O
 menjadi O
@@ -209757,7 +209757,7 @@ PTN O
 -RRB- O
 ke-45 O
 di O
-Indonesia O
+Indonesia Place
 yang O
 menerapkan O
 sistem O
@@ -209788,7 +209788,7 @@ kepada O
 semua O
 warga O
 negara O
-Indonesia O
+Indonesia Place
 , O
 baik O
 yang O
@@ -210296,7 +210296,7 @@ Barat O
 Amerika Place
 Utara Place
 , O
-Asia O
+Asia Place
 Pasifik O
 , O
 dan O
@@ -210459,7 +210459,7 @@ sinetron O
 di O
 layar O
 kaca O
-Indonesia O
+Indonesia Place
 , O
 seperti O
 Di O
@@ -210533,13 +210533,13 @@ Guardians O
 dan O
 `` O
 Bintang O
-Indonesia O
+Indonesia Place
 2007 O
 '' O
 versi O
 tabloid O
 Bintang O
-Indonesia O
+Indonesia Place
 . O
 Padan O
 tahun O
@@ -210658,7 +210658,7 @@ Canada O
 , O
 Eropa Place
 , O
-Asia O
+Asia Place
 pasifik O
 dan O
 jepang O
@@ -211007,7 +211007,7 @@ pilkada O
 , O
 Lingkaran O
 Survei O
-Indonesia O
+Indonesia Place
 menampilkan O
 hasil O
 survei O
@@ -211078,7 +211078,7 @@ di O
 Kota Place
 Bontang Place
 , O
-Indonesia O
+Indonesia Place
 dan O
 berada O
 di O
@@ -211108,7 +211108,7 @@ rumput O
 terbaik O
 ke-2 O
 di O
-Indonesia O
+Indonesia Place
 setelah O
 Stadion O
 Gelora O
@@ -211750,10 +211750,10 @@ yang O
 merupakan O
 Undang-undang O
 Kerajaan Place
-Aceh O
+Aceh Place
 . O
 Saat O
-Aceh O
+Aceh Place
 dikuasai O
 Belanda Place
 dan O
@@ -211793,7 +211793,7 @@ Hasilnya O
 ibu O
 kota O
 Kejaan O
-Aceh O
+Aceh Place
 tetap O
 berada O
 di O
@@ -211805,7 +211805,7 @@ sekarang O
 seputar O
 aliran O
 Krueng Place
-Aceh O
+Aceh Place
 -RRB- O
 . O
 Untuk O
@@ -211882,7 +211882,7 @@ bersaing O
 dengan O
 pantai-pantai O
 terbaik O
-Indonesia O
+Indonesia Place
 . O
 Namun O
 Sayang O
@@ -212165,7 +212165,7 @@ provinsi O
 Sulawesi Place
 Utara Place
 , O
-Indonesia O
+Indonesia Place
 , O
 beribukota O
 di O
@@ -212597,7 +212597,7 @@ suatu O
 wilayah O
 kolonial O
 di O
-Indonesia O
+Indonesia Place
 Timur O
 dengan O
 judul O
@@ -213083,7 +213083,7 @@ TNA O
 untuk O
 Misi O
 Pemantau O
-Aceh O
+Aceh Place
 -LRB- O
 AMM O
 -RRB- O
@@ -213091,7 +213091,7 @@ AMM O
 ia O
 masuk O
 Gerakan O
-Aceh O
+Aceh Place
 Merdeka O
 dan O
 dipercaya O
@@ -213122,7 +213122,7 @@ berurusan O
 dengan O
 aparat O
 keamanan O
-Indonesia O
+Indonesia Place
 dan O
 ditangkap O
 pada O
@@ -213144,14 +213144,14 @@ media O
 mengenai O
 Wikipedia O
 Bahasa O
-Indonesia O
+Indonesia Place
 secara O
 umum O
 maupun O
 pada O
 lingkup O
 Wikipedia O
-Indonesia O
+Indonesia Place
 itu O
 sendiri O
 . O
@@ -213169,7 +213169,7 @@ kontributor O
 aktif O
 Wikipedia O
 bahasa O
-Indonesia O
+Indonesia Place
 . O
 Dia O
 juga O
@@ -213183,7 +213183,7 @@ Wikipedia O
 salah O
 satunya O
 adalah O
-Indonesia O
+Indonesia Place
 yang O
 disponsori O
 oleh O
@@ -213230,7 +213230,7 @@ tantangan O
 bagi O
 Wikipedia O
 bahasa O
-Indonesia O
+Indonesia Place
 pada O
 masa O
 depan O
@@ -213241,7 +213241,7 @@ informasi O
 . O
 Wikipedia O
 bahasa O
-Indonesia O
+Indonesia Place
 pada O
 tahun O
 2006 O
@@ -213249,7 +213249,7 @@ telah O
 menjadi O
 ketiga O
 di O
-Asia O
+Asia Place
 sebagai O
 versi O
 lokal O
@@ -215144,7 +215144,7 @@ kekuasaan O
 mereka O
 di O
 benua O
-Asia O
+Asia Place
 . O
 Rencana O
 Jepang Place
@@ -215307,7 +215307,7 @@ di O
 berbagai O
 kota O
 di O
-Indonesia O
+Indonesia Place
 . O
 Hal O
 ini O
@@ -215349,7 +215349,7 @@ book O
 record O
 Museum O
 Record O
-Indonesia O
+Indonesia Place
 -LRB- O
 MURI O
 -RRB- O
@@ -216465,7 +216465,7 @@ Bernardina O
 adalah O
 pemeran O
 wanita O
-Indonesia O
+Indonesia Place
 pada O
 era O
 1950-an O
@@ -216590,7 +216590,7 @@ dana O
 untuk O
 Yayasan O
 Ginjal O
-Indonesia O
+Indonesia Place
 untuk O
 pengobatan O
 `` O
@@ -216634,7 +216634,7 @@ bekerja O
 di O
 PT O
 Unilever Organisation
-Indonesia O
+Indonesia Place
 . O
 Kariernya O
 di O
@@ -216835,7 +216835,7 @@ pada O
 Kualifikasi O
 Piala O
 Dunia O
-Asia O
+Asia Place
 tahun O
 2014 O
 , O
@@ -216877,7 +216877,7 @@ di O
 Look O
 Models O
 berkebangsaan O
-Indonesia O
+Indonesia Place
 . O
 Ia O
 sudah O
@@ -217051,7 +217051,7 @@ aktris O
 film O
 dan O
 sinetron O
-Indonesia O
+Indonesia Place
 yang O
 terkenal O
 sejak O
@@ -217980,7 +217980,7 @@ perang O
 wanita O
 berasal O
 dari O
-Aceh O
+Aceh Place
 , O
 yaitu O
 Laksamana O
@@ -218515,7 +218515,7 @@ berasal O
 dari O
 seluruh O
 pelosok O
-Indonesia O
+Indonesia Place
 , O
 bahkan O
 sebagian O
@@ -219121,7 +219121,7 @@ Tinggi O
 Teologi O
 Reformed O
 Injili O
-Indonesia O
+Indonesia Place
 -LRB- O
 STTRII O
 -RRB- O
@@ -219139,7 +219139,7 @@ mendirikan O
 Gereja O
 Reformed O
 Injili O
-Indonesia O
+Indonesia Place
 -LRB- O
 GRII O
 -RRB- O
@@ -219536,7 +219536,7 @@ Manila Place
 dan O
 ketiga O
 di O
-Asia O
+Asia Place
 , O
 setelah O
 Bandara O
@@ -219645,7 +219645,7 @@ Candra Person
 adalah O
 seorang O
 pria O
-Indonesia O
+Indonesia Place
 yang O
 berprofesi O
 sebagai O
@@ -220039,7 +220039,7 @@ eksklusif O
 pada O
 Festival O
 Film O
-Asia O
+Asia Place
 NHK O
 ke-8 O
 tahun O
@@ -220776,7 +220776,7 @@ yang O
 sedang O
 berada O
 di O
-Indonesia O
+Indonesia Place
 untuk O
 mencari O
 kandidat O
@@ -220805,7 +220805,7 @@ perdagangan O
 dengan O
 studi O
 kasus O
-Indonesia O
+Indonesia Place
 dengan O
 judul O
 '' O
@@ -221180,7 +221180,7 @@ Bekasi O
 Jawa Place
 Barat Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Duku O
 Raya O
@@ -221309,7 +221309,7 @@ menjabat O
 Ketua O
 Jurusan O
 Bahasa O
-Indonesia O
+Indonesia Place
 Kursus O
 B-I O
 di O
@@ -221320,7 +221320,7 @@ Yogyakarta Place
 , O
 dosen O
 Kesustraan O
-Indonesia O
+Indonesia Place
 di O
 Fakultas O
 Sastra O
@@ -221344,7 +221344,7 @@ dosen O
 bahasa O
 dan O
 Kesusastraan O
-Indonesia O
+Indonesia Place
 di O
 Universitas O
 Flinders Person
@@ -223966,7 +223966,7 @@ Pendidikan O
 dan O
 Kebudayaan O
 Republik O
-Indonesia O
+Indonesia Place
 yang O
 kala O
 itu O
@@ -225298,7 +225298,7 @@ Selama O
 350 O
 tahun O
 bangsa O
-Indonesia O
+Indonesia Place
 telah O
 dijajah O
 Belanda Place
@@ -225710,7 +225710,7 @@ alternatif O
 rock O
 era O
 90-an O
-Indonesia O
+Indonesia Place
 dengan O
 vokal O
 perempuan O
@@ -227148,7 +227148,7 @@ di O
 seluruh O
 Afrika Place
 , O
-Asia O
+Asia Place
 , O
 Eropa Place
 , O
@@ -227720,7 +227720,7 @@ Jurusan O
 Bahasa O
 dan O
 Sastra O
-Indonesia O
+Indonesia Place
 . O
 Fakultas O
 Keguruan O
@@ -227761,7 +227761,7 @@ Pendidikan O
 dan O
 Kebudayaan O
 Republik O
-Indonesia O
+Indonesia Place
 IKIP O
 Saraswati O
 ditetapkan O
@@ -227786,7 +227786,7 @@ jurusan O
 Bahasa O
 dan O
 Sastra O
-Indonesia O
+Indonesia Place
 , O
 Jurusan O
 Biologi O
@@ -227829,7 +227829,7 @@ Pendidikan O
 dan O
 Kebudayaan O
 Republik O
-Indonesia O
+Indonesia Place
 Nomor O
 : O
 691/01/1982 O
@@ -227901,7 +227901,7 @@ Pendidikan O
 dan O
 Kebudayaan O
 Republik O
-Indonesia O
+Indonesia Place
 Nomor O
 : O
 0358/0/1982 O
@@ -229252,7 +229252,7 @@ berjudul O
 `` O
 Gelombang O
 Ketiga O
-Indonesia O
+Indonesia Place
 '' O
 , O
 isi O
@@ -229269,7 +229269,7 @@ dambakan O
 negara O
 , O
 misi O
-Indonesia O
+Indonesia Place
 agar O
 menjadi O
 Negara O
@@ -231288,7 +231288,7 @@ Viska Person
 adalah O
 seorang O
 penyanyi O
-Indonesia O
+Indonesia Place
 . O
 Ia O
 berpartisipasi O
@@ -231315,7 +231315,7 @@ juga O
 seorang O
 aktris O
 sinetron O
-Indonesia O
+Indonesia Place
 yang O
 terkenal O
 dalam O
@@ -231404,7 +231404,7 @@ Literature O
 and O
 Religion O
 in O
-Indonesia O
+Indonesia Place
 ? O
 . O
 Pada O
@@ -231460,7 +231460,7 @@ sekarang O
 menjadi O
 Universitas O
 Hindu O
-Indonesia O
+Indonesia Place
 Denpasar Place
 . O
 Di O
@@ -231501,7 +231501,7 @@ dari O
 Parisada O
 Hindu O
 Dharma O
-Indonesia O
+Indonesia Place
 sebagai O
 lembaga O
 majelis O
@@ -231509,7 +231509,7 @@ tertinggi O
 umat O
 Hindu O
 di O
-Indonesia O
+Indonesia Place
 . O
 Ida Person
 Bagus Person
@@ -232166,7 +232166,7 @@ Jikustik Person
 adalah O
 grup O
 musik O
-Indonesia O
+Indonesia Place
 yang O
 terbentuk O
 tanggal O
@@ -232295,7 +232295,7 @@ G-Coustic O
 menapaki O
 belantara O
 musik O
-Indonesia O
+Indonesia Place
 . O
 Album O
 tersebut O
@@ -232360,7 +232360,7 @@ G-Custic O
 dengan O
 Warner O
 Music O
-Indonesia O
+Indonesia Place
 . O
 Aleister Person
 Crowley Person
@@ -233106,7 +233106,7 @@ tahun O
 , O
 setelah O
 kemerdekaan O
-Indonesia O
+Indonesia Place
 , O
 Soedjatmoko Person
 bersama O
@@ -233125,7 +233125,7 @@ Amerika Place
 Serikat Place
 untuk O
 mewakili O
-Indonesia O
+Indonesia Place
 di O
 Perserikatan O
 Bangsa-Bangsa O
@@ -233136,7 +233136,7 @@ tahun O
 ia O
 kembali O
 ke O
-Indonesia O
+Indonesia Place
 dan O
 bergabung O
 dengan O
@@ -233191,7 +233191,7 @@ sebagai O
 salah O
 satu O
 wakil O
-Indonesia O
+Indonesia Place
 di O
 PBB Organisation
 , O
@@ -233203,7 +233203,7 @@ ia O
 menjadi O
 Duta O
 Besar O
-Indonesia O
+Indonesia Place
 untuk O
 Amerika Place
 Serikat Place
@@ -233309,7 +233309,7 @@ angkat O
 Setelah O
 kembali O
 ke O
-Indonesia O
+Indonesia Place
 , O
 Soedjatmoko Person
 melanjutkan O
@@ -233399,7 +233399,7 @@ Selatan Place
 Sumatera Place
 Selatan Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Desa O
 ini O
@@ -234116,7 +234116,7 @@ Halnya O
 Daerah O
 Lainya O
 Di O
-Indonesia O
+Indonesia Place
 Desa O
 Kebanaran Place
 Mempunyai O
@@ -236263,7 +236263,7 @@ dan O
 Ketua O
 HAM O
 pertama O
-Indonesia O
+Indonesia Place
 . O
 Desa O
 Ngabeyan Place
@@ -238738,7 +238738,7 @@ KPK Organisation
 organisasi O
 Transparency O
 International O
-Indonesia O
+Indonesia Place
 , O
 Management O
 Systems O
@@ -239273,14 +239273,14 @@ Seminar O
 Majelis O
 Bahasa O
 Brunei O
-Indonesia O
+Indonesia Place
 Malaysia Place
 -LRB- O
 MABBIM O
 -RRB- O
 dan O
 Majelis O
-Asia O
+Asia Place
 Tenggara O
 -LRB- O
 MASTERA O
@@ -239769,7 +239769,7 @@ Banyumas Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 , O
 terletak O
 sekitar O
@@ -240096,7 +240096,7 @@ Banyumas Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 Desa O
 ini O
 lumayan O
@@ -240712,7 +240712,7 @@ Banyumas Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Di O
 daerah O
@@ -242664,7 +242664,7 @@ Banyumas Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 , O
 Kelurahan Place
 ini O
@@ -243792,14 +243792,14 @@ pihak O
 mulai O
 dari O
 Pemerintah O
-Indonesia O
+Indonesia Place
 , O
 Pemerintah O
 Australia Place
 , O
 Kedutaan O
 Republik O
-Indonesia O
+Indonesia Place
 -LRB- O
 KBRI O
 -RRB- O
@@ -243807,7 +243807,7 @@ KBRI O
 Konsulat O
 Jenderal O
 Republik O
-Indonesia O
+Indonesia Place
 -LRB- O
 KJRI O
 -RRB- O
@@ -243816,12 +243816,12 @@ universitas-universitas O
 di O
 Australia Place
 dan O
-Indonesia O
+Indonesia Place
 , O
 organisasi O
 kemasyarakatan O
 di O
-Indonesia O
+Indonesia Place
 dan O
 Australia Place
 , O
@@ -243832,7 +243832,7 @@ usaha O
 , O
 baik O
 di O
-Indonesia O
+Indonesia Place
 dan O
 Australia Place
 . O
@@ -244352,7 +244352,7 @@ pribadi O
 Saat O
 tinggal O
 di O
-Indonesia O
+Indonesia Place
 , O
 dirinya O
 dipanggil O
@@ -244364,7 +244364,7 @@ Persib Organisation
 Bandung Organisation
 Jawa Place
 Barat Place
-Indonesia O
+Indonesia Place
 . O
 Nama O
 panggilan O
@@ -245494,7 +245494,7 @@ Pasifik O
 . O
 Selama O
 pendudukan O
-Indonesia O
+Indonesia Place
 di O
 bawah O
 Jepang Place
@@ -245523,7 +245523,7 @@ cukup O
 penting O
 dalam O
 kemerdekaan O
-Indonesia O
+Indonesia Place
 dengah O
 mempersilakan O
 kediamannya O
@@ -246399,7 +246399,7 @@ swasta O
 di O
 Medan O
 , O
-Indonesia O
+Indonesia Place
 yang O
 dikelola O
 Yayasan O
@@ -246520,10 +246520,10 @@ direalisasikan O
 akibat O
 krisis O
 finansial O
-Asia O
+Asia Place
 yang O
 menerpa O
-Indonesia O
+Indonesia Place
 pada O
 pertengahan O
 1990-an O
@@ -246851,7 +246851,7 @@ pemerintah O
 menetapkan O
 bahwa O
 di O
-Indonesia O
+Indonesia Place
 hanya O
 ada O
 satu O
@@ -246863,7 +246863,7 @@ yaitu O
 Serikat O
 Pekerja O
 Seluruh O
-Indonesia O
+Indonesia Place
 -LRB- O
 SPSI O
 -RRB- O
@@ -246906,7 +246906,7 @@ para O
 pemilik O
 modal O
 agar O
-Indonesia O
+Indonesia Place
 tetap O
 menarik O
 bagi O
@@ -248692,7 +248692,7 @@ pengarah O
 seni O
 dan O
 aktor O
-Indonesia O
+Indonesia Place
 . O
 Sudah O
 hampir O
@@ -248973,7 +248973,7 @@ Ia O
 dikenal O
 luas O
 di O
-Indonesia O
+Indonesia Place
 setelah O
 saluran O
 berita O
@@ -249407,7 +249407,7 @@ mantan O
 rekannya O
 di O
 Arema O
-Indonesia O
+Indonesia Place
 seperti O
 Waluyo O
 , O
@@ -249870,7 +249870,7 @@ Britania Place
 Raya Place
 , O
 dan O
-Asia O
+Asia Place
 dengan O
 keberhasilannya O
 mencetak O
@@ -250479,7 +250479,7 @@ Film O
 Terbaik O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 2006 O
 . O
 Gelar O
@@ -250860,7 +250860,7 @@ sukses O
 di O
 beberapa O
 negara O
-Asia O
+Asia Place
 . O
 Salah O
 seorang O
@@ -254278,7 +254278,7 @@ dalam O
 nominasi O
 Festival O
 Film O
-Indonesia O
+Indonesia Place
 -LRB- O
 FFI O
 -RRB- O
@@ -254368,7 +254368,7 @@ usia O
 14 O
 tahun O
 di O
-Indonesia O
+Indonesia Place
 dan O
 Shanghai O
 , O
@@ -254395,7 +254395,7 @@ Setelah O
 menyeruak O
 dunia O
 musik O
-Indonesia O
+Indonesia Place
 pada O
 saat O
 itu O
@@ -254430,14 +254430,14 @@ menerima O
 penghargaan O
 Anugerah O
 Musik O
-Indonesia O
+Indonesia Place
 -LRB- O
 AMI O
 -RRB- O
 5 O
 , O
 4 O
-Indonesia O
+Indonesia Place
 Video O
 penghargaan O
 dan O
@@ -254491,7 +254491,7 @@ Jazz O
 Festival O
 2008 O
 Batam Place
-Indonesia O
+Indonesia Place
 -RRB- O
 , O
 Frank O
@@ -254506,7 +254506,7 @@ dengan O
 legenda O
 piano O
 jazz O
-Indonesia O
+Indonesia Place
 Buby O
 Chen Person
 -LRB- O
@@ -254515,7 +254515,7 @@ JJF O
 -RRB- O
 dan O
 pelopor O
-Indonesia O
+Indonesia Place
 progressive O
 rock O
 band O
@@ -254643,7 +254643,7 @@ Sondakh Person
 , O
 mantan O
 Puteri O
-Indonesia O
+Indonesia Place
 yang O
 juga O
 anggota O
@@ -255057,7 +255057,7 @@ Departemen O
 Dalam O
 Negeri O
 Republik O
-Indonesia O
+Indonesia Place
 , O
 yang O
 bertujuan O
@@ -255305,7 +255305,7 @@ Provinsi O
 Jawa Place
 Timur Place
 , O
-Indonesia O
+Indonesia Place
 Yang O
 didalamnya O
 ada O
@@ -255401,7 +255401,7 @@ rangka O
 mempertahankan O
 kemerdekaan O
 Republik O
-Indonesia O
+Indonesia Place
 sekaligus O
 mengusir O
 penjajah O
@@ -255573,7 +255573,7 @@ model O
 sampul O
 majalah O
 Playboy O
-Indonesia O
+Indonesia Place
 edisi O
 perdana O
 pada O
@@ -255673,7 +255673,7 @@ Kategori O
 Komedi O
 Festival O
 Sinetron O
-Indonesia O
+Indonesia Place
 -LRB- O
 1997 O
 -RRB- O
@@ -255691,7 +255691,7 @@ nominasi O
 Artis O
 Wanita O
 Terfavorit O
-Indonesia O
+Indonesia Place
 Kategori O
 Komedi O
 Panasonic O
@@ -255827,7 +255827,7 @@ di O
 Akademi O
 Seni O
 Rupa O
-Indonesia O
+Indonesia Place
 -LRB- O
 ASRI O
 -RRB- O
@@ -255878,7 +255878,7 @@ perguruan O
 BIMA O
 -LRB- O
 Budaya O
-Indonesia O
+Indonesia Place
 Mataram Place
 -RRB- O
 , O
@@ -255995,7 +255995,7 @@ gelar O
 doktor O
 tertua O
 di O
-Indonesia O
+Indonesia Place
 , O
 dan O
 sebagai O
@@ -257003,7 +257003,7 @@ kariernya O
 di O
 dunia O
 hiburan O
-Indonesia O
+Indonesia Place
 saat O
 terpilih O
 sebagai O
@@ -257068,7 +257068,7 @@ adalah O
 salah O
 satu O
 musikus O
-Indonesia O
+Indonesia Place
 dari O
 kelompok O
 musik O
@@ -257153,7 +257153,7 @@ x O
 m O
 untuk O
 Kedutaan O
-Indonesia O
+Indonesia Place
 di O
 Bangkok Place
 , O
@@ -257166,7 +257166,7 @@ m O
 di O
 Gedung O
 Parlemen O
-Indonesia O
+Indonesia Place
 , O
 dan O
 lukisan O
@@ -257219,7 +257219,7 @@ salah O
 satu O
 pemeran O
 senior O
-Indonesia O
+Indonesia Place
 yang O
 lain O
 yaitu O
@@ -257240,7 +257240,7 @@ ketika O
 untuk O
 pertama O
 kalinya O
-Indonesia O
+Indonesia Place
 Movie O
 Awards O
 pada O
@@ -257483,7 +257483,7 @@ adalah O
 anggota O
 Thomas Person
 Cup O
-Indonesia O
+Indonesia Place
 2008 O
 dan O
 2010 O
@@ -257556,7 +257556,7 @@ putra.Mereka O
 adalah O
 pasangan O
 andalan O
-Indonesia O
+Indonesia Place
 setelah O
 pensiunnya O
 pasangan O
@@ -257589,7 +257589,7 @@ medali O
 emas O
 pertama O
 untuk O
-Indonesia O
+Indonesia Place
 di O
 Olimpiade O
 Beijing Place
@@ -257782,7 +257782,7 @@ Open O
 Superseries O
 dan O
 Djarum O
-Indonesia O
+Indonesia Place
 Superseries O
 Premier O
 . O
@@ -257900,7 +257900,7 @@ menulis O
 huruf O
 Latin O
 di O
-Indonesia O
+Indonesia Place
 , O
 di O
 mana O
@@ -257960,7 +257960,7 @@ tinggi O
 di O
 Surabaya Place
 , O
-Indonesia O
+Indonesia Place
 dan O
 didirikan O
 oleh O
@@ -258017,7 +258017,7 @@ penggemar O
 masakan O
 Italia Place
 dan O
-Indonesia O
+Indonesia Place
 ini O
 pernah O
 kuliah O
@@ -258221,16 +258221,16 @@ ini O
 berasal O
 dari O
 daerah O
-Asia O
+Asia Place
 tropik O
 , O
 tersebar O
 di O
-Asia O
+Asia Place
 Tenggara O
 , O
 termasuk O
-Indonesia O
+Indonesia Place
 , O
 India Place
 , O
@@ -258430,17 +258430,17 @@ gol O
 di O
 ajang O
 Piala O
-Asia O
+Asia Place
 2004 O
 dan O
 membawa O
-Indonesia O
+Indonesia Place
 mengukir O
 kemenangan O
 pertamanya O
 di O
 Piala O
-Asia O
+Asia Place
 , O
 menaklukkan O
 Qatar Place
@@ -258456,16 +258456,16 @@ tim O
 nasional O
 dan O
 memimpin O
-Indonesia O
+Indonesia Place
 termasuk O
 di O
 Piala O
-Asia O
+Asia Place
 2007 O
 , O
 di O
 mana O
-Indonesia O
+Indonesia Place
 termasuk O
 salah O
 satu O
@@ -258571,7 +258571,7 @@ oleh O
 33 O
 DPW O
 seluruh O
-Indonesia O
+Indonesia Place
 . O
 Maka O
 Amelia O
@@ -258829,7 +258829,7 @@ pelawak O
 dan O
 pembawa O
 acara O
-Indonesia O
+Indonesia Place
 . O
 Selain O
 menjadi O
@@ -259332,7 +259332,7 @@ sinetron O
 dan O
 bintang O
 film O
-Indonesia O
+Indonesia Place
 . O
 Saat O
 berusia O
@@ -260753,7 +260753,7 @@ Badai O
 '' O
 dalam O
 bahasa O
-Indonesia O
+Indonesia Place
 , O
 dengan O
 harapan O
@@ -261123,7 +261123,7 @@ Mega O
 , O
 Mega O
 Capital O
-Indonesia O
+Indonesia Place
 , O
 Bank O
 Mega O
@@ -261206,7 +261206,7 @@ Daerah Place
 Istimewa Place
 Yogyakarta Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Pada O
 mulanya O
@@ -261416,7 +261416,7 @@ kota O
 ke-3 O
 terbesar O
 di O
-Indonesia O
+Indonesia Place
 yang O
 kita O
 kenal O
@@ -261893,7 +261893,7 @@ komposer O
 dan O
 musisi O
 senior O
-Indonesia O
+Indonesia Place
 adalah O
 orang O
 yang O
@@ -263322,7 +263322,7 @@ orang O
 yang O
 sangat O
 ditakuti O
-Indonesia O
+Indonesia Place
 , O
 Ia O
 sahabat O
@@ -263368,7 +263368,7 @@ Prabowo Person
 Subianto Person
 , O
 dan O
-Indonesia O
+Indonesia Place
 didukung O
 Amerika Place
 Serikat Place
@@ -263496,7 +263496,7 @@ tahun O
 dari O
 Bandung O
 , O
-Indonesia O
+Indonesia Place
 serta O
 lulusan O
 tahun O
@@ -263637,7 +263637,7 @@ musik O
 asal O
 Banjarmasin Place
 , O
-Indonesia O
+Indonesia Place
 yang O
 berdiri O
 pada O
@@ -263785,7 +263785,7 @@ Kwitang O
 . O
 Malta Place
 Music O
-Indonesia O
+Indonesia Place
 bersedia O
 untuk O
 bekerja O
@@ -263820,14 +263820,14 @@ disayangkan O
 karena O
 Malta Place
 Music O
-Indonesia O
+Indonesia Place
 adalah O
 minor O
 label O
 dalam O
 perindustrian O
 musik O
-Indonesia O
+Indonesia Place
 , O
 album O
 kedua O
@@ -263841,7 +263841,7 @@ maksimal O
 ke O
 seluruh O
 penjuru O
-Indonesia O
+Indonesia Place
 . O
 Butet Person
 Kartaredjasa O
@@ -263860,7 +263860,7 @@ teater O
 dan O
 pelawak O
 asal O
-Indonesia O
+Indonesia Place
 . O
 Pada O
 tahun O
@@ -264142,7 +264142,7 @@ Pakualaman Place
 dengan O
 Negara O
 Republik O
-Indonesia O
+Indonesia Place
 . O
 Melalui O
 Amanat O
@@ -264362,7 +264362,7 @@ ke O
 berbagai O
 daerah O
 di O
-Indonesia O
+Indonesia Place
 termasuk O
 Ibukota O
 Negara O
@@ -265364,7 +265364,7 @@ Resende O
 , O
 Dili O
 hingga O
-Indonesia O
+Indonesia Place
 menganeksasi O
 Timor-Portugis O
 atas O
@@ -265467,7 +265467,7 @@ Agustian Person
 adalah O
 seorang O
 motivator O
-Indonesia O
+Indonesia Place
 , O
 yang O
 juga O
@@ -265750,7 +265750,7 @@ dari O
 lepas O
 pantai O
 barat O
-Aceh O
+Aceh Place
 , O
 juga O
 merupakan O
@@ -265773,7 +265773,7 @@ utama O
 hiruk-pikuk O
 konflik O
 di O
-Aceh O
+Aceh Place
 daratan O
 tidak O
 pernah O
@@ -266046,7 +266046,7 @@ dikenal O
 oleh O
 publik O
 di O
-Indonesia O
+Indonesia Place
 sebagai O
 bintang O
 iklan O
@@ -266326,7 +266326,7 @@ berkenalan O
 dengan O
 dunia O
 hiburan O
-Indonesia O
+Indonesia Place
 sejak O
 masih O
 TK O
@@ -266500,7 +266500,7 @@ Pinem Person
 adalah O
 pemain O
 sinetron O
-Indonesia O
+Indonesia Place
 berdarah O
 Karo O
 . O
@@ -266819,7 +266819,7 @@ S7 O
 adalah O
 Boyband O
 asal O
-Indonesia O
+Indonesia Place
 yang O
 berdiri O
 pada O
@@ -266884,7 +266884,7 @@ gerai O
 KFC Organisation
 di O
 seluruh O
-Indonesia O
+Indonesia Place
 . O
 Pada O
 tanggal O
@@ -267067,7 +267067,7 @@ tersibuk O
 nomor O
 dua O
 di O
-Asia O
+Asia Place
 sekaligus O
 bandara O
 tersibuk O
@@ -267525,7 +267525,7 @@ Pakualaman Place
 yang O
 ditahtakan O
 setelah O
-Indonesia O
+Indonesia Place
 merdeka O
 . O
 Pada O
@@ -268016,7 +268016,7 @@ Pernah O
 terpilih O
 menjadi O
 duta O
-Indonesia O
+Indonesia Place
 untuk O
 mengikuti O
 `` O
@@ -268112,7 +268112,7 @@ FLP O
 dan O
 Komunitas O
 Sastra O
-Indonesia O
+Indonesia Place
 -LRB- O
 KSI O
 -RRB- O
@@ -268131,7 +268131,7 @@ Usahawan O
 Kecil O
 dan O
 Menengah O
-Indonesia O
+Indonesia Place
 -LRB- O
 KUKMI O
 -RRB- O
@@ -268142,7 +268142,7 @@ jenderal O
 Himpunan O
 Pengusaha O
 Pribumi O
-Indonesia O
+Indonesia Place
 -LRB- O
 HIPPI O
 -RRB- O
@@ -268158,7 +268158,7 @@ Kamar O
 Dagang O
 dan O
 Industri O
-Indonesia O
+Indonesia Place
 -LRB- O
 KADIN O
 -RRB- O
@@ -268242,9 +268242,9 @@ jebolan O
 kontes O
 menyanyi O
 tingkat O
-Asia O
+Asia Place
 , O
-Asia O
+Asia Place
 Bagus O
 . O
 Nola Person
@@ -268284,7 +268284,7 @@ Kondologit Person
 yang O
 juga O
 jebolah O
-Asia O
+Asia Place
 Bagus O
 -RRB- O
 . O
@@ -268302,7 +268302,7 @@ dengan O
 memadukan O
 unsur O
 tradisional O
-Indonesia O
+Indonesia Place
 yang O
 dipengaruhi O
 oleh O
@@ -268754,7 +268754,7 @@ Divisi O
 Badan O
 Liga O
 Amatir O
-Indonesia O
+Indonesia Place
 . O
 Pada O
 saat O
@@ -269104,7 +269104,7 @@ dan O
 penulis O
 lagu O
 berkebangsaan O
-Indonesia O
+Indonesia Place
 yang O
 banyak O
 digandrungi O
@@ -270250,7 +270250,7 @@ ditawari O
 oleh O
 Sony Person
 Music O
-Indonesia O
+Indonesia Place
 untuk O
 merekam O
 album O
@@ -270386,7 +270386,7 @@ lagu O
 di O
 Jakarta Place
 , O
-Indonesia O
+Indonesia Place
 pada O
 tanggal O
 11 O
@@ -270917,7 +270917,7 @@ Dewan Organisation
 Perwakilan Organisation
 Daerah Organisation
 Republik O
-Indonesia O
+Indonesia Place
 asal O
 Provinsi O
 Daerah Place
@@ -272431,7 +272431,7 @@ Denmark O
 Hong O
 Kong O
 , O
-Indonesia O
+Indonesia Place
 , O
 Irlandia Place
 , O
@@ -272446,7 +272446,7 @@ dioperasikan O
 PT O
 Hutchison O
 3 O
-Indonesia O
+Indonesia Place
 , O
 yang O
 65 O
@@ -272545,7 +272545,7 @@ salah O
 satu O
 sponsor O
 tur O
-Asia O
+Asia Place
 Manchester Place
 United O
 , O
@@ -272633,7 +272633,7 @@ diselenggarakan O
 di O
 Museum O
 Bank O
-Indonesia O
+Indonesia Place
 dengan O
 konsep O
 pernikahan O
@@ -272975,7 +272975,7 @@ nasib O
 Persatuan O
 Sepak O
 bola O
-Indonesia O
+Indonesia Place
 Djember O
 -LRB- O
 Persid O
@@ -273364,7 +273364,7 @@ Blora Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Desa O
 Mojowetan Place
@@ -275875,7 +275875,7 @@ Boyolali Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 Desa O
 Kauman Place
 merupakan O
@@ -276357,7 +276357,7 @@ Blora Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Pendidikan O
 formal O
@@ -277649,7 +277649,7 @@ Boyolali Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 . O
 Sebagian O
@@ -277946,7 +277946,7 @@ Provinsi O
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Batas O
 wilayah O
@@ -278492,7 +278492,7 @@ Jakarta Place
 , O
 Surabaya Place
 , O
-Aceh O
+Aceh Place
 , O
 Sumatera O
 , O
@@ -278852,7 +278852,7 @@ provinsi O
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Desa O
 tersebut O
@@ -281853,7 +281853,7 @@ Brebes Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Kegiatan O
 masyarakat O
@@ -283744,7 +283744,7 @@ jembatan-2 O
 KA O
 lainnya O
 di O
-Indonesia O
+Indonesia Place
 secara O
 arsitektur O
 , O
@@ -284949,7 +284949,7 @@ untuk O
 menggelar O
 pertandingan O
 Piala O
-Asia O
+Asia Place
 AFC O
 2007 O
 , O
@@ -285100,7 +285100,7 @@ Provinsi O
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Desa O
 Karangreja Place
@@ -290722,7 +290722,7 @@ Grobogan Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Desa O
 ini O
@@ -293076,7 +293076,7 @@ Persijap Organisation
 Jepara Organisation
 bahkan O
 Timnas O
-Indonesia O
+Indonesia Place
 . O
 Maka O
 tidak O
@@ -293781,7 +293781,7 @@ Grobogan Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 yang O
 letak O
 diantara O
@@ -296331,7 +296331,7 @@ Jepara Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 Desa O
 Damarwulan Place
 32 O
@@ -297215,7 +297215,7 @@ dan O
 Aji O
 dalam O
 bahasa O
-Indonesia O
+Indonesia Place
 berarti O
 Batu O
 dan O
@@ -297830,7 +297830,7 @@ Jepara Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 , O
 ada O
 banyak O
@@ -301486,7 +301486,7 @@ Nasional Organisation
 Indonesia Organisation
 . O
 Sewaktu O
-Indonesia O
+Indonesia Place
 diterima O
 menjadi O
 anggota O
@@ -301498,7 +301498,7 @@ PBB Organisation
 -RRB- O
 , O
 Pemerintah O
-Indonesia O
+Indonesia Place
 menunjuknya O
 menjadi O
 wakil O
@@ -301579,7 +301579,7 @@ rechten O
 lalu O
 pulang O
 ke O
-Indonesia O
+Indonesia Place
 . O
 Setelah O
 itu O
@@ -301713,7 +301713,7 @@ Republik Organisation
 lainnya O
 di O
 Eastern O
-Indonesia O
+Indonesia Place
 bersedia O
 bekerja O
 sama O
@@ -301773,7 +301773,7 @@ adalah O
 pemain O
 sepak O
 bola O
-Indonesia O
+Indonesia Place
 yang O
 bermain O
 di O
@@ -301803,7 +301803,7 @@ pemain O
 utama O
 ketika O
 timnas O
-Indonesia O
+Indonesia Place
 dilatih O
 oleh O
 Peter Person
@@ -302460,7 +302460,7 @@ Karanganyar Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 dan O
 merupakan O
 desa O
@@ -303048,7 +303048,7 @@ ini O
 menjadi O
 ganda O
 terbaik O
-Indonesia O
+Indonesia Place
 sejajar O
 dengan O
 tiga O
@@ -305288,7 +305288,7 @@ serta O
 memajukan O
 pertanian O
 di O
-Indonesia O
+Indonesia Place
 . O
 Terdapat O
 beberapa O
@@ -308865,7 +308865,7 @@ Provinsi O
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Umumnya O
 penduduk O
@@ -310105,7 +310105,7 @@ ke O
 kota-kota O
 besar O
 di O
-Indonesia O
+Indonesia Place
 seperti O
 Jakarta Place
 , O
@@ -310398,7 +310398,7 @@ Kebumen Place
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Di O
 desa O
@@ -311386,7 +311386,7 @@ Tengah Place
 , O
 -LSB- O
 -LSB- O
-Indonesia O
+Indonesia Place
 berhawa O
 sejuk O
 dengan O
@@ -311591,7 +311591,7 @@ berbagai O
 lembaga O
 pendidikan O
 di O
-Indonesia O
+Indonesia Place
 bahkan O
 sejak O
 dari O
@@ -311962,7 +311962,7 @@ Kendal O
 Jawa Place
 Tengah Place
 , O
-Indonesia O
+Indonesia Place
 . O
 Hasil O
 pindang O
@@ -312705,7 +312705,7 @@ Akademi O
 Militer O
 Angkatan Place
 Darat O
-Indonesia O
+Indonesia Place
 , O
 Desa O
 Banyurojo Place
@@ -313426,7 +313426,7 @@ Gunungpring Place
 atau O
 dalam O
 bahasa O
-Indonesia O
+Indonesia Place
 Gunung O
 Bambu O
 , O
@@ -313764,7 +313764,7 @@ pionernya O
 pahat O
 batu O
 di O
-Indonesia O
+Indonesia Place
 yaitu O
 Dusun O
 Sidoharjo Place

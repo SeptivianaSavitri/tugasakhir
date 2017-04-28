@@ -11,7 +11,7 @@
 # output: clean version of data :
 #    - no uppercase in first word
 ####################################################################################
-
+import operator
 
 def writeDictToFile(aDict, filename):
 
@@ -21,6 +21,18 @@ def writeDictToFile(aDict, filename):
         if key != "":
             thefile.write(key.strip())
             thefile.write("\n")
+
+    thefile.close()
+
+    return
+
+def writeListofStringToFile(aList, filename):
+
+    thefile = open(filename, "w", errors='replace')
+
+    for k in aList:
+        thefile.write(k.strip())
+        thefile.write("\n")
 
     thefile.close()
 
@@ -43,6 +55,7 @@ flines = inputFile.readlines()
 dictNLTK = {}
 dictTmp = {}
 dictKEBI = {}
+soretedNLTK={}
 
 count = 1
 for k in flines:
@@ -67,9 +80,10 @@ for k in flines:
     else:
         dictKEBI[k] = k
 inputFile.close()
+sortedNLTK = sorted(dictNLTK.values())
+sortedKEBI = sorted(dictKEBI.values())
 
-
-writeDictToFile(dictNLTK, outputNLTK)
-writeDictToFile(dictKEBI, outputKEBI)
+writeListofStringToFile(sortedNLTK, outputNLTK)
+writeListofStringToFile(sortedKEBI, outputKEBI)
 
 writeDictToFile(dictTmp, outputTMP)

@@ -10,8 +10,7 @@
 
 # output: expanded version of data :
 #   - name with 2 words, split into AA and BB
-
- 
+#   - name with n-gram variation
 ####################################################################################
 
 
