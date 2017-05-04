@@ -15,7 +15,7 @@
 
 
 from function import writeListofStringToFile
-
+import re
 ##########################################################################
 # M A I N
 ##########################################################################
@@ -25,6 +25,8 @@ input = "dbpedia-new/cleansing/person.txt"
 folder = "dbpedia-new/normalized/"
 output = folder + "person.txt"
 outputtmp = folder + "tmp.txt"
+outputBin = folder + "tmpBin.txt"
+outputKoma = folder + "tmpKoma.txt"
 
 #########################  begin ################################
 
@@ -32,65 +34,108 @@ inputFile = open(input, 'r', errors='ignore')
 flines = inputFile.readlines()
 newListPerson = []
 newListTmp = []
+newListBin = []
+newListKoma = []
 count = 1
 for k in flines:
   
-    binSplit = k.split(" bin ")
-    bintiSplit = k.split(" binti ")
+    binSplit = re.split(" bin | Bin ",k)
+    vanSplit = re.split(" van | Van ",k)
+    vonSplit = re.split(" von | Von ",k)
+    bintiSplit = re.split(" binti | Binti ",k)
     dariSplit = k.split(" dari ")
-    daSplit = k.split(" da ")
-    doSplit = k.split(" do ")
-    dosSplit = k.split(" dos ")
-    deSplit = k.split(" de ")
-    jrSplit = k.split(" ")
+    daSplit = re.split(" da | Da ",k)
+    doSplit = re.split(" do | Do ",k)
+    dosSplit = re.split(" dos | Dos ",k)
+    deSplit = re.split(" de | De ",k)
+    spasiSplit = k.split(" ")
     
     if("oe" in k):
         ejaanBaru = k.replace("oe","u")
         newListPerson.append(ejaanBaru)
     #Jika nama mengandung kata bin
     if len(binSplit) > 1: 
-        for i in range(0, len(binSplit)):
-         
+        newListBin.append(k)
+        for i in range(0, len(binSplit)):    
             newListPerson.append(binSplit[i])
     #Jika nama mengandung kata binti   
     elif len(bintiSplit) > 1:
+        newListBin.append(k)
         for j in range(0, len(bintiSplit)):
             newListPerson.append(bintiSplit[j])
     #Jika nama mengandung kata dari, kata setelah dari disimpan di tmp
     elif len(dariSplit) > 1:
         newListPerson.append(dariSplit[0])
         newListTmp.append(dariSplit[1])
+    elif len(vanSplit) > 1:
+        newListBin.append(k)
+        newListPerson.append(vanSplit[0])
+        newListPerson.append(vanSplit[1])
+    elif len(vonSplit) > 1:
+        newListBin.append(k)
+        newListPerson.append(vonSplit[0])
+        newListPerson.append(vonSplit[1])
     elif len(daSplit) > 1:
-        newListPerson.append(k)
+        newListBin.append(k)
         newListPerson.append(daSplit[0])
         newListPerson.append(daSplit[1])
     elif len(doSplit) > 1:
-        newListPerson.append(k)
+        newListBin.append(k)
         newListPerson.append(doSplit[0])
         newListPerson.append(doSplit[1])
     elif len(dosSplit) > 1:
-        newListPerson.append(k)
+        newListBin.append(k)
         newListPerson.append(dosSplit[0])
         newListPerson.append(dosSplit[1])   
     elif len(deSplit) > 1:
-        newListPerson.append(k)
+        newListBin.append(k)
         newListPerson.append(deSplit[0])
         newListPerson.append(deSplit[1])
-    elif jrSplit[len(jrSplit) - 1] == "Jr.\n":
+    elif spasiSplit[len(spasiSplit) - 1] == "Jr.\n":
         newListPerson.append(k.replace(",",""))
         newListPerson.append(k.replace(", Jr.",""))
-    elif jrSplit[len(jrSplit) - 1] == "Sr.\n":
+    elif spasiSplit[len(spasiSplit) - 1] == "Sr.\n":
         newListPerson.append(k.replace(",",""))
         newListPerson.append(k.replace(", Sr.",""))
-
+    elif k.find("-") != -1:
+        for m in range (0, len(spasiSplit)):
+            tmp = spasiSplit[m]
+            stripSplit = tmp.split("-")
+            if len(stripSplit)>1 and stripSplit[0][0].isupper() and stripSplit[1][0].isupper():
+                newListPerson.append(k)
+                hapusStrip = k.replace("-"," ")
+                newListPerson.append(hapusStrip)
     else:
         newListPerson.append(k);
     count += 1
 inputFile.close()
 
+
 writeListofStringToFile(newListPerson, output)
 writeListofStringToFile(newListTmp, outputtmp)
+writeListofStringToFile(newListBin,outputBin)
+inputFile = open(output, errors='ignore')
+flines = inputFile.readlines()
+newListPerson = []
+for name in flines:
+    newListPerson.append(name)
+for name in flines:
+    splitKoma = name.split(",")
+    if len(splitKoma)>1:
+        if len(splitKoma) == 2:
+            newListKoma.append(name)
+            newListPerson.remove(name)
+            newListPerson.append(splitKoma[0])
+        else:
+            newListPerson.remove(name)
+            for x in splitKoma:
+                x = x.replace(" ","")
+                x = x.replace("dan","")
+                newListPerson.append(x)
 
+inputFile.close()     
+writeListofStringToFile(newListKoma,outputKoma)
+writeListofStringToFile(newListPerson, output)
 
 
 ############################################################################

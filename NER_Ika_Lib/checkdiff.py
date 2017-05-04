@@ -1,8 +1,9 @@
 
 from function import writeListofStringToFile
-data1 = open("newdata/training/ready/ID_tagged5k_vitri2804-2.txt", "r")
-#data2 = open("newdata/training/ready/ID_tagged5k_vitri2804-1.txt", "r")
-data2 = open("data/training/ready/ID_tagged5k_buika2404.txt", "r")
+data1 = open("newdata/training/ready/ID_tagged5k_vitri0405-7.txt", "r")
+#data2 = open("newdata/training/ready/ID_tagged5k_vitri3004-1.txt", "r")
+data2 = open("data-v1/training/ready/ID_tagged5k_buikav10105-1.txt", "r")
+#data2 = open("data-v1/training/ready/ID_tagged1k_buikav10405-1.txt", "r")
 
 outputdata1 =  "newdata/training/ready/withTab_ID_tagged1_gs.txt"
 output =   open("different.txt", "w", errors='replace')
@@ -35,7 +36,7 @@ for i in range(0,len(data1Lines)):
         else:
             output.write(data1Lines[i].replace("\n","") + " "+ data2Lines[i].replace("\n","")+ " BERBEDA\n")
             outputBeda.write(data1Lines[i].replace("\n","") + " "+ data2Lines[i].replace("\n","")+ " BERBEDA\n")
-            if(splitData1[1] =="Person") or(splitData2[1] =="Person") :
+            if(splitData1[1] =="Person" or splitData2[1] == "Person")  :
                 outputPerson.write(data1Lines[i].replace("\n","") + " "+ data2Lines[i].replace("\n","")+ " BERBEDA\n")
 
             counterBeda = counterBeda + 1

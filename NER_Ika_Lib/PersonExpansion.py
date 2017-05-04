@@ -23,6 +23,7 @@ from function import writeDictToFile, writeListofStringToFile, writeListofListTo
 
 #set the input and output file
 input = "dbpedia-new/normalized/person.txt"
+inputBin = "dbpedia-new/normalized/tmpBin.txt"
 folder = "dbpedia-new/expanded/"
 output = folder + "person.txt"
 coba= folder + "personcb.txt"
@@ -83,6 +84,16 @@ for k in flines:
   
     else:
         arrPerson.append(k)
+    count += 1
+inputFile.close()
+
+
+inputFile = open(inputBin, 'r', errors='ignore')
+flines = inputFile.readlines()
+
+for k in flines:
+    k= k.replace("\n","")
+    arrPerson.append(k)
     count += 1
 inputFile.close()
 

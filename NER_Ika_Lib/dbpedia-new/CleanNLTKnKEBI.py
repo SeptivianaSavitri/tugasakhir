@@ -45,6 +45,7 @@ def writeListofStringToFile(aList, filename):
 #set the input and output file
 inputNLTK = "en"
 inputKEBI = "kebi.txt"
+inputAgama = "listAgama.txt"
 outputNLTK = "nltk_clean.txt"
 outputKEBI = "kebi_clean.txt"
 outputTMP ="tmp_clean.txt"
@@ -79,7 +80,12 @@ for k in flines:
         dictTmp[k] = k
     else:
         dictKEBI[k] = k
+
 inputFile.close()
+inputFile = open(inputAgama, "r", errors="ignore")
+flines = inputFile.readlines()
+for k in flines:
+    dictKEBI[k] = k
 sortedNLTK = sorted(dictNLTK.values())
 sortedKEBI = sorted(dictKEBI.values())
 

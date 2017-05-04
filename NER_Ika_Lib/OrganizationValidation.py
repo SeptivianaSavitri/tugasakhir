@@ -55,6 +55,7 @@ for k in flines:
     k= k.replace("\n","")
     if(diKamus(k, dictKebi)):
         dictTmp[k] = k
+        
     #jika nama ada di nltk
     elif(diKamus(k, dictNLTK)):
         dictTmp[k] = k

@@ -38,11 +38,39 @@ for k in flines:
     if koorBuka != -1: 
        
         newListPlace.append(k[:koorBuka-1]);
-        
+    elif k.find("Kabupaten Administrasi") != -1:
+    	kBaru = k.replace("Kabupaten Administrasi ","")
+    	newListPlace.append(kBaru)
+    	newListPlace.append(k)   
+    elif k.find("Kabupaten") != -1:
+    	kBaru = k.replace("Kabupaten ","")
+    	newListPlace.append(kBaru)
+    	newListPlace.append(k)
+    elif k.find("Kota Administrasi") != -1:
+    	kBaru = k.replace("Kota Administrasi ","")
+    	newListPlace.append(kBaru)
+    	newListPlace.append(k) 
+    elif k.find("Kota") != -1:
+    	kBaru = k.replace("Kota ","")
+    	newListPlace.append(kBaru)
+    	newListPlace.append(k)
+    elif k.find("Provinsi") != -1:
+    	kBaru = k.replace("Provinsi ","")
+    	newListPlace.append(kBaru)
+    	newListPlace.append(k)
+    elif k.find("Kecamatan") != -1:
+    	kBaru = k.replace("Kecamatan ","")
+    	newListPlace.append(kBaru)
+    	newListPlace.append(k)
+    elif k.find("Desa") != -1:
+    	kBaru = k.replace("Desa ","")
+    	newListPlace.append(kBaru)
+    	newListPlace.append(k)
     
     else:
         newListPlace.append(k);
     count += 1
+
 inputFile.close()
 
 writeListofStringToFile(newListPlace, output)

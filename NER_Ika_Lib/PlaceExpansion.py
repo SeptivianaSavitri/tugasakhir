@@ -38,7 +38,8 @@ count = 1
 for k in flines: 
 	k= k.replace("\n","")
 	komaspasiSplit = k.split(", ")
-	if len(komaspasiSplit) > 1: 	
+	if len(komaspasiSplit) > 1: 
+		arrPlace.append(k.replace(",",""))
 		for i in range(0, len(komaspasiSplit)):
 			arrPlace.append(komaspasiSplit[i]) 
 		   

@@ -19,7 +19,7 @@
 ####################################################################################
 
 #coding: utf8
-from ner_ika import makeExpandedDBpediaDictionary, listToString, getArticleType, writeListToFile
+from ner_ika import makeExpandedDBpediaDictionary, listToString, getArticleType, writeListToFile, makeOriginalDBpediaDictionary
 
 ##########################################################################
 #    Melakukan Splitting N-Gram
@@ -63,8 +63,8 @@ def nGramsIndex(aName, start):
 
 # create dbpedia version: original, expanded or normalized
 
-dbpedia = makeExpandedDBpediaDictionary()
-
+#dbpedia = makeExpandedDBpediaDictionary()
+dbpedia = makeOriginalDBpediaDictionary()
 # set the input file
 
 folder = "data/training/"
@@ -72,7 +72,7 @@ inputfile = folder + "prep/ID_formatted5k.txt"
 
 # set the output file
 
-outputfile = folder + "ready/ID_tagged5k_buika2404.txt"
+outputfile = folder + "ready/ID_tagged5k_buika0205-original.txt"
 
 
 ############################ BEGIN ###########################

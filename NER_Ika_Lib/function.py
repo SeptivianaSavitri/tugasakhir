@@ -461,24 +461,7 @@ def writeListofListToFile(aList, filename):
     return
 ####################################################################################
 # Tulis dict ke file
-# Dict tersebut berisi {"keu":"value"}
-####################################################################################
-
-def writeDictToFile(aDict, filename):
-
-    thefile = open(filename, "w")
-
-    for key, value in dictPlace.items() :
-        if key != "":
-            thefile.write(key.strip())
-            thefile.write("\n")
-
-    thefile.close()
-
-    return
-####################################################################################
-# Tulis dict ke file
-# List berisi list of string: [ [A, B, C], ..., [D, E] ]
+# Dict tersebut berisi {"key":"value"}
 ####################################################################################
 
 def writeDictToFile(aDict, filename):
@@ -494,6 +477,23 @@ def writeDictToFile(aDict, filename):
 
     return
 
+####################################################################################
+# Tulis dict ke file beserta valuenya
+# Dict tersebut berisi {"key":"value"}
+####################################################################################
+
+def writeDictWithValueToFile(aDict, filename):
+
+    thefile = open(filename, "w")
+
+    for key, value in aDict.items() :
+        if key != "":
+            thefile.write(key.strip() + "\t" + value.strip())
+            thefile.write("\n")
+
+    thefile.close()
+
+    return
 
 
 ####################################################################################

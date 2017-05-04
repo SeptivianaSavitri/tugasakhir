@@ -354,3 +354,57 @@ How to make the expansion?
 1. Membuang entry Person yang memiliki stem yang seluruhnya ada di NLTK
 	(karena beberapa nama band tidak semua potongan katanya ada di NLTK, dibuat aturan tambahan, jika nama tersebut mengandung the, maka akan dibuang).
 	Hasil : 93 entry terfilter.
+2. Membuat kode untuk binding data DBPedia X dan DBPedia Y.
+
+
+Person
+Buat rule untuk KH. Dr. 
+Urus & pada person
+Ekspansi untuk nama mengandung bin. xx bin yy, xx , yy
+Untuk bin, persiapan ekspansi adalah, saat normalisasi cuma ada xx dan yy, lalu yang ke ekspan hanya xx dan yy saja.
+Buat DBPedia BuIka versi 2, (masukkan kembali band-band berbahasa inggris).
+Proposed method setiap kategori , perubahan rule apa saja
+perubahan rule tagging (ambiguitas)
+cari tahu apakah yang dikerjakan ini termasuk WSD.
+Aturan seluruh kata ada dikamus, cek untuk bahasa Indonesia.
+
+Membagi poin (k) jadi beberapa:
+1. Memperkenalkan kategori nama baru : Nama yang seluruh katanya ada di kamus.
+2. Mengandung The(nama yang diawali oleh artikel).
+3. Nama mengandung angka
+
+Mengubah poin(f) dos
+Menambah kategori Nama Person untuk Awalan gelar (KH, DR, DRS)
+
+
+Buat kolom original dan expanded data DBPedia dengan rule yang di revisi
+
+Ceritakan tagging proses ada ambiguitas
+
+Belaja
+
+-----------------------------------------------
+progress 2 Mei 2017
+1. Memperbaiki aturan Person Cleansing
+	-Ternyata kode sebelumnya bukan mengetag seluruh kata yang ada di kamus, namun hanya melihat kata apa yang mengandung "the". Maka, setelah rule diperbaiki, banyak sekali nama orang yang ikut terfilter. Akhirnya, saya tidak menggunakan corpus NLTK karena kata-kata yang ada disana terlalu universal dan masih banyak nama orang yang terdaftar. Kamus bahasa Inggris diganti dengan : http://www.wordfrequency.info/top5000.asp yang hanya terdiri 5000 kata. Hasilnya, dapat memfilter 203 kata. Nama orang yang terbawa masuk :  Bill Gates, Bill Steer, Jared Diamond
+	-Membuat rule untuk &. Karena sepertinya cukup berbahaya, akhirnya semua entry yang mengandung & dibuang.
+2. Membuat DBPedia Ibu Ika v1 (dengan tambahan data Person yang tidak valid), 
+3. Membuat draft proposed method untuk paper dalam 2 versi [Indonesia dan Inggris]
+
+
+1. evaluasi orgininal vitri dan buika. analisa bedanya kenapa.
+
+kesalahan goldstandard
+1279-1282
+1394 CEO
+4577 Doraemon
+11000 Gary
+
+
+kenapa akurasi Person berkurang?
+1. Terdapat nama Milan di Person, namun tidak ada di Organization maupun Place
+Solusi: memasukkan nama kota Milan pada Place dengan sumber data : https://id.wikipedia.org/wiki/Daftar_kota_menurut_PDB
+2. Masih mengandung kata dengan huruf besar semua
+
+Malah KEBI, karena semua huruf kapital dibuang, nama agama juga turut terbuang. Dikarenakan pada Organization terdapat "Partai Katolik", yang diexpand menjadi "Katolik", kata tersebut tidak terfilter.
+Solusi : Pada data kebi yang sudah dihilangkan huruf besar, diberikan rule tambahan untuk menambahkan agama yang didapat dari source : https://id.wikipedia.org/wiki/Agama_di_Indonesia

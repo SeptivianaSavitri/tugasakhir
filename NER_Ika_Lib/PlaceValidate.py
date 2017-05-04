@@ -19,7 +19,7 @@
 ####################################################################################
 
 
-from function import writeDictToFile, writeListofListToFile, writeListofStringToFile, diKamus, buatKamus
+from function import writeDictToFile, writeListofListToFile, writeListofStringToFile, diKamus, buatKamus, writeDictWithValueToFile
 
 
 ##########################################################################
@@ -28,13 +28,10 @@ from function import writeDictToFile, writeListofListToFile, writeListofStringTo
 
 #set the input and output file
 input = "dbpedia-new/expanded/place.txt"
-inputOrg = "dbpedia-new/expanded/organization.txt"
 
 folder = "dbpedia-new/validate/"
 output = folder + "place.txt"
-outputOrg = folder + "organization.txt"
 outputtmp = folder + "tmpplace.txt"
-outputtmpOrg = folder + "tmporg.txt"
 nltk_data = "dbpedia-new/nltk_clean.txt"
 kebi_data = "dbpedia-new/kebi_clean.txt"
 dictKebi = {}
@@ -59,19 +56,20 @@ BULAN = ["April", "Juni", "Juli"]
 count = 1
 for k in flines:
     k= k.replace("\n","")
+    k = k.replace("  "," ")
     #Jika nama ada di kebi
     if(diKamus(k, dictKebi)):
-        dictTmp[k] = k
+        dictTmp[k] = "Kebi"
     #jika nama ada di nltk
     elif(diKamus(k, dictNLTK)):
-        dictTmp[k] = k
+        dictTmp[k] = "NLTK"
 
     elif(len(k) <2):
-        dictTmp[k] = k
+        dictTmp[k] = "panjang1"
     elif(k in ROMAWI):
-        dictTmp[k] = k
+        dictTmp[k] = "romawi"
     elif(k in BULAN):
-        dictTmp[k] = k
+        dictTmp[k] = "Nama bulan"
     else:
         dictPlace[k] = k
 inputFile.close()
@@ -89,7 +87,7 @@ for placeLine in place:
     dictPlace[placeLine] = placeLine
 
 writeDictToFile(dictPlace, output)
-writeDictToFile(dictTmp, outputtmp)
+writeDictWithValueToFile(dictTmp, outputtmp)
 
 
 

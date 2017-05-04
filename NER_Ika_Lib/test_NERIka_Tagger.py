@@ -75,7 +75,7 @@ inputfile = folder + "prep/ID_formatted5k.txt"
 
 # set the output file
 
-outputfile = folder + "ready/ID_tagged5k_vitri2804-2.txt"
+outputfile = folder + "ready/ID_tagged5k_vitri0505-2.txt"
 
 #outputfile = folder + "ready/coba.txt"
 
@@ -157,10 +157,10 @@ while i < len(wordList):
                     wordList[i][1] = "O"
                     title = "O"
 
-            if (kata == "SD") or (kata == "SDN" or (kata == "SMP") or (kata == "SMPN") or (kata == "SMA") or (kata == "SMAN")):
-                if kata_next != "" :
-                    if(kata_next.isnumeric() or kata_next.isupper()):
-                        title = "Organisation"
+            # if (kata == "SD") or (kata == "SDN" or (kata == "SMP") or (kata == "SMPN") or (kata == "SMA") or (kata == "SMAN")):
+            #     if kata_next != "" :
+            #         if(kata_next.isnumeric() or kata_next.isupper()):
+            #             title = "Organisation"
 
             if title is not "O":
 
