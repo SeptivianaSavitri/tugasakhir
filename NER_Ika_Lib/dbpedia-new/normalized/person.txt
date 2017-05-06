@@ -2856,7 +2856,6 @@ Cathy Sharon
 Elma Theana
 Emil Constantinescu
 Children of Bodom
-Fates Warning
 Godsmack
 Steve Hackett
 Ju Satriani
@@ -2943,7 +2942,6 @@ Henry Cow
 Queensrÿche
 Racer X
 Quicksilver Messenger Service
-Rage
 Rainbow
 Jamie Foxx
 Jean Claude
@@ -3177,7 +3175,7 @@ Hudarni Rani
 Sajama Cut
 Daniel Ortega
 Sigit Purnomo Syamsuddin Said
-Dr. Seuss
+Seuss
 Ryan Giggs
 Bimo Setiawan Almachzumi
 Otto Meyerhof
@@ -4945,7 +4943,6 @@ Yadi Timo
 Christopher Reeve
 Blake Edwards
 Barbara Bel Geddes
-Quiet Riot
 Ava Gardner
 Yoan Tanamal
 Santi Sardi
@@ -5364,7 +5361,7 @@ Rafael Trujillo
 Pong Hardjatmo
 Edward Teller
 Jimmy Gideon
-Pak Tile
+Tile
 Mia Audina Tjiptawan
 Mandra
 Mat Solar
@@ -6625,7 +6622,6 @@ Robert Wadlow
 Isabella Leong
 Roosilawaty
 Lostprophets
-New Found Glory
 Jada Pinkett Smith
 Ibra Azhari
 Andreas Ivanschitz
@@ -6794,15 +6790,12 @@ Bill Haley
 Nikolay Semyonov
 Phillip Allen Sharp
 William F. Sharpe
-The Yardbirds
 Janis Joplin
 Garth Brooks
 Yoichiro Nambu
 Teuku Rifnu Wikana
 Anizabella Putri
 Robert Ludlum
-The Crew-Cuts
-The Crew Cuts
 Gordon Lightfoot
 Paulo Kassoma
 Osamu Shimomura
@@ -7660,7 +7653,6 @@ Joseph Black
 Manohara Odelia Pinot
 Jack Cardiff
 Rick Warren
-Tears for Fears
 Nao Nagasawa
 Tom Arnold
 Tuncay ?anl?
@@ -9554,8 +9546,8 @@ Emmanuel Koné
 Raul Meireles
 Hugo Almeida
 Liédson
-Pak Chol-Jin
-Pak Chol Jin
+Chol-Jin
+Chol Jin
 George Curzon
 Edwin Samuel Montagu
 John Demjanjuk
@@ -12255,7 +12247,7 @@ Yoo Ah In
 Robert Lewandowski
 Ludovic Obraniak
 Kyai Haji Muhammad Yunus Anis
-KH Ahmad Badawi
+Ahmad Badawi
 Vampire Weekend
 Archie Bunker
 Ian McShane
@@ -18820,7 +18812,6 @@ Aleksei Sabanov
 Sergei Dunayev
 Aleksei Pashchenko
 Khasan Dzhunidov
-Motion
 Grace Wong
 Grigori Guz
 Artyom Moskvin
@@ -18969,7 +18960,8 @@ Ruslan Galiakberov
 Sutan Zaili Asril
 Sjurkani
 Sjoerkani
-Pak Tarno
+Karier Barack Obama di Senat Illinois
+Tarno
 José Manuel Balmaceda
 Max Charles
 Soslan Kabulov
@@ -19182,8 +19174,8 @@ Siti Liza
 Donal Fariz
 Firdaus Ilyas
 Julianne Hough
-Pak Nam-Chol
-Pak Nam Chol
+Nam-Chol
+Nam Chol
 Indra
 Ali Masykur Musa
 Rizal Satar

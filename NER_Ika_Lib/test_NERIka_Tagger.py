@@ -71,11 +71,11 @@ dbpedia, ambigu = makeExpandedDBpediaDictionary()
 folder = "newdata/training/"
 #inputfile = "formatted-goldstandard-0811.txt"
 
-inputfile = folder + "prep/ID_formatted5k.txt"
+inputfile = folder + "prep/ID_formatted10k.txt"
 
 # set the output file
 
-outputfile = folder + "ready/ID_tagged5k_vitri0505-2.txt"
+outputfile = folder + "ready/ID_tagged10k_vitri0505-1.txt"
 
 #outputfile = folder + "ready/coba.txt"
 

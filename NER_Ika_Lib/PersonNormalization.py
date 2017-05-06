@@ -37,6 +37,7 @@ newListTmp = []
 newListBin = []
 newListKoma = []
 count = 1
+cek = 0
 for k in flines:
   
     binSplit = re.split(" bin | Bin ",k)
@@ -49,24 +50,34 @@ for k in flines:
     dosSplit = re.split(" dos | Dos ",k)
     deSplit = re.split(" de | De ",k)
     spasiSplit = k.split(" ")
-    
+    #Jika nama ejaan lama
     if("oe" in k):
         ejaanBaru = k.replace("oe","u")
         newListPerson.append(ejaanBaru)
+        
+    #jika nama mengandung gelar dan kata sapaan
+    if spasiSplit[0]=="KH" or spasiSplit[0]=="Pak" or spasiSplit[0]=="KH." or spasiSplit[0]=="Dr.":
+        k = k[(len(spasiSplit[0])+1):]
+        
     #Jika nama mengandung kata bin
     if len(binSplit) > 1: 
         newListBin.append(k)
+        
         for i in range(0, len(binSplit)):    
             newListPerson.append(binSplit[i])
+            
     #Jika nama mengandung kata binti   
     elif len(bintiSplit) > 1:
         newListBin.append(k)
+        
         for j in range(0, len(bintiSplit)):
             newListPerson.append(bintiSplit[j])
+            
     #Jika nama mengandung kata dari, kata setelah dari disimpan di tmp
     elif len(dariSplit) > 1:
         newListPerson.append(dariSplit[0])
         newListTmp.append(dariSplit[1])
+
     elif len(vanSplit) > 1:
         newListBin.append(k)
         newListPerson.append(vanSplit[0])
@@ -102,6 +113,7 @@ for k in flines:
             tmp = spasiSplit[m]
             stripSplit = tmp.split("-")
             if len(stripSplit)>1 and stripSplit[0][0].isupper() and stripSplit[1][0].isupper():
+                
                 newListPerson.append(k)
                 hapusStrip = k.replace("-"," ")
                 newListPerson.append(hapusStrip)
@@ -122,11 +134,13 @@ for name in flines:
 for name in flines:
     splitKoma = name.split(",")
     if len(splitKoma)>1:
+
         if len(splitKoma) == 2:
             newListKoma.append(name)
             newListPerson.remove(name)
             newListPerson.append(splitKoma[0])
         else:
+
             newListPerson.remove(name)
             for x in splitKoma:
                 x = x.replace(" ","")
@@ -136,7 +150,7 @@ for name in flines:
 inputFile.close()     
 writeListofStringToFile(newListKoma,outputKoma)
 writeListofStringToFile(newListPerson, output)
-
+print(cek)
 
 ############################################################################
 # End of file

@@ -27,6 +27,7 @@ inputBin = "dbpedia-new/normalized/tmpBin.txt"
 folder = "dbpedia-new/expanded/"
 output = folder + "person.txt"
 coba= folder + "personcb.txt"
+cek = 0
 #outputtmp = folder + "tmp.txt"
 
 def nGram(input, n):
@@ -70,15 +71,12 @@ count = 1
 for k in flines:
     k= k.replace("\n","")
     spasiSplit = k.split(" ")
-    binSplit = k.split(" Bin ")
-    #Jika nama mengandung kata bin
-    if len(binSplit) > 1: 
-        for i in range(0,len(binSplit)):
-            arrPerson.append(binSplit[i])
     # jika lebih dari 1 kata
-    elif len(spasiSplit) >1:
+    if len(spasiSplit) >1:
+
         arrGram = nameGram(k, len(spasiSplit))
         for x in range(0,len(arrGram)):
+            cek = cek+1
             arrPerson.append(arrGram[x])
         
   
@@ -87,7 +85,7 @@ for k in flines:
     count += 1
 inputFile.close()
 
-
+#masukkan kembali entity yang mengandung bin, binti, dll
 inputFile = open(inputBin, 'r', errors='ignore')
 flines = inputFile.readlines()
 
@@ -97,7 +95,7 @@ for k in flines:
     count += 1
 inputFile.close()
 
-
+print(cek)
 writeListofStringToFile(arrPerson, output)
 #writeListofStringToFile(newListTmp, outputtmp)
 

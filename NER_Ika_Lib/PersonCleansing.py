@@ -18,8 +18,10 @@
 from __future__ import print_function
 from nltk.stem import *
 from nltk.stem.lancaster import LancasterStemmer
-from function import writeListofStringToFile, writeDictToFile, writeListofStringToFile, writeListofListToFile, diKamus, buatKamus
+from function import writeListofStringToFile, writeDictToFile, writeListofStringToFile, writeListofListToFile, stemDiCorpus, findWord, lemmaLongDiCorpus, lemmaDiCorpus, diKamus, buatKamus
 from nltk.stem.wordnet import WordNetLemmatizer
+from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
+
 
 
 ##########################################################################
@@ -34,13 +36,18 @@ folder = "dbpedia-new/cleansing/"
 output = folder + "person.txt"
 outputtmp = folder + "tmp.txt"
 outputtmpStem = folder + "tmpStem.txt"
+outputtmpThe = folder + "tmpThe.txt"
 outputtmpAnd = folder + "tmpAnd.txt"
 outputtmpNumber = folder + "tmpNumber.txt"
-dictNLTK= {}
-nltk_data = "dbpedia-new/english_corpus.txt"
-dictNLTK = buatKamus(dictNLTK, nltk_data)
-outputPlace = folder + "place.txt"
 
+outputtmpInd = folder + "tmpInd.txt"
+dictNLTK= {}
+dictKEBI = {}
+nltk_data = "dbpedia-new/english_corpus.txt"
+kebi_data = "dbpedia-new/kebi_clean.txt"
+dictNLTK = buatKamus(dictNLTK, nltk_data)
+dictKEBI = buatKamus(dictKEBI, kebi_data)
+outputPlace = folder + "place.txt"
 def cariBukaKurung(kata, pnjg):
 	idx = pnjg
 	while (idx != 0):
@@ -56,16 +63,21 @@ newListPerson = []
 newListTmp = []
 newListPlace = []
 newListPersonStem = []
+newListPersonThe = []
 newListPersonAnd = []
 newListPersonNumber = []
+newListPersonInd = []
 cleanStem = []
 countStem = 0;
 count = 1
 cekStem = {}
-
+countCek = 0
 st = LancasterStemmer()
 lm = WordNetLemmatizer()
-
+factory = StemmerFactory()
+stemmer = factory.create_stemmer()
+cekHapusKurung = 0
+print(findWord("The Pink Panther", "the"))
 for k in flines:
 
 	arrSplit = k.split(" ")
@@ -73,86 +85,49 @@ for k in flines:
 	tutup = kurung[len(kurung)-2]
 
 	if tutup == ")": 
+		cekHapusKurung = cekHapusKurung+1
 		koorTutup = k.find(tutup) 
 		koorBuka = cariBukaKurung(k,koorTutup)
 		isiKurung = k[koorBuka+1:koorTutup]
 		splitKurung = isiKurung.split(" ")
 		if((splitKurung[0] == "band") or (splitKurung[0] == "grup")):
 			newListTmp.append(k[:koorBuka])
+			newListPersonInd.append(k[:koorBuka])
+			k = ""
 		else:
-			newListPerson.append(k[:koorBuka])
-		
-	elif(arrSplit[0] == "SMA" or arrSplit[0] == "SMP"):
-		
-		newListTmp.append(k)
-	elif(k.find("&")!= -1):
-		newListPersonAnd.append(k)
-	elif(any(i.isdigit() for i in k)):
-		newListPersonNumber.append(k)
-	else:
-		newListPerson.append(k)
-	count += 1
-print(diKamus("the", dictNLTK))
-for k in newListPerson:
-	k = k.replace("\n","")
+			k = k[:koorBuka]
+
+			
 	arrSplit = k.split(" ")
-	countStem = 0;
-	for word in arrSplit:
-		word = word.lower()
-		kataVerb = lm.lemmatize(word,'v')
-		kataNoun = lm.lemmatize(word,'n')
-		kataLema = lm.lemmatize(word)
+	#memastikan bahwa kata bukan yang dipindah ke Organization
+	if k!="":
+		if(arrSplit[0] == "SMA" or arrSplit[0] == "SMP"):   
+			newListTmp.append(k)
+		elif(k.find("&")!= -1):
+			newListPersonAnd.append(k)
+		elif(any(i.isdigit() for i in k)):
+			newListPersonNumber.append(k)
+		elif(lemmaLongDiCorpus(k,dictNLTK)):
+			newListPersonStem.append(k)
+		elif(findWord(k, "the")):
+			newListPersonThe.append(k)
+			countCek = countCek+1
+		else:
+			newListPerson.append(k)
 		
-		if diKamus(kataVerb, dictNLTK) or diKamus(kataNoun, dictNLTK) or diKamus(kataLema, dictNLTK):
-			countStem = countStem +1
-
-		
-	if (countStem == len(arrSplit)):
-		newListPersonStem.append(k)
-		newListPerson.remove(k+"\n")
-for k in newListPerson:
-	countThe = 0
-	kclean = k.replace("\n","")
-	arrSplit = kclean.split(" ")	
-	for word in arrSplit:	
-		word=word.lower()
-		if word =="the" :
-			countThe =1
-	if countThe!=0:
-		
-		newListPersonStem.append(k)
-		newListPerson.remove(k)
-	
-
-		#print(k)
-		#u = "LALA"   
-# k = "Tony Scott\n"
-# k = k.replace("\n","")
-# arrSplit = k.split(" ")
-# countStem = 0;
-# for word in arrSplit:
-#     word = word.lower()
-#     kataVerb = lm.lemmatize(word,'v')
-#     kataNoun = lm.lemmatize(word,'n')
-#     kataLema = lm.lemmatize(word)
-#     print(kataLema)
-#     print(kataVerb)  
-#     print(kataNoun)
-	
-#     if  diKamus(kataVerb, dictNLTK) or diKamus(kataNoun, dictNLTK) or diKamus(kataLema, dictNLTK):
-#         countStem = countStem +1
-
-# print("ini countStem " + str(countStem))
-# print("ini arrSplit " + str(len(arrSplit)))
-# if (countStem == len(arrSplit)):
-#     print(k)     
+		# if(stemDiCorpus(k, dictKEBI)):
+		# 	newListPersonInd.append(k)
 inputFile.close()
+
 writeListofStringToFile(newListPerson, output)
 writeListofStringToFile(newListTmp, outputtmp)
 writeListofStringToFile(newListPersonStem, outputtmpStem)
+writeListofStringToFile(newListPersonThe, outputtmpThe)
 writeListofStringToFile(newListPersonAnd, outputtmpAnd)
 writeListofStringToFile(newListPersonNumber, outputtmpNumber)
 
+writeListofStringToFile(newListPersonInd, outputtmpInd)
+print(cekHapusKurung)
 inputFile = open(inputPlace, 'r', errors='ignore')
 flines = inputFile.readlines()
 for k in flines:

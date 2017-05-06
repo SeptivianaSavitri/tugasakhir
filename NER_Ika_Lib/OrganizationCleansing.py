@@ -39,6 +39,7 @@ inputFile = open(input, 'r', errors='ignore')
 flines = inputFile.readlines()
 newListOrg = []
 count = 1
+cek = 0
 for k in flines:
     arrSplit = k.split(" ")
     kurung = arrSplit[len(arrSplit) - 1]
@@ -50,7 +51,6 @@ for k in flines:
         splitKurung = isiKurung.split(" ")
         
         newListOrg.append(k[:koorBuka]);
-        
     
     else:
         newListOrg.append(k);
@@ -62,8 +62,10 @@ inputFile = open(inputtmp, 'r', errors='ignore')
 flines = inputFile.readlines()
 for k in flines:
     newListOrg.append(k)
+    cek = cek+1
+    
 inputFile.close()
-
+print(cek)
 writeListofStringToFile(newListOrg, output)
 
 

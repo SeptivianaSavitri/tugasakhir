@@ -2656,7 +2656,6 @@ Cathy Sharon
 Elma Theana
 Emil Constantinescu
 Children of Bodom
-Fates Warning
 Godsmack
 Steve Hackett
 Joe Satriani
@@ -2740,7 +2739,6 @@ Henry Cow
 Queensrÿche
 Racer X
 Quicksilver Messenger Service
-Rage
 Rainbow
 Jamie Foxx
 Jean Claude Van Damme
@@ -4652,7 +4650,6 @@ Yadi Timo
 Christopher Reeve
 Blake Edwards
 Barbara Bel Geddes
-Quiet Riot
 Ava Gardner
 Yoan Tanamal
 Santi Sardi
@@ -6284,7 +6281,6 @@ Robert Wadlow
 Isabella Leong
 Roosilawaty
 Lostprophets
-New Found Glory
 Jada Pinkett Smith
 Ibra Azhari
 Andreas Ivanschitz
@@ -6447,7 +6443,6 @@ Bill Haley
 Nikolay Semyonov
 Phillip Allen Sharp
 William F. Sharpe
-The Yardbirds
 Janis Joplin
 Garth Brooks
 A-ha
@@ -6455,7 +6450,6 @@ Yoichiro Nambu
 Teuku Rifnu Wikana
 Anizabella Putri
 Robert Ludlum
-The Crew-Cuts
 Gordon Lightfoot
 Paulo Kassoma
 Osamu Shimomura
@@ -7265,7 +7259,6 @@ Joseph Black
 Manohara Odelia Pinot
 Jack Cardiff
 Rick Warren
-Tears for Fears
 Nao Nagasawa
 Tom Arnold
 Tuncay ?anl?
@@ -18070,7 +18063,6 @@ Aleksei Sabanov
 Sergei Dunayev
 Aleksei Pashchenko
 Khasan Dzhunidov
-Motion
 Grace Wong
 Grigori Guz
 Artyom Moskvin
@@ -18216,6 +18208,7 @@ Albert Khayrutdinov
 Ruslan Galiakberov
 Sutan Zaili Asril
 Sjoerkani
+Karier Barack Obama di Senat Illinois
 Pak Tarno
 José Manuel Balmaceda
 Max Charles

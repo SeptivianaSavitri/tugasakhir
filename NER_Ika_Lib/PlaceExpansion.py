@@ -16,7 +16,7 @@
 ####################################################################################
 
 
-from function import writeListofStringToFile
+from function import writeListofStringToFile, writeDictToFile, nameGram
 
 ##########################################################################
 # M A I N
@@ -33,28 +33,32 @@ output = folder + "place.txt"
 inputFile = open(input, 'r', errors='ignore')
 flines = inputFile.readlines()
 arrPlace = []
-
+cek = 0
 count = 1
 for k in flines: 
 	k= k.replace("\n","")
 	komaspasiSplit = k.split(", ")
 	if len(komaspasiSplit) > 1: 
+		cek = cek+1
 		arrPlace.append(k.replace(",",""))
-		for i in range(0, len(komaspasiSplit)):
-			arrPlace.append(komaspasiSplit[i]) 
+		kSpasi = k.replace(",","")
+		spasiSplit = kSpasi.split(" ")
+		arrGram = nameGram(k, len(komaspasiSplit))
+		for x in range(0,len(arrGram)):
+			arrPlace.append(arrGram[x])
+			cek = cek+1
+			#arrPlace.append(komaspasiSplit[i]) 
 		   
    
 	else:
+		cek = cek+1
 		arrPlace.append(k) 
 	count += 1
 inputFile.close()
 
 
 
-writeListofStringToFile(arrPlace, output)
-
-
-
+print(cek)
 ############################################################################
 # End of file
 ############################################################################

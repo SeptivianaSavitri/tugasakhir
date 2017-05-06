@@ -401,10 +401,19 @@ kesalahan goldstandard
 11000 Gary
 
 
-kenapa akurasi Person berkurang?
+a) kenapa akurasi Person berkurang?
 1. Terdapat nama Milan di Person, namun tidak ada di Organization maupun Place
 Solusi: memasukkan nama kota Milan pada Place dengan sumber data : https://id.wikipedia.org/wiki/Daftar_kota_menurut_PDB
 2. Masih mengandung kata dengan huruf besar semua
+3. Kata yang terfilter hanya dari nltk_clean (sudah terlampir percobaan)
 
-Malah KEBI, karena semua huruf kapital dibuang, nama agama juga turut terbuang. Dikarenakan pada Organization terdapat "Partai Katolik", yang diexpand menjadi "Katolik", kata tersebut tidak terfilter.
+b) Malah KEBI, karena semua huruf kapital dibuang, nama agama juga turut terbuang. Dikarenakan pada Organization terdapat "Partai Katolik", yang diexpand menjadi "Katolik", kata tersebut tidak terfilter.
 Solusi : Pada data kebi yang sudah dihilangkan huruf besar, diberikan rule tambahan untuk menambahkan agama yang didapat dari source : https://id.wikipedia.org/wiki/Agama_di_Indonesia
+
+1. validate tambah rule Agama
+2. cari di Kebi yang huruf besar sebenarnya cenderung nama semua atau gimana
+3. perbedaan sumber DBPedia original , tahap cleansing , normalisasi , ekspan, validate
+
+Tugas besok :
+1. Benerin ekspansi Place (harusnya n-gram)
+	masi ada data "  ", cek lagi

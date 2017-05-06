@@ -19,19 +19,11 @@
 ####################################################################################
 
 
-from function import writeDictToFile, writeListofStringToFile, writeListofListToFile, diKamus, buatKamus, hitungKapital, writeDictWithValueToFile
+from function import writeDictToFile, writeListofStringToFile, writeListofListToFile, diKamus, buatKamus, hitungKapital, lemmaDiCorpus, writeDictWithValueToFile
 from nltk.stem.wordnet import WordNetLemmatizer
 
 
-def lemaDiCorpus(kata, aDict):
-    kataLow = kata.lower()
-    kataVerb = lm.lemmatize(kataLow,'v')
-    kataNoun = lm.lemmatize(kataLow,'n')
-    kataLema = lm.lemmatize(kataLow)
-    if diKamus(kataVerb, aDict) or diKamus(kataNoun, aDict) or diKamus(kataLema, aDict):
-        return True
-    else:
-        return False
+
 ##########################################################################
 # M A I N
 ##########################################################################
@@ -55,9 +47,8 @@ inputFile = open(input, 'r', errors='ignore')
 flines = inputFile.readlines()
 dictPerson = {}
 dictTmp = {}
-lm = WordNetLemmatizer()
+
 dictNLTK = buatKamus(dictNLTK, nltk_data)
-print(lemaDiCorpus(("Milan"), dictNLTK))
 dictEnglish = buatKamus(dictEnglish, english_dict)
 dictKebi = buatKamus(dictKebi, kebi_data)
 ROMAWI = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
@@ -96,7 +87,7 @@ for k in flines:
     #     dictTmp[k] = k
     elif len(splitK) == 1  and hitungKapital(k) == len(k):
         dictTmp[k]="Huruf Besar Semua"   
-    elif len(splitK) == 1 and lemaDiCorpus(k,dictEnglish):
+    elif len(splitK) == 1 and lemmaDiCorpus(k,dictNLTK):
         dictTmp[k] = "Lemmatization di Corpus English"   
     else: 
         dictPerson[k] = k

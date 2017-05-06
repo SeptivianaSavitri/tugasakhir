@@ -1,468 +1,468 @@
-Ouagadoudou
-Bratislava
-Tokyo
-Luxembourg City
-Niamey
-San Marino
-Atlanta
-Maputo
-Caracas
-Miami
-Naples
-Palikir
-Bulgaria
-Praha
-Nigeria
-Pretoria
-Amerika Utara
-Port-au-Prince
-Kenya
-Victoria
-Havana
-George Town
-Nikosia
-Majuro
-Santo Domingo
-Gambia
-Porto Novo
-Guyana
-Brunei Darussalam
-China
-Kolombo
-Meksiko
-Harare
-Montreal
-Asuncion
-Brazzaville
-Guatemala
-Rumania
-Belanda
-Osenia
-Manchester
-Bangkok
-Belarus
-Pelabuhan Vila
-Yaman
-Korea Utara
-Paraguay
-Malta
-Toronto
-Dakar
-Sudan Selatan
-Andorra la Vella
-Jepang
-Brasilia
-Lusaka
-Auckland
-El Salvador
-Kosta Rika
-Helsinki
-Banyul
-Dhaka
-Turkmenistan
-Naypyidaw
-Komoro
-Moskow
-Djibouti
-Malawi
-Eritrea
-London
-Belgia
-Grenada
-Ndjamena
-Luanda
-Stockholm
-Kamerun
-Karachi
-Hongaria
-Pittsburgh
-Asmara
-Rwanda
-Cape Town
-Uganda
-Moroni
-Polandia
-Australia
-Bukarest
-Samoa
-Beograd
-Yerevan
-Moscow
-Britania Raya
-Mauritania
-Swedia
-Freetown
-Makedonia
-Suva
-Seoul
-Ashakabad
-Birmingham
-Palau
-Skopje
-St Petersburg
-Lituania
-Bern
-Dili
-Manama
-Luksemburg
-Amerika
-Finlandia
-Cleveland
-Funafuti
-New Delhi
-Hamburg
-Rio de Janeiro
-Albania
-Kiev
-Kigali
-Bangalore
-Brussels
-Honiara
-Frunze
-Dublin
-Gabon
-Baku
-Oman
-Tel Aviv
-Khartoum
-Andorra
-Namibia
-Chili
-Warsaw
-Tonga
-Afrika Tengah
-Bagdad
-Sri Lanka
-Minneapolis
-Fukuoka
-Kuba
-Ekuador
-Guadalajara
-Melekeok
-Brasil
-Paris
-Indonesia
-Bandar Seri Begawan
-Suriah
-Port of Span
-San Francisco
-Algiers
-Djibouti City
-Bolivia
-Kanada
-Chicago
-Uruguay
-Praia
-Recife
-Nepal
-Mumbai
-Timor Leste
-Solomon
-Dominika
-Nassau
-St. George’s
-Seattle
-Zimbabwe
-Kamboja
-Irlandia
-Republik Demokratik Kongo
-Panama
-Nauru
-Siprus
-Damaskus
-Trinidad and Tobago
-Ceko
-Bairiki
-Kolombia
-Mogadishu
-Libreville
-Bhutan
-Estonia
-Angola
-Maladewa
-Bissau
-La Paz
-Rotterdam
-Kathmandu
-Beijing
-Roseau
-Thimphu
-Canberra
-Yunani
-Kuwait City
-Athena
-Kampala
-Washington DC
-Yaonde
-Vietnam
-Delhi
-Pakistan
-Turin
-Somalia
-Juba
-Libya
-Malabo
-Nouakchott
-Monterrey
-Sanaa
-Pyongyang
-Lyon
-Guinea Bissau
-Maroko
-Ghana
-Bahrain
-Alma Ata
-Rabat
-Tripoli
-Honduras
-Bridgetown
-Benin
-Belmopan
-Seychelles
-Milan
-Tampa/St Petersburg
-Lilongwe
-Dallas/Fort Worth
-Ankara
-Vilna
-Zambia
-Jerman
-Meksiko City
-Afrika Selatan
-Eropa
-Tirana
-Managua
-Bangui
-Madrid
-Sarajevo
-Amerika Selatan
-Kiribati
-Leeds
-Paramaribo
-Portland
-Selandia Baru
-Tehran
-Perancis
-Botswana
-Nikaragua
-Vanuatu
-Tianjin
-Saint Kitts and Nevis
-Sydney
-Papua Nugini
-Ljubljana
-Bogotá
-Amman
-Kroasia
-Azerbaijan
-Aljazair
-Mexico City
-Uzbekistan
-Porto Alegre
-Kirgizstan
-Reykyavik
-Philadelphia
-Niger
-Riga
-Copenhagen
-Lebanon
-Athens
-Denmark
-Maseru
-Mikronesia
-Rusia
-Senegal
-San Salvador
-Wina
-Swaziland
-Hanoi
-Korea Selatan
-Guinea
-Marshall
-Wellington
-Swiss
-Male
-Port Louis
-Denver
-Asia
-Republik Kongo
-Kairo
-Mozambik
-Saint Lucia
-Istanbul
 Republik Dominika
-Ukraina
-Zurich
-Monako
-Saint Vincent and the Grenadines
-Osaka
-Mauritius
-Grozny
-Thailand
-Jeddah
-Chad
-Metro Manila
-Filipina
+Perancis
 Burundi
-Nukualofa
-Lima
-Manila
-Cairo
-Tegucigalpa
-Zagrib
-Bangladesh
-Abu Dhabi
-Kabul
-Lisbon
-Shanghai
-Tashkent
-Peru
-Phoenix
-Jamaika
-Detroit
-New York City
-Asia Barat
-Tunis
-Akra
-Pantai Gading
-Afrika
-Vaduz
-Tanjung Verde
-Dushanbe
-Doha
-Tuvalu
-Liechtenstein
-Washington D.C
-Togo
-Ottawa
-Yaren
-Konakry
-Latvia
-Ethiopia
-Bahama
-Beirut
-Port Moresby
-Argentina
-PASn
-Baltimore
-São Paulo
-Montenegro
-Muskat
-Italia
-Kopenhagen
-Slowakia
-Montevideo
-Mongolia
-Barbados
-Hong Kong
-Ulanbator
-Budapest
-Jakarta
-Bujumbura
+Port of Span
 Windhoek
-Sao Tome
-Guinea Khatulistiwa
-Singapura
-Tunisia
-Rome
-Sao Tome and Principe
-Kingstown
-Barcelona
-Minsk
-Mbabane
-Belize
-Turki
-Los Angeles
-Johannesburg
-Sierra Leone
-Yordania
-San Yose
-Riyadh
-Lome
-Norwegia
+Bulgaria
+Manama
+Botswana
+Bhutan
+Yaren
+Asia Barat
+New York City
+Dublin
+Praia
+Libreville
 Mesir
-Arab Saudi
-San Diego
-Melbourne
-Apia
-Antananarivo
-Serbia
-Fiji
-Haiti
-Lagos
-St. John’s
-Kazakhstan
-Warsawa
-Mali
-Bosnia dan Herzegovina
-La Valetta
-Nairobi
-Islamabad
-Iran
-Madagaskar
+Lusaka
+Bahrain
+Osaka
+São Paulo
+Amerika
+Maseru
+Senegal
+Somalia
+Reykyavik
+Benin
+Kairo
+Banyul
+Moroni
 Boston
-Kolkata
+Brussel
+Sydney
+Peru
+Copenhagen
+Sierra Leone
+Niamey
+Moscow
+San Salvador
+Mogadishu
+Bagdad
+Ethiopia
+Lome
+Namibia
+Shanghai
+Barcelona
+Meksiko City
+Moldova
+Denmark
+Atlanta
+Baltimore
 Myanmar
-Quito
-Portugal
-Berlin
-Oslo
-Santiago
-Bamako
-Antigua dan Barbuda
-Guatemala City
-Vientiane
-Laos
-Addis Ababa
-Munich
-Liberia
-Armenia
-Suriname
-Monrovia
-Amerika Serikat
+Athena
+Santo Domingo
+Ghana
+Saint Kitts and Nevis
+Tunisia
+Spanyol
+Tonga
+Kuala Lumpur
+Eritrea
+Kiribati
+Bissau
+Victoria
+Slowakia
+Andorra
+La Paz
+Mali
+Kuwait City
+Suva
+Phoenix
+Jakarta
+Kolombia
+Swaziland
+Panama
+Kosta Rika
+Saint Lucia
+Samoa
+Dominika
+Lyon
+Bangalore
+Kenya
+Caracas
 Yamoussoukro
-Roma
+Islamabad
+Amsterdam
+Kolombo
+Irlandia
+Baku
+Vilna
+Nairobi
+Jepang
+Dili
+Brunei Darussalam
+Britania Raya
+Rotterdam
+Monrovia
+Tashkent
+Havana
+Nikaragua
+Riyadh
+Libya
+Guyana
+Paraguay
+Bandar Seri Begawan
+Beijing
+Frunze
+St Louis
+Madrid
+Athens
+Barbados
+Basseterre
+Auckland
+Osenia
+Kathmandu
+Siprus
+Kuba
+Nukualofa
+Mauritania
+Angola
+Manila
+Thimphu
+Arab Saudi
+Abu Dhabi
+Rwanda
+Bridgetown
+Sofia
+Nikosia
+Lilongwe
+Grozny
+Kopenhagen
+Rome
+Kamerun
+Warsawa
+Venezuela
+Zambia
+Pretoria
+Yaonde
+Phnom Penh
+Podgorica
+Asmara
+Timor Leste
+Tegucigalpa
+Porto Alegre
+Polandia
+Kanada
+Luanda
+Porto Novo
+Pyongyang
+Tuvalu
+Komoro
+Montenegro
+Papua Nugini
+Armenia
+Vancouver
+Slovenia
+Detroit
+Castries
+Irak
+St Petersburg
+Kingstown
+Oslo
+Sanaa
+San Marino
+Meksiko
+Port Moresby
+Tripoli
+St. George’s
+Pantai Gading
+Antigua dan Barbuda
+Antananarivo
+Harare
+Sri Lanka
+Munich
+Delhi
+Bangladesh
+Dhaka
+Fiji
+Estonia
+Norwegia
+Vanuatu
 Lesotho
 Sudan
-Israel
-Slovenia
-Sofia
-Tajikistan
-Venezuela
-Irak
-Castries
-Bogota
-Qatar
-Vienna
-St Louis
-Malaysia
-Gabourone
-Burkina Faso
-Podgorica
-Buenos Aires
-Brussel
-Basseterre
-Tallinu
-Belo Horizonte
-Tanzania
-Kuwait
-Afganistan
-Austria
-Phnom Penh
-Kinshasa
-Guangzhou
-Georgia
-Spanyol
-India
-Moldova
-Lisabon
-Amsterdam
-Houston
-Teheran
+Skopje
 Islandia
-Uni Emirat Arab
-Kingstone
+Tirana
+Uzbekistan
+El Salvador
+Nauru
+Seattle
+Suriah
+Israel
+Kigali
+Akra
+Niger
+Nassau
+Quito
+Zimbabwe
+Republik Demokratik Kongo
+Thailand
+Kinshasa
+Beirut
+Riga
+Mbabane
+Honiara
+Berlin
+Australia
+Tokyo
+Bukarest
+Amerika Utara
+Budapest
+Ljubljana
+Bosnia dan Herzegovina
+Canberra
+Miami
+Nouakchott
+Bangui
+Naypyidaw
+Laos
+Azerbaijan
+Maladewa
+Kampala
+Maroko
+Managua
+Vienna
+Tampa/St Petersburg
+Togo
+Malta
+Swedia
+Khartoum
+Bamako
+Eropa
+Leeds
+Teheran
+Wina
+Kamboja
+George Town
+Bahama
+Lagos
+Rabat
+Roma
+Malawi
+Belarus
+Marshall
+Kuwait
+San Diego
+Cleveland
+Juba
+Freetown
+Serbia
+Liberia
+Italia
+Jeddah
+Toronto
+Buenos Aires
+India
+Tallinu
+Montreal
+Nepal
+Brasilia
+Liechtenstein
+Argentina
+Kroasia
+Manchester
+Finlandia
+Suriname
+Lisbon
+Amman
+Sudan Selatan
+Nigeria
+Austria
+Hongaria
+Kirgizstan
+Kazakhstan
+Roseau
+Melekeok
+Vaduz
+Los Angeles
+Malaysia
+Belo Horizonte
+Mexico City
+Paramaribo
+Warsaw
+Afganistan
+Vietnam
+Sarajevo
+Dallas/Fort Worth
+Selandia Baru
+Tajikistan
+Hanoi
+Palau
+Alma Ata
+Andorra la Vella
+Brazzaville
+Sao Tome and Principe
+Djibouti
+Asuncion
+Rio de Janeiro
+Dakar
+New Delhi
+Fukuoka
+Kabul
+Solomon
+Palikir
+Ouagadoudou
+Mozambik
+Uruguay
+Washington DC
+Montevideo
+Bairiki
+Jamaika
+Turin
+Makedonia
+Uganda
+Brasil
+San Francisco
+Metro Manila
+Belize
+Dushanbe
+Bratislava
+Chicago
+Denver
+Seoul
+Philadelphia
+Qatar
+Damaskus
+Bern
+Recife
+Karachi
+Algiers
+Washington D.C
+Houston
+Gabourone
+Tehran
+Guinea Khatulistiwa
+Melbourne
+Yaman
+Monterrey
+Male
+Pelabuhan Vila
+Praha
+Guinea
+Luksemburg
+Seychelles
+Muskat
+Amerika Serikat
+Belanda
+Santiago
+Luxembourg City
+Vientiane
+Latvia
+Mauritius
+Asia
+Oman
+St. John’s
+Korea Selatan
+Helsinki
+Ekuador
+Guadalajara
+Madagaskar
+Maputo
+Iran
+Burkina Faso
+Grenada
+Afrika Selatan
+Lituania
+Konakry
+Pittsburgh
+La Valetta
+Mumbai
+Albania
+Guatemala
+Naples
+Honduras
+Amerika Selatan
+Lebanon
+Kolkata
+Hong Kong
+Tianjin
+Korea Utara
+Tunis
+Filipina
+Tel Aviv
+Portugal
+Haiti
+Ashakabad
+Zagrib
+Rumania
+Lisabon
+Mikronesia
+Johannesburg
+Ottawa
+Milan
+Minneapolis
+Georgia
+Ndjamena
+Kiev
+Republik Kongo
+London
+Doha
+Tanjung Verde
+Cape Town
+Istanbul
+Cairo
+Trinidad and Tobago
+Belmopan
+Jerman
+Swiss
+Paris
+Ankara
+Aljazair
+Gabon
+Djibouti City
+Yerevan
 Dodoma
+PASn
+Beograd
+Afrika
+Lima
+Uni Emirat Arab
+Bangkok
+Gambia
+Bogota
+China
+Yunani
+Bujumbura
+Indonesia
+Zurich
+Turkmenistan
+Moskow
+Chad
+Tanzania
+Singapura
+Guinea Bissau
+Saint Vincent and the Grenadines
+Ulanbator
+Afrika Tengah
+Port-au-Prince
+Rusia
+Guangzhou
+Wellington
+Sao Tome
+Chili
+Minsk
+Portland
+Stockholm
+Monako
+Belgia
+Birmingham
+Brussels
+Mongolia
+Apia
+Ceko
 Kishinev
-Kuala Lumpur
-Vancouver
+Port Louis
+Malabo
+Kingstone
+Bogotá
+Ukraina
+Funafuti
+Majuro
+Yordania
+Guatemala City
+Bolivia
+San Yose
+Addis Ababa
+Turki
+Hamburg
+Pakistan

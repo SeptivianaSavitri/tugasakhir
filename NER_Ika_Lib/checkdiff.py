@@ -1,8 +1,8 @@
 
 from function import writeListofStringToFile
-data1 = open("newdata/training/ready/ID_tagged5k_vitri0405-7.txt", "r")
+data1 = open("newdata/training/ready/ID_tagged5k_vitri0205-original.txt", "r")
 #data2 = open("newdata/training/ready/ID_tagged5k_vitri3004-1.txt", "r")
-data2 = open("data-v1/training/ready/ID_tagged5k_buikav10105-1.txt", "r")
+data2 = open("data/training/ready/ID_tagged5k_buika0205-original.txt", "r")
 #data2 = open("data-v1/training/ready/ID_tagged1k_buikav10405-1.txt", "r")
 
 outputdata1 =  "newdata/training/ready/withTab_ID_tagged1_gs.txt"

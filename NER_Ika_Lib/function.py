@@ -5,13 +5,67 @@
 # Fasilkom Universitas Indonesia
 ####################################################################################
 
+from nltk.stem.wordnet import WordNetLemmatizer
+from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
+import re
+
+
 ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
              "XI", "XII", "XIII", "XIV",
              "XX", "XXX"]
 
 
 SPECIAL_CHARS = [",", "'"]
+factory = StemmerFactory()
+stemmer = factory.create_stemmer()
 
+
+####################################################################################
+# Mencari bentuk n gram
+####################################################################################
+def nGram(input, n):
+  input = input.split(' ')
+  output = []
+  for i in range(len(input)-n+1):
+    output.append(input[i:i+n])
+  return output
+####################################################################################
+# Mencari bentuk n gram
+####################################################################################
+def nGramKoma(input, n):
+  input = input.split(',')
+  output = []
+  for i in range(len(input)-n+1):
+    output.append(input[i:i+n])
+  return output
+print(nGramKoma("Aku ceker, ayam kampung, omaygat",3))
+####################################################################################
+# Membuat kombinasi n-gram untuk n buah kata
+####################################################################################
+def nameGram(kata,n):
+   
+    arrKata = []
+    arrOutput = []
+    kataTmp = ""
+    for i in range(1,n+1):
+        arrKata.append(nGram(kata,i))
+   
+    for j in range(0,n):
+        arrTemp = arrKata[j]
+        for k in range(0, len(arrTemp)):
+            arrTemp2 = arrTemp[k]
+            kataTmp = ""
+            for m in range(0,len(arrTemp2)):
+                
+                kataTmp = kataTmp + (arrTemp2[m] + " ")
+                
+            if kataTmp[len(kataTmp)-1] == " ":
+                kataTmp = kataTmp[:len(kataTmp)-1]
+            arrOutput.append(kataTmp)
+        # for j in range(0,n)
+        #     for k in range(0,)
+    
+    return arrOutput
 
 ####################################################################################
 # Mencari jumlah huruf Kapital dalam suatu kata
@@ -26,6 +80,64 @@ def hitungKapital(kata):
 
         i = i+1   
     return counter
+####################################################################################
+# Mencari suatu KATA DASAR dalam dictionary untuk 1 kata [INDONESIA]
+####################################################################################
+def stemDiCorpus(kata, aDict):
+    
+    kataLow = kata.lower()
+    kataStem = stemmer.stem(kataLow)
+    if diKamus(kataStem, aDict):
+        return True
+    else:
+        return False    
+####################################################################################
+# Mencari suatu lemma dalam dictionary untuk 1 kata
+####################################################################################
+def lemmaDiCorpus(kata, aDict):
+    lm = WordNetLemmatizer()
+    kataLow = kata.lower()
+    kataVerb = lm.lemmatize(kataLow,'v')
+    kataNoun = lm.lemmatize(kataLow,'n')
+    kataLema = lm.lemmatize(kataLow)
+    if diKamus(kataVerb, aDict) or diKamus(kataNoun, aDict) or diKamus(kataLema, aDict):
+        return True
+    else:
+        return False
+
+####################################################################################
+# Mencari suatu lemma dalam dictionary untuk -n kata
+####################################################################################
+def lemmaLongDiCorpus(kataLong, aDict):
+    lm = WordNetLemmatizer()
+    k = kataLong.replace("\n","")
+    arrSplit = k.split(" ")
+    countLemma = 0;
+    for word in arrSplit:
+        word = word.lower()
+        if lemmaDiCorpus(word, aDict):
+            countLemma = countLemma + 1 
+    
+    if (countLemma == len(arrSplit)):
+        return True
+    else:
+        return False
+
+
+####################################################################################
+# Mencari suatu kata spesial pada sebuah entitas
+####################################################################################
+def findWord(kataLong, kataDicari):
+    k = kataLong.replace("\n","")
+    arrSplit = k.split(" ")
+    countLemma = 0;
+    for word in arrSplit:
+        word = word.lower()
+        word = re.sub(r"[^A-Za-z]+", '', word)
+        if word == kataDicari:
+            return True
+    return False
+
 
 ####################################################################################
 # Mencari indeks tanda buka kurung

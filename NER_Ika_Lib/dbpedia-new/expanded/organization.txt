@@ -148,7 +148,7 @@ PSDS Deli Serdang
 Seminari Wacana Bhakti
 FremantleMedia
 Universitas California, Berkeley
-Universitas California
+Universitas California Berkeley
 Universitas California
 Perguruan Cikini
 Politeknik Manufaktur Bandung
@@ -365,6 +365,8 @@ Ipswich Town F.C.
 Sheffield Wednesday F.C.
 Nottingham Forest F.C.
 U.S. Città di Palermo
+U.S. Città Palermo
+U.S. Città
 A.S. Livorno Calcio
 Olympique de Marseille
 Akademi Komunikasi Indonesia
@@ -392,8 +394,7 @@ Universitas Notre Dame
 Konfederasi Sepak Bola Afrika
 Konfederasi Sepak Bola Amerika Selatan
 Konfederasi Sepak Bola Amerika Utara, Tengah, dan Karibia
-Konfederasi Sepak Bola Amerika Utara
-Konfederasi Sepak Bola Amerika Utara
+Konfederasi Sepak Bola Amerika Utara Tengah dan Karibia
 Konfederasi Sepak Bola Amerika Utara
 Konfederasi Sepak Bola Oseania
 PSV Eindhoven
@@ -609,7 +610,7 @@ Paris Saint-Germain FC
 Levante UD
 FC Sochaux-Montbéliard
 Queen Mary, Universitas London
-Queen Mary
+Queen Mary Universitas London
 Queen Mary
 School of Oriental and African Studies
 AJ Auxerre
@@ -649,6 +650,8 @@ CS Sedan Ardennes
 Málaga CF
 Universitas Tarumanagara
 Kedutaan Besar Amerika Serikat di Jakarta
+Kedutaan Besar Amerika Serikat Jakarta
+Kedutaan Besar Amerika Serikat
 AC Ajaccio
 Sporting de Gijón
 Vicenza Calcio
@@ -997,7 +1000,7 @@ Universitas Stockholm
 Universitas Eötvös Loránd
 Sekolah Tinggi Teologi Jakarta
 Universitas Negeri California, Long Beach
-Universitas Negeri California
+Universitas Negeri California Long Beach
 Universitas Negeri California
 STAIN Batusangkar
 Association of European Airlines
@@ -1066,6 +1069,8 @@ A.C. Bellaria Igea Marina
 Carrarese Calcio
 Cuoiopelli Cappiano Romaiano
 A.S.D. Città di Giulianova 1924
+A.S.D. Città Giulianova 1924
+A.S.D. Città
 A.S. Gubbio 1910
 Institut Teknologi Nasional
 F.C. Nuorese Calcio
@@ -1463,6 +1468,8 @@ Universitas Pancasakti
 Universitas Carleton
 SMP Kristen Immanuel Pontianak
 Universitas Amerika di Beirut
+Universitas Amerika Beirut
+Universitas Amerika
 SMA Negeri 3 Jakarta
 SMA Islam PB Sudirman Bekasi
 SMA Negeri 17 Makassar
@@ -1475,7 +1482,7 @@ SMP Strada Bhakti Utama Jakarta
 Akademi Teknologi Kulit Yogyakarta
 SMA Negeri 8 Makassar
 Universitas California, Riverside
-Universitas California
+Universitas California Riverside
 Universitas California
 Heritage Foundation
 Partai Demokrat
@@ -1483,6 +1490,8 @@ Demokrat
 Forum Ekonomi Dunia
 SMA Negeri 34 Jakarta
 Universitas Charles di Praha
+Universitas Charles Praha
+Universitas Charles
 MA Negeri 1 Model Bukittinggi
 SMP Negeri 49 Jakarta
 SMA Pius Bakti Utama Purworejo
@@ -2021,19 +2030,19 @@ MIS Al Faridah
 MIS Al Fatimiyah
 MIS Al Hasaniyah
 MIS Al Hidayah, Jl. Jati Bening
-MIS Al Hidayah
+MIS Al Hidayah Jl. Jati Bening
 MIS Al Hidayah
 MIS Al Hidayah, Jl. Dr. Radjiman
-MIS Al Hidayah
+MIS Al Hidayah Jl. Dr. Radjiman
 MIS Al Hidayah
 MIS Al Huda
 MIS Al Ihsan
 MIS Al Ihsan Attahiriyah 3
 MIS Al Ihsaniyah, Jl. Kebun Sayur I
-MIS Al Ihsaniyah
+MIS Al Ihsaniyah Jl. Kebun Sayur I
 MIS Al Ihsaniyah
 MIS Al Ihsaniyah, Kramat Jati
-MIS Al Ihsaniyah
+MIS Al Ihsaniyah Kramat Jati
 MIS Al Ihsaniyah
 MIS Al Inayah
 MIS Al Istiqomah
@@ -2075,10 +2084,10 @@ MIS An Nahdhatul Ilmiyah
 MIS Annuriyyah
 MIS An Nasyatul Ilmiyah
 MIS Ar Rahmah, Jl. P. Komarudin
-MIS Ar Rahmah
+MIS Ar Rahmah Jl. P. Komarudin
 MIS Ar Rahmah
 MIS Ar Rahmah, Jl. Kelapa Dua
-MIS Ar Rahmah
+MIS Ar Rahmah Jl. Kelapa Dua
 MIS Ar Rahmah
 MIS As Syuhada
 MIS Asmaniyah
@@ -2109,10 +2118,10 @@ MIS Miftahul Jannah
 MIS Miftahurrahman
 MIS Muawanatul Ikhwan
 MIS Nurul Falah, Jl. Masjid Al Falah
-MIS Nurul Falah
+MIS Nurul Falah Jl. Masjid Al Falah
 MIS Nurul Falah
 MIS Nurul Falah, Jl. Kayu Tinggi
-MIS Nurul Falah
+MIS Nurul Falah Jl. Kayu Tinggi
 MIS Nurul Falah
 MIS Nurul Hidayah
 MIS Nurul Huda
@@ -2135,10 +2144,10 @@ SD Advent 6
 SD Al Barra
 SD Al Falah
 SD Al Ikhlash, Jl. Dewi Sartika
-SD Al Ikhlash
+SD Al Ikhlash Jl. Dewi Sartika
 SD Al Ikhlash
 SD Al Ikhlash, Jl. Masjid Al Muqorrobin
-SD Al Ikhlash
+SD Al Ikhlash Jl. Masjid Al Muqorrobin
 SD Al Ikhlash
 MIS Raudlatul Falah
 SD Al Wathoniyah 9
@@ -2173,38 +2182,38 @@ SD Hang Tuah 1
 SD Harapan Bunda
 SD Hosana
 SDI Al-Hilal, Jakarta Timur
-SDI Al-Hilal
+SDI Al-Hilal Jakarta Timur
 SDI Al-Hilal
 SDI Al Abidin, Jakarta Timur
-SDI Al Abidin
+SDI Al Abidin Jakarta Timur
 SDI Al Abidin
 SDI Al-Azhar 19, Jakarta Timur
-SDI Al-Azhar 19
+SDI Al-Azhar 19 Jakarta Timur
 SDI Al-Azhar 19
 SDI Al-Azhar 20, Jakarta Timur
-SDI Al-Azhar 20
+SDI Al-Azhar 20 Jakarta Timur
 SDI Al-Azhar 20
 SDI Darur Rahim, Jakarta Timur
-SDI Darur Rahim
+SDI Darur Rahim Jakarta Timur
 SDI Darur Rahim
 SDI Muawanah, Jakarta Timur
-SDI Muawanah
+SDI Muawanah Jakarta Timur
 SDI Muawanah
 SDI Nurul Huda, Jakarta Timur
-SDI Nurul Huda
+SDI Nurul Huda Jakarta Timur
 SDI Nurul Huda
 SDI Teladan Yasmin, Jakarta Timur
-SDI Teladan Yasmin
+SDI Teladan Yasmin Jakarta Timur
 SDI Teladan Yasmin
 SDI Teladan Bersubsidi Pulog, Jakarta Timur
-SDI Teladan Bersubsidi Pulog
+SDI Teladan Bersubsidi Pulog Jakarta Timur
 SDI Teladan Bersubsidi Pulog
 SD Ignatius Slamet Riyadi I
 SDI Baiturrahman, Jakarta Timur
-SDI Baiturrahman
+SDI Baiturrahman Jakarta Timur
 SDI Baiturrahman
 SDI Favorit Assalafy, Jakarta Timur
-SDI Favorit Assalafy
+SDI Favorit Assalafy Jakarta Timur
 SDI Favorit Assalafy
 SD Kartika VIII-1
 SD Kartika X-7 Pagi
@@ -2264,25 +2273,22 @@ SDI Al-Hikmatuzzainiyah
 SDI Al-Maruf
 SDI Alfatiyah Krjati
 SDI Alhayatiddiniyah, Jl. H. Ali
-SDI Alhayatiddiniyah
+SDI Alhayatiddiniyah Jl. H. Ali
 SDI Alhayatiddiniyah
 SDI Alhayatiddiniyah, Masjid Al Muqorrobin
-SDI Alhayatiddiniyah
+SDI Alhayatiddiniyah Masjid Al Muqorrobin
 SDI Alhayatiddiniyah
 SDI Amaryllis
 SDI An-Najah
 SDI Annur Pulomas
 SDI Assaadah, Jl.Swakarsa, Jakarta Timur
-SDI Assaadah
-SDI Assaadah
+SDI Assaadah Jl.Swakarsa Jakarta Timur
 SDI Assaadah
 SDI Assaadah, Jl.Madrasah, Jakarta Timur
-SDI Assaadah
-SDI Assaadah
+SDI Assaadah Jl.Madrasah Jakarta Timur
 SDI Assaadah
 SDI Assaadah, Jatinegara, Jakarta Timur
-SDI Assaadah
-SDI Assaadah
+SDI Assaadah Jatinegara Jakarta Timur
 SDI Assaadah
 SDI Assalam
 SDI Assalam Jadiid
@@ -2299,12 +2305,12 @@ SDI Jerapah Kecil
 SDI Nurul Ihsan
 SDI Nurul Ikhlas
 SDI Nurul Islam, Jl. Raya Pulogebang
-SDI Nurul Islam
+SDI Nurul Islam Jl. Raya Pulogebang
 SDI Nurul Islam
 SDI Nahdlatul Wathan
 SDI Nurul Iman Pondok Bambu
 SDI Nurul Islam, Jl. Swadaya IV
-SDI Nurul Islam
+SDI Nurul Islam Jl. Swadaya IV
 SDI Nurul Islam
 EC Vitória
 SDI PB Soedirman
@@ -2787,10 +2793,10 @@ SMPLB Kusumo Asih
 SMPLB Mini Bakti
 SMPLB C Sinar Kasih
 SMPLB Abdi Gumelar, Jl.Babah II
-SMPLB Abdi Gumelar
+SMPLB Abdi Gumelar Jl.Babah II
 SMPLB Abdi Gumelar
 SMPLB Abdi Gumelar, Jl. Swadaya
-SMPLB Abdi Gumelar
+SMPLB Abdi Gumelar Jl. Swadaya
 SMPLB Abdi Gumelar
 SMP Negeri 102 Jakarta
 SMP Negeri 103 Jakarta
@@ -2992,6 +2998,8 @@ Ikatan Arsitek Indonesia
 Yayasan Lontar
 SMA Negeri 1 Probolinggo
 Yayasan Tanggul Bencana di Indonesia
+Yayasan Tanggul Bencana Indonesia
+Yayasan Tanggul Bencana
 Persepam Pamekasan
 SMA Negeri 5 Jakarta
 SMA Negeri 1 Tasikmalaya
@@ -3413,7 +3421,7 @@ Universitas Ibn Khaldun Bogor
 POSBank
 SMPN 1 Kedawung
 Fakultas Kedokteran, Universitas Diponegoro
-Fakultas Kedokteran
+Fakultas Kedokteran Universitas Diponegoro
 Fakultas Kedokteran
 SMP Negeri 2 Semarang
 Bursa efek Singapura
@@ -4218,8 +4226,14 @@ FC Tobol
 SMA Negeri 5 Parepare
 SMAN 2 Balaraja
 Daftar Sekolah Dasar Swasta di Sumatera Barat
+Daftar Sekolah Dasar Swasta Sumatera Barat
+Daftar Sekolah Dasar Swasta
 Sekolah Dasar Islam Terpadu di Sumatera Barat
+Sekolah Dasar Islam Terpadu Sumatera Barat
+Sekolah Dasar Islam Terpadu
 Sekolah Dasar Islam Terpadu di Padang
+Sekolah Dasar Islam Terpadu Padang
+Sekolah Dasar Islam Terpadu
 SMA Negeri 3 Sidoarjo
 Fakultas Hukum Universitas Mulawarman
 SMA Negeri 1 Mertoyudan
@@ -4419,8 +4433,7 @@ Imperial Airways
 SMP Negeri 1 Kroya
 Milton Keynes Dons F.C.
 Partai Perdamaian, Persatuan, dan Pembangunan
-Partai Perdamaian
-Partai Perdamaian
+Partai Perdamaian Persatuan dan Pembangunan
 Partai Perdamaian
 Perdamaian, Persatuan, dan Pembangunan
 SMA Muhammadiyah Wonosobo
@@ -4567,6 +4580,8 @@ SD Negeri 007 Bulang
 SD Negeri 007 Galang
 SD Negeri 007 Lubuk Baja
 Campionato Sammarinese di Calcio
+Campionato Sammarinese Calcio
+Campionato Sammarinese
 SD Negeri 007 Nongsa
 SD Negeri 007 Sagulung
 SD Negeri 007 Sekupang
@@ -4764,7 +4779,7 @@ Anonymous
 SMK Negeri 4 Padalarang
 Politeknik Kota Malang
 Technische Faculteit, Nood-Universiteit van Nederlandsch Indie
-Technische Faculteit
+Technische Faculteit Nood-Universiteit van Nederlandsch Indie
 Technische Faculteit
 Universiteit van Indonesie te Bandoeng
 Universitas Indonesia Bandung
@@ -4804,7 +4819,7 @@ SMA Negeri 15 Padang
 SMA Negeri 16 Padang
 Brighton & Hove Albion F.C.
 Amuse, Inc.
-Amuse
+Amuse Inc.
 Amuse
 Ubisoft
 STMIK SPB Airlangga Samarinda
@@ -5524,7 +5539,7 @@ Tampa Bay Mutiny
 Firestone Tire and Rubber Company
 Casumina
 Universitas California, Los Angeles
-Universitas California
+Universitas California Los Angeles
 Universitas California
 Asosiasi Universitas Amerika
 FC Dallas
@@ -5592,7 +5607,7 @@ FC Sibir-2 Novosibirsk
 FC Spartak Tambov
 Ezaki Glico
 Facebook, Inc.
-Facebook
+Facebook Inc.
 Facebook
 Politeknik TEDC
 Institut Bisnis Nusantara
@@ -5650,6 +5665,8 @@ Budoni Calcio
 A.S.D. Flaminia Civita Castellana
 S.P.D. Amiternina
 S.S.D. Città di Messina
+S.S.D. Città Messina
+S.S.D. Città
 FC Rubin-2 Kazan
 U.S. Pergolettese 1932
 A.S.D.C. Gozzano
@@ -5746,7 +5763,7 @@ Rakyat Indonesia
 Partai Politik Islam Indonesia Masyumi
 Politik Islam Indonesia Masyumi
 Partai untuk Kasih, Kebebasan dan Keberagaman
-Partai untuk Kasih
+Partai untuk Kasih Kebebasan dan Keberagaman
 Partai untuk Kasih
 untuk Kasih, Kebebasan dan Keberagaman
 S.S.D. Pro Sesto Calcio
@@ -5852,6 +5869,8 @@ Regar-TadAZ Tursunzoda
 A.S.D. Atletico Castenaso Van Goof
 A.S.D. Giorgione Calcio 2000
 A.S.D. Castel di Sangro Calcio
+A.S.D. Castel Sangro Calcio
+A.S.D. Castel
 F.C. Vado
 U.S. Sassuolo Calcio
 U.S. Cremonese

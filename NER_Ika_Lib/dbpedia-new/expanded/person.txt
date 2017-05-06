@@ -9749,9 +9749,6 @@ Bodom
 Children of
 of Bodom
 Children of Bodom
-Fates
-Warning
-Fates Warning
 Godsmack
 Steve
 Hackett
@@ -10018,7 +10015,6 @@ Service
 Quicksilver Messenger
 Messenger Service
 Quicksilver Messenger Service
-Rage
 Rainbow
 Jamie
 Foxx
@@ -10834,9 +10830,7 @@ Syamsuddin Said
 Sigit Purnomo Syamsuddin
 Purnomo Syamsuddin Said
 Sigit Purnomo Syamsuddin Said
-Dr.
 Seuss
-Dr. Seuss
 Ryan
 Giggs
 Ryan Giggs
@@ -16720,9 +16714,6 @@ Geddes
 Barbara Bel
 Bel Geddes
 Barbara Bel Geddes
-Quiet
-Riot
-Quiet Riot
 Ava
 Gardner
 Ava Gardner
@@ -18078,9 +18069,7 @@ Edward Teller
 Jimmy
 Gideon
 Jimmy Gideon
-Pak
 Tile
-Pak Tile
 Mia
 Audina
 Tjiptawan
@@ -22194,12 +22183,6 @@ Leong
 Isabella Leong
 Roosilawaty
 Lostprophets
-New
-Found
-Glory
-New Found
-Found Glory
-New Found Glory
 Jada
 Pinkett
 Smith
@@ -22738,9 +22721,6 @@ Sharpe
 William F.
 F. Sharpe
 William F. Sharpe
-The
-Yardbirds
-The Yardbirds
 Janis
 Joplin
 Janis Joplin
@@ -22762,15 +22742,6 @@ Anizabella Putri
 Robert
 Ludlum
 Robert Ludlum
-The
-Crew-Cuts
-The Crew-Cuts
-The
-Crew
-Cuts
-The Crew
-Crew Cuts
-The Crew Cuts
 Gordon
 Lightfoot
 Gordon Lightfoot
@@ -25599,12 +25570,6 @@ Jack Cardiff
 Rick
 Warren
 Rick Warren
-Tears
-for
-Fears
-Tears for
-for Fears
-Tears for Fears
 Nao
 Nagasawa
 Nao Nagasawa
@@ -31906,15 +31871,10 @@ Hugo
 Almeida
 Hugo Almeida
 Liédson
-Pak
 Chol-Jin
-Pak Chol-Jin
-Pak
 Chol
 Jin
-Pak Chol
 Chol Jin
-Pak Chol Jin
 George
 Curzon
 George Curzon
@@ -41251,12 +41211,9 @@ Muhammad Yunus Anis
 Kyai Haji Muhammad Yunus
 Haji Muhammad Yunus Anis
 Kyai Haji Muhammad Yunus Anis
-KH
 Ahmad
 Badawi
-KH Ahmad
 Ahmad Badawi
-KH Ahmad Badawi
 Vampire
 Weekend
 Vampire Weekend
@@ -63091,7 +63048,6 @@ Aleksei Pashchenko
 Khasan
 Dzhunidov
 Khasan Dzhunidov
-Motion
 Grace
 Wong
 Grace Wong
@@ -63622,9 +63578,28 @@ Zaili Asril
 Sutan Zaili Asril
 Sjurkani
 Sjoerkani
-Pak
+Karier
+Barack
+Obama
+di
+Senat
+Illinois
+Karier Barack
+Barack Obama
+Obama di
+di Senat
+Senat Illinois
+Karier Barack Obama
+Barack Obama di
+Obama di Senat
+di Senat Illinois
+Karier Barack Obama di
+Barack Obama di Senat
+Obama di Senat Illinois
+Karier Barack Obama di Senat
+Barack Obama di Senat Illinois
+Karier Barack Obama di Senat Illinois
 Tarno
-Pak Tarno
 José
 Manuel
 Balmaceda
@@ -64444,15 +64419,10 @@ Firdaus Ilyas
 Julianne
 Hough
 Julianne Hough
-Pak
 Nam-Chol
-Pak Nam-Chol
-Pak
 Nam
 Chol
-Pak Nam
 Nam Chol
-Pak Nam Chol
 Indra
 Ali
 Masykur
@@ -67225,7 +67195,7 @@ Steve De Ridder
 Giuseppe De Luca
 Sultan Said Ali bin Said Umar
 Iriney Santos da Silva
-KH. Abdullah Bin Nuh
+Abdullah Bin Nuh
 Eliseu Pereira dos Santos
 Ânderson Miguel da Silva
 Luciano Siqueira de Oliveira
