@@ -1,0 +1,15 @@
+Pada X, terdapat rule jika menemukan tanda "," maka hilangkan komanya, namun hanya ambil kata split koma yang pertama dan kedua
+
+Kata asli : Konfederasi Sepak Bola Amerika Utara, Tengah, dan Karibia
+	-Konfederasi Sepak Bola Amerika Utara Tengah
+
+Kata Asli : Partai Perdamaian, Persatuan, dan Pembangunan
+Partai Perdamaian Persatuan
+
+Kata Asli : SDI Assaadah, Jl.Swakarsa, Jakarta Timur
+			SDI Assaadah, Jl.Madrasah, Jakarta Timur
+			SDI Assaadah, Jatinegara, Jakarta Timur
+SDI Assaadah Jatinegara
+SDI Assaadah Jl.Madrasah
+SDI Assaadah Jl.Swakarsa
+

@@ -41,7 +41,9 @@ for k in flines:
     koorBuka = k.find("(")
     koorTutup = k.find(")")
     if koorBuka != -1: 
-       
+        awal = k[:koorBuka] 
+        awal = awal.strip()
+        newListOrg.append(awal)
         newListOrg.append(k[:koorBuka-1] + k[koorTutup+1:]);
         
     

@@ -38,6 +38,7 @@ count = 1
 for k in flines: 
 	k= k.replace("\n","")
 	komaspasiSplit = k.split(", ")
+	#EB1 MODIFIKASI
 	if len(komaspasiSplit) > 1: 
 		dictPlace[k] = k
 		for i in range(0, len(komaspasiSplit)):

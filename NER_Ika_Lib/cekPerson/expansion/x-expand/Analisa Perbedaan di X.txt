@@ -1,0 +1,121 @@
+1. Entry mengandung & dan bentuk ekspansi n-gramnya:
+& Airwaves
+& Coconut
+& Coconut Treez
+& D'Essentials
+& Him
+& His
+& His Comets
+& Nigar
+& Nuno
+& Sons
+& Vanness
+Echo &
+Eldar &
+Eldar & Nigar
+Bill Haley &
+Bill Haley & His
+Bill Haley & His Comets
+Angels &
+Angels & Airwaves
+Gomez &
+Haley &
+Haley & His
+Haley & His Comets
+Jonas &
+Kangta &
+Kangta & Vanness
+Kool &
+D'Essentials
+Maliq &
+Maliq & D'Essentials
+Mumford &
+Mumford & Sons
+Nick Jonas &
+Selena Gomez &
+She &
+She & Him
+Shoes &
+Steven &
+Steven & Coconut
+Steven & Coconut Treez
+White Shoes &
+Yovie &
+Yovie & Nuno
+
+2. Nama berbahasa Inggris (sudah di filter di Y)
+After Band
+After School
+Air Supply
+Airwaves
+Bill Gates
+Bill Steer
+Burning Rain
+Candies
+Southern All
+Southern All Stars
+Stand to
+Stand to Alone
+Stars
+Stupid Kids
+Sunny Hill
+Swing Out
+Swing Out Sister
+Three Days
+Three Days Grace
+Top Brand
+Top Brand Award
+Tears
+Take That
+Tears for
+Tears for Fears
+Teen Top
+Teng-hui
+They Might
+They Might Be
+They Might Be Giants
+White Lion
+White Shoes
+Will Champion
+Will Young
+Queens
+Quiet Riot
+Rage Against
+Ok Rock
+One Direction
+One Ok
+One Ok Rock
+Orange Range
+Out Boy
+Out Sister
+No More
+No Regret
+No Regret Life
+Not Yet
+Number One
+A Pink
+
+3. Nama mengandung angka
+Spencer Compton, 1st Earl of Wilmington => Compton, Spencer Compton
+Thomas Townshend, 1st Viscount Sydney -> Thomas Townshend,
+Townshend
+
+4. Nama dengan kata sapaan dan gelar (KH, Pak)
+KH Ahmad
+KH Ahmad Badawi
+KH. Abdullah Bin
+KH. Abdullah Bin Nuh
+Pak Chol-Jin
+Pak Nam-Chol
+Pak Tarno
+Pak Tile
+Dr. Seuss
+
+5. Nama yang mengandung bin namun ikut terekspansi
+Jassim bin
+Jassim bin Jaber
+Jassim bin Jaber Al
+Jassim bin Jaber Al Thani
+bin Jaber
+bin Jaber Al
+bin Jaber Al Thani

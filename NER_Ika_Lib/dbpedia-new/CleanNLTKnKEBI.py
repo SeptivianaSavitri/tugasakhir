@@ -48,13 +48,14 @@ inputKEBI = "kebi.txt"
 inputAgama = "listAgama.txt"
 outputNLTK = "nltk_clean.txt"
 outputKEBI = "kebi_clean.txt"
-outputTMP ="tmp_clean.txt"
-
+outputTMPNLTK ="tmp_cleanNLTK.txt"
+outputTMPKEBI ="tmp_cleanKEBI.txt"
 
 inputFile = open(inputNLTK, 'r', errors='ignore')
 flines = inputFile.readlines()
 dictNLTK = {}
-dictTmp = {}
+dictTmpNLTK = {}
+dictTmpKEBI = {}
 dictKEBI = {}
 soretedNLTK={}
 
@@ -64,7 +65,7 @@ for k in flines:
     #Jika huruf besar ada di NLTK
     
     if(k[0].isupper()):
-        dictTmp[k] = k
+        dictTmpNLTK[k] = k
     else:
         dictNLTK[k] = k
 inputFile.close()
@@ -77,7 +78,7 @@ for k in flines:
     k= k.replace("\n","")
     #Jika huruf besar ada di KEBI
     if(k[0].isupper()):
-        dictTmp[k] = k
+        dictTmpKEBI[k] = k
     else:
         dictKEBI[k] = k
 
@@ -88,8 +89,10 @@ for k in flines:
     dictKEBI[k] = k
 sortedNLTK = sorted(dictNLTK.values())
 sortedKEBI = sorted(dictKEBI.values())
-
+sortedTmpNLTK = sorted(dictTmpNLTK.values())
+sortedTmpKEBI = sorted(dictTmpKEBI.values())
 writeListofStringToFile(sortedNLTK, outputNLTK)
 writeListofStringToFile(sortedKEBI, outputKEBI)
 
-writeDictToFile(dictTmp, outputTMP)
+writeListofStringToFile(sortedTmpNLTK, outputTMPNLTK)
+writeListofStringToFile(sortedTmpKEBI, outputTMPKEBI)

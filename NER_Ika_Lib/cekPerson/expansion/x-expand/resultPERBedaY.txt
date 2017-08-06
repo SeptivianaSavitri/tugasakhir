@@ -121,6 +121,8 @@ Abdul Kader Keïta
 Abdul Kahar
 Abdul Kahar Muzakir
 Abdul Mahdi
+Abdul Majid
+Abdul Majid al-Qa?ud
 Abdul Muis
 Abdul Muis Hasan
 Abdul Wahab Sjachranie
@@ -889,6 +891,7 @@ Asian Kung Fu
 Asian Kung Fu Generation
 Aska
 Askar
+Asma
 Asmara
 Asmir
 Asmir Begovi?
@@ -3542,6 +3545,7 @@ Getúlio
 Getúlio Vargas
 Ghali
 Ghamdi
+Ghazi
 Gian Maria
 Gian Maria Volonté
 Gibson
@@ -3912,6 +3916,7 @@ Hank
 Hann
 Hann Byrd
 Hanna
+Hannibal
 Hans
 Hans Christian Ørsted
 Hans Hürlimann
@@ -3974,6 +3979,7 @@ Hasan ?a?
 Hasan Salihamidži?
 Hashim Thaçi
 Hatta
+Hau
 Hausen
 Havel
 Havelange
@@ -6341,6 +6347,7 @@ Maiden
 Mailman
 Main
 Maire
+Majid al-Qa?ud
 Majstorovi?
 Mak
 Maka
@@ -7239,6 +7246,7 @@ N.
 N.W.A.
 NSG
 NU'EST
+Na
 Na?
 Nada
 Nadal
@@ -7450,6 +7458,7 @@ Nit?
 Nizam
 Nkosazana Dlamini
 Nkosazana Dlamini Zuma
+No
 Noah
 Noah Gray
 Noah Gray Cabey
@@ -8617,6 +8626,7 @@ Roger Meddows
 Roger Meddows Taylor
 Rogério
 Rogério Ceni
+Roh
 Rohe
 Roland
 Rolf
@@ -8889,6 +8899,8 @@ Said
 Saidi
 Saidi Butar
 Saidi Butar Butar
+Saif
+Saig?-no-Tsubone
 Saint
 Saint Ogan
 Saint Saëns
@@ -9355,6 +9367,7 @@ Snicket
 Snoop
 Snow
 Snow White
+So
 Soares Espíndola
 Soberón
 Sobolewski
@@ -9569,6 +9582,7 @@ Sue
 Sufi
 Sugomo
 Sugondo
+Suh
 Suharto
 Suid
 Suir
@@ -10223,6 +10237,7 @@ Ulises Dávila
 Ultr@
 Uluots
 Ulysses
+Um
 Umaña
 Umbara
 Una
@@ -10461,6 +10476,7 @@ Võ
 Võ Chí
 Võ Chí Công
 Völler
+W-inds.
 W.
 W.D.
 W.J.
@@ -10669,6 +10685,7 @@ Yana
 Yang
 Yang Shangkun
 Yang Yang
+Yang Yo-seob
 Yanga
 Yanga Mbiwa
 Yao
@@ -10693,6 +10710,7 @@ Yaya Touré
 Yayi
 Ye?il
 Yellow
+Yen
 Yeni
 Yeo
 Yeo Woon
@@ -10704,6 +10722,7 @@ Yip
 Yitzhak Ben
 Yitzhak Ben Zvi
 Yo
+Yo-seob
 Yoga
 Yoga Sugomo
 Yogi
@@ -10829,6 +10848,7 @@ Zlatko Dedi?
 Zlatko Junuzovi?
 Zlatko Kranj?ar
 Zlatko Zahovi?
+Zo
 Zogbo
 Zoltán
 Zoltán Gera
@@ -10862,6 +10882,7 @@ Zúñiga
 al
 al Qaddafi
 al-Khaw?rizm?
+al-Qa?ud
 and
 and Aska
 and Dean

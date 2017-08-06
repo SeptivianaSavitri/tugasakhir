@@ -1351,7 +1351,7 @@ Ajibarang, Banyumas
 Medan Helvetia, Medan
 Achtkarspelen
 Stadion Olimpiade Atatürk
-Real Madrid C.F.  Stadion Santiago Bernabéu  1
+Real Madrid C.F. Stadion Santiago Bernabéu 1
 Brest-Litovsk
 Singaparna, Tasikmalaya
 Gunung Galunggung
@@ -1499,6 +1499,7 @@ Nusa Penida, Klungkung
 Rokan Hulu
 Kabupaten Rokan Hulu
 Peranap, Indragiri Hulu
+Batu Pahat
 Distrik Batu Pahat
 Gelanggang Olahraga Bung Karno
 Dhaka
@@ -2685,7 +2686,7 @@ Udanawu, Blitar
 Sanankulon, Blitar
 Wates, Blitar
 Wlingi, Blitar
-Wlingi, Blitar  Wlingi  1
+Wlingi, Blitar Wlingi 1
 Wonodadi, Blitar
 Selopuro, Blitar
 Wonotirto, Blitar
@@ -3775,7 +3776,7 @@ Wirobrajan, Wirobrajan, Yogyakarta
 Patangpuluhan, Wirobrajan, Yogyakarta
 Bandar Udara Internasional Denver
 Haikou
-Bandar Udara Internasional Ibu  Beijing
+Bandar Udara Internasional Beijing
 Bandar Udara Internasional Ibu Kota Beijing
 Mudanjiang
 Zahedan
@@ -6602,6 +6603,7 @@ Edera, Mappi
 Haju, Mappi
 Nambioman Bapai, Mappi
 Obaa, Mappi
+Ulilin, Merauke
 Distrik Ulilin, Merauke
 Eligobel, Merauke
 Jagebob, Merauke
@@ -10138,7 +10140,7 @@ Mekarsari, Tambaksari, Ciamis
 Binissalem
 Ariany
 Alaior
-Daerah Ibu  Brussel
+Daerah Brussel
 Daerah Ibu Kota Brussel
 Kegubernuran Ariana
 Kegubernuran Béja
@@ -15528,14 +15530,21 @@ Demangan, Tanjunganom, Nganjuk
 Bandar Udara Internasional Narita
 Bandar Udara Internasional Tokyo
 Bandar Udara Akita
+Alibori
 Departemen Alibori
+Atakora
 Departemen Atakora
+Atlantique
 Departemen Atlantique
+Borgou
 Departemen Borgou
+Collines
 Departemen Collines
+Donga
 Departemen Donga
 Western Cape
 Oakland, California
+Kouffo
 Departemen Kouffo
 Bandar Udara Pulkovo
 Bero, Manyaran, Wonogiri
@@ -20581,7 +20590,7 @@ Sumbangrejo, Pamotan, Rembang
 Sumberjo, Pamotan, Rembang
 Tempaling, Pamotan, Rembang
 Tulung, Pamotan, Rembang
-Lembomawo, Poso  Selatan, Poso
+Lembomawo, Poso Selatan, Poso
 Lembomawo, Poso Kota Selatan, Poso
 Banyuurip, Pancur, Rembang
 Criwik, Pancur, Rembang
@@ -20985,7 +20994,7 @@ Bayang Utara, Pesisir Selatan
 Mautapaga, Ende Selatan, Ende
 Onekore, Ende Selatan, Ende
 Paupire, Ende Selatan, Ende
-Kemala Putih,  Waingapu, Sumba Timur
+Kemala Putih, Waingapu, Sumba Timur
 Kemala Putih, Kota Waingapu, Sumba Timur
 Kawangu, Pandawai, Sumba Timur
 Gerunung, Praya, Lombok Tengah
@@ -21664,6 +21673,7 @@ Bandar Udara Kimmirut
 Bandar Udara Alert
 Bandar Udara Provost
 Bandar Udara Rainbow Lake
+Bandar Udara al Red Deer
 Bandar Udara Regional Red Deer
 Bandar Udara Red Earth Creek
 Bandar Udara Rimby
@@ -22021,7 +22031,7 @@ Kalidawir, Tanggulangin, Sidoarjo
 Sentul, Tanggulangin, Sidoarjo
 Penatarsewu, Tanggulangin, Sidoarjo
 Bandar Udara Tawau
-Bandar Udara Internasional  Kinabalu
+Bandar Udara Internasional Kinabalu
 Bandar Udara Internasional Kota Kinabalu
 Bugul Lor, Bugulkidul, Pasuruan
 Bandar Udara Internasional Incheon
@@ -23334,7 +23344,7 @@ Weri, Larantuka, Flores Timur
 Hypo-Arena
 Red Bull Arena
 Stadion Ernst Happel
-Maubeli,  Kefamenanu, Timor Tengah Utara
+Maubeli, Kefamenanu, Timor Tengah Utara
 Maubeli, Kota Kefamenanu, Timor Tengah Utara
 Mokupo, Biau, Buol
 Pulau Iyu Kecil
@@ -23575,7 +23585,7 @@ Air Kumpai, Midai, Natuna
 Handil Jaya, Jelutung, Jambi
 Eka Jaya, Jambi Selatan, Jambi
 Kasang Jaya, Jambi Timur, Jambi
-Kenali Besar,  Baru, Jambi
+Kenali Besar, Baru, Jambi
 Kenali Besar, Kota Baru, Jambi
 Lembo, Tallo, Makassar
 Untia, Biring Kanaya, Makassar
@@ -23833,21 +23843,21 @@ Teluk Bingkai, Kenohan, Kutai Kartanegara
 Teluk Muda, Kenohan, Kutai Kartanegara
 Tuana Tuha, Kenohan, Kutai Kartanegara
 Tubuhan, Kenohan, Kutai Kartanegara
-Wonosari,  Bangun, Kutai Kartanegara
+Wonosari, Bangun, Kutai Kartanegara
 Wonosari, Kota Bangun, Kutai Kartanegara
-Bangun I,  Bangun, Kutai Kartanegara
+Bangun I, Bangun, Kutai Kartanegara
 Kota Bangun I, Kota Bangun, Kutai Kartanegara
-Bangun II,  Bangun, Kutai Kartanegara
+Bangun II, Bangun, Kutai Kartanegara
 Kota Bangun II, Kota Bangun, Kutai Kartanegara
-Bangun III,  Bangun, Kutai Kartanegara
+Bangun III, Bangun, Kutai Kartanegara
 Kota Bangun III, Kota Bangun, Kutai Kartanegara
-Bangun Ilir,  Bangun, Kutai Kartanegara
+Bangun Ilir, Bangun, Kutai Kartanegara
 Kota Bangun Ilir, Kota Bangun, Kutai Kartanegara
-Sukabumi,  Bangun, Kutai Kartanegara
+Sukabumi, Bangun, Kutai Kartanegara
 Sukabumi, Kota Bangun, Kutai Kartanegara
-Sumber Sari,  Bangun, Kutai Kartanegara
+Sumber Sari, Bangun, Kutai Kartanegara
 Sumber Sari, Kota Bangun, Kutai Kartanegara
-Bangun Seberang,  Bangun, Kutai Kartanegara
+Bangun Seberang, Bangun, Kutai Kartanegara
 Kota Bangun Seberang, Kota Bangun, Kutai Kartanegara
 IV Nagari, Sijunjung
 Kamang Baru, Sijunjung
@@ -24059,27 +24069,27 @@ Kuala Samboja, Samboja, Kutai Kartanegara
 Sungai Merdeka, Samboja, Kutai Kartanegara
 Tani Bakti, Samboja, Kutai Kartanegara
 Teluk Pemedas, Samboja, Kutai Kartanegara
-Benua Baru,  Bangun, Kutai Kartanegara
+Benua Baru, Bangun, Kutai Kartanegara
 Benua Baru, Kota Bangun, Kutai Kartanegara
-Kedang Ipil,  Bangun, Kutai Kartanegara
+Kedang Ipil, Bangun, Kutai Kartanegara
 Kedang Ipil, Kota Bangun, Kutai Kartanegara
-Kedang Murung,  Bangun, Kutai Kartanegara
+Kedang Murung, Bangun, Kutai Kartanegara
 Kedang Murung, Kota Bangun, Kutai Kartanegara
-Bangun Ulu,  Bangun, Kutai Kartanegara
+Bangun Ulu, Bangun, Kutai Kartanegara
 Kota Bangun Ulu, Kota Bangun, Kutai Kartanegara
-Liang,  Bangun, Kutai Kartanegara
+Liang, Bangun, Kutai Kartanegara
 Liang, Kota Bangun, Kutai Kartanegara
-Liang Ulu,  Bangun, Kutai Kartanegara
+Liang Ulu, Bangun, Kutai Kartanegara
 Liang Ulu, Kota Bangun, Kutai Kartanegara
-Loleng,  Bangun, Kutai Kartanegara
+Loleng, Bangun, Kutai Kartanegara
 Loleng, Kota Bangun, Kutai Kartanegara
-Muhuran,  Bangun, Kutai Kartanegara
+Muhuran, Bangun, Kutai Kartanegara
 Muhuran, Kota Bangun, Kutai Kartanegara
-Pela,  Bangun, Kutai Kartanegara
+Pela, Bangun, Kutai Kartanegara
 Pela, Kota Bangun, Kutai Kartanegara
-Sarinadi,  Bangun, Kutai Kartanegara
+Sarinadi, Bangun, Kutai Kartanegara
 Sarinadi, Kota Bangun, Kutai Kartanegara
-Sedulang,  Bangun, Kutai Kartanegara
+Sedulang, Bangun, Kutai Kartanegara
 Sedulang, Kota Bangun, Kutai Kartanegara
 Baru, Pontianak Selatan, Pontianak
 Kota Baru, Pontianak Selatan, Pontianak
@@ -24160,9 +24170,9 @@ Long Gelang, Long Ikis, Paser
 Tiwei, Long Ikis, Paser
 Barunang Miri, Parenggean, Kotawaringin Timur
 Tanjung Jorong, Parenggean, Kotawaringin Timur
-Kandan,  Besi, waringin Timur
+Kandan, Besi, waringin Timur
 Kandan, Kota Besi, Kotawaringin Timur
-Hanjalipan,  Besi, waringin Timur
+Hanjalipan, Besi, waringin Timur
 Hanjalipan, Kota Besi, Kotawaringin Timur
 Anjir Sarapat Tengah, Kapuas Timur, Kapuas
 Anjir Mambulau Barat, Kapuas Timur, Kapuas
@@ -28154,6 +28164,7 @@ Bandar Udara Bersujud
 Bandar Udara Stagen
 Bandar Udara Beringin
 Transdanubia Barat
+Bago
 Region Bago
 Tavush
 Provinsi Tavush
@@ -28394,6 +28405,7 @@ Lendang Nangka, Masbagik, Lombok Timur
 Tokyo Dome
 Suwug, Sawan, Buleleng
 Sambiduwur, Tanon, Sragen
+Magway
 Region Magway
 Ciseureuh, Purwakarta, Purwakarta
 Pekondoh, Way Lima, Pesawaran
@@ -29322,7 +29334,7 @@ Candi, Candisari, Semarang
 Likupang Selatan, Minahasa Utara
 Poco Ranaka, Manggarai Timur
 Pentadio Timur, Telaga Biru, Gorontalo
-Bamo,  Komba, Manggarai Timur
+Bamo, Komba, Manggarai Timur
 Bamo, Kota Komba, Manggarai Timur
 Bugeman, Kendit, Situbondo
 Bandar Udara Oksibil
@@ -30500,31 +30512,31 @@ Watumaeta, Lore Utara, Poso
 Watutau, Lore Utara, Poso
 Winowanga, Lore Utara, Poso
 Wuasa, Lore Utara, Poso
-Bonesompe, Poso  Utara, Poso
+Bonesompe, Poso Utara, Poso
 Bonesompe, Poso Kota Utara, Poso
-Bukit Bambu, Poso  Selatan, Poso
+Bukit Bambu, Poso Selatan, Poso
 Bukit Bambu, Poso Kota Selatan, Poso
 Gebangrejo, Poso , Poso
 Gebangrejo, Poso Kota, Poso
-Kasintuwu, Poso  Utara, Poso
+Kasintuwu, Poso Utara, Poso
 Kasintuwu, Poso Kota Utara, Poso
-Kawua, Poso  Selatan, Poso
+Kawua, Poso Selatan, Poso
 Kawua, Poso Kota Selatan, Poso
-Lawanga, Poso  Utara, Poso
+Lawanga, Poso Utara, Poso
 Lawanga, Poso Kota Utara, Poso
-Lombogia, Poso  Utara, Poso
+Lombogia, Poso Utara, Poso
 Lombogia, Poso Kota Utara, Poso
-Madale, Poso  Utara, Poso
+Madale, Poso Utara, Poso
 Madale, Poso Kota Utara, Poso
 Moengko Lama, Poso , Poso
 Moengko Lama, Poso Kota, Poso
 Moengko Baru, Poso , Poso
 Moengko Baru, Poso Kota, Poso
-Ranononcu, Poso  Selatan, Poso
+Ranononcu, Poso Selatan, Poso
 Ranononcu, Poso Kota Selatan, Poso
-Sayo, Poso  Selatan, Poso
+Sayo, Poso Selatan, Poso
 Sayo, Poso Kota Selatan, Poso
-Tegal Rejo, Poso  Utara, Poso
+Tegal Rejo, Poso Utara, Poso
 Tegal Rejo, Poso Kota Utara, Poso
 Bega, Poso Pesisir, Poso
 Betalemba, Poso Pesisir, Poso
@@ -31224,7 +31236,7 @@ Gunung Tanggang
 Gunung Tanggamus
 Gunung Ratai
 Gunung Tangkit Cumbi
-Sidomukti,  Kisaran Barat, Asahan
+Sidomukti, Kisaran Barat, Asahan
 Sidomukti, Kota Kisaran Barat, Asahan
 Ngunut, Ngunut, Tulungagung
 Kaldera Yellowstone
@@ -31434,7 +31446,7 @@ Anjir Seberang Pasar II, Anjir Pasar, Barito Kuala
 Anjir Pasar , Anjir Pasar, Barito Kuala
 Anjir Pasar Kota, Anjir Pasar, Barito Kuala
 Gandaraya, Anjir Pasar, Barito Kuala
-Anjir Pasar  II, Anjir Pasar, Barito Kuala
+Anjir Pasar II, Anjir Pasar, Barito Kuala
 Anjir Pasar Kota II, Anjir Pasar, Barito Kuala
 Anjir Pasar Lama, Anjir Pasar, Barito Kuala
 Anjir Seberang Pasar, Anjir Pasar, Barito Kuala
@@ -31446,7 +31458,7 @@ Gandaria, Anjir Pasar, Barito Kuala
 Banyiur, Anjir Pasar, Barito Kuala
 Anjir Muara , Anjir Muara, Barito Kuala
 Anjir Muara Kota, Anjir Muara, Barito Kuala
-Anjir Muara  Tengah, Anjir Muara, Barito Kuala
+Anjir Muara Tengah, Anjir Muara, Barito Kuala
 Anjir Muara Kota Tengah, Anjir Muara, Barito Kuala
 Anjir Muara Lama, Anjir Muara, Barito Kuala
 Anjir Serapat Baru, Anjir Muara, Barito Kuala
@@ -31753,7 +31765,7 @@ Teluk Karya, Lampihong, Balangan
 Tampang, Lampihong, Balangan
 Stadion Internasional Khalifa
 Stadion Sultan Hassanal Bolkiah
-Stadion Rakyat  Guangdong
+Stadion Rakyat Guangdong
 Stadion Rakyat Provinsi Guangdong
 Pusat Olahraga Kunming Tuodong
 Stadion Pakhtakor Markaziy
@@ -32156,7 +32168,7 @@ Bugis, Tanjung Redeb, Berau
 Gayam, Tanjung Redeb, Berau
 Gunung Panjang, Tanjung Redeb, Berau
 Gunung Tabur, Gunung Tabur, Berau
-Sebelimbingan,  Bangun, Kutai Kartanegara
+Sebelimbingan, Bangun, Kutai Kartanegara
 Sebelimbingan, Kota Bangun, Kutai Kartanegara
 Bukit Layang, Kembang Janggut, Kutai Kartanegara
 Kelekat, Kembang Janggut, Kutai Kartanegara
@@ -32409,7 +32421,7 @@ Namun, Jaro, Tabalong
 Purui, Jaro, Tabalong
 Solan, Jaro, Tabalong
 Danau Kyoga
-Bunut,  Kisaran Barat, Asahan
+Bunut, Kisaran Barat, Asahan
 Bunut, Kota Kisaran Barat, Asahan
 Hot Springs, Arkansas
 Malalak, Agam
@@ -35053,21 +35065,21 @@ Rantau Tampang, Antang Kalang, Kotawaringin Timur
 Tukang Langit, Antang Kalang, Kotawaringin Timur
 Sungai Hanya, Antang Kalang, Kotawaringin Timur
 Sungai Puring, Antang Kalang, Kotawaringin Timur
-Camba,  Besi, waringin Timur
+Camba, Besi, waringin Timur
 Camba, Kota Besi, Kotawaringin Timur
-Bajarum,  Besi, waringin Timur
+Bajarum, Besi, waringin Timur
 Bajarum, Kota Besi, Kotawaringin Timur
-Besi,  Besi, waringin Timur
+Besi, Besi, waringin Timur
 Kota Besi, Kota Besi, Kotawaringin Timur
-Besi Hulu,  Besi, waringin Timur
+Besi Hulu, Besi, waringin Timur
 Kota Besi Hulu, Kota Besi, Kotawaringin Timur
-Palangan,  Besi, waringin Timur
+Palangan, Besi, waringin Timur
 Palangan, Kota Besi, Kotawaringin Timur
-Pamalian,  Besi, waringin Timur
+Pamalian, Besi, waringin Timur
 Pamalian, Kota Besi, Kotawaringin Timur
-Rasau Tumbuh,  Besi, waringin Timur
+Rasau Tumbuh, Besi, waringin Timur
 Rasau Tumbuh, Kota Besi, Kotawaringin Timur
-Simpur,  Besi, waringin Timur
+Simpur, Besi, waringin Timur
 Simpur, Kota Besi, Kotawaringin Timur
 Bapinang Hilir, Pulau Hanaut, Kotawaringin Timur
 Satiruk, Pulau Hanaut, Kotawaringin Timur
@@ -35145,11 +35157,11 @@ Kalanis, Dusun Hilir, Barito Selatan
 Mahajandau, Dusun Hilir, Barito Selatan
 Lehai, Dusun Hilir, Barito Selatan
 Mengkatip, Dusun Hilir, Barito Selatan
-Baros,  Agung Pusat, Tanggamus
+Baros, Agung Pusat, Tanggamus
 Baros, Kota Agung Pusat, Tanggamus
-Pasar Madang,  Agung Pusat, Tanggamus
+Pasar Madang, Agung Pusat, Tanggamus
 Pasar Madang, Kota Agung Pusat, Tanggamus
-Kuripan,  Agung Pusat, Tanggamus
+Kuripan, Agung Pusat, Tanggamus
 Kuripan, Kota Agung Pusat, Tanggamus
 Jelapat, Dusun Selatan, Barito Selatan
 Hilir Sper, Dusun Selatan, Barito Selatan
@@ -36069,9 +36081,9 @@ Pasuruhan, Bulu, Temanggung
 Pengilon, Bulu, Temanggung
 Tegallurung, Bulu, Temanggung
 Tegalrejo, Bulu, Temanggung
-Poso  Utara, Poso
+Poso Utara, Poso
 Poso Kota Utara, Poso
-Poso  Selatan, Poso
+Poso Selatan, Poso
 Poso Kota Selatan, Poso
 Wonosari, Bulu, Temanggung
 Wonotirto, Bulu, Temanggung
@@ -36354,7 +36366,7 @@ Muko-Muko Bathin VII, Bungo
 Pasar Muara Bungo, Bungo
 Stadion Kriket Sher-e-Bangla
 Stadion La Patau
-RSUD  Sumedang
+RSUD Sumedang
 RSUD Kabupaten Sumedang
 Los Baños, Laguna
 Bolde?ti-Sc?eni
@@ -36503,7 +36515,7 @@ Peraduan Binjai, Tebat Karai, Kepahiang
 Lebane
 Tamban Baru Timur, Tamban Catur, Kapuas
 Bozcaada
-Laboratorium Lingkungan  Bitung
+Laboratorium Lingkungan Bitung
 Laboratorium Lingkungan Kota Bitung
 Stadion Gelora Bung Tomo
 Pulau Pisang Gadang
@@ -36760,13 +36772,13 @@ Indra Sakti, Tanjungbalai Selatan, Tanjungbalai
 Karya, Tanjungbalai Selatan, Tanjungbalai
 Pantai Burung, Tanjungbalai Selatan, Tanjungbalai
 Perwira, Tanjungbalai Selatan, Tanjungbalai
-Tanjungbalai  I, Tanjungbalai Selatan, Tanjungbalai
+Tanjungbalai I, Tanjungbalai Selatan, Tanjungbalai
 Tanjungbalai Kota I, Tanjungbalai Selatan, Tanjungbalai
-Tanjungbalai  II, Tanjungbalai Selatan, Tanjungbalai
+Tanjungbalai II, Tanjungbalai Selatan, Tanjungbalai
 Tanjungbalai Kota II, Tanjungbalai Selatan, Tanjungbalai
-Tanjungbalai  III, Tanjungbalai Utara, Tanjungbalai
+Tanjungbalai III, Tanjungbalai Utara, Tanjungbalai
 Tanjungbalai Kota III, Tanjungbalai Utara, Tanjungbalai
-Tanjungbalai  IV, Tanjungbalai Utara, Tanjungbalai
+Tanjungbalai IV, Tanjungbalai Utara, Tanjungbalai
 Tanjungbalai Kota IV, Tanjungbalai Utara, Tanjungbalai
 Sejahtera, Tanjungbalai Utara, Tanjungbalai
 Mata Halasan, Tanjungbalai Utara, Tanjungbalai
@@ -37453,7 +37465,7 @@ Polak Pisang, Kelayang, Indragiri Hulu
 Pulau Sengkilo, Kelayang, Indragiri Hulu
 Sei Pasir Putih, Kelayang, Indragiri Hulu
 Simpang Kelayang, Kelayang, Indragiri Hulu
-Simpang  Medan, Kelayang, Indragiri Hulu
+Simpang Medan, Kelayang, Indragiri Hulu
 Simpang Kota Medan, Kelayang, Indragiri Hulu
 Sungai Banyak Ikan, Kelayang, Indragiri Hulu
 Sungai Golang, Kelayang, Indragiri Hulu
@@ -38511,7 +38523,7 @@ Teluk Butun, Bunguran Utara, Natuna
 Air Raja, Tanjung Pinang Timur, Tanjung Pinang
 Batu IX, Tanjung Pinang Timur, Tanjung Pinang
 Kampung Bulang, Tanjung Pinang Timur, Tanjung Pinang
-Melayu  Piring, Tanjung Pinang Timur, Tanjung Pinang
+Melayu Piring, Tanjung Pinang Timur, Tanjung Pinang
 Melayu Kota Piring, Tanjung Pinang Timur, Tanjung Pinang
 Pinang Kencana, Tanjung Pinang Timur, Tanjung Pinang
 Kampung Bugis, Tanjung Pinang , Tanjung Pinang
@@ -38900,11 +38912,11 @@ Jalan Baru, Curup, Rejang Lebong
 Pasar Baru, Curup, Rejang Lebong
 Pasar Tengah, Curup, Rejang Lebong
 Talang Benih, Curup, Rejang Lebong
-Barueh,  Jantho, Aceh Besar
+Barueh, Jantho, Aceh Besar
 Barueh, Kota Jantho, Aceh Besar
-Jantho Makmur,  Jantho, Aceh Besar
+Jantho Makmur, Jantho, Aceh Besar
 Jantho Makmur, Kota Jantho, Aceh Besar
-Jantho Meusar,  Jantho, Aceh Besar
+Jantho Meusar, Jantho, Aceh Besar
 Jantho Meusar, Kota Jantho, Aceh Besar
 Bram Itam Kanan, Bram Itam, Tanjung Jabung Barat
 Bram Itam Kiri, Bram Itam, Tanjung Jabung Barat
@@ -39502,23 +39514,23 @@ Benua Raya, Rantau, Aceh Tamiang
 Kamp Pertamina, Rantau, Aceh Tamiang
 Landuh, Rantau, Aceh Tamiang
 Rantau Pauh, Rantau, Aceh Tamiang
-Bukit Rata,  Kuala Simpang, Aceh Tamiang
+Bukit Rata, Kuala Simpang, Aceh Tamiang
 Bukit Rata, Kota Kuala Simpang, Aceh Tamiang
-Bukit Tempurung,  Kuala Simpang, Aceh Tamiang
+Bukit Tempurung, Kuala Simpang, Aceh Tamiang
 Bukit Tempurung, Kota Kuala Simpang, Aceh Tamiang
-Kampung ,  Kuala Simpang, Aceh Tamiang
+Kampung , Kuala Simpang, Aceh Tamiang
 Kampung Kota, Kota Kuala Simpang, Aceh Tamiang
-Kebun Tengah,  Kuala Simpang, Aceh Tamiang
+Kebun Tengah, Kuala Simpang, Aceh Tamiang
 Kebun Tengah, Kota Kuala Simpang, Aceh Tamiang
-Kuala Simpang,  Kuala Simpang, Aceh Tamiang
+Kuala Simpang, Kuala Simpang, Aceh Tamiang
 Kota Kuala Simpang, Kota Kuala Simpang, Aceh Tamiang
-Lintang,  Kuala Simpang, Aceh Tamiang
+Lintang, Kuala Simpang, Aceh Tamiang
 Kota Lintang, Kota Kuala Simpang, Aceh Tamiang
-Perdamaian,  Kuala Simpang, Aceh Tamiang
+Perdamaian, Kuala Simpang, Aceh Tamiang
 Perdamaian, Kota Kuala Simpang, Aceh Tamiang
-Sriwijaya,  Kuala Simpang, Aceh Tamiang
+Sriwijaya, Kuala Simpang, Aceh Tamiang
 Sriwijaya, Kota Kuala Simpang, Aceh Tamiang
-Sungai Liput,  Kuala Simpang, Aceh Tamiang
+Sungai Liput, Kuala Simpang, Aceh Tamiang
 Sungai Liput, Kota Kuala Simpang, Aceh Tamiang
 Peukan Seuruway, Seruway, Aceh Tamiang
 Tualang Baru, Manyak Payed, Aceh Tamiang
@@ -39526,51 +39538,51 @@ Rajawali, Banda, Maluku Tengah
 Selamon, Banda, Maluku Tengah
 Tanah Rata, Banda, Maluku Tengah
 Waer, Banda, Maluku Tengah
-Kalembu Kuni,  Waikabubak, Sumba Barat
+Kalembu Kuni, Waikabubak, Sumba Barat
 Kalembu Kuni, Kota Waikabubak, Sumba Barat
-Kodaka,  Waikabubak, Sumba Barat
+Kodaka, Waikabubak, Sumba Barat
 Kodaka, Kota Waikabubak, Sumba Barat
-Lapale,  Waikabubak, Sumba Barat
+Lapale, Waikabubak, Sumba Barat
 Lapale, Kota Waikabubak, Sumba Barat
-Tebara,  Waikabubak, Sumba Barat
+Tebara, Waikabubak, Sumba Barat
 Tebara, Kota Waikabubak, Sumba Barat
-Soba Rade,  Waikabubak, Sumba Barat
+Soba Rade, Waikabubak, Sumba Barat
 Soba Rade, Kota Waikabubak, Sumba Barat
-Kampung Baru,  Waikabubak, Sumba Barat
+Kampung Baru, Waikabubak, Sumba Barat
 Kampung Baru, Kota Waikabubak, Sumba Barat
-Kampung Sawah,  Waikabubak, Sumba Barat
+Kampung Sawah, Waikabubak, Sumba Barat
 Kampung Sawah, Kota Waikabubak, Sumba Barat
-Wailiang,  Waikabubak, Sumba Barat
+Wailiang, Waikabubak, Sumba Barat
 Wailiang, Kota Waikabubak, Sumba Barat
-Komerda,  Waikabubak, Sumba Barat
+Komerda, Waikabubak, Sumba Barat
 Komerda, Kota Waikabubak, Sumba Barat
-Pada Eweta,  Waikabubak, Sumba Barat
+Pada Eweta, Waikabubak, Sumba Barat
 Pada Eweta, Kota Waikabubak, Sumba Barat
-Maliti,  Waikabubak, Sumba Barat
+Maliti, Waikabubak, Sumba Barat
 Maliti, Kota Waikabubak, Sumba Barat
-Hambala,  Waingapu, Sumba Timur
+Hambala, Waingapu, Sumba Timur
 Hambala, Kota Waingapu, Sumba Timur
-Kamalaputi,  Waingapu, Sumba Timur
+Kamalaputi, Waingapu, Sumba Timur
 Kamalaputi, Kota Waingapu, Sumba Timur
-Kambajawa,  Waingapu, Sumba Timur
+Kambajawa, Waingapu, Sumba Timur
 Kambajawa, Kota Waingapu, Sumba Timur
-Kambaniru,  Waingapu, Sumba Timur
+Kambaniru, Waingapu, Sumba Timur
 Kambaniru, Kota Waingapu, Sumba Timur
-Lambanapu,  Waingapu, Sumba Timur
+Lambanapu, Waingapu, Sumba Timur
 Lambanapu, Kota Waingapu, Sumba Timur
-Luku Wingir,  Waingapu, Sumba Timur
+Luku Wingir, Waingapu, Sumba Timur
 Luku Wingir, Kota Waingapu, Sumba Timur
-Malumbi,  Waingapu, Sumba Timur
+Malumbi, Waingapu, Sumba Timur
 Malumbi, Kota Waingapu, Sumba Timur
-Matawai,  Waingapu, Sumba Timur
+Matawai, Waingapu, Sumba Timur
 Matawai, Kota Waingapu, Sumba Timur
-Mauhau,  Waingapu, Sumba Timur
+Mauhau, Waingapu, Sumba Timur
 Mauhau, Kota Waingapu, Sumba Timur
-Mauliru,  Waingapu, Sumba Timur
+Mauliru, Waingapu, Sumba Timur
 Mauliru, Kota Waingapu, Sumba Timur
-Prailiu,  Waingapu, Sumba Timur
+Prailiu, Waingapu, Sumba Timur
 Prailiu, Kota Waingapu, Sumba Timur
-Wangga,  Waingapu, Sumba Timur
+Wangga, Waingapu, Sumba Timur
 Wangga, Kota Waingapu, Sumba Timur
 Bandar Jaya Barat, Terbanggi Besar, Lampung Tengah
 Bandar Jaya Timur, Terbanggi Besar, Lampung Tengah
@@ -39928,6 +39940,7 @@ Paya Rambong, Birem Bayeun, Aceh Timur
 Kampung Keude, Darul Aman, Aceh Timur
 Keude Idi Cut, Darul Aman, Aceh Timur
 Bandar Udara Internasional Presiden Juscelino Kubitschek
+Chaiya
 Distrik Chaiya
 Kampung Melayu, Mendawai, Katingan
 Mekar Tani, Mendawai, Katingan
@@ -41301,6 +41314,7 @@ Kumalasa, Sangkapura, Gresik
 Patarselamat, Sangkapura, Gresik
 Lebak, Sangkapura, Gresik
 Labuhan Keude, Sungai Raya, Aceh Timur
+Mon
 Negara Bagian Mon
 Keude Alue Ie Puteh, Baktiya, Aceh Utara
 Keude Pante Breuh, Baktiya, Aceh Utara
@@ -41516,37 +41530,37 @@ Cot Keutapang, Jeumpa, Bireuen
 Merrion Centre
 Keude Jeunieb, Jeunieb, Bireuen
 Juli Cot Mesjid, Juli, Bireuen
-Bireun Meunasah Blang,  Juang, Bireuen
+Bireun Meunasah Blang, Juang, Bireuen
 Bireun Meunasah Blang, Kota Juang, Bireuen
-Bireun Meunasah Capa,  Juang, Bireuen
+Bireun Meunasah Capa, Juang, Bireuen
 Bireun Meunasah Capa, Kota Juang, Bireuen
-Bireun Meunasah Dayah,  Juang, Bireuen
+Bireun Meunasah Dayah, Juang, Bireuen
 Bireun Meunasah Dayah, Kota Juang, Bireuen
-Bireun Meunasah Reuleut,  Juang, Bireuen
+Bireun Meunasah Reuleut, Juang, Bireuen
 Bireun Meunasah Reuleut, Kota Juang, Bireuen
-Bireun Meunasah Teungku Digadong,  Juang, Bireuen
+Bireun Meunasah Teungku Digadong, Juang, Bireuen
 Bireun Meunasah Teungku Digadong, Kota Juang, Bireuen
-Cot Gapu,  Juang, Bireuen
+Cot Gapu, Juang, Bireuen
 Cot Gapu, Kota Juang, Bireuen
-Geudong Alue,  Juang, Bireuen
+Geudong Alue, Juang, Bireuen
 Geudong Alue, Kota Juang, Bireuen
-Geudong-geudong,  Juang, Bireuen
+Geudong-geudong, Juang, Bireuen
 Geudong-geudong, Kota Juang, Bireuen
-Geulanggang Baro,  Juang, Bireuen
+Geulanggang Baro, Juang, Bireuen
 Geulanggang Baro, Kota Juang, Bireuen
-Geulanggang Gampong,  Juang, Bireuen
+Geulanggang Gampong, Juang, Bireuen
 Geulanggang Gampong, Kota Juang, Bireuen
-Geulanggang Kulam,  Juang, Bireuen
+Geulanggang Kulam, Juang, Bireuen
 Geulanggang Kulam, Kota Juang, Bireuen
-Geulanggang Teungoh,  Juang, Bireuen
+Geulanggang Teungoh, Juang, Bireuen
 Geulanggang Teungoh, Kota Juang, Bireuen
-Bireuen,  Juang, Bireuen
+Bireuen, Juang, Bireuen
 Kota Bireuen, Kota Juang, Bireuen
-Lhok Awe Teungoh,  Juang, Bireuen
+Lhok Awe Teungoh, Juang, Bireuen
 Lhok Awe Teungoh, Kota Juang, Bireuen
-Pulo Ara Geudong Teungoh,  Juang, Bireuen
+Pulo Ara Geudong Teungoh, Juang, Bireuen
 Pulo Ara Geudong Teungoh, Kota Juang, Bireuen
-Pulo Kiton,  Juang, Bireuen
+Pulo Kiton, Juang, Bireuen
 Pulo Kiton, Kota Juang, Bireuen
 Lhok Awe-awe, Kuala, Bireuen
 Tingkeum Manyang, Kuta Blang, Bireuen
@@ -41630,51 +41644,51 @@ Perkebunan Sei Silau, Buntu Pane, Asahan
 Prapat Janji, Buntu Pane, Asahan
 Ambalutu, Buntu Pane, Asahan
 Sei Silau Timur, Buntu Pane, Asahan
-Bunut Barat,  Kisaran Barat, Asahan
+Bunut Barat, Kisaran Barat, Asahan
 Bunut Barat, Kota Kisaran Barat, Asahan
-Dadi Mulyo,  Kisaran Barat, Asahan
+Dadi Mulyo, Kisaran Barat, Asahan
 Dadi Mulyo, Kota Kisaran Barat, Asahan
-Kisaran Barat,  Kisaran Barat, Asahan
+Kisaran Barat, Kisaran Barat, Asahan
 Kisaran Barat, Kota Kisaran Barat, Asahan
-Kisaran Baru,  Kisaran Barat, Asahan
+Kisaran Baru, Kisaran Barat, Asahan
 Kisaran Baru, Kota Kisaran Barat, Asahan
-Kisaran ,  Kisaran Barat, Asahan
+Kisaran , Kisaran Barat, Asahan
 Kisaran Kota, Kota Kisaran Barat, Asahan
-Tegal Sari,  Kisaran Barat, Asahan
+Tegal Sari, Kisaran Barat, Asahan
 Tegal Sari, Kota Kisaran Barat, Asahan
-Sidodadi,  Kisaran Barat, Asahan
+Sidodadi, Kisaran Barat, Asahan
 Sidodadi, Kota Kisaran Barat, Asahan
-Mekar Baru,  Kisaran Barat, Asahan
+Mekar Baru, Kisaran Barat, Asahan
 Mekar Baru, Kota Kisaran Barat, Asahan
-Sei Renggas,  Kisaran Barat, Asahan
+Sei Renggas, Kisaran Barat, Asahan
 Sei Renggas, Kota Kisaran Barat, Asahan
-Tebing Kisaran,  Kisaran Barat, Asahan
+Tebing Kisaran, Kisaran Barat, Asahan
 Tebing Kisaran, Kota Kisaran Barat, Asahan
-Sendang Sari,  Kisaran Barat, Asahan
+Sendang Sari, Kisaran Barat, Asahan
 Sendang Sari, Kota Kisaran Barat, Asahan
-Gambir Baru,  Kisaran Timur, Asahan
+Gambir Baru, Kisaran Timur, Asahan
 Gambir Baru, Kota Kisaran Timur, Asahan
-Karang Anyer,  Kisaran Timur, Asahan
+Karang Anyer, Kisaran Timur, Asahan
 Karang Anyer, Kota Kisaran Timur, Asahan
-Kedai Ledang,  Kisaran Timur, Asahan
+Kedai Ledang, Kisaran Timur, Asahan
 Kedai Ledang, Kota Kisaran Timur, Asahan
-Kisaran Naga,  Kisaran Timur, Asahan
+Kisaran Naga, Kisaran Timur, Asahan
 Kisaran Naga, Kota Kisaran Timur, Asahan
-Kisaran Timur,  Kisaran Timur, Asahan
+Kisaran Timur, Kisaran Timur, Asahan
 Kisaran Timur, Kota Kisaran Timur, Asahan
-Lestari,  Kisaran Timur, Asahan
+Lestari, Kisaran Timur, Asahan
 Lestari, Kota Kisaran Timur, Asahan
-Mutiara,  Kisaran Timur, Asahan
+Mutiara, Kisaran Timur, Asahan
 Mutiara, Kota Kisaran Timur, Asahan
-Teladan,  Kisaran Timur, Asahan
+Teladan, Kisaran Timur, Asahan
 Teladan, Kota Kisaran Timur, Asahan
-Siumbut-umbut,  Kisaran Timur, Asahan
+Siumbut-umbut, Kisaran Timur, Asahan
 Siumbut-umbut, Kota Kisaran Timur, Asahan
-Selawan,  Kisaran Timur, Asahan
+Selawan, Kisaran Timur, Asahan
 Selawan, Kota Kisaran Timur, Asahan
-Sentang,  Kisaran Timur, Asahan
+Sentang, Kisaran Timur, Asahan
 Sentang, Kota Kisaran Timur, Asahan
-Siumbut Baru,  Kisaran Timur, Asahan
+Siumbut Baru, Kisaran Timur, Asahan
 Siumbut Baru, Kota Kisaran Timur, Asahan
 Air Putih, Meranti, Asahan
 Gajah, Meranti, Asahan
@@ -41720,6 +41734,7 @@ Rawang Pasar V, Rawang Panca Arga, Asahan
 Rawang Pasar VI, Rawang Panca Arga, Asahan
 Pondok Bungur, Rawang Panca Arga, Asahan
 Alta Verapaz
+Chiquimula
 Departemen Chiquimula
 Bahung Sibatu-batu, Sei Dadap, Asahan
 Pasiran, Sei Dadap, Asahan
@@ -41737,9 +41752,13 @@ Pertahanan, Sei Kepayang, Asahan
 Sei Kepayang Kanan, Sei Kepayang, Asahan
 Sei Kepayang Tengah, Sei Kepayang, Asahan
 Sei Paham, Sei Kepayang, Asahan
+El Petén
 Departemen El Petén
+El Quiché
 Departemen El Quiché
+Escuintla
 Departemen Escuintla
+Huehuetenango
 Departemen Huehuetenango
 Sei Jawi-jawi, Sei Kepayang Barat, Asahan
 Sei Tualang Pandau, Sei Kepayang Barat, Asahan
@@ -41909,6 +41928,7 @@ Tanjung Tiram , Tanjung Tiram, Batu Bara
 Tanjung Tiram Kota, Tanjung Tiram, Batu Bara
 Bandar Udara Internasional El Edén
 Bandar Udara Internasional Ernesto Cortissoz
+Izabal
 Departemen Izabal
 Banjar Toba, Berampu, Dairi
 Berampu, Berampu, Dairi
@@ -41924,6 +41944,7 @@ Leluhung, Gunung Sitember, Dairi
 Rante Besi, Gunung Sitember, Dairi
 Tupak Raja, Gunung Sitember, Dairi
 Gundaling, Gunung Sitember, Dairi
+Quetzaltenango
 Departemen Quetzaltenango
 Stadion Jassim Bin Hamad
 Panjang Baru, Pekalongan Utara, Pekalongan
@@ -42203,7 +42224,9 @@ Pekan Gunung Meriah, Gunung Meriah, Deli Serdang
 Simempar, Gunung Meriah, Deli Serdang
 Ujung Meriah, Gunung Meriah, Deli Serdang
 Departemen Santa Rosa
+Santa Rosa
 Departemen Santa Rosa
+Totonicapán
 Departemen Totonicapán
 Tobalaba
 Tobalaba
@@ -44030,26 +44053,26 @@ Teluk Panji III, Kampung Rakyat, Labuhanbatu Selatan
 Teluk Panji IV, Kampung Rakyat, Labuhanbatu Selatan
 Poreang, Bone-Bone, Luwu Utara
 Sidobinangun, Bone-Bone, Luwu Utara
-Hadundung,  Pinang, Labuhanbatu Selatan
+Hadundung, Pinang, Labuhanbatu Selatan
 Hadundung, Kota Pinang, Labuhanbatu Selatan
-Mampang,  Pinang, Labuhanbatu Selatan
+Mampang, Pinang, Labuhanbatu Selatan
 Mampang, Kota Pinang, Labuhanbatu Selatan
-Pasir Tuntung,  Pinang, Labuhanbatu Selatan
+Pasir Tuntung, Pinang, Labuhanbatu Selatan
 Pasir Tuntung, Kota Pinang, Labuhanbatu Selatan
-Perkebunan Nagodang,  Pinang, Labuhanbatu Selatan
+Perkebunan Nagodang, Pinang, Labuhanbatu Selatan
 Perkebunan Nagodang, Kota Pinang, Labuhanbatu Selatan
-Perkebunan Normark,  Pinang, Labuhanbatu Selatan
+Perkebunan Normark, Pinang, Labuhanbatu Selatan
 Perkebunan Normark, Kota Pinang, Labuhanbatu Selatan
-Perkebunan Sei Rumbia,  Pinang, Labuhanbatu Selatan
+Perkebunan Sei Rumbia, Pinang, Labuhanbatu Selatan
 Perkebunan Sei Rumbia, Kota Pinang, Labuhanbatu Selatan
-Simatahari,  Pinang, Labuhanbatu Selatan
+Simatahari, Pinang, Labuhanbatu Selatan
 Simatahari, Kota Pinang, Labuhanbatu Selatan
-Sisumut,  Pinang, Labuhanbatu Selatan
+Sisumut, Pinang, Labuhanbatu Selatan
 Sisumut, Kota Pinang, Labuhanbatu Selatan
 Sidobinangun, Deket, Lamongan
-Sosopan,  Pinang, Labuhanbatu Selatan
+Sosopan, Pinang, Labuhanbatu Selatan
 Sosopan, Kota Pinang, Labuhanbatu Selatan
-Pinang,  Pinang, Labuhanbatu Selatan
+Pinang, Pinang, Labuhanbatu Selatan
 Kota Pinang, Kota Pinang, Labuhanbatu Selatan
 Babatagung, Deket, Lamongan
 Deket Kulon, Deket, Lamongan
@@ -44176,7 +44199,7 @@ Sipare Pare Hilir, Marbau, Labuhanbatu Utara
 Sipare Pare Tengah, Marbau, Labuhanbatu Utara
 Sumber Mulyo, Marbau, Labuhanbatu Utara
 Tubiran, Marbau, Labuhanbatu Utara
-Aek  Batu, Na IX-X, Labuhanbatu Utara
+Aek Batu, Na IX-X, Labuhanbatu Utara
 Aek Kota Batu, Na IX-X, Labuhanbatu Utara
 Bangun Rejo, Na IX-X, Labuhanbatu Utara
 Batu Tunggal, Na IX-X, Labuhanbatu Utara
@@ -45918,23 +45941,23 @@ Kebun Handil, Jelutung, Jambi
 Lebak Bandung, Jelutung, Jambi
 Payo Lebar, Jelutung, Jambi
 Talang Jauh, Jelutung, Jambi
-Mayang Mengurai,  Baru, Jambi
+Mayang Mengurai, Baru, Jambi
 Mayang Mengurai, Kota Baru, Jambi
-Paal Lima,  Baru, Jambi
+Paal Lima, Baru, Jambi
 Paal Lima, Kota Baru, Jambi
-Rawasari,  Baru, Jambi
+Rawasari, Baru, Jambi
 Rawasari, Kota Baru, Jambi
-Simpang Tiga Sipin,  Baru, Jambi
+Simpang Tiga Sipin, Baru, Jambi
 Simpang Tiga Sipin, Kota Baru, Jambi
-Sukakarya,  Baru, Jambi
+Sukakarya, Baru, Jambi
 Sukakarya, Kota Baru, Jambi
-Kenali Asam Bawah,  Baru, Jambi
+Kenali Asam Bawah, Baru, Jambi
 Kenali Asam Bawah, Kota Baru, Jambi
-Kenali Asam Atas,  Baru, Jambi
+Kenali Asam Atas, Baru, Jambi
 Kenali Asam Atas, Kota Baru, Jambi
-Beliung,  Baru, Jambi
+Beliung, Baru, Jambi
 Beliung, Kota Baru, Jambi
-Bagan Pete,  Baru, Jambi
+Bagan Pete, Baru, Jambi
 Bagan Pete, Kota Baru, Jambi
 Beringin, Pasar Jambi, Jambi
 Orang Kayo Hitam, Pasar Jambi, Jambi
@@ -46056,7 +46079,7 @@ Kujan, Bulik, Lamandau
 Sumber Mulya, Bulik, Lamandau
 Sungai Mentawa, Bulik, Lamandau
 Tamiang, Bulik, Lamandau
-Stadion  Batik
+Stadion Batik
 Stadion Kota Batik
 Arse Simatorkis, Barumun, Padang Lawas
 Bangun Raya, Barumun, Padang Lawas
@@ -46611,6 +46634,7 @@ Pelalangan, Cermee, Bondowoso
 Grujugan, Cermee, Bondowoso
 Jirek Mas, Cermee, Bondowoso
 Kladi, Cermee, Bondowoso
+Cachachi
 Distrik Cachachi
 Baturetno, Tuban, Tuban
 Doromukti, Tuban, Tuban
@@ -47008,89 +47032,89 @@ Cahaya Baru, Jejangkit, Barito Kuala
 Jejangkit Muara, Jejangkit, Barito Kuala
 Jejangkit Pasar, Jejangkit, Barito Kuala
 Sampurna, Jejangkit, Barito Kuala
-Botu,  Timur, Gorontalo
+Botu, Timur, Gorontalo
 Botu, Kota Timur, Gorontalo
-Bugis,  Timur, Gorontalo
+Bugis, Timur, Gorontalo
 Bugis, Kota Timur, Gorontalo
-Heledulaa Selatan,  Timur, Gorontalo
+Heledulaa Selatan, Timur, Gorontalo
 Heledulaa Selatan, Kota Timur, Gorontalo
-Heledulaa Utara,  Timur, Gorontalo
+Heledulaa Utara, Timur, Gorontalo
 Heledulaa Utara, Kota Timur, Gorontalo
-Ipilo,  Timur, Gorontalo
+Ipilo, Timur, Gorontalo
 Ipilo, Kota Timur, Gorontalo
-Leato Selatan,  Timur, Gorontalo
+Leato Selatan, Timur, Gorontalo
 Leato Selatan, Kota Timur, Gorontalo
-Leato Utara,  Timur, Gorontalo
+Leato Utara, Timur, Gorontalo
 Leato Utara, Kota Timur, Gorontalo
-Moodu,  Timur, Gorontalo
+Moodu, Timur, Gorontalo
 Moodu, Kota Timur, Gorontalo
-Padebuolo,  Timur, Gorontalo
+Padebuolo, Timur, Gorontalo
 Padebuolo, Kota Timur, Gorontalo
-Talumolo,  Timur, Gorontalo
+Talumolo, Timur, Gorontalo
 Talumolo, Kota Timur, Gorontalo
-Tamalate,  Timur, Gorontalo
+Tamalate, Timur, Gorontalo
 Tamalate, Kota Timur, Gorontalo
-Bulotadaa Barat,  Utara, Gorontalo
+Bulotadaa Barat, Utara, Gorontalo
 Bulotadaa Barat, Kota Utara, Gorontalo
-Bulotadaa Timur,  Utara, Gorontalo
+Bulotadaa Timur, Utara, Gorontalo
 Bulotadaa Timur, Kota Utara, Gorontalo
-Dembe II,  Utara, Gorontalo
+Dembe II, Utara, Gorontalo
 Dembe II, Kota Utara, Gorontalo
-Dulomo Selatan,  Utara, Gorontalo
+Dulomo Selatan, Utara, Gorontalo
 Dulomo Selatan, Kota Utara, Gorontalo
-Dulomo Utara,  Utara, Gorontalo
+Dulomo Utara, Utara, Gorontalo
 Dulomo Utara, Kota Utara, Gorontalo
-Molosipat U,  Utara, Gorontalo
+Molosipat U, Utara, Gorontalo
 Molosipat U, Kota Utara, Gorontalo
-Tapa,  Utara, Gorontalo
+Tapa, Utara, Gorontalo
 Tapa, Kota Utara, Gorontalo
-Wangkaditi Barat,  Utara, Gorontalo
+Wangkaditi Barat, Utara, Gorontalo
 Wangkaditi Barat, Kota Utara, Gorontalo
-Wangkaditi Timur,  Utara, Gorontalo
+Wangkaditi Timur, Utara, Gorontalo
 Wangkaditi Timur, Kota Utara, Gorontalo
-Dulalowo,  Tengah, Gorontalo
+Dulalowo, Tengah, Gorontalo
 Dulalowo, Kota Tengah, Gorontalo
-Liluwo,  Tengah, Gorontalo
+Liluwo, Tengah, Gorontalo
 Liluwo, Kota Tengah, Gorontalo
-Paguyaman,  Tengah, Gorontalo
+Paguyaman, Tengah, Gorontalo
 Paguyaman, Kota Tengah, Gorontalo
-Pulubala,  Tengah, Gorontalo
+Pulubala, Tengah, Gorontalo
 Pulubala, Kota Tengah, Gorontalo
-Wumialo,  Tengah, Gorontalo
+Wumialo, Tengah, Gorontalo
 Wumialo, Kota Tengah, Gorontalo
-Biawao,  Selatan, Gorontalo
+Biawao, Selatan, Gorontalo
 Biawao, Kota Selatan, Gorontalo
-Biawu,  Selatan, Gorontalo
+Biawu, Selatan, Gorontalo
 Biawu, Kota Selatan, Gorontalo
-Donggala,  Selatan, Gorontalo
+Donggala, Selatan, Gorontalo
 Donggala, Kota Selatan, Gorontalo
-Limba B,  Selatan, Gorontalo
+Limba B, Selatan, Gorontalo
 Limba B, Kota Selatan, Gorontalo
-Limba U I,  Selatan, Gorontalo
+Limba U I, Selatan, Gorontalo
 Limba U I, Kota Selatan, Gorontalo
-Limba U II,  Selatan, Gorontalo
+Limba U II, Selatan, Gorontalo
 Limba U II, Kota Selatan, Gorontalo
-Pohe,  Selatan, Gorontalo
+Pohe, Selatan, Gorontalo
 Pohe, Kota Selatan, Gorontalo
-Siendeng,  Selatan, Gorontalo
+Siendeng, Selatan, Gorontalo
 Siendeng, Kota Selatan, Gorontalo
-Tanjung Keramat,  Selatan, Gorontalo
+Tanjung Keramat, Selatan, Gorontalo
 Tanjung Keramat, Kota Selatan, Gorontalo
-Tenda,  Selatan, Gorontalo
+Tenda, Selatan, Gorontalo
 Tenda, Kota Selatan, Gorontalo
-Buladu,  Barat, Gorontalo
+Buladu, Barat, Gorontalo
 Buladu, Kota Barat, Gorontalo
-Buliide,  Barat, Gorontalo
+Buliide, Barat, Gorontalo
 Buliide, Kota Barat, Gorontalo
-Dembe I,  Barat, Gorontalo
+Dembe I, Barat, Gorontalo
 Dembe I, Kota Barat, Gorontalo
-Lekobalo,  Barat, Gorontalo
+Lekobalo, Barat, Gorontalo
 Lekobalo, Kota Barat, Gorontalo
-Molosifat,  Barat, Gorontalo
+Molosifat, Barat, Gorontalo
 Molosifat, Kota Barat, Gorontalo
-Pilolodaa,  Barat, Gorontalo
+Pilolodaa, Barat, Gorontalo
 Pilolodaa, Kota Barat, Gorontalo
-Tenilo,  Barat, Gorontalo
+Tenilo, Barat, Gorontalo
 Tenilo, Kota Barat, Gorontalo
 Huangobotu, Dungingi, Gorontalo
 Libuo, Dungingi, Gorontalo
@@ -50162,7 +50186,7 @@ Way Lunik, Teluk Betung Selatan, Bandar Lampung
 Teluk Betung, Teluk Betung Selatan, Bandar Lampung
 Pasar Krui, Pesisir Tengah, Pesisir Barat
 WTC Mangga Dua
-Pasar  Krui, Pesisir Tengah, Pesisir Barat
+Pasar Krui, Pesisir Tengah, Pesisir Barat
 Pasar Kota Krui, Pesisir Tengah, Pesisir Barat
 Blok M Square
 Mangubi, Momunu, Buol
@@ -51182,6 +51206,7 @@ Kowo, Sape, Bima
 Lamere, Sape, Bima
 Nae, Sape, Bima
 Coper, Jetis, Ponorogo
+Bandar Udara Internasional Capital
 Bandar Udara Internasional Capital Region
 Naru Barat, Sape, Bima
 Naru Timur, Sape, Bima
@@ -51802,27 +51827,27 @@ Suka Merindu, Talo Kecil, Seluma
 Sungai Petai, Talo Kecil, Seluma
 Taba, Talo Kecil, Seluma
 Talang Padang, Talo Kecil, Seluma
-Gunung Ayu,  Manna, Bengkulu Selatan
+Gunung Ayu, Manna, Bengkulu Selatan
 Gunung Ayu, Kota Manna, Bengkulu Selatan
-Ibul,  Manna, Bengkulu Selatan
+Ibul, Manna, Bengkulu Selatan
 Ibul, Kota Manna, Bengkulu Selatan
-Kampung Baru,  Manna, Bengkulu Selatan
+Kampung Baru, Manna, Bengkulu Selatan
 Kampung Baru, Kota Manna, Bengkulu Selatan
-Medan,  Manna, Bengkulu Selatan
+Medan, Manna, Bengkulu Selatan
 Kota Medan, Kota Manna, Bengkulu Selatan
-Padang Kapuk,  Manna, Bengkulu Selatan
+Padang Kapuk, Manna, Bengkulu Selatan
 Padang Kapuk, Kota Manna, Bengkulu Selatan
-Pasar Baru,  Manna, Bengkulu Selatan
+Pasar Baru, Manna, Bengkulu Selatan
 Pasar Baru, Kota Manna, Bengkulu Selatan
-Gelumbang,  Manna, Bengkulu Selatan
+Gelumbang, Manna, Bengkulu Selatan
 Gelumbang, Kota Manna, Bengkulu Selatan
-Padang Berangin,  Manna, Bengkulu Selatan
+Padang Berangin, Manna, Bengkulu Selatan
 Padang Berangin, Kota Manna, Bengkulu Selatan
-Pagar Dewa,  Manna, Bengkulu Selatan
+Pagar Dewa, Manna, Bengkulu Selatan
 Pagar Dewa, Kota Manna, Bengkulu Selatan
-Padang Niur,  Manna, Bengkulu Selatan
+Padang Niur, Manna, Bengkulu Selatan
 Padang Niur, Kota Manna, Bengkulu Selatan
-Tebat Kubu,  Manna, Bengkulu Selatan
+Tebat Kubu, Manna, Bengkulu Selatan
 Tebat Kubu, Kota Manna, Bengkulu Selatan
 Bintana, Atinggola, Gorontalo Utara
 Buata, Atinggola, Gorontalo Utara
@@ -52593,37 +52618,37 @@ Paseraman, Arjasa, Sumenep
 Sambakati, Arjasa, Sumenep
 Sawah Sumur, Arjasa, Sumenep
 Sumbernangka, Arjasa, Sumenep
-Pabian,  Sumenep, Sumenep
+Pabian, Sumenep, Sumenep
 Pabian, Kota Sumenep, Sumenep
-Bangselok,  Sumenep, Sumenep
+Bangselok, Sumenep, Sumenep
 Bangselok, Kota Sumenep, Sumenep
-Karangduak,  Sumenep, Sumenep
+Karangduak, Sumenep, Sumenep
 Karangduak, Kota Sumenep, Sumenep
-Kepanjin,  Sumenep, Sumenep
+Kepanjin, Sumenep, Sumenep
 Kepanjin, Kota Sumenep, Sumenep
-Pajagalan,  Sumenep, Sumenep
+Pajagalan, Sumenep, Sumenep
 Pajagalan, Kota Sumenep, Sumenep
-Bangkal,  Sumenep, Sumenep
+Bangkal, Sumenep, Sumenep
 Bangkal, Kota Sumenep, Sumenep
-Kebonagung,  Sumenep, Sumenep
+Kebonagung, Sumenep, Sumenep
 Kebonagung, Kota Sumenep, Sumenep
-Kacongan,  Sumenep, Sumenep
+Kacongan, Sumenep, Sumenep
 Kacongan, Kota Sumenep, Sumenep
-Pamolokan,  Sumenep, Sumenep
+Pamolokan, Sumenep, Sumenep
 Pamolokan, Kota Sumenep, Sumenep
-Pandian,  Sumenep, Sumenep
+Pandian, Sumenep, Sumenep
 Pandian, Kota Sumenep, Sumenep
-Pangarangan,  Sumenep, Sumenep
+Pangarangan, Sumenep, Sumenep
 Pangarangan, Kota Sumenep, Sumenep
-Kebunan,  Sumenep, Sumenep
+Kebunan, Sumenep, Sumenep
 Kebunan, Kota Sumenep, Sumenep
-Kolor,  Sumenep, Sumenep
+Kolor, Sumenep, Sumenep
 Kolor, Kota Sumenep, Sumenep
-Marengan Daya,  Sumenep, Sumenep
+Marengan Daya, Sumenep, Sumenep
 Marengan Daya, Kota Sumenep, Sumenep
-Paberasan,  Sumenep, Sumenep
+Paberasan, Sumenep, Sumenep
 Paberasan, Kota Sumenep, Sumenep
-Parsanga,  Sumenep, Sumenep
+Parsanga, Sumenep, Sumenep
 Parsanga, Kota Sumenep, Sumenep
 A Famosa
 Kurusumange, Tanralili, Maros
@@ -52646,7 +52671,7 @@ Maba Utara, Halmahera Timur
 Wasile Tengah, Halmahera Timur
 Wasile Timur, Halmahera Timur
 Wasile Utara, Halmahera Timur
-Yehuwa, Poso  Selatan, Poso
+Yehuwa, Poso Selatan, Poso
 Yehuwa, Poso Kota Selatan, Poso
 Kajulangko, Ampana Tete, Tojo Una-Una
 Wana Sari, Ampana Tete, Tojo Una-Una
@@ -52905,6 +52930,7 @@ Tanawawo, Sikka
 Waiblama, Sikka
 Bandar Udara Tenzing-Hillary
 Bandar Udara Courchevel
+Bandar Udara al County Eagle
 Bandar Udara Regional County Eagle
 Kia, Boven Digoel
 Kombay, Boven Digoel
@@ -53149,37 +53175,37 @@ Nanga Mbaling, Sambi Rampas, Manggarai Timur
 Nanga Mbaur, Sambi Rampas, Manggarai Timur
 Rana Mese, Sambi Rampas, Manggarai Timur
 Satar Nawang, Sambi Rampas, Manggarai Timur
-Tanah Rata,  Komba, Manggarai Timur
+Tanah Rata, Komba, Manggarai Timur
 Tanah Rata, Kota Komba, Manggarai Timur
-Golo Meni,  Komba, Manggarai Timur
+Golo Meni, Komba, Manggarai Timur
 Golo Meni, Kota Komba, Manggarai Timur
-Golo Nderu,  Komba, Manggarai Timur
+Golo Nderu, Komba, Manggarai Timur
 Golo Nderu, Kota Komba, Manggarai Timur
-Golo Tolang,  Komba, Manggarai Timur
+Golo Tolang, Komba, Manggarai Timur
 Golo Tolang, Kota Komba, Manggarai Timur
-Gunung,  Komba, Manggarai Timur
+Gunung, Komba, Manggarai Timur
 Gunung, Kota Komba, Manggarai Timur
-Komba,  Komba, Manggarai Timur
+Komba, Komba, Manggarai Timur
 Komba, Kota Komba, Manggarai Timur
-Lembur,  Komba, Manggarai Timur
+Lembur, Komba, Manggarai Timur
 Lembur, Kota Komba, Manggarai Timur
-Mbengan,  Komba, Manggarai Timur
+Mbengan, Komba, Manggarai Timur
 Mbengan, Kota Komba, Manggarai Timur
-Mokel,  Komba, Manggarai Timur
+Mokel, Komba, Manggarai Timur
 Mokel, Kota Komba, Manggarai Timur
-Paan Leleng,  Komba, Manggarai Timur
+Paan Leleng, Komba, Manggarai Timur
 Paan Leleng, Kota Komba, Manggarai Timur
-Pong Ruan,  Komba, Manggarai Timur
+Pong Ruan, Komba, Manggarai Timur
 Pong Ruan, Kota Komba, Manggarai Timur
-Rana Kolong,  Komba, Manggarai Timur
+Rana Kolong, Komba, Manggarai Timur
 Rana Kolong, Kota Komba, Manggarai Timur
-Rana Mbeling,  Komba, Manggarai Timur
+Rana Mbeling, Komba, Manggarai Timur
 Rana Mbeling, Kota Komba, Manggarai Timur
-Rongga Koe,  Komba, Manggarai Timur
+Rongga Koe, Komba, Manggarai Timur
 Rongga Koe, Kota Komba, Manggarai Timur
-Ruan,  Komba, Manggarai Timur
+Ruan, Komba, Manggarai Timur
 Ruan, Kota Komba, Manggarai Timur
-Watu Nggene,  Komba, Manggarai Timur
+Watu Nggene, Komba, Manggarai Timur
 Watu Nggene, Kota Komba, Manggarai Timur
 Uner Satu, Kawangkoan, Minahasa
 Golo Nderu, Poco Ranaka, Manggarai Timur
@@ -54140,21 +54166,21 @@ Letmafo, Insana Tengah, Timor Tengah Utara
 Sone, Insana Tengah, Timor Tengah Utara
 Tainsala, Insana Tengah, Timor Tengah Utara
 Insana Tengah, Timor Tengah Utara
-Aplasi,  Kefamenanu, Timor Tengah Utara
+Aplasi, Kefamenanu, Timor Tengah Utara
 Aplasi, Kota Kefamenanu, Timor Tengah Utara
-Bansone,  Kefamenanu, Timor Tengah Utara
+Bansone, Kefamenanu, Timor Tengah Utara
 Bansone, Kota Kefamenanu, Timor Tengah Utara
-Benpasi,  Kefamenanu, Timor Tengah Utara
+Benpasi, Kefamenanu, Timor Tengah Utara
 Benpasi, Kota Kefamenanu, Timor Tengah Utara
-Kefamenanu Selatan,  Kefamenanu, Timor Tengah Utara
+Kefamenanu Selatan, Kefamenanu, Timor Tengah Utara
 Kefamenanu Selatan, Kota Kefamenanu, Timor Tengah Utara
-Kefamenanu Tengah,  Kefamenanu, Timor Tengah Utara
+Kefamenanu Tengah, Kefamenanu, Timor Tengah Utara
 Kefamenanu Tengah, Kota Kefamenanu, Timor Tengah Utara
-Kefamenanu Utara,  Kefamenanu, Timor Tengah Utara
+Kefamenanu Utara, Kefamenanu, Timor Tengah Utara
 Kefamenanu Utara, Kota Kefamenanu, Timor Tengah Utara
-Sasi,  Kefamenanu, Timor Tengah Utara
+Sasi, Kefamenanu, Timor Tengah Utara
 Sasi, Kota Kefamenanu, Timor Tengah Utara
-Tubuhue,  Kefamenanu, Timor Tengah Utara
+Tubuhue, Kefamenanu, Timor Tengah Utara
 Tubuhue, Kota Kefamenanu, Timor Tengah Utara
 Tubuhue, Amanuban Barat, Timor Tengah Selatan
 Haumenibaki, Amanuban Barat, Timor Tengah Selatan
@@ -57226,10 +57252,15 @@ Oi Saro, Sanggar, Bima
 Piong, Sanggar, Bima
 Sandue, Sanggar, Bima
 Taloko, Sanggar, Bima
+Littoral
 Departemen Littoral
+Mono
 Departemen Mono
+Ouémé
 Departemen Ouémé
+Plateau
 Departemen Plateau
+Zou
 Departemen Zou
 Savalou
 Aplahoué
@@ -57261,6 +57292,7 @@ Pakhda Suka, Buay Pematang Ribu Ranau Tengah, Ogan Komering Ulu Selatan
 Serumpun Jaya, Buay Pematang Ribu Ranau Tengah, Ogan Komering Ulu Selatan
 Abra de Ilog, Occidental Mindoro
 Bandar Udara Internasional Changbei Nanchang
+Chaoyang, Beijing
 Distrik Chaoyang, Beijing
 Sumber Sari, Loa Kulu, Kutai Kartanegara
 Sepakat, Loa Kulu, Kutai Kartanegara
@@ -57276,8 +57308,11 @@ Bandar Udara Diffa
 Bandar Udara Dirkou
 Stadion Sukosari
 Akhaya
+Fengtai
 Distrik Fengtai
+Mentougou
 Distrik Mentougou
+Tongzhou, Beijing
 Distrik Tongzhou, Beijing
 Bandar Udara Dogondoutchi
 Bandar Udara Dosso
@@ -57420,19 +57455,33 @@ Tampak Siring, Batukliang, Lombok Tengah
 Bandar Udara Phetchabun
 Bandar Udara Loei
 Aik Berik, Batukliang Utara, Lombok Tengah
+Bonthe
 Distrik Bonthe
+Bombali
 Distrik Bombali
+Kailahun
 Distrik Kailahun
+Kambia
 Distrik Kambia
+Kenema
 Distrik Kenema
+Koinadugu
 Distrik Koinadugu
+Kono
 Distrik Kono
+Moyamba
 Distrik Moyamba
+Port Loko
 Distrik Port Loko
+Pujehun
 Distrik Pujehun
+Tonkolili
 Distrik Tonkolili
+Pedesaan Wilayah Barat
 Distrik Pedesaan Wilayah Barat
+Perkotaan Wilayah Barat
 Distrik Perkotaan Wilayah Barat
+Bo
 Distrik Bo
 Timur, Sierra Leone
 Provinsi Timur, Sierra Leone
@@ -57615,6 +57664,7 @@ Bongas, Watukumpul, Pemalang
 Simpang Renggiang, Belitung Timur
 Simpang Pesak, Belitung Timur
 Damar, Belitung Timur
+Kayin
 Negara Bagian Kayin
 Roi Et
 Provinsi Roi Et
@@ -57707,7 +57757,7 @@ Gunung Yoshino
 Florence, Kentucky
 Surin
 Provinsi Surin
-Air Mata,  Lama, Kupang
+Air Mata, Lama, Kupang
 Air Mata, Kota Lama, Kupang
 Kegubernuran Tartus
 Kegubernuran Al-Hasakah
@@ -57754,7 +57804,7 @@ Raja, Kupang
 Kota Raja, Kupang
 Kegubernuran Mubarak Al-Kabeer
 Stadion Utama Riau
-Oeba,  Lama, Kupang
+Oeba, Lama, Kupang
 Oeba, Kota Lama, Kupang
 Azawad
 Bandar Udara Pokhara
@@ -57873,7 +57923,7 @@ Bandar Udara Internasional Meilan Haikou
 Hyde Road
 Sekaduyan Taka, Sei Menggaris, Nunukan
 Samaenre Semaja, Sei Menggaris, Nunukan
-Bandar Udara Internasional  Jembrana
+Bandar Udara Internasional Jembrana
 Bandar Udara Internasional Kota Jembrana
 Bandar Udara Sukhothai
 Bandar Udara Phitsanulok
@@ -57986,7 +58036,9 @@ Stadion Madejski
 Stadion St Mary's
 The Hawthorns
 Boleyn Ground
+Urgench
 Distrik Urgench
+Bog'ot
 Distrik Bog'ot
 Gurlan
 Bog‘ot
@@ -58018,6 +58070,7 @@ RS Ibnu Shina Gresik
 Myos
 Priene
 Ulujadi, Palu
+Jongno
 Distrik Jongno
 Bandar Udara Sansanné-Mango
 Danau Bled
@@ -58206,9 +58259,11 @@ Lhok Gayo, Babah Rot, Aceh Barat Daya
 Daerah Otonom Bougainville
 Bandar Udara Internasional Makau
 Bandar Udara El Obeid
+Bandar Udara al Ha'il
 Bandar Udara Regional Ha'il
 Bandar Udara Domestik Gurayat
 Bandar Udara Domestik Wadi al-Dawasir
+Bandar Udara al Jizan
 Bandar Udara Regional Jizan
 Bandar Udara Kermanshah
 Bandar Udara Dezful
@@ -58228,14 +58283,17 @@ Bandar Udara Ardabil
 Bagrami, Kabul
 Char Asiab, Kabul
 Deh Sabz, Kabul
+Kabul, Afganistan
 Distrik Kabul, Afganistan
 Bandar Udara Khoy
 Adda-Daouéni
 Vanadjou
 Tsinimoipanga-Mihaboini
 Bandar Udara Internasional Kish
+Artibonite
 Departemen Artibonite
 Bandar Udara Domestik Arar
+Centre
 Departemen Centre
 Bandar Udara Urmia
 Bambao
@@ -58243,6 +58301,7 @@ Bazimini
 Farza, Kabul
 Guldara, Kabul
 Surobi, Kabul
+Grand'Anse
 Departemen Grand'Anse
 Istalif, Kabul
 Bandar Udara Semonkong
@@ -58305,6 +58364,7 @@ Sholgara, Balkh
 Bandar Udara Mejametalana
 Dihdadi, Balkh
 Kholm, Balkh
+Balkh, Afganistan
 Distrik Balkh, Afganistan
 Kishindih, Balkh
 Sayghan, Bamiyan
@@ -58459,6 +58519,7 @@ Pulau Besar, Bangka Selatan
 The O2 Arena
 The O2 Arena
 Museum Seni Rupa Taipei
+Pohnpei
 Negara bagian Pohnpei
 Museum Victoria dan Albert
 Titu
@@ -58483,6 +58544,7 @@ Bandar Udara Malanje
 Stadion Moustoir
 Stadion Mosson
 Stadion Marcel Picot
+Rakhine
 Negara Bagian Rakhine
 Stadion Ray
 B?ile Govora
@@ -58495,7 +58557,7 @@ Stadion François Coty
 Stadion Armand Cesari
 Stadion Auguste Bonal
 Stadion Hainaut
-Stadion  Toulouse
+Stadion Toulouse
 Stadion Kota Toulouse
 Stadion Kyocera
 Stadion AFAS
@@ -58954,8 +59016,10 @@ Merlyn Carter
 Bandar Udara Ban Huoeisay
 Bandar Udara Hengchun
 Tokotu'a
+Dobong
 Distrik Dobong
 Bandar Udara Qimei
+Dongdaemun
 Distrik Dongdaemun
 Bandar Udara Lyudao
 Bandar Udara Matsu Beigan
@@ -58965,16 +59029,23 @@ Bandar Udara Sunyani
 Bandar Udara Takoradi
 Bandar Udara Matsu Nangan
 Bandar Udara Tamale
+Dongjak
 Distrik Dongjak
+Eunpyeong
 Distrik Eunpyeong
+Gangbuk
 Distrik Gangbuk
 Kartala
+Gangdong
 Distrik Gangdong
 Bandar Udara 'Eua
+Gangnam
 Distrik Gangnam
+Gangseo, Seoul
 Distrik Gangseo, Seoul
 Bandar Udara Vorkuta
 Bandar Udara Internasional Volgograd
+Geumcheon
 Distrik Geumcheon
 Bungur Raya, Langkaplancar, Pangandaran
 Cisarua, Langkaplancar, Pangandaran
@@ -59044,7 +59115,9 @@ Sumurgayam, Paciran, Lamongan
 Tlogosadang, Paciran, Lamongan
 Ngepeh, Loceret, Nganjuk
 Bajulan, Loceret, Nganjuk
+Guro
 Distrik Guro
+Gwanak
 Distrik Gwanak
 Summarecon Mal Bekasi
 Bandar Udara Sungam Ni
@@ -59058,38 +59131,51 @@ Rumah Sakit Kusta Donorojo
 Bandar Udara Unchon Up
 Bandar Udara Internasional Bassel Al-Assad
 Bandar Udara Zhezkazgan
+Gwangjin
 Distrik Gwangjin
 Bandar Udara Oral Ak Zhol
+Jung, Seoul
 Distrik Jung, Seoul
 Bandar Udara Pulau Natal
 Bandar Udara Örnsköldsvik
 Bandar Udara Skellefteå
+Jungnang
 Distrik Jungnang
 Bandar Udara Stockholm Västerås
 Bandar Udara Gällivare
+Mapo
 Distrik Mapo
 Bandar Udara Trollhättan-Vänersborg
 Bojong Lio, Sukmajaya, Depok
 Bandar Udara Umeå
+Nowon
 Distrik Nowon
 Bandar Udara Kepulauan Cocos
 Bandar Udara Kepulauan Cocos
 Bandar Udara Gold Coast
 Aluva
 Ammavarikuppam
+Seocho
 Distrik Seocho
+Seodaemun
 Distrik Seodaemun
 Stasiun kereta api King's Cross
 Stadion M. Sarengat
+Seongbuk
 Distrik Seongbuk
 Plaza Low Yat
 Undisan
+Seongdong
 Distrik Seongdong
+Songpa
 Distrik Songpa
+Yangcheon
 Distrik Yangcheon
 Undisan Kelod
 Sungai Waikato
+Yeongdeungpo
 Distrik Yeongdeungpo
+Yongsan
 Distrik Yongsan
 Logowok, Pohjentrek, Pasuruan
 Paras Rejo, Pohjentrek, Pasuruan
@@ -59113,7 +59199,7 @@ Katakomba Paris
 Bandar Udara Akureyri
 Lubuk Buntak, Talang Padang, Empat Lawang
 Bandar Udara Internasional B?l?i
-Bandar Udara  B?l?i
+Bandar Udara B?l?i
 Bandar Udara Kota B?l?i
 Bandar Udara Bushehr
 Papar, Sabah

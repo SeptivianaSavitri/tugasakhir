@@ -1133,6 +1133,7 @@ Al-Gharafa Sports Club
 SMA Negeri 2 Ambon
 American Psychological Association
 Akademi Manajemen Informatika dan Komputer YAPRI
+Sekolah Tinggi Manajemen Transportasi
 Sekolah Tinggi Manajemen Transportasi Trisakti
 Universitas Batam
 SMA Kristen Penabur Gading Serpong
@@ -2846,6 +2847,7 @@ SMA Negeri 1 Kota Sorong
 Spartacks
 Société Bic
 Agfa-Gevaert
+Universitas Teknologi Sulawesi
 Universitas Teknologi Sulawesi Makasar
 SMA Negeri 2 Palangka Raya
 SMA Trinitas
@@ -4022,6 +4024,7 @@ C.S. Visé
 SMA Negeri 1 Kauditan
 Rosneft
 Fakultas Kedokteran Universitas Mulawarman
+MAN 1
 MAN 1 Bandar Lampung
 SMA Negeri 2 Probolinggo
 Wataniya Telecom

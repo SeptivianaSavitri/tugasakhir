@@ -417,3 +417,23 @@ Solusi : Pada data kebi yang sudah dihilangkan huruf besar, diberikan rule tamba
 Tugas besok :
 1. Benerin ekspansi Place (harusnya n-gram)
 	masi ada data "  ", cek lagi
+
+benerin :
+Normalisasi Place :
+1. concat dengan "Departemen"
+
+Progress 24 Mei :
+Progress bab 2, 3 dan 4
+
+
+skenario bebas.
+1 cerita  1 skenario
+nltk nya coba pake yang full
+
+
+Gimana cara evaluasii???
+1. ChangeOutputToIOB.py -> ngubah output IO menjadi IOB 
+input : fileIO.txt
+output : fileIOB.txt
+
+2. EvaluationIOB.py -> evaluasi IOB buat itu prec recall and f1

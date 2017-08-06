@@ -1,0 +1,399 @@
+PNI
+Masyumi
+Nahdlatul Ulama
+PKI
+Partai Katolik
+Katolik
+Partai Syarikat Islam Indonesia
+Syarikat Islam Indonesia
+Partai Nahdlatul Ulama
+Nahdlatul Ulama
+Partai Muslimin Indonesia
+Muslimin Indonesia
+Golongan Karya
+Partai Kristen Indonesia
+Kristen Indonesia
+Partai Musyawarah Rakyat Banyak
+Musyawarah Rakyat Banyak
+Partai Nasional Indonesia
+Nasional Indonesia
+Partai Islam PERTI
+Islam PERTI
+Partai Ikatan Pendukung Kemerdekaan Indonesia
+Ikatan Pendukung Kemerdekaan Indonesia
+Partai Persatuan Pembangunan
+Persatuan Pembangunan
+Golongan Karya
+Partai Demokrasi Indonesia
+Demokrasi Indonesia
+Partai Indonesia Baru
+Indonesia Baru
+Partai Kristen Nasional Indonesia
+Kristen Nasional Indonesia
+Partai Nasional Indonesia - Supeni
+Nasional Indonesia - Supeni
+Partai Aliansi Demokrat Indonesia
+Aliansi Demokrat Indonesia
+Partai Kebangkitan Muslim Indonesia
+Kebangkitan Muslim Indonesia
+Partai Ummat Islam
+Ummat Islam
+Partai Kebangkitan Ummat
+Kebangkitan Ummat
+Partai Masyumi Baru
+Masyumi Baru
+Partai Persatuan Pembangunan
+Persatuan Pembangunan
+Partai Syarikat Islam Indonesia
+Syarikat Islam Indonesia
+Partai Demokrasi Indonesia Perjuangan
+Demokrasi Indonesia Perjuangan
+Partai Abul Yatama
+Abul Yatama
+Partai Kebangsaan Merdeka
+Kebangsaan Merdeka
+Partai Demokrasi Kasih Bangsa
+Demokrasi Kasih Bangsa
+Partai Amanat Nasional
+Amanat Nasional
+Partai Rakyat Demokratik
+Rakyat Demokratik
+Partai Syarikat Islam Indonesia 1905
+Syarikat Islam Indonesia 1905
+Partai Katolik Demokrat
+Katolik Demokrat
+Partai Pilihan Rakyat
+Pilihan Rakyat
+Partai Rakyat Indonesia
+Rakyat Indonesia
+Partai Politik Islam Indonesia Masyumi
+Politik Islam Indonesia Masyumi
+Partai Bulan Bintang
+Bulan Bintang
+Partai Solidaritas Pekerja
+Solidaritas Pekerja
+Partai Keadilan
+Keadilan
+Partai Nahdlatul Ummat
+Nahdlatul Ummat
+Partai Nasional Indonesia - Front Marhaenis
+Nasional Indonesia - Front Marhaenis
+Partai Ikatan Pendukung Kemerdekaan Indonesia
+Ikatan Pendukung Kemerdekaan Indonesia
+Partai Republik
+Republik
+Partai Islam Demokrat
+Islam Demokrat
+Partai Nasional Indonesia - Massa Marhaen
+Nasional Indonesia - Massa Marhaen
+Partai Musyawarah Rakyat Banyak
+Musyawarah Rakyat Banyak
+Partai Demokrasi Indonesia
+Demokrasi Indonesia
+Partai Golongan Karya
+Golongan Karya
+Partai Persatuan
+Persatuan
+Partai Kebangkitan Bangsa
+Kebangkitan Bangsa
+Partai Uni Demokrasi Indonesia
+Uni Demokrasi Indonesia
+Partai Buruh Nasional
+Buruh Nasional
+Partai Musyawarah Kekeluargaan Gotong Royong
+Musyawarah Kekeluargaan Gotong Royong
+Partai Daulat Rakyat
+Daulat Rakyat
+Partai Cinta Damai
+Cinta Damai
+Partai Keadilan dan Persatuan
+Keadilan dan Persatuan
+Partai Solidaritas Pekerja Seluruh Indonesia
+Solidaritas Pekerja Seluruh Indonesia
+Partai Nasional Bangsa Indonesia
+Nasional Bangsa Indonesia
+Partai Bhinneka Tunggal Ika Indonesia
+Bhinneka Tunggal Ika Indonesia
+Partai Solidaritas Uni Nasional Indonesia
+Solidaritas Uni Nasional Indonesia
+Partai Nasional Demokrat
+Nasional Demokrat
+Partai Ummat Muslimin Indonesia
+Ummat Muslimin Indonesia
+Partai Pekerja Indonesia
+Pekerja Indonesia
+Partai Nasional Indonesia Marhaenisme
+Nasional Indonesia Marhaenisme
+Partai Buruh Sosial Demokrat
+Buruh Sosial Demokrat
+Partai Bulan Bintang
+Bulan Bintang
+Partai Merdeka
+Merdeka
+Partai Persatuan Pembangunan
+Persatuan Pembangunan
+Partai Persatuan Demokrasi Kebangsaan
+Persatuan Demokrasi Kebangsaan
+Partai Perhimpunan Indonesia Baru
+Perhimpunan Indonesia Baru
+Partai Nasional Banteng Kemerdekaan
+Nasional Banteng Kemerdekaan
+Partai Demokrat
+Demokrat
+Partai Keadilan dan Persatuan Indonesia
+Keadilan dan Persatuan Indonesia
+Partai Penegak Demokrasi Indonesia
+Penegak Demokrasi Indonesia
+Partai Persatuan Nahdlatul Ummah Indonesia
+Persatuan Nahdlatul Ummah Indonesia
+Partai Amanat Nasional
+Amanat Nasional
+Partai Karya Peduli Bangsa
+Karya Peduli Bangsa
+Partai Kebangkitan Bangsa
+Kebangkitan Bangsa
+Partai Keadilan Sejahtera
+Keadilan Sejahtera
+Partai Bintang Reformasi
+Bintang Reformasi
+Partai Demokrasi Indonesia Perjuangan
+Demokrasi Indonesia Perjuangan
+Partai Damai Sejahtera
+Damai Sejahtera
+Partai Golongan Karya
+Golongan Karya
+Partai Patriot Pancasila
+Patriot Pancasila
+Partai Sarikat Indonesia
+Sarikat Indonesia
+Partai Persatuan Daerah
+Persatuan Daerah
+Partai Pelopor
+Pelopor
+Partai Hati Nurani Rakyat
+Hanura
+Hati Nurani Rakyat
+Partai Karya Peduli Bangsa
+PKPB
+Karya Peduli Bangsa
+Partai Pengusaha dan Pekerja Indonesia
+PPPI
+Pengusaha dan Pekerja Indonesia
+Partai Peduli Rakyat Nasional
+PPRN
+Peduli Rakyat Nasional
+Partai Gerakan Indonesia Raya
+Gerindra
+Gerakan Indonesia Raya
+Partai Barisan Nasional
+Barnas
+Barisan Nasional
+Partai Keadilan dan Persatuan Indonesia
+PKPI
+Keadilan dan Persatuan Indonesia
+Partai Keadilan Sejahtera
+PKS
+Keadilan Sejahtera
+Partai Amanat Nasional
+PAN
+Amanat Nasional
+Partai Perjuangan Indonesia Baru
+PIB
+Perjuangan Indonesia Baru
+Partai Kedaulatan
+Kedaulatan
+Partai Persatuan Daerah
+PPD
+Persatuan Daerah
+Partai Kebangkitan Bangsa
+PKB
+Kebangkitan Bangsa
+Partai Pemuda Indonesia
+PPI
+Pemuda Indonesia
+Partai Nasional Indonesia Marhaenisme
+PNI Marhaenisme
+Nasional Indonesia Marhaenisme
+Partai Demokrasi Pembaruan
+PDP
+Demokrasi Pembaruan
+Partai Karya Perjuangan
+PKP
+Karya Perjuangan
+Partai Matahari Bangsa
+PMB
+Matahari Bangsa
+Partai Penegak Demokrasi Indonesia
+PPDI
+Penegak Demokrasi Indonesia
+Partai Demokrasi Kebangsaan
+PDK
+Demokrasi Kebangsaan
+Partai Republika Nusantara
+RepublikaN
+Republika Nusantara
+Partai Pelopor
+Pelopor
+Partai Golongan Karya
+Golkar
+Golongan Karya
+Partai Persatuan Pembangunan
+PPP
+Persatuan Pembangunan
+Partai Damai Sejahtera
+PDS
+Damai Sejahtera
+Partai Nasional Benteng Kerakyatan Indonesia
+PNBK Indonesia
+Nasional Benteng Kerakyatan Indonesia
+Partai Bulan Bintang
+PBB
+Bulan Bintang
+Partai Demokrasi Indonesia Perjuangan
+PDIP
+Demokrasi Indonesia Perjuangan
+Partai Bintang Reformasi
+PBR
+Bintang Reformasi
+Partai Patriot
+Patriot
+Partai Demokrat
+Demokrat
+Partai Kasih Demokrasi Indonesia
+PKDI
+Kasih Demokrasi Indonesia
+Partai Indonesia Sejahtera
+PIS
+Indonesia Sejahtera
+Partai Kebangkitan Nasional Ulama
+PKNU
+Kebangkitan Nasional Ulama
+Partai Merdeka
+Merdeka
+Partai Persatuan Nahdlatul Ummah Indonesia
+PPNUI
+Persatuan Nahdlatul Ummah Indonesia
+Partai Sarikat Indonesia
+PSI
+Sarikat Indonesia
+Partai Buruh
+Buruh
+Partai Aceh Aman Seujahtra
+PAAS
+Aceh Aman Seujahtra
+Partai Daulat Aceh
+PDA
+Daulat Aceh
+Partai Suara Independen Rakyat Aceh
+SIRA
+Suara Independen Rakyat Aceh
+Partai Rakyat Aceh
+PRA
+Rakyat Aceh
+Partai Aceh
+PA
+Aceh
+Partai Bersatu Aceh
+PBA
+Bersatu Aceh
+Partai NasDem
+NasDem
+Partai Kebangkitan Bangsa
+Kebangkitan Bangsa
+Partai Keadilan Sejahtera
+Keadilan Sejahtera
+Partai Demokrasi Indonesia Perjuangan
+Demokrasi Indonesia Perjuangan
+Partai Golongan Karya
+Golongan Karya
+Partai Gerakan Indonesia Raya
+Gerakan Indonesia Raya
+Partai Demokrat
+Demokrat
+Partai Amanat Nasional
+Amanat Nasional
+Partai Persatuan Pembangunan
+Persatuan Pembangunan
+Partai Hati Nurani Rakyat
+Hati Nurani Rakyat
+Partai Bulan Bintang
+Bulan Bintang
+Partai Keadilan dan Persatuan Indonesia
+Keadilan dan Persatuan Indonesia
+Partai Damai Aceh
+Damai Aceh
+Partai Nasional Aceh
+Nasional Aceh
+Partai Aceh
+Aceh
+Partai Demokrasi Pembaruan
+Demokrasi Pembaruan
+Partai Kedaulatan Bangsa Indonesia Baru
+Kedaulatan Bangsa Indonesia Baru
+Partai Peduli Rakyat Nasional
+Peduli Rakyat Nasional
+Partai Persatuan Nasional
+Persatuan Nasional
+Partai Demokrasi Kebangsaan
+Demokrasi Kebangsaan
+Partai Kesatuan Demokrasi
+Kesatuan Demokrasi
+Partai Kongres
+Kongres
+Partai Serikat Rakyat Independen
+Serikat Rakyat Independen
+Partai Karya Republik
+Karya Republik
+Partai Nasional Republik
+Nasional Republik
+Partai Damai Sejahtera
+Damai Sejahtera
+Partai Republika Nusantara
+Republika Nusantara
+PNI Marhaenisme
+Partai Karya Peduli Bangsa
+Karya Peduli Bangsa
+Partai Pengusaha dan Pekerja Indonesia
+Pengusaha dan Pekerja Indonesia
+Partai Kebangkitan Nasional Ulama
+Kebangkitan Nasional Ulama
+Partai Penegak Demokrasi Indonesia
+Penegak Demokrasi Indonesia
+Partai Republik
+Republik
+Partai Kedaulatan
+Kedaulatan
+Partai Bhinneka Indonesia
+Bhinneka Indonesia
+Partai Nasional Benteng Kerakyatan Indonesia
+Nasional Benteng Kerakyatan Indonesia
+Partai Buruh
+Buruh
+Partai Kemakmuran Bangsa Nusantara
+Kemakmuran Bangsa Nusantara
+Partai Republik Satu
+Republik Satu
+Partai Republik Perjuangan
+Republik Perjuangan
+Partai Satria Piningit
+Satria Piningit
+Partai Penganut Thariqot Islam Negara
+Penganut Thariqot Islam Negara
+Partai Karya Republik
+Karya Republik
+Partai Indonesia Rakyat Bangkit
+Indonesia Rakyat Bangkit
+Partai Independen
+Independen
+Partai Kekuatan Rakyat Indonesia
+Kekuatan Rakyat Indonesia
+Partai Demokrasi Pancasila
+Demokrasi Pancasila
+Partai Persatuan Indonesia
+Perindo
+Persatuan Indonesia
+Partai Solidaritas Indonesia
+Solidaritas Indonesia
+Partai Idaman
+Islam, Damai, Aman
+Idaman

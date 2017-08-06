@@ -25,13 +25,13 @@ from ner_ika import writeList
 
 # set the input and output files
 
-folder = "newdata/training/prep/data1k/"
+folder = "newdata/training/prep/data15k/"
 input = "newdata/training/prep/all_ID_sentences.txt"
-output = folder + "ID_sentences1k_"
+output = folder + "ID_sentences15k_"
 
 #set the maximum number of sentences in a file
 
-maxNumberofSentences = 1000
+maxNumberofSentences = 15000
 
 ################################ BEGIN ###################################
 

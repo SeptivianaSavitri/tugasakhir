@@ -1,0 +1,100 @@
+ Jepang
+New York City
+Los Angeles
+Chicago
+Paris
+London
+Osaka
+Meksiko City
+Philadelphia
+Washington DC
+Boston
+Dallas/Fort Worth
+Buenos Aires
+Hong Kong
+San Francisco
+Atlanta
+Houston
+Miami
+São Paulo
+Seoul
+Toronto
+Detroit
+Madrid
+Seattle
+Moscow
+Sydney
+Phoenix
+Minneapolis
+San Diego
+Rio de Janeiro
+Barcelona
+Shanghai
+Melbourne
+Istanbul
+Denver
+Singapura
+Mumbai
+Rome
+Montreal
+Milan
+Baltimore
+Metro Manila
+St Louis
+Beijing
+Cairo
+Jakarta
+Tampa/St Petersburg
+PASn
+Kolkata
+Vienna
+Delhi
+Tel Aviv
+Santiago
+Cleveland
+Bangkok
+Tehran
+Portland
+Bogotá
+St Petersburg
+Guangzhou
+Pittsburgh
+Riyadh
+Athens
+Vancouver
+Johannesburg
+Monterrey
+Stockholm
+Cape Town
+Berlin
+Lisbon
+Birmingham
+Fukuoka
+Manchester
+Lima
+Belo Horizonte
+Guadalajara
+Hamburg
+Turin
+Lyon
+Jeddah
+Karachi
+Dhaka
+Munich
+Dublin
+Leeds
+Warsaw
+Tianjin
+Bangalore
+Porto Alegre
+Helsinki
+Naples
+Budapest
+Zurich
+Ankara
+Amsterdam
+Auckland
+Copenhagen
+Recife
+Rotterdam
+Brussels

@@ -21,9 +21,9 @@ from function import writeListofStringToFile
 ##########################################################################
 
 #set the input and output file
-input = "dbpedia-new/original/organization.txt"
-folder = "dbpedia-new/cleansing/"
-output = folder + "organization.txt"
+input = "dbpediaRule/original/organization.txt"
+folder = "dbpediaRule/cleansing/"
+output = folder + "organizationPC1.txt"
 inputtmp = folder + "tmp.txt"
 
 def cariBukaKurung(kata, pnjg):
@@ -60,6 +60,7 @@ inputFile.close()
 #Memasukkan data dari tmp
 inputFile = open(inputtmp, 'r', errors='ignore')
 flines = inputFile.readlines()
+#PC-1
 for k in flines:
     newListOrg.append(k)
     cek = cek+1

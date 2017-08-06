@@ -1,0 +1,80 @@
+Tidak ada di original :
+Afrika
+Amerika
+Amerika Serikat
+Asia
+Australia
+Eropa
+Indonesia
+Mediterania
+Merkurius
+Neptunus
+Yunani
+
+Perbedaan rule (split kata Kota Administrasi):
+Administrasi Kepulauan Seribu
+
+Beda Spasi ("  ") di X dan di Y (" "):
+Biga  Kaidipang
+Biga  Kaidipang Bolaang Mongondow Utara
+Blitar  Wlingi  1
+Buroko  Kaidipang
+Buroko  Kaidipang Bolaang Mongondow Utara
+Kepuharjo  Cangkringan
+Kepuharjo  Cangkringan Sleman
+Kota Mukomuko  Mukomuko
+Mukomuko  Mukomuko
+Qala i Naw  Badghis
+Wlingi Blitar  Wlingi  1
+
+Perbedaan rule ekspansi X dan Y, untuk kata : Kotarih Pekan, Kotarih, Serdang Bedagai
+Keduanya menghasilkan :
+Kotarih Pekan
+Kotarih 
+Serdang Bedagai
+Kotarih Pekan Kotarih
+Kotarih Serdang Bedagai
+Kotarih Pekan Kotarih Serdang Bedagai
+ X menghasilkan 
+ 	- Pekan Kotarih
+	- Pekan Kotarih Serdang Bedagai
+(Jadi ekpansinya hapus semua (","), baru buat ngramnya)
+
+Namun, Y melakukkan ekspansi hanya berdasar "," jadi tidak menghasilkan entry seperti diatas (karena sudah melewati batas komanya)
+Data yang termasuk :
+kata asli : Keramat Mina, Cintapuri Darussalam, Banjar
+	Mina
+kata asli : Kotarih Pekan, Kotarih, Serdang Bedagai
+	Pekan Kotarih
+	Pekan Kotarih Serdang Bedagai
+kata asli : Kota Pinang, Kota Pinang, Labuhanbatu Selatan
+	Pinang Kota Pinang
+	Pinang Kota Pinang Labuhanbatu Selatan
+kata asli : Bungko, Kotamobagu Selatan, Kotamobagu
+	Selatan Kotamobagu
+kata asli : Candi Mas, Abung Selatan, Lampung Utara
+	Selatan Lampung Utara 
+kata asli : Kotaraya Selatan, Mepanga, Parigi Moutong
+	Selatan Mepanga
+	Selatan Mepanga Parigi Moutong
+Kata asli : Huta Siantar, Panyabungan Kota, Mandailing Natal
+	Siantar Panyabungan Kota
+	Siantar Panyabungan Kota Mandailing Natal
+kata asli : Kotabaru Tengah, Pulau Laut Utara, Kotabaru
+	Tengah Pulau Laut Utara
+	Tengah Pulau Laut Utara Kotabaru
+kata asli : Kobo Kecil, Kotamobagu Timur, Kotamobagu
+	Timur Kotamobagu
+kata asli : Kotaraya Timur, Mepanga, Parigi Moutong
+	Timur Mepanga
+	Timur Mepanga Parigi Moutong
+kata asli : 
+	Tinggi Pekanbaru Kota
+	Tinggi Pekanbaru Kota Pekanbaru
+kata asli : 
+	Utara Kotamobagu
+kata asli : Sungkai Utara, Lampung Utara
+	Utara Lampung Utara
+kata asli : Kota Wetan, Garut Kota, Garut
+	Wetan Garut Kota
+	Wetan Garut Kota Garut

@@ -14,7 +14,7 @@
 ####################################################################################
 
 
-from function import writeDictToFile, writeListofStringToFile, writeListofListToFile
+from function import writeDictToFile, writeListofStringToFile, writeListofListToFile, nGram, nameGram
 
 
 ##########################################################################
@@ -30,37 +30,6 @@ coba= folder + "personcb.txt"
 cek = 0
 #outputtmp = folder + "tmp.txt"
 
-def nGram(input, n):
-  input = input.split(' ')
-  output = []
-  for i in range(len(input)-n+1):
-    output.append(input[i:i+n])
-  return output
-
-def nameGram(kata,n):
-   
-    arrKata = []
-    arrOutput = []
-    kataTmp = ""
-    for i in range(1,n+1):
-        arrKata.append(nGram(kata,i))
-   
-    for j in range(0,n):
-        arrTemp = arrKata[j]
-        for k in range(0, len(arrTemp)):
-            arrTemp2 = arrTemp[k]
-            kataTmp = ""
-            for m in range(0,len(arrTemp2)):
-                
-                kataTmp = kataTmp + (arrTemp2[m] + " ")
-                
-            if kataTmp[len(kataTmp)-1] == " ":
-                kataTmp = kataTmp[:len(kataTmp)-1]
-            arrOutput.append(kataTmp)
-        # for j in range(0,n)
-        #     for k in range(0,)
-    
-    return arrOutput
 #########################  begin ################################
 
 inputFile = open(input, 'r', errors='ignore')
@@ -85,7 +54,7 @@ for k in flines:
     count += 1
 inputFile.close()
 
-#masukkan kembali entity yang mengandung bin, binti, dll
+#EA2 masukkan kembali entity yang mengandung bin, binti, dll
 inputFile = open(inputBin, 'r', errors='ignore')
 flines = inputFile.readlines()
 

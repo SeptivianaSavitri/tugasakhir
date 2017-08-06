@@ -19,7 +19,7 @@
 ####################################################################################
 
 
-from function import writeDictToFile, writeListofListToFile, writeListofStringToFile, diKamus, buatKamus, writeDictWithValueToFile
+from function import writeDictToFile, writeListofListToFile, writeListofStringToFile, diKamus, buatKamus, writeDictWithValueToFile, findWord
 
 
 ##########################################################################
@@ -32,7 +32,8 @@ input = "dbpedia-new/expanded/place.txt"
 folder = "dbpedia-new/validate/"
 output = folder + "place.txt"
 outputtmp = folder + "tmpplace.txt"
-nltk_data = "dbpedia-new/nltk_clean.txt"
+#nltk_data = "dbpedia-new/nltk_clean.txt"
+nltk_data = "dbpedia-new/english_corpus.txt"
 kebi_data = "dbpedia-new/kebi_clean.txt"
 dictKebi = {}
 dictNLTK = {}
@@ -52,6 +53,7 @@ ROMAWI = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
              "XI", "XII", "XIII", "XIV",
              "XX", "XXX"]
 BULAN = ["April", "Juni", "Juli"]
+AGAMA = ["Buddha","Hindu","Islam","Katolik","Khonghucu","Kristen","Protestan"]
 # print(diKamus("Arab",dictKebi))
 count = 1
 for k in flines:
@@ -63,13 +65,16 @@ for k in flines:
     #jika nama ada di nltk
     elif(diKamus(k, dictNLTK)):
         dictTmp[k] = "NLTK"
-
     elif(len(k) <2):
         dictTmp[k] = "panjang1"
     elif(k in ROMAWI):
         dictTmp[k] = "romawi"
+    #V6
     elif(k in BULAN):
         dictTmp[k] = "Nama bulan"
+    #V7
+    elif(k in AGAMA):
+        dictTmp[k] = "Nama agama"
     else:
         dictPlace[k] = k
 inputFile.close()

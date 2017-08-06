@@ -38,7 +38,34 @@ def nGramKoma(input, n):
   for i in range(len(input)-n+1):
     output.append(input[i:i+n])
   return output
-print(nGramKoma("Aku ceker, ayam kampung, omaygat",3))
+
+####################################################################################
+# Membuat kombinasi n-gram koma untuk n buah kata
+####################################################################################
+def nameGramKoma(kata,n):
+   
+    arrKata = []
+    arrOutput = []
+    kataTmp = ""
+    for i in range(1,n+1):
+        arrKata.append(nGramKoma(kata,i))
+   
+    for j in range(0,n):
+        arrTemp = arrKata[j]
+        for k in range(0, len(arrTemp)):
+            arrTemp2 = arrTemp[k]
+            kataTmp = ""
+            for m in range(0,len(arrTemp2)):
+                
+                kataTmp = kataTmp + (arrTemp2[m] + " ")
+                kataTmp = kataTmp.strip()
+                #print("aku kataTmp ke "+str(m)+"  "+ kataTmp)
+                
+           
+            arrOutput.append(kataTmp)
+    return arrOutput
+#print(nameGramKoma("Aku Depok, Cimanggis, Mekarsari",3))
+
 ####################################################################################
 # Membuat kombinasi n-gram untuk n buah kata
 ####################################################################################
@@ -66,7 +93,7 @@ def nameGram(kata,n):
         #     for k in range(0,)
     
     return arrOutput
-
+#print(nameGram("Aku ceker ayam kampung omaygat",5))
 ####################################################################################
 # Mencari jumlah huruf Kapital dalam suatu kata
 ####################################################################################
@@ -178,7 +205,7 @@ def makeExpandedDBpediaDictionary():
     aDict = {}
 
     person = open("dbpedia-new/validate/person.txt", "r")
-    place = open("dbpedia-new/validate/place.txt", "r")
+    place = open("dbpediaRule/validate/G2.txt", "r")
     org = open("dbpedia-new/validate/organization.txt", "r", encoding = "Latin1")
 
     personLines = person.readlines()

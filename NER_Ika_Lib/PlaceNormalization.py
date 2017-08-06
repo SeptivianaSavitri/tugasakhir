@@ -50,6 +50,7 @@ for k in flines:
 
 	if k.find("Kabupaten Administrasi") != -1:
 		kBaru = k.replace("Kabupaten Administrasi","")
+		kBaru = kBaru.replace("  "," ")
 		newListPlace.append(kBaru)
 		newListPlace.append(k)
 		newListPlaceNor.append(kBaru)
@@ -57,13 +58,63 @@ for k in flines:
 		cek = cek + 1
 	elif k.find("Kabupaten") != -1:
 		kBaru = k.replace("Kabupaten","")
+		kBaru = kBaru.replace("  "," ")
 		newListPlace.append(kBaru)
 		newListPlace.append(k)
 		newListPlaceNor.append(kBaru)
 		newListPlaceNor.append(k)
 		cek = cek + 1
+	elif k.find("Departemen") != -1:
+		kBaru = k.replace("Departemen","")
+		kBaru = kBaru.replace("  "," ")
+		newListPlace.append(kBaru)
+		newListPlace.append(k)
+		newListPlaceNor.append(kBaru)
+		newListPlaceNor.append(k) 
+		cek = cek + 1
+	elif k.find("Distrik") != -1:
+		kBaru = k.replace("Distrik","")
+		kBaru = kBaru.replace("  "," ")
+		newListPlace.append(kBaru)
+		newListPlace.append(k)
+		newListPlaceNor.append(kBaru)
+		newListPlaceNor.append(k) 
+		cek = cek + 1
+	elif k.find("Negara Bagian") != -1:
+		kBaru = k.replace("Negara Bagian","")
+		kBaru = kBaru.replace("  "," ")
+		newListPlace.append(kBaru)
+		newListPlace.append(k)
+		newListPlaceNor.append(kBaru)
+		newListPlaceNor.append(k) 
+		cek = cek + 1
+	elif k.find("Negara bagian") != -1:
+		kBaru = k.replace("Negara bagian","")
+		kBaru = kBaru.replace("  "," ")
+		newListPlace.append(kBaru)
+		newListPlace.append(k)
+		newListPlaceNor.append(kBaru)
+		newListPlaceNor.append(k) 
+		cek = cek + 1
+	elif k.find("Region") != -1:
+		kBaru = k.replace("Region","")
+		kBaru = kBaru.replace("  "," ")
+		newListPlace.append(kBaru)
+		newListPlace.append(k)
+		newListPlaceNor.append(kBaru)
+		newListPlaceNor.append(k) 
+		cek = cek + 1
 	elif k.find("Kota Administrasi") != -1:
 		kBaru = k.replace("Kota Administrasi","")
+		kBaru = kBaru.replace("  "," ")
+		newListPlace.append(kBaru)
+		newListPlace.append(k) 
+		newListPlaceNor.append(kBaru)
+		newListPlaceNor.append(k)
+		cek = cek + 1
+	elif k.find("Ibu Kota") != -1:
+		kBaru = k.replace("Ibu Kota","")
+		kBaru = kBaru.replace("  "," ")
 		newListPlace.append(kBaru)
 		newListPlace.append(k) 
 		newListPlaceNor.append(kBaru)
@@ -71,6 +122,7 @@ for k in flines:
 		cek = cek + 1
 	elif findWord(k,"kota"):
 		kBaru = k.replace("Kota","")
+		kBaru = kBaru.replace("  "," ")
 		newListPlace.append(kBaru)
 		newListPlace.append(k)
 		newListPlaceNor.append(kBaru)
@@ -78,6 +130,7 @@ for k in flines:
 		cek = cek + 1
 	elif k.find("Provinsi") != -1:
 		kBaru = k.replace("Provinsi","")
+		kBaru = kBaru.replace("  "," ")
 		newListPlace.append(kBaru)
 		newListPlace.append(k)
 		newListPlaceNor.append(kBaru)
@@ -86,6 +139,7 @@ for k in flines:
 
 	elif k.find("Kecamatan") != -1:
 		kBaru = k.replace("Kecamatan","")
+		kBaru = kBaru.replace("  "," ")
 		newListPlace.append(kBaru)
 		newListPlace.append(k)
 		newListPlaceNor.append(kBaru)
@@ -93,12 +147,14 @@ for k in flines:
 		cek = cek + 1
 	elif k.find("Desa") != -1:
 		kBaru = k.replace("Desa","")
+		kBaru = kBaru.replace("  "," ")
 		newListPlace.append(kBaru)
 		newListPlace.append(k)
 		newListPlaceNor.append(kBaru)
 		newListPlaceNor.append(k)
 		cek = cek + 1
 	else:
+		k = k.replace("  "," ")
 		newListPlace.append(k);
 	
 

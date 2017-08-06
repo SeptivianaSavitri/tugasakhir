@@ -673,6 +673,12 @@ Ismail Omar Guelleh
 Hamid
 Karzai
 Hamid Karzai
+Chiang
+Kai-shek
+Chiang Kai-shek
+Chiang
+Kai-shek
+Chiang Kai-shek
 Mao
 Zedong
 Mao Zedong
@@ -855,6 +861,9 @@ Boutros
 Boutros-Ghali
 Boutros Boutros-Ghali
 Boutros
+Boutros-Ghali
+Boutros Boutros-Ghali
+Boutros
 Boutros
 Ghali
 Boutros Boutros
@@ -878,6 +887,9 @@ Hassanal Bolkiah
 Levi
 Eshkol
 Levi Eshkol
+David
+Ben-Gurion
+David Ben-Gurion
 David
 Ben-Gurion
 David Ben-Gurion
@@ -1073,6 +1085,12 @@ Soetrisno Bachir
 Agatha
 Christie
 Agatha Christie
+Kim
+Jong-il
+Kim Jong-il
+Kim
+Jong-il
+Kim Jong-il
 Meutya
 Hafid
 Meutya Hafid
@@ -1093,6 +1111,9 @@ Wiranata
 Ardi B.
 B. Wiranata
 Ardi B. Wiranata
+Tim
+Berners-Lee
+Tim Berners-Lee
 Tim
 Berners-Lee
 Tim Berners-Lee
@@ -1220,6 +1241,9 @@ Yitzhak
 Ben-Zvi
 Yitzhak Ben-Zvi
 Yitzhak
+Ben-Zvi
+Yitzhak Ben-Zvi
+Yitzhak
 Ben
 Zvi
 Yitzhak Ben
@@ -1307,6 +1331,12 @@ Paolo Maldini
 Andriy
 Shevchenko
 Andriy Shevchenko
+Ibrahim
+al-Jaafari
+Ibrahim al-Jaafari
+Ibrahim
+al-Jaafari
+Ibrahim al-Jaafari
 Bima
 Sakti
 Tukiman
@@ -1376,6 +1406,12 @@ Robert Hofstadter
 Junichiro
 Koizumi
 Junichiro Koizumi
+Muammar
+al-Qaddafi
+Muammar al-Qaddafi
+Muammar
+al-Qaddafi
+Muammar al-Qaddafi
 Habib
 Burquibah
 Habib Burquibah
@@ -1395,6 +1431,18 @@ Ilham Aliyev
 Aleksandr
 Lukashenko
 Aleksandr Lukashenko
+Abu
+Bakar
+Ash-Shiddiq
+Abu Bakar
+Bakar Ash-Shiddiq
+Abu Bakar Ash-Shiddiq
+Abu
+Bakar
+Ash-Shiddiq
+Abu Bakar
+Bakar Ash-Shiddiq
+Abu Bakar Ash-Shiddiq
 Abu
 Bakar
 Ash-Shiddiq
@@ -1583,6 +1631,9 @@ Denis
 Sassou-Nguesso
 Denis Sassou-Nguesso
 Denis
+Sassou-Nguesso
+Denis Sassou-Nguesso
+Denis
 Sassou
 Nguesso
 Denis Sassou
@@ -1654,6 +1705,9 @@ Kabila
 Laurent Désiré
 Désiré Kabila
 Laurent Désiré Kabila
+Laurent-Désiré
+Kabila
+Laurent-Désiré Kabila
 Pervez
 Musharraf
 Pervez Musharraf
@@ -1703,6 +1757,46 @@ Videla
 Jorge Rafael
 Rafael Videla
 Jorge Rafael Videla
+Ghazi
+Mashal
+Ajil
+al-Yawer
+Ghazi Mashal
+Mashal Ajil
+Ajil al-Yawer
+Ghazi Mashal Ajil
+Mashal Ajil al-Yawer
+Ghazi Mashal Ajil al-Yawer
+Ghazi
+Mashal
+Ajil
+al-Yawer
+Ghazi Mashal
+Mashal Ajil
+Ajil al-Yawer
+Ghazi Mashal Ajil
+Mashal Ajil al-Yawer
+Ghazi Mashal Ajil al-Yawer
+Ghazi
+Mashal
+Ajil
+al-Yawer
+Ghazi Mashal
+Mashal Ajil
+Ajil al-Yawer
+Ghazi Mashal Ajil
+Mashal Ajil al-Yawer
+Ghazi Mashal Ajil al-Yawer
+Ghazi
+Mashal
+Ajil
+al-Yawer
+Ghazi Mashal
+Mashal Ajil
+Ajil al-Yawer
+Ghazi Mashal Ajil
+Mashal Ajil al-Yawer
+Ghazi Mashal Ajil al-Yawer
 Mario
 J.
 Molina
@@ -1746,6 +1840,12 @@ Abdul Kalam
 Emomali
 Rahmon
 Emomali Rahmon
+Hafez
+al-Assad
+Hafez al-Assad
+Hafez
+al-Assad
+Hafez al-Assad
 Pink
 Floyd
 Pink Floyd
@@ -1927,6 +2027,9 @@ Sartre
 Jean Paul
 Paul Sartre
 Jean Paul Sartre
+Jean-Paul
+Sartre
+Jean-Paul Sartre
 Robert
 A.
 Heinlein
@@ -1992,6 +2095,12 @@ Robin Williams
 Ronald
 Reagan
 Ronald Reagan
+Bashar
+al-Assad
+Bashar al-Assad
+Bashar
+al-Assad
+Bashar al-Assad
 Hutomo
 Mandala
 Putra
@@ -2064,6 +2173,36 @@ Max F. Perutz
 Zhou
 Enlai
 Zhou Enlai
+Sun
+Yat-sen
+Sun Yat-sen
+Sun
+Yat-sen
+Sun Yat-sen
+Chiang
+Ching-kuo
+Chiang Ching-kuo
+Chiang
+Ching-kuo
+Chiang Ching-kuo
+Chen
+Shui-bian
+Chen Shui-bian
+Chen
+Shui-bian
+Chen Shui-bian
+Lee
+Teng-hui
+Lee Teng-hui
+Lee
+Teng-hui
+Lee Teng-hui
+Ma
+Ying-jeou
+Ma Ying-jeou
+Ma
+Ying-jeou
+Ma Ying-jeou
 Lien
 Chan
 Lien Chan
@@ -2111,6 +2250,9 @@ Castro
 Marty
 Natalegawa
 Marty Natalegawa
+Gloria
+Macapagal-Arroyo
+Gloria Macapagal-Arroyo
 Gloria
 Macapagal-Arroyo
 Gloria Macapagal-Arroyo
@@ -2189,6 +2331,12 @@ Ruslan Abdulgani
 Roeslan
 Abdulgani
 Roeslan Abdulgani
+Kim
+Il-sung
+Kim Il-sung
+Kim
+Il-sung
+Kim Il-sung
 Aria
 Lamanjiji
 Aria Lamanjiji
@@ -2253,6 +2401,9 @@ Finsen
 Niels Ryberg
 Ryberg Finsen
 Niels Ryberg Finsen
+Kim
+Dae-Jung
+Kim Dae-Jung
 Kim
 Dae-Jung
 Kim Dae-Jung
@@ -2378,6 +2529,12 @@ Mohamad Roem
 Giuseppe
 Meazza
 Giuseppe Meazza
+Dodi
+al-Fayed
+Dodi al-Fayed
+Dodi
+al-Fayed
+Dodi al-Fayed
 Ruhollah
 Khomeini
 Ruhollah Khomeini
@@ -2548,6 +2705,12 @@ Helú
 Carlos Slim
 Slim Helú
 Carlos Slim Helú
+Li
+Ka-shing
+Li Ka-shing
+Li
+Ka-shing
+Li Ka-shing
 Helmi
 Johannes
 Helmi Johannes
@@ -2664,6 +2827,9 @@ Herman Melville
 Ayu
 Azhari
 Ayu Azhari
+Ahn
+Jung-Hwan
+Ahn Jung-Hwan
 Ahn
 Jung-Hwan
 Ahn Jung-Hwan
@@ -2872,6 +3038,9 @@ Vaira
 V??e-Freiberga
 Vaira V??e-Freiberga
 Vaira
+V??e-Freiberga
+Vaira V??e-Freiberga
+Vaira
 V??e
 Freiberga
 Vaira V??e
@@ -3072,6 +3241,12 @@ Gamawan Fauzi
 Nicholas
 Saputra
 Nicholas Saputra
+Muhammad
+al-Idrisi
+Muhammad al-Idrisi
+Muhammad
+al-Idrisi
+Muhammad al-Idrisi
 Widi
 Mulia
 Widi Mulia
@@ -3185,6 +3360,24 @@ Louis
 Braille
 Louis Braille
 Ahmed
+Hassan
+al-Bakr
+Ahmed Hassan
+Hassan al-Bakr
+Ahmed Hassan al-Bakr
+Ahmed
+Hassan
+al-Bakr
+Ahmed Hassan
+Hassan al-Bakr
+Ahmed Hassan al-Bakr
+Ahmed
+Hassan
+al-Bakr
+Ahmed Hassan
+Hassan al-Bakr
+Ahmed Hassan al-Bakr
+Ahmed
 Nazif
 Ahmed Nazif
 Piet
@@ -3216,6 +3409,16 @@ Elvis Presley
 Duran
 Duran
 Duran Duran
+Sabah
+Al-Ahmad
+Al-Jaber
+Al-Sabah
+Sabah Al-Ahmad
+Al-Ahmad Al-Jaber
+Al-Jaber Al-Sabah
+Sabah Al-Ahmad Al-Jaber
+Al-Ahmad Al-Jaber Al-Sabah
+Sabah Al-Ahmad Al-Jaber Al-Sabah
 Sabah
 Al-Ahmad
 Al-Jaber
@@ -3389,6 +3592,24 @@ Faure Gnassingbé
 Ali
 Khamenei
 Ali Khamenei
+Muhammad
+Naji
+al-Otari
+Muhammad Naji
+Naji al-Otari
+Muhammad Naji al-Otari
+Muhammad
+Naji
+al-Otari
+Muhammad Naji
+Naji al-Otari
+Muhammad Naji al-Otari
+Muhammad
+Naji
+al-Otari
+Muhammad Naji
+Naji al-Otari
+Muhammad Naji al-Otari
 Ronald
 Venetiaan
 Ronald Venetiaan
@@ -3422,6 +3643,46 @@ Ahmed
 Abdullahi Yusuf
 Yusuf Ahmed
 Abdullahi Yusuf Ahmed
+Umar
+Hasan
+Ahmad
+al-Bashir
+Umar Hasan
+Hasan Ahmad
+Ahmad al-Bashir
+Umar Hasan Ahmad
+Hasan Ahmad al-Bashir
+Umar Hasan Ahmad al-Bashir
+Umar
+Hasan
+Ahmad
+al-Bashir
+Umar Hasan
+Hasan Ahmad
+Ahmad al-Bashir
+Umar Hasan Ahmad
+Hasan Ahmad al-Bashir
+Umar Hasan Ahmad al-Bashir
+Umar
+Hasan
+Ahmad
+al-Bashir
+Umar Hasan
+Hasan Ahmad
+Ahmad al-Bashir
+Umar Hasan Ahmad
+Hasan Ahmad al-Bashir
+Umar Hasan Ahmad al-Bashir
+Umar
+Hasan
+Ahmad
+al-Bashir
+Umar Hasan
+Hasan Ahmad
+Ahmad al-Bashir
+Umar Hasan Ahmad
+Hasan Ahmad al-Bashir
+Umar Hasan Ahmad al-Bashir
 Idriss
 Déby
 Idriss Déby
@@ -3469,6 +3730,12 @@ Merz
 Hans Rudolf
 Rudolf Merz
 Hans Rudolf Merz
+Hans-Rudolf
+Merz
+Hans-Rudolf Merz
+Micheline
+Calmy-Rey
+Micheline Calmy-Rey
 Micheline
 Calmy-Rey
 Micheline Calmy-Rey
@@ -4080,6 +4347,9 @@ Aristide
 Jean Bertrand
 Bertrand Aristide
 Jean Bertrand Aristide
+Jean-Bertrand
+Aristide
+Jean-Bertrand Aristide
 Jean-Claude
 Duvalier
 Jean-Claude Duvalier
@@ -4089,6 +4359,9 @@ Duvalier
 Jean Claude
 Claude Duvalier
 Jean Claude Duvalier
+Jean-Claude
+Duvalier
+Jean-Claude Duvalier
 François
 Duvalier
 François Duvalier
@@ -4225,6 +4498,9 @@ Hsu
 Tain Tsair
 Tsair Hsu
 Tain Tsair Hsu
+Tain-Tsair
+Hsu
+Tain-Tsair Hsu
 Gilbert
 Bukenya
 Gilbert Bukenya
@@ -4240,6 +4516,9 @@ Berger
 Peter L.
 L. Berger
 Peter L. Berger
+Portia
+Simpson-Miller
+Portia Simpson-Miller
 Portia
 Simpson-Miller
 Portia Simpson-Miller
@@ -4455,6 +4734,9 @@ C?lin
 Popescu-T?riceanu
 C?lin Popescu-T?riceanu
 C?lin
+Popescu-T?riceanu
+C?lin Popescu-T?riceanu
+C?lin
 Popescu
 T?riceanu
 C?lin Popescu
@@ -4484,6 +4766,18 @@ and JoJo
 K Ci and
 Ci and JoJo
 K Ci and JoJo
+K-Ci
+and
+JoJo
+K-Ci and
+and JoJo
+K-Ci and JoJo
+K-Ci
+and
+JoJo
+K-Ci and
+and JoJo
+K-Ci and JoJo
 Clubeighties
 Carmen
 Miranda
@@ -4534,6 +4828,9 @@ Proust
 Jean Paul
 Paul Proust
 Jean Paul Proust
+Jean-Paul
+Proust
+Jean-Paul Proust
 Luciano
 Pavarotti
 Luciano Pavarotti
@@ -4734,6 +5031,26 @@ Mohammed Al-Ahmed Al-Sabah
 Nasser Mohammed Al-Ahmed Al-Sabah
 Nasser
 Mohammed
+Al-Ahmed
+Al-Sabah
+Nasser Mohammed
+Mohammed Al-Ahmed
+Al-Ahmed Al-Sabah
+Nasser Mohammed Al-Ahmed
+Mohammed Al-Ahmed Al-Sabah
+Nasser Mohammed Al-Ahmed Al-Sabah
+Nasser
+Mohammed
+Al-Ahmed
+Al-Sabah
+Nasser Mohammed
+Mohammed Al-Ahmed
+Al-Ahmed Al-Sabah
+Nasser Mohammed Al-Ahmed
+Mohammed Al-Ahmed Al-Sabah
+Nasser Mohammed Al-Ahmed Al-Sabah
+Nasser
+Mohammed
 Al
 Ahmed
 Al
@@ -4784,6 +5101,12 @@ Al Ahmed Al Sabah
 Nasser Mohammed Al Ahmed Al
 Mohammed Al Ahmed Al Sabah
 Nasser Mohammed Al Ahmed Al Sabah
+Roh
+Moo-hyun
+Roh Moo-hyun
+Roh
+Moo-hyun
+Roh Moo-hyun
 Óscar
 Arias
 Sánchez
@@ -4850,6 +5173,9 @@ Nitimiharja
 Andung A.
 A. Nitimiharja
 Andung A. Nitimiharja
+Dorodjatun
+Kuntjoro-Jakti
+Dorodjatun Kuntjoro-Jakti
 Dorodjatun
 Kuntjoro-Jakti
 Dorodjatun Kuntjoro-Jakti
@@ -5094,6 +5420,9 @@ Assaat
 Wisran
 Hadi
 Wisran Hadi
+Sophie
+Ellis-Bextor
+Sophie Ellis-Bextor
 Sophie
 Ellis-Bextor
 Sophie Ellis-Bextor
@@ -5554,6 +5883,9 @@ Goldman
 Jean Jacques
 Jacques Goldman
 Jean Jacques Goldman
+Jean-Jacques
+Goldman
+Jean-Jacques Goldman
 Carole
 Fredericks
 Carole Fredericks
@@ -5683,6 +6015,9 @@ Urho Kekkonen
 Mauno
 Koivisto
 Mauno Koivisto
+Levon
+Ter-Petrossian
+Levon Ter-Petrossian
 Levon
 Ter-Petrossian
 Levon Ter-Petrossian
@@ -5851,6 +6186,9 @@ Patassé
 Ange Félix
 Félix Patassé
 Ange Félix Patassé
+Ange-Félix
+Patassé
+Ange-Félix Patassé
 Adolfo
 Suárez
 Adolfo Suárez
@@ -6096,6 +6434,9 @@ René
 France Albert
 Albert René
 France Albert René
+France-Albert
+René
+France-Albert René
 Richie
 Havens
 Richie Havens
@@ -6360,6 +6701,12 @@ Xabi Alonso
 Djibril
 Cissé
 Djibril Cissé
+Han
+Myung-sook
+Han Myung-sook
+Han
+Myung-sook
+Han Myung-sook
 Sami
 Hyypiä
 Sami Hyypiä
@@ -6537,6 +6884,12 @@ Fridtjof Wedel-Jarlsberg
 Wedel-Jarlsberg Nansen
 Fridtjof Wedel-Jarlsberg Nansen
 Fridtjof
+Wedel-Jarlsberg
+Nansen
+Fridtjof Wedel-Jarlsberg
+Wedel-Jarlsberg Nansen
+Fridtjof Wedel-Jarlsberg Nansen
+Fridtjof
 Wedel
 Jarlsberg
 Nansen
@@ -6546,6 +6899,12 @@ Jarlsberg Nansen
 Fridtjof Wedel Jarlsberg
 Wedel Jarlsberg Nansen
 Fridtjof Wedel Jarlsberg Nansen
+Fridtjof
+Wedel-Jarlsberg
+Nansen
+Fridtjof Wedel-Jarlsberg
+Wedel-Jarlsberg Nansen
+Fridtjof Wedel-Jarlsberg Nansen
 Richard
 Sambera
 Richard Sambera
@@ -6787,6 +7146,9 @@ Park
 Ji-Sung
 Park Ji-Sung
 Park
+Ji-Sung
+Park Ji-Sung
+Park
 Ji
 Sung
 Park Ji
@@ -6848,6 +7210,9 @@ Ashley Cole
 Landon
 Donovan
 Landon Donovan
+Hamad
+Al-Montashari
+Hamad Al-Montashari
 Hamad
 Al-Montashari
 Hamad Al-Montashari
@@ -7548,6 +7913,9 @@ Tizié
 Jean Jacques
 Jacques Tizié
 Jean Jacques Tizié
+Jean-Jacques
+Tizié
+Jean-Jacques Tizié
 Maniche
 Gerd
 Müller
@@ -7583,6 +7951,9 @@ Mohammad
 Al-Deayea
 Mohammad Al-Deayea
 Mohammad
+Al-Deayea
+Mohammad Al-Deayea
+Mohammad
 Al
 Deayea
 Mohammad Al
@@ -7591,6 +7962,9 @@ Mohammad Al Deayea
 Rachel
 Maryam
 Rachel Maryam
+Sami
+Al-Jaber
+Sami Al-Jaber
 Sami
 Al-Jaber
 Sami Al-Jaber
@@ -7611,6 +7985,18 @@ Aziz Al-Khathran
 Abdul Aziz Al-Khathran
 Abdul
 Aziz
+Al-Khathran
+Abdul Aziz
+Aziz Al-Khathran
+Abdul Aziz Al-Khathran
+Abdul
+Aziz
+Al-Khathran
+Abdul Aziz
+Aziz Al-Khathran
+Abdul Aziz Al-Khathran
+Abdul
+Aziz
 Al
 Khathran
 Abdul Aziz
@@ -7619,6 +8005,9 @@ Al Khathran
 Abdul Aziz Al
 Aziz Al Khathran
 Abdul Aziz Al Khathran
+Yasser
+Al-Qahtani
+Yasser Al-Qahtani
 Yasser
 Al-Qahtani
 Yasser Al-Qahtani
@@ -7975,6 +8364,9 @@ Eriksson
 Sven Göran
 Göran Eriksson
 Sven Göran Eriksson
+Sven-Göran
+Eriksson
+Sven-Göran Eriksson
 Carlos
 Alberto
 Parreira
@@ -8050,6 +8442,9 @@ Cousteau
 Jacques Yves
 Yves Cousteau
 Jacques Yves Cousteau
+Jacques-Yves
+Cousteau
+Jacques-Yves Cousteau
 Éric
 Abidal
 Éric Abidal
@@ -8071,6 +8466,9 @@ Boumsong
 Jean Alain
 Alain Boumsong
 Jean Alain Boumsong
+Jean-Alain
+Boumsong
+Jean-Alain Boumsong
 David
 Rozehnal
 David Rozehnal
@@ -8114,11 +8512,17 @@ Mohammad
 Al-Shalhoub
 Mohammad Al-Shalhoub
 Mohammad
+Al-Shalhoub
+Mohammad Al-Shalhoub
+Mohammad
 Al
 Shalhoub
 Mohammad Al
 Al Shalhoub
 Mohammad Al Shalhoub
+Saad
+Al-Harthi
+Saad Al-Harthi
 Saad
 Al-Harthi
 Saad Al-Harthi
@@ -8131,6 +8535,9 @@ Saad Al Harthi
 Saud
 Kariri
 Saud Kariri
+Ahmad
+Al-Bahri
+Ahmad Al-Bahri
 Ahmad
 Al-Bahri
 Ahmad Al-Bahri
@@ -8440,6 +8847,9 @@ Ahmed
 Al-Doukhi
 Ahmed Al-Doukhi
 Ahmed
+Al-Doukhi
+Ahmed Al-Doukhi
+Ahmed
 Al
 Doukhi
 Ahmed Al
@@ -8449,11 +8859,17 @@ Naif
 Al-Qadhi
 Naif Al-Qadhi
 Naif
+Al-Qadhi
+Naif Al-Qadhi
+Naif
 Al
 Qadhi
 Naif Al
 Al Qadhi
 Naif Al Qadhi
+Omar
+Al-Ghamdi
+Omar Al-Ghamdi
 Omar
 Al-Ghamdi
 Omar Al-Ghamdi
@@ -8478,6 +8894,9 @@ Hussein Abdul Ghani
 Khaled
 Aziz
 Khaled Aziz
+Nawaf
+Al-Temyat
+Nawaf Al-Temyat
 Nawaf
 Al-Temyat
 Nawaf Al-Temyat
@@ -9163,6 +9582,9 @@ Claude
 Cohen-Tannoudji
 Claude Cohen-Tannoudji
 Claude
+Cohen-Tannoudji
+Claude Cohen-Tannoudji
+Claude
 Cohen
 Tannoudji
 Claude Cohen
@@ -9396,6 +9818,9 @@ Julia
 Louis-Dreyfus
 Julia Louis-Dreyfus
 Julia
+Louis-Dreyfus
+Julia Louis-Dreyfus
+Julia
 Louis
 Dreyfus
 Julia Louis
@@ -9456,6 +9881,12 @@ Bhutto
 Zulfikar Ali
 Ali Bhutto
 Zulfikar Ali Bhutto
+Muhammad
+Zia-ul-Haq
+Muhammad Zia-ul-Haq
+Muhammad
+Zia-ul-Haq
+Muhammad Zia-ul-Haq
 Awang
 Faruk
 Ishak
@@ -9848,6 +10279,9 @@ Nigel
 Reo-Coker
 Nigel Reo-Coker
 Nigel
+Reo-Coker
+Nigel Reo-Coker
+Nigel
 Reo
 Coker
 Nigel Reo
@@ -10152,11 +10586,17 @@ Elisabeth
 Kübler-Ross
 Elisabeth Kübler-Ross
 Elisabeth
+Kübler-Ross
+Elisabeth Kübler-Ross
+Elisabeth
 Kübler
 Ross
 Elisabeth Kübler
 Kübler Ross
 Elisabeth Kübler Ross
+American
+Hi-Fi
+American Hi-Fi
 American
 Hi-Fi
 American Hi-Fi
@@ -10371,6 +10811,12 @@ Poe
 Edgar Allan
 Allan Poe
 Edgar Allan Poe
+Ban
+Ki-moon
+Ban Ki-moon
+Ban
+Ki-moon
+Ban Ki-moon
 Wolly
 Sutinah
 Wolly Sutinah
@@ -10978,9 +11424,18 @@ Viktor Orbán
 Gyula
 Horn
 Gyula Horn
+Kim
+Young-sam
+Kim Young-sam
+Kim
+Young-sam
+Kim Young-sam
 Daniel
 Inouye
 Daniel Inouye
+Félix
+Houphouët-Boigny
+Félix Houphouët-Boigny
 Félix
 Houphouët-Boigny
 Félix Houphouët-Boigny
@@ -11018,6 +11473,9 @@ Pierce Brosnan
 Massimo
 Ambrosini
 Massimo Ambrosini
+Roger
+Meddows-Taylor
+Roger Meddows-Taylor
 Roger
 Meddows-Taylor
 Roger Meddows-Taylor
@@ -11067,6 +11525,12 @@ Jef Raskin
 Avenged
 Sevenfold
 Avenged Sevenfold
+Tariq
+al-Hashimi
+Tariq al-Hashimi
+Tariq
+al-Hashimi
+Tariq al-Hashimi
 Parameswara
 André
 Lwoff
@@ -11074,6 +11538,9 @@ André Lwoff
 Marshall
 Nirenberg
 Marshall Nirenberg
+Adil
+Abdul-Mahdi
+Adil Abdul-Mahdi
 Adil
 Abdul-Mahdi
 Adil Abdul-Mahdi
@@ -11122,6 +11589,9 @@ APT Pranoto
 Doris
 Leuthard
 Doris Leuthard
+Ruth
+Metzler-Arnold
+Ruth Metzler-Arnold
 Ruth
 Metzler-Arnold
 Ruth Metzler-Arnold
@@ -11190,6 +11660,9 @@ Rita
 Levi-Montalcini
 Rita Levi-Montalcini
 Rita
+Levi-Montalcini
+Rita Levi-Montalcini
+Rita
 Levi
 Montalcini
 Rita Levi
@@ -11219,6 +11692,9 @@ Chevallaz
 Georges André
 André Chevallaz
 Georges André Chevallaz
+Georges-André
+Chevallaz
+Georges-André Chevallaz
 Hans
 Hürlimann
 Hans Hürlimann
@@ -11246,6 +11722,9 @@ Tschudi
 Hans Peter
 Peter Tschudi
 Hans Peter Tschudi
+Hans-Peter
+Tschudi
+Hans-Peter Tschudi
 Arturo
 Lupoli
 Arturo Lupoli
@@ -11320,6 +11799,9 @@ Ruchet
 Marc Emile
 Emile Ruchet
 Marc Emile Ruchet
+Marc-Emile
+Ruchet
+Marc-Emile Ruchet
 Eugène
 Ruffy
 Eugène Ruffy
@@ -11637,6 +12119,9 @@ Maitre
 Jean Philippe
 Philippe Maitre
 Jean Philippe Maitre
+Jean-Philippe
+Maitre
+Jean-Philippe Maitre
 Louis
 Ruchonnet
 Louis Ruchonnet
@@ -11672,6 +12157,9 @@ Olivia
 Newton-John
 Olivia Newton-John
 Olivia
+Newton-John
+Olivia Newton-John
+Olivia
 Newton
 John
 Olivia Newton
@@ -11702,6 +12190,46 @@ Ferry Ardiansyah
 Diky
 Candra
 Diky Candra
+Ahmad
+Husayn
+Khudayir
+as-Samarrai
+Ahmad Husayn
+Husayn Khudayir
+Khudayir as-Samarrai
+Ahmad Husayn Khudayir
+Husayn Khudayir as-Samarrai
+Ahmad Husayn Khudayir as-Samarrai
+Ahmad
+Husayn
+Khudayir
+as-Samarrai
+Ahmad Husayn
+Husayn Khudayir
+Khudayir as-Samarrai
+Ahmad Husayn Khudayir
+Husayn Khudayir as-Samarrai
+Ahmad Husayn Khudayir as-Samarrai
+Ahmad
+Husayn
+Khudayir
+as-Samarrai
+Ahmad Husayn
+Husayn Khudayir
+Khudayir as-Samarrai
+Ahmad Husayn Khudayir
+Husayn Khudayir as-Samarrai
+Ahmad Husayn Khudayir as-Samarrai
+Ahmad
+Husayn
+Khudayir
+as-Samarrai
+Ahmad Husayn
+Husayn Khudayir
+Khudayir as-Samarrai
+Ahmad Husayn Khudayir
+Husayn Khudayir as-Samarrai
+Ahmad Husayn Khudayir as-Samarrai
 Ayu
 Ratna
 Ayu Ratna
@@ -12758,6 +13286,9 @@ Cho
 Seung Hui
 Hui Cho
 Seung Hui Cho
+Seung-Hui
+Cho
+Seung-Hui Cho
 Claude
 Fenner
 Claude Fenner
@@ -13217,6 +13748,12 @@ Cecil Powell
 Edward
 Purcell
 Edward Purcell
+Han
+Duck-soo
+Han Duck-soo
+Han
+Duck-soo
+Han Duck-soo
 Mihimaru
 GT
 Mihimaru GT
@@ -13235,6 +13772,9 @@ Tomonaga
 Sin Itiro
 Itiro Tomonaga
 Sin Itiro Tomonaga
+Sin-Itiro
+Tomonaga
+Sin-Itiro Tomonaga
 Miki
 Fujimoto
 Miki Fujimoto
@@ -13457,6 +13997,9 @@ Izumi Sakai
 Jared
 Padalecki
 Jared Padalecki
+Albert
+Szent-Györgyi
+Albert Szent-Györgyi
 Albert
 Szent-Györgyi
 Albert Szent-Györgyi
@@ -13790,6 +14333,12 @@ Dani
 Anwar
 Dani Anwar
 Prijanto
+Marwan
+al-Barghutsi
+Marwan al-Barghutsi
+Marwan
+al-Barghutsi
+Marwan al-Barghutsi
 W?odzimierz
 Cimoszewicz
 W?odzimierz Cimoszewicz
@@ -14320,6 +14869,12 @@ Ryoko Hirosue
 Lucky
 Perdana
 Lucky Perdana
+Hau
+Lung-pin
+Hau Lung-pin
+Hau
+Lung-pin
+Hau Lung-pin
 D'Cinnamons
 Hugh
 Jackman
@@ -15609,6 +16164,9 @@ Daniel
 Day-Lewis
 Daniel Day-Lewis
 Daniel
+Day-Lewis
+Daniel Day-Lewis
+Daniel
 Day
 Lewis
 Daniel Day
@@ -16488,6 +17046,9 @@ Godard
 Jean Luc
 Luc Godard
 Jean Luc Godard
+Jean-Luc
+Godard
+Jean-Luc Godard
 Masami
 Okui
 Masami Okui
@@ -16551,6 +17112,9 @@ Farid Hardja
 Maya
 Sutoro-Ng
 Maya Sutoro-Ng
+Maya
+Soetoro-Ng
+Maya Soetoro-Ng
 Maya
 Soetoro-Ng
 Maya Soetoro-Ng
@@ -16760,6 +17324,9 @@ Maunier
 Jean Baptiste
 Baptiste Maunier
 Jean Baptiste Maunier
+Jean-Baptiste
+Maunier
+Jean-Baptiste Maunier
 Rina
 Hasyim
 Rina Hasyim
@@ -16838,6 +17405,9 @@ Bertrand Mbamba
 Jennifer
 Jones
 Jennifer Jones
+Abdurrahman
+As-Sudais
+Abdurrahman As-Sudais
 Abdurrahman
 As-Sudais
 Abdurrahman As-Sudais
@@ -17072,6 +17642,7 @@ Crazy Frog
 Daniel
 Powter
 Daniel Powter
+W-inds.
 Aya
 Hirano
 Aya Hirano
@@ -17109,6 +17680,12 @@ Asian Kung-Fu
 Kung-Fu Generation
 Asian Kung-Fu Generation
 Asian
+Kung-Fu
+Generation
+Asian Kung-Fu
+Kung-Fu Generation
+Asian Kung-Fu Generation
+Asian
 Kung
 Fu
 Generation
@@ -17118,6 +17695,12 @@ Fu Generation
 Asian Kung Fu
 Kung Fu Generation
 Asian Kung Fu Generation
+Asian
+Kung-Fu
+Generation
+Asian Kung-Fu
+Kung-Fu Generation
+Asian Kung-Fu Generation
 Fred
 Zinnemann
 Fred Zinnemann
@@ -17229,6 +17812,9 @@ Lia Waode
 Galih
 Ginanjar
 Galih Ginanjar
+Karjo
+AC-DC
+Karjo AC-DC
 Karjo
 AC-DC
 Karjo AC-DC
@@ -17359,6 +17945,12 @@ Amoroso Katamsi
 Boy
 Tirayoh
 Boy Tirayoh
+Lee
+Myung-bak
+Lee Myung-bak
+Lee
+Myung-bak
+Lee Myung-bak
 Aedy
 Moward
 Aedy Moward
@@ -17687,6 +18279,12 @@ Harun Al-Rasjid
 Al-Rasjid Zain
 Harun Al-Rasjid Zain
 Harun
+Al-Rasjid
+Zain
+Harun Al-Rasjid
+Al-Rasjid Zain
+Harun Al-Rasjid Zain
+Harun
 Al
 Rasjid
 Zain
@@ -17696,6 +18294,12 @@ Rasjid Zain
 Harun Al Rasjid
 Al Rasjid Zain
 Harun Al Rasjid Zain
+Harun
+Al-Rasjid
+Zain
+Harun Al-Rasjid
+Al-Rasjid Zain
+Harun Al-Rasjid Zain
 Sutan
 Muhammad
 Zain
@@ -18041,6 +18645,18 @@ Joseph Étienne
 Jean Joseph Étienne
 Joseph Étienne Lenoir
 Jean Joseph Étienne Lenoir
+Jean-Joseph
+Étienne
+Lenoir
+Jean-Joseph Étienne
+Étienne Lenoir
+Jean-Joseph Étienne Lenoir
+Jean-Joseph
+Étienne
+Lenoir
+Jean-Joseph Étienne
+Étienne Lenoir
+Jean-Joseph Étienne Lenoir
 Clea
 DuVall
 Clea DuVall
@@ -18394,6 +19010,9 @@ Mansyur Syah
 Donny
 Damara
 Donny Damara
+Stelios
+Haji-Ioannou
+Stelios Haji-Ioannou
 Stelios
 Haji-Ioannou
 Stelios Haji-Ioannou
@@ -18790,6 +19409,9 @@ Foé
 Marc Vivien
 Vivien Foé
 Marc Vivien Foé
+Marc-Vivien
+Foé
+Marc-Vivien Foé
 Benito
 Pérez
 Galdós
@@ -18935,6 +19557,9 @@ Franki Indrasmoro Sumbodo
 Charles
 Rolls
 Charles Rolls
+Catherine
+Zeta-Jones
+Catherine Zeta-Jones
 Catherine
 Zeta-Jones
 Catherine Zeta-Jones
@@ -19236,6 +19861,30 @@ Gitalis Dwi Natarina
 Arsène
 Wenger
 Arsène Wenger
+Roh
+Tae-woo
+Roh Tae-woo
+Roh
+Tae-woo
+Roh Tae-woo
+Chun
+Doo-hwan
+Chun Doo-hwan
+Chun
+Doo-hwan
+Chun Doo-hwan
+Choi
+Kyu-ha
+Choi Kyu-ha
+Choi
+Kyu-ha
+Choi Kyu-ha
+Han
+Seung-soo
+Han Seung-soo
+Han
+Seung-soo
+Han Seung-soo
 Alexandre
 Pato
 Alexandre Pato
@@ -19519,6 +20168,9 @@ Gabriel Joachim Dausset
 Jean Baptiste Gabriel Joachim
 Baptiste Gabriel Joachim Dausset
 Jean Baptiste Gabriel Joachim Dausset
+Jean-Baptiste-Gabriel-Joachim
+Dausset
+Jean-Baptiste-Gabriel-Joachim Dausset
 Johann
 Deisenhofer
 Johann Deisenhofer
@@ -19607,6 +20259,9 @@ Eveline
 Widmer-Schlumpf
 Eveline Widmer-Schlumpf
 Eveline
+Widmer-Schlumpf
+Eveline Widmer-Schlumpf
+Eveline
 Widmer
 Schlumpf
 Eveline Widmer
@@ -19659,6 +20314,7 @@ Jamie
 Rose
 Jamie Rose
 Keyla
+Ikimono-gakari
 Jake
 Thomas
 Jake Thomas
@@ -20100,6 +20756,9 @@ Papin
 Jean Pierre
 Pierre Papin
 Jean Pierre Papin
+Jean-Pierre
+Papin
+Jean-Pierre Papin
 Nicholas
 Tse
 Nicholas Tse
@@ -20109,6 +20768,12 @@ Kenny Kwan
 Ken
 Hung
 Ken Hung
+Lee
+Jun-ki
+Lee Jun-ki
+Lee
+Jun-ki
+Lee Jun-ki
 Charlene
 Choi
 Charlene Choi
@@ -20151,6 +20816,9 @@ Michel Suleiman
 Melvy
 Noviza
 Melvy Noviza
+Fei
+Yu-Ching
+Fei Yu-Ching
 Fei
 Yu-Ching
 Fei Yu-Ching
@@ -20421,6 +21089,7 @@ Oka Antara
 Skandar
 Keynes
 Skandar Keynes
+M-flo
 Soul'd
 Out
 Soul'd Out
@@ -20869,6 +21538,12 @@ Frank Iero
 Bob
 Bryar
 Bob Bryar
+Ahmed
+al-Haznawi
+Ahmed al-Haznawi
+Ahmed
+al-Haznawi
+Ahmed al-Haznawi
 Dmitry
 Malikov
 Dmitry Malikov
@@ -21060,6 +21735,9 @@ Lehn
 Jean Marie
 Marie Lehn
 Jean Marie Lehn
+Jean-Marie
+Lehn
+Jean-Marie Lehn
 Edward
 B.
 Lewis
@@ -21781,6 +22459,7 @@ Ryan White
 Zhang
 Ning
 Zhang Ning
+Q-ta
 Avian
 Tumengkol
 Avian Tumengkol
@@ -22658,6 +23337,15 @@ Beyle
 Henri Marie
 Marie Beyle
 Henri Marie Beyle
+Henri-Marie
+Beyle
+Henri-Marie Beyle
+Choi
+Jin-sil
+Choi Jin-sil
+Choi
+Jin-sil
+Choi Jin-sil
 Charles
 Baudelaire
 Charles Baudelaire
@@ -22688,6 +23376,9 @@ Céline
 Louis Ferdinand
 Ferdinand Céline
 Louis Ferdinand Céline
+Louis-Ferdinand
+Céline
+Louis-Ferdinand Céline
 Cliff
 Richard
 Cliff Richard
@@ -22727,6 +23418,7 @@ Janis Joplin
 Garth
 Brooks
 Garth Brooks
+A-ha
 Yoichiro
 Nambu
 Yoichiro Nambu
@@ -22788,6 +23480,9 @@ Richard
 Kruspe-Bernstein
 Richard Kruspe-Bernstein
 Richard
+Kruspe-Bernstein
+Richard Kruspe-Bernstein
+Richard
 Kruspe
 Bernstein
 Richard Kruspe
@@ -22827,6 +23522,36 @@ Gustave Le Clézio
 Jean Marie Gustave Le
 Marie Gustave Le Clézio
 Jean Marie Gustave Le Clézio
+Jean-Marie
+Gustave
+Le
+Clézio
+Jean-Marie Gustave
+Gustave Le
+Le Clézio
+Jean-Marie Gustave Le
+Gustave Le Clézio
+Jean-Marie Gustave Le Clézio
+Jean-Marie
+Gustave
+Le
+Clézio
+Jean-Marie Gustave
+Gustave Le
+Le Clézio
+Jean-Marie Gustave Le
+Gustave Le Clézio
+Jean-Marie Gustave Le Clézio
+Jean-Marie
+Gustave
+Le
+Clézio
+Jean-Marie Gustave
+Gustave Le
+Le Clézio
+Jean-Marie Gustave Le
+Gustave Le Clézio
+Jean-Marie Gustave Le Clézio
 Nadia
 Vella
 Nadia Vella
@@ -22836,6 +23561,9 @@ Makoto Kobayashi
 Toshihide
 Maskawa
 Toshihide Maskawa
+Françoise
+Barré-Sinoussi
+Françoise Barré-Sinoussi
 Françoise
 Barré-Sinoussi
 Françoise Barré-Sinoussi
@@ -23222,6 +23950,18 @@ Jia Xiao-Chen
 JJ Jia Xiao-Chen
 JJ
 Jia
+Xiao-Chen
+JJ Jia
+Jia Xiao-Chen
+JJ Jia Xiao-Chen
+JJ
+Jia
+Xiao-Chen
+JJ Jia
+Jia Xiao-Chen
+JJ Jia Xiao-Chen
+JJ
+Jia
 Xiao
 Chen
 JJ Jia
@@ -23557,11 +24297,23 @@ Louise
 Lake-Tack
 Louise Lake-Tack
 Louise
+Lake-Tack
+Louise Lake-Tack
+Louise
 Lake
 Tack
 Louise Lake
 Lake Tack
 Louise Lake Tack
+Kim
+Yong-il
+Kim Yong-il
+Kim
+Yong-il
+Kim Yong-il
+Michèle
+Pierre-Louis
+Michèle Pierre-Louis
 Michèle
 Pierre-Louis
 Michèle Pierre-Louis
@@ -23764,6 +24516,12 @@ Ziaur Rahman
 Ivars
 Godmanis
 Ivars Godmanis
+Nader
+al-Dahabi
+Nader al-Dahabi
+Nader
+al-Dahabi
+Nader al-Dahabi
 Brian
 Cowen
 Brian Cowen
@@ -23825,6 +24583,9 @@ Touadéra
 Faustin Archange
 Archange Touadéra
 Faustin Archange Touadéra
+Faustin-Archange
+Touadéra
+Faustin-Archange Touadéra
 Nikola
 Špiri?
 Nikola Špiri?
@@ -24654,6 +25415,12 @@ Pompeius
 Sandy
 Denny
 Sandy Denny
+Lee
+Hyun-il
+Lee Hyun-il
+Lee
+Hyun-il
+Lee Hyun-il
 Juwita
 Maritsa
 Juwita Maritsa
@@ -24944,6 +25711,9 @@ Butt
 Hans Jörg
 Jörg Butt
 Hans Jörg Butt
+Hans-Jörg
+Butt
+Hans-Jörg Butt
 Miguel
 Ángel
 Nadal
@@ -25272,6 +26042,9 @@ Pfaff
 Jean Marie
 Marie Pfaff
 Jean Marie Pfaff
+Jean-Marie
+Pfaff
+Jean-Marie Pfaff
 Rinat
 Dasayev
 Rinat Dasayev
@@ -25293,6 +26066,9 @@ Rummenigge
 Karl Heinz
 Heinz Rummenigge
 Karl Heinz Rummenigge
+Karl-Heinz
+Rummenigge
+Karl-Heinz Rummenigge
 Harald
 Schumacher
 Harald Schumacher
@@ -25856,6 +26632,9 @@ Riedle
 Karl Heinz
 Heinz Riedle
 Karl Heinz Riedle
+Karl-Heinz
+Riedle
+Karl-Heinz Riedle
 Stefan
 Effenberg
 Stefan Effenberg
@@ -25901,6 +26680,9 @@ Champollion
 Jean François
 François Champollion
 Jean François Champollion
+Jean-François
+Champollion
+Jean-François Champollion
 Freddie
 Highmore
 Freddie Highmore
@@ -26041,6 +26823,9 @@ Noah
 Gray-Cabey
 Noah Gray-Cabey
 Noah
+Gray-Cabey
+Noah Gray-Cabey
+Noah
 Gray
 Cabey
 Noah Gray
@@ -26168,6 +26953,9 @@ Parker
 Mary Louise
 Louise Parker
 Mary Louise Parker
+Mary-Louise
+Parker
+Mary-Louise Parker
 Masi
 Oka
 Masi Oka
@@ -26243,6 +27031,12 @@ Ed Westwick
 Toodles
 Galore
 Toodles Galore
+Park
+Yong-ha
+Park Yong-ha
+Park
+Yong-ha
+Park Yong-ha
 Hibari
 Misora
 Hibari Misora
@@ -26363,6 +27157,9 @@ Yeo
 Woon-Ge
 Yeo Woon-Ge
 Yeo
+Woon-Ge
+Yeo Woon-Ge
+Yeo
 Woon
 Ge
 Yeo Woon
@@ -26373,6 +27170,12 @@ Burgh
 Will
 Poulter
 Will Poulter
+Yoon
+Eun-hye
+Yoon Eun-hye
+Yoon
+Eun-hye
+Yoon Eun-hye
 Billy
 Boyd
 Billy Boyd
@@ -26511,6 +27314,18 @@ Shane Kinsman
 Kim
 Bum
 Kim Bum
+Lee
+Min-ho
+Lee Min-ho
+Lee
+Min-ho
+Lee Min-ho
+Kim
+So-eun
+Kim So-eun
+Kim
+So-eun
+Kim So-eun
 Temuri
 Ketsbaia
 Temuri Ketsbaia
@@ -26536,6 +27351,15 @@ Nazril Irham
 Hidenori
 Tokuyama
 Hidenori Tokuyama
+Kim
+Hyun-joong
+Kim Hyun-joong
+Kim
+Hyun-joong
+Kim Hyun-joong
+Hero
+Fiennes-Tiffin
+Hero Fiennes-Tiffin
 Hero
 Fiennes-Tiffin
 Hero Fiennes-Tiffin
@@ -26600,6 +27424,9 @@ la Tour
 Agnetha
 Fältskog
 Agnetha Fältskog
+Joseph
+Gordon-Levitt
+Joseph Gordon-Levitt
 Joseph
 Gordon-Levitt
 Joseph Gordon-Levitt
@@ -26766,6 +27593,12 @@ Allen
 Christa B.
 B. Allen
 Christa B. Allen
+Park
+Ji-bin
+Park Ji-bin
+Park
+Ji-bin
+Park Ji-bin
 Fernando
 Carrillo
 Fernando Carrillo
@@ -27108,6 +27941,9 @@ Huntelaar
 Klaas Jan
 Jan Huntelaar
 Klaas Jan Huntelaar
+Klaas-Jan
+Huntelaar
+Klaas-Jan Huntelaar
 Tugay
 Kerimo?lu
 Tugay Kerimo?lu
@@ -27534,6 +28370,9 @@ Camille
 Saint-Saëns
 Camille Saint-Saëns
 Camille
+Saint-Saëns
+Camille Saint-Saëns
+Camille
 Saint
 Saëns
 Camille Saint
@@ -27690,6 +28529,9 @@ Gery Setia Adi Nugraha
 Dominic
 Howard
 Dominic Howard
+Rachel
+Hurd-Wood
+Rachel Hurd-Wood
 Rachel
 Hurd-Wood
 Rachel Hurd-Wood
@@ -28067,6 +28909,18 @@ Segaf Al-Jufri
 Salim Segaf Al-Jufri
 Salim
 Segaf
+Al-Jufri
+Salim Segaf
+Segaf Al-Jufri
+Salim Segaf Al-Jufri
+Salim
+Segaf
+Al-Jufri
+Salim Segaf
+Segaf Al-Jufri
+Salim Segaf Al-Jufri
+Salim
+Segaf
 Al
 Jufri
 Salim Segaf
@@ -28176,6 +29030,9 @@ Martha Jefferson Randolph
 Abigail
 Adams
 Abigail Adams
+Sergey
+Prokudin-Gorsky
+Sergey Prokudin-Gorsky
 Sergey
 Prokudin-Gorsky
 Sergey Prokudin-Gorsky
@@ -28490,6 +29347,18 @@ zu Guttenberg
 Karl Theodor zu
 Theodor zu Guttenberg
 Karl Theodor zu Guttenberg
+Karl-Theodor
+zu
+Guttenberg
+Karl-Theodor zu
+zu Guttenberg
+Karl-Theodor zu Guttenberg
+Karl-Theodor
+zu
+Guttenberg
+Karl-Theodor zu
+zu Guttenberg
+Karl-Theodor zu Guttenberg
 Zecharia
 Sitchin
 Zecharia Sitchin
@@ -28544,6 +29413,12 @@ Syamsir Alam
 Oxcerila
 Paryana
 Oxcerila Paryana
+Nam
+Ji-hyeon
+Nam Ji-hyeon
+Nam
+Ji-hyeon
+Nam Ji-hyeon
 Kim
 Heechul
 Kim Heechul
@@ -28608,6 +29483,9 @@ Beyerling
 Hans Laurin
 Laurin Beyerling
 Hans Laurin Beyerling
+Hans-Laurin
+Beyerling
+Hans-Laurin Beyerling
 Liam
 James
 Liam James
@@ -28746,6 +29624,18 @@ Louisa Adams
 Morgan
 Lily
 Morgan Lily
+Habib
+Ali
+Al-Jufri
+Habib Ali
+Ali Al-Jufri
+Habib Ali Al-Jufri
+Habib
+Ali
+Al-Jufri
+Habib Ali
+Ali Al-Jufri
+Habib Ali Al-Jufri
 Habib
 Ali
 Al-Jufri
@@ -28952,6 +29842,9 @@ Armin
 Mueller-Stahl
 Armin Mueller-Stahl
 Armin
+Mueller-Stahl
+Armin Mueller-Stahl
+Armin
 Mueller
 Stahl
 Armin Mueller
@@ -29006,17 +29899,32 @@ Jemma
 McKenzie-Brown
 Jemma McKenzie-Brown
 Jemma
+McKenzie-Brown
+Jemma McKenzie-Brown
+Jemma
 McKenzie
 Brown
 Jemma McKenzie
 McKenzie Brown
 Jemma McKenzie Brown
+Lee
+Seung-hyo
+Lee Seung-hyo
+Lee
+Seung-hyo
+Lee Seung-hyo
 Uhm
 Tae
 Woong
 Uhm Tae
 Tae Woong
 Uhm Tae Woong
+Song
+Ji-hyo
+Song Ji-hyo
+Song
+Ji-hyo
+Song Ji-hyo
 Dolores
 del
 Río
@@ -29150,6 +30058,12 @@ Korrie Layun Rampan
 Derrick
 Hanson
 Derrick Hanson
+Jang
+Geun-suk
+Jang Geun-suk
+Jang
+Geun-suk
+Jang Geun-suk
 Jane
 Hadley
 Barkley
@@ -29201,6 +30115,18 @@ Hugh O'Conor
 Joan
 Mondale
 Joan Mondale
+Yu
+Seung-ho
+Yu Seung-ho
+Yu
+Seung-ho
+Yu Seung-ho
+Kim
+Nam-gil
+Kim Nam-gil
+Kim
+Nam-gil
+Kim Nam-gil
 Aljur
 Abrenica
 Aljur Abrenica
@@ -29431,6 +30357,12 @@ Joey Pearson
 Logan
 O'Brien
 Logan O'Brien
+Lee
+Seung-gi
+Lee Seung-gi
+Lee
+Seung-gi
+Lee Seung-gi
 Maxime
 Verhagen
 Maxime Verhagen
@@ -29621,6 +30553,9 @@ Friedrich
 Frey-Herosé
 Friedrich Frey-Herosé
 Friedrich
+Frey-Herosé
+Friedrich Frey-Herosé
+Friedrich
 Frey
 Herosé
 Friedrich Frey
@@ -29754,6 +30689,9 @@ Unity
 Hare Brained
 Brained Unity
 Hare Brained Unity
+Hare-Brained
+Unity
+Hare-Brained Unity
 Ilyas
 Ya'kub
 Ilyas Ya'kub
@@ -29798,6 +30736,9 @@ Park
 Chul-Hyung
 Park Chul-Hyung
 Park
+Chul-Hyung
+Park Chul-Hyung
+Park
 Chul
 Hyung
 Park Chul
@@ -29827,6 +30768,12 @@ Francesco Toldo
 David
 Gallagher
 David Gallagher
+Ahmad
+al-Mansur
+Ahmad al-Mansur
+Ahmad
+al-Mansur
+Ahmad al-Mansur
 Kyosuke
 Hamao
 Kyosuke Hamao
@@ -29947,6 +30894,12 @@ Sjachranie
 Abdoel Wahab
 Wahab Sjachranie
 Abdoel Wahab Sjachranie
+Lee
+Yo-won
+Lee Yo-won
+Lee
+Yo-won
+Lee Yo-won
 Jaguar
 Wright
 Jaguar Wright
@@ -29966,6 +30919,12 @@ Nneka
 Joseph
 Ashton
 Joseph Ashton
+Park
+Ye-jin
+Park Ye-jin
+Park
+Ye-jin
+Park Ye-jin
 Joo
 Sang
 Wook
@@ -30254,12 +31213,24 @@ Talcott Parsons
 Mudaffar
 Sjah
 Mudaffar Sjah
+Tsai
+Ing-wen
+Tsai Ing-wen
+Tsai
+Ing-wen
+Tsai Ing-wen
 Asrul
 Dahlan
 Asrul Dahlan
 Andrew
 Carnegie
 Andrew Carnegie
+Jeong
+Il-woo
+Jeong Il-woo
+Jeong
+Il-woo
+Jeong Il-woo
 Júnior
 Baiano
 Júnior Baiano
@@ -30339,6 +31310,12 @@ Charles Ingram
 Kiichiro
 Toyoda
 Kiichiro Toyoda
+Lee
+Byung-hun
+Lee Byung-hun
+Lee
+Byung-hun
+Lee Byung-hun
 Andrew
 Darwis
 Andrew Darwis
@@ -30602,6 +31579,12 @@ Jan Fischer
 Livia
 Klausová
 Livia Klausová
+Chung
+Un-chan
+Chung Un-chan
+Chung
+Un-chan
+Chung Un-chan
 Daniel
 Buyten
 Mary
@@ -30631,6 +31614,9 @@ Carlo Collodi
 Carey
 Mulligan
 Carey Mulligan
+Manuel
+Rivera-Ortiz
+Manuel Rivera-Ortiz
 Manuel
 Rivera-Ortiz
 Manuel Rivera-Ortiz
@@ -30887,6 +31873,18 @@ Ben Andrews
 Tyler
 Riggz
 Tyler Riggz
+Park
+Hyun-bin
+Park Hyun-bin
+Park
+Hyun-bin
+Park Hyun-bin
+Jang
+Yoon-jeong
+Jang Yoon-jeong
+Jang
+Yoon-jeong
+Jang Yoon-jeong
 Patrick
 Kavanagh
 Patrick Kavanagh
@@ -31078,6 +32076,9 @@ Kamla
 Persad-Bissessar
 Kamla Persad-Bissessar
 Kamla
+Persad-Bissessar
+Kamla Persad-Bissessar
+Kamla
 Persad
 Bissessar
 Kamla Persad
@@ -31265,6 +32266,9 @@ Lee
 Young-Pyo
 Lee Young-Pyo
 Lee
+Young-Pyo
+Lee Young-Pyo
+Lee
 Young
 Pyo
 Lee Young
@@ -31337,6 +32341,9 @@ André
 Villas-Boas
 André Villas-Boas
 André
+Villas-Boas
+André Villas-Boas
+André
 Villas
 Boas
 André Villas
@@ -31372,6 +32379,9 @@ Christopher Borrelli
 Rangga
 Djoned
 Rangga Djoned
+Alain
+Saint-Ogan
+Alain Saint-Ogan
 Alain
 Saint-Ogan
 Alain Saint-Ogan
@@ -31474,6 +32484,9 @@ Seyed Reza Hosseini Nassab
 Anthony
 Giddens
 Anthony Giddens
+Lee
+Jung-Soo
+Lee Jung-Soo
 Lee
 Jung-Soo
 Lee Jung-Soo
@@ -31690,6 +32703,9 @@ Ji
 Yun-Nam
 Ji Yun-Nam
 Ji
+Yun-Nam
+Ji Yun-Nam
+Ji
 Yun
 Nam
 Ji Yun
@@ -31729,6 +32745,9 @@ Lee
 Chung-Yong
 Lee Chung-Yong
 Lee
+Chung-Yong
+Lee Chung-Yong
+Lee
 Chung
 Yong
 Lee Chung
@@ -31743,6 +32762,9 @@ Nicolás Lodeiro
 Itumeleng
 Khune
 Itumeleng Khune
+Park
+Chu-Young
+Park Chu-Young
 Park
 Chu-Young
 Park Chu-Young
@@ -31872,6 +32894,7 @@ Almeida
 Hugo Almeida
 Liédson
 Chol-Jin
+Chol-Jin
 Chol
 Jin
 Chol Jin
@@ -31918,6 +32941,9 @@ Gosso
 Jean Jacques
 Jacques Gosso
 Jean Jacques Gosso
+Jean-Jacques
+Gosso
+Jean-Jacques Gosso
 Ptolemaios
 I
 Soter
@@ -32065,6 +33091,9 @@ Boateng
 Kevin Prince
 Prince Boateng
 Kevin Prince Boateng
+Kevin-Prince
+Boateng
+Kevin-Prince Boateng
 Chad
 Kennedy
 Chad Kennedy
@@ -32114,6 +33143,18 @@ Matthew Upson
 Glen
 Johnson
 Glen Johnson
+Jung
+Jae-sung
+Jung Jae-sung
+Jung
+Jae-sung
+Jung Jae-sung
+Lee
+Yong-dae
+Lee Yong-dae
+Lee
+Yong-dae
+Lee Yong-dae
 Adriano
 Marquez
 Adriano Marquez
@@ -32323,6 +33364,12 @@ Farah
 Quinn
 Farah Quinn
 Mary
+Amin
+al-Husayni
+Amin al-Husayni
+Amin
+al-Husayni
+Amin al-Husayni
 Leon
 Schuster
 Leon Schuster
@@ -32399,6 +33446,9 @@ Yasser
 Al-Habib
 Yasser Al-Habib
 Yasser
+Al-Habib
+Yasser Al-Habib
+Yasser
 Al
 Habib
 Yasser Al
@@ -32413,6 +33463,9 @@ Marc Barrow
 Y?ld?r?m
 Önal
 Y?ld?r?m Önal
+Shaun
+Wright-Phillips
+Shaun Wright-Phillips
 Shaun
 Wright-Phillips
 Shaun Wright-Phillips
@@ -32595,6 +33648,12 @@ Alberto
 Gonçalves
 Alberto Gonçalves
 Costa
+Park
+Shin-hye
+Park Shin-hye
+Park
+Shin-hye
+Park Shin-hye
 Friedrich
 Wilhelm
 Murnau
@@ -32626,6 +33685,9 @@ Shanésia
 Davis-Williams
 Shanésia Davis-Williams
 Shanésia
+Davis-Williams
+Shanésia Davis-Williams
+Shanésia
 Davis
 Williams
 Shanésia Davis
@@ -32640,6 +33702,12 @@ Denny Indrayana
 Igo
 Pentury
 Igo Pentury
+Bae
+Su-bin
+Bae Su-bin
+Bae
+Su-bin
+Bae Su-bin
 Plinius
 yang
 Tua
@@ -32675,6 +33743,12 @@ Wan Azizah Wan Ismail
 Han
 Seungyeon
 Han Seungyeon
+Goo
+Ha-ra
+Goo Ha-ra
+Goo
+Ha-ra
+Goo Ha-ra
 Jung
 Nicole
 Jung Nicole
@@ -32684,6 +33758,12 @@ Kang Jiyoung
 Park
 Gyuri
 Park Gyuri
+Lee
+Je-hoon
+Lee Je-hoon
+Lee
+Je-hoon
+Lee Je-hoon
 Julius
 Pongla
 Akosah
@@ -32700,11 +33780,26 @@ Lee
 Woon-Jae
 Lee Woon-Jae
 Lee
+Woon-Jae
+Lee Woon-Jae
+Lee
 Woon
 Jae
 Lee Woon
 Woon Jae
 Lee Woon Jae
+Kim
+Hye-sung
+Kim Hye-sung
+Kim
+Hye-sung
+Kim Hye-sung
+Yeon
+Woo-jin
+Yeon Woo-jin
+Yeon
+Woo-jin
+Yeon Woo-jin
 Slavo
 Drozd
 Slavo Drozd
@@ -32723,6 +33818,9 @@ Carême
 Marie Antoine
 Antoine Carême
 Marie Antoine Carême
+Marie-Antoine
+Carême
+Marie-Antoine Carême
 Hugo
 Lloris
 Hugo Lloris
@@ -33039,6 +34137,9 @@ Park
 Jung-Hwan
 Park Jung-Hwan
 Park
+Jung-Hwan
+Park Jung-Hwan
+Park
 Jung
 Hwan
 Park Jung
@@ -33180,6 +34281,18 @@ Abdirashid Ali-Sharmarke
 Omar Abdirashid Ali-Sharmarke
 Omar
 Abdirashid
+Ali-Sharmarke
+Omar Abdirashid
+Abdirashid Ali-Sharmarke
+Omar Abdirashid Ali-Sharmarke
+Omar
+Abdirashid
+Ali-Sharmarke
+Omar Abdirashid
+Abdirashid Ali-Sharmarke
+Omar Abdirashid Ali-Sharmarke
+Omar
+Abdirashid
 Ali
 Sharmarke
 Omar Abdirashid
@@ -33249,12 +34362,24 @@ Italo
 Calvino
 Italo Calvino
 Tecumseh
+Kim
+Jong-nam
+Kim Jong-nam
+Kim
+Jong-nam
+Kim Jong-nam
 Iakoba
 Italeli
 Iakoba Italeli
 Patrick
 Allen
 Patrick Allen
+Kim
+Jong-un
+Kim Jong-un
+Kim
+Jong-un
+Kim Jong-un
 Yuri
 Luzhkov
 Yuri Luzhkov
@@ -33350,6 +34475,12 @@ Richard F. Heck
 Akira
 Suzuki
 Akira Suzuki
+Ei-ichi
+Negishi
+Ei-ichi Negishi
+Ei-ichi
+Negishi
+Ei-ichi Negishi
 Kalan
 Porter
 Kalan Porter
@@ -33592,6 +34723,9 @@ Balestre
 Jean Marie
 Marie Balestre
 Jean Marie Balestre
+Jean-Marie
+Balestre
+Jean-Marie Balestre
 Tobias
 Waisapy
 Tobias Waisapy
@@ -33662,6 +34796,12 @@ Rafael Alburquerque
 Annette
 Lu
 Annette Lu
+Li
+Yuan-tsu
+Li Yuan-tsu
+Li
+Yuan-tsu
+Li Yuan-tsu
 Sharon
 Corr
 Sharon Corr
@@ -33734,6 +34874,9 @@ Andy Tennant
 Bio
 Paulin
 Bio Paulin
+Lena
+Meyer-Landrut
+Lena Meyer-Landrut
 Lena
 Meyer-Landrut
 Lena Meyer-Landrut
@@ -33969,6 +35112,12 @@ Rini Widyastuti
 Haeny Relawati Rini
 Relawati Rini Widyastuti
 Haeny Relawati Rini Widyastuti
+Kim
+Su-ro
+Kim Su-ro
+Kim
+Su-ro
+Kim Su-ro
 Merlyna
 Lim
 Merlyna Lim
@@ -34204,6 +35353,12 @@ Rene Krhin
 Igor
 Lukši?
 Igor Lukši?
+Yoon
+Shi-yoon
+Yoon Shi-yoon
+Yoon
+Shi-yoon
+Yoon Shi-yoon
 Yudai
 Chiba
 Yudai Chiba
@@ -34234,6 +35389,12 @@ Aurela Gaçe
 Kurt
 Hummel
 Kurt Hummel
+Han
+Hyo-joo
+Han Hyo-joo
+Han
+Hyo-joo
+Han Hyo-joo
 Mohd
 Safee
 Mohd
@@ -34254,6 +35415,12 @@ Hadi Zainal
 Mohd Amirul Hadi
 Amirul Hadi Zainal
 Mohd Amirul Hadi Zainal
+Shin
+Dong-woo
+Shin Dong-woo
+Shin
+Dong-woo
+Shin Dong-woo
 Pál
 Schmitt
 Pál Schmitt
@@ -34291,6 +35458,12 @@ Eric
 der
 Woodsen
 der Woodsen
+Kim
+Hee-sun
+Kim Hee-sun
+Kim
+Hee-sun
+Kim Hee-sun
 Mano
 Menezes
 Mano Menezes
@@ -34353,6 +35526,9 @@ Rosie
 Taylor-Ritson
 Rosie Taylor-Ritson
 Rosie
+Taylor-Ritson
+Rosie Taylor-Ritson
+Rosie
 Taylor
 Ritson
 Rosie Taylor
@@ -34405,6 +35581,9 @@ Pahlavi
 Ali Reza
 Reza Pahlavi
 Ali Reza Pahlavi
+Ali-Reza
+Pahlavi
+Ali-Reza Pahlavi
 Tanaka
 K?ki
 Tanaka K?ki
@@ -34558,6 +35737,9 @@ Abdulkarim
 Al-Ali
 Abdulkarim Al-Ali
 Abdulkarim
+Al-Ali
+Abdulkarim Al-Ali
+Abdulkarim
 Al
 Ali
 Abdulkarim Al
@@ -34644,6 +35826,9 @@ Tina
 Cohen-Chang
 Tina Cohen-Chang
 Tina
+Cohen-Chang
+Tina Cohen-Chang
+Tina
 Cohen
 Chang
 Tina Cohen
@@ -34721,11 +35906,17 @@ Lee
 Dong-Gook
 Lee Dong-Gook
 Lee
+Dong-Gook
+Lee Dong-Gook
+Lee
 Dong
 Gook
 Lee Dong
 Dong Gook
 Lee Dong Gook
+Cha
+Du-Ri
+Cha Du-Ri
 Cha
 Du-Ri
 Cha Du-Ri
@@ -34858,6 +36049,12 @@ Stevan Ra?i?
 Žarko
 Lazeti?
 Žarko Lazeti?
+Marouf
+al-Bakhit
+Marouf al-Bakhit
+Marouf
+al-Bakhit
+Marouf al-Bakhit
 Shawn
 Michaels
 Shawn Michaels
@@ -34870,6 +36067,9 @@ Keisuke Yoshida
 Bradley
 Pierce
 Bradley Pierce
+Adam
+Hann-Byrd
+Adam Hann-Byrd
 Adam
 Hann-Byrd
 Adam Hann-Byrd
@@ -34892,6 +36092,9 @@ Migiro
 Asha Rose
 Rose Migiro
 Asha Rose Migiro
+Asha-Rose
+Migiro
+Asha-Rose Migiro
 Guy
 Sebastian
 Guy Sebastian
@@ -35149,6 +36352,9 @@ Motte
 Henri Paul
 Paul Motte
 Henri Paul Motte
+Henri-Paul
+Motte
+Henri-Paul Motte
 Lady
 Antebellum
 Lady Antebellum
@@ -35458,6 +36664,9 @@ Hans
 Podlipnik-Castillo
 Hans Podlipnik-Castillo
 Hans
+Podlipnik-Castillo
+Hans Podlipnik-Castillo
+Hans
 Podlipnik
 Castillo
 Hans Podlipnik
@@ -35746,6 +36955,7 @@ Ratu Tika Bravani
 Thia
 Megia
 Thia Megia
+Saig?-no-Tsubone
 Tengku
 Afzan
 Tengku Afzan
@@ -35791,6 +37001,12 @@ Silva R. Kavadia
 Marin
 ?ili?
 Marin ?ili?
+Yoon
+Young-kwan
+Yoon Young-kwan
+Yoon
+Young-kwan
+Yoon Young-kwan
 Surakiart
 Sathirathai
 Surakiart Sathirathai
@@ -35823,6 +37039,18 @@ Rashed Al-Khalifa
 Haya Rashed Al-Khalifa
 Haya
 Rashed
+Al-Khalifa
+Haya Rashed
+Rashed Al-Khalifa
+Haya Rashed Al-Khalifa
+Haya
+Rashed
+Al-Khalifa
+Haya Rashed
+Rashed Al-Khalifa
+Haya Rashed Al-Khalifa
+Haya
+Rashed
 Al
 Khalifa
 Haya Rashed
@@ -35845,6 +37073,12 @@ LVT
 Sahila
 Hisyam
 Sahila Hisyam
+Song
+Min-soon
+Song Min-soon
+Song
+Min-soon
+Song Min-soon
 Stanley
 Hauerwas
 Stanley Hauerwas
@@ -36177,12 +37411,48 @@ Yudhasoka
 Kalia Labitta
 Labitta Yudhasoka
 Kalia Labitta Yudhasoka
+Abd
+as-Salam
+Arif
+Abd as-Salam
+as-Salam Arif
+Abd as-Salam Arif
+Abd
+as-Salam
+Arif
+Abd as-Salam
+as-Salam Arif
+Abd as-Salam Arif
+Abd
+as-Salam
+Arif
+Abd as-Salam
+as-Salam Arif
+Abd as-Salam Arif
 Abdul
 Rahman
 Arif
 Abdul Rahman
 Rahman Arif
 Abdul Rahman Arif
+Abd
+ar-Rahman
+al-Bazzaz
+Abd ar-Rahman
+ar-Rahman al-Bazzaz
+Abd ar-Rahman al-Bazzaz
+Abd
+ar-Rahman
+al-Bazzaz
+Abd ar-Rahman
+ar-Rahman al-Bazzaz
+Abd ar-Rahman al-Bazzaz
+Abd
+ar-Rahman
+al-Bazzaz
+Abd ar-Rahman
+ar-Rahman al-Bazzaz
+Abd ar-Rahman al-Bazzaz
 Sanada
 Masayuki
 Sanada Masayuki
@@ -36222,6 +37492,24 @@ Frederick Denison
 Denison Maurice
 Frederick Denison Maurice
 Zakharia
+Muhammad
+Najib
+ar-Ruba'i
+Muhammad Najib
+Najib ar-Ruba'i
+Muhammad Najib ar-Ruba'i
+Muhammad
+Najib
+ar-Ruba'i
+Muhammad Najib
+Najib ar-Ruba'i
+Muhammad Najib ar-Ruba'i
+Muhammad
+Najib
+ar-Ruba'i
+Muhammad Najib
+Najib ar-Ruba'i
+Muhammad Najib ar-Ruba'i
 Mao
 Ichimichi
 Mao Ichimichi
@@ -36344,6 +37632,9 @@ Li
 Ching-Yuen
 Li Ching-Yuen
 Li
+Ching-Yuen
+Li Ching-Yuen
+Li
 Ching
 Yuen
 Li Ching
@@ -36417,6 +37708,12 @@ Alexander
 Dalrymple
 Alexander Dalrymple
 Shaden
+Wang
+Ming-tao
+Wang Ming-tao
+Wang
+Ming-tao
+Wang Ming-tao
 Ren
 Tobing
 Ren Tobing
@@ -36550,6 +37847,9 @@ Dominique
 Strauss-Kahn
 Dominique Strauss-Kahn
 Dominique
+Strauss-Kahn
+Dominique Strauss-Kahn
+Dominique
 Strauss
 Kahn
 Dominique Strauss
@@ -36666,6 +37966,12 @@ Ferenc Rácz
 White
 Watson
 White Watson
+Song
+Seung-heon
+Song Seung-heon
+Song
+Seung-heon
+Song Seung-heon
 Alexis
 Sánchez
 Alexis Sánchez
@@ -36693,7 +37999,31 @@ Prihartanto
 Erdian Aji
 Aji Prihartanto
 Erdian Aji Prihartanto
+No
+Min-woo
+No Min-woo
+No
+Min-woo
+No Min-woo
 Nightwish
+Rashid
+Ali
+al-Gaylani
+Rashid Ali
+Ali al-Gaylani
+Rashid Ali al-Gaylani
+Rashid
+Ali
+al-Gaylani
+Rashid Ali
+Ali al-Gaylani
+Rashid Ali al-Gaylani
+Rashid
+Ali
+al-Gaylani
+Rashid Ali
+Ali al-Gaylani
+Rashid Ali al-Gaylani
 Andrew
 Kaeokulani
 Kaw?nanakoa
@@ -36848,6 +38178,46 @@ Rikas Harsa
 Benjamin
 Vulliamy
 Benjamin Vulliamy
+Shaykh
+Said
+Afandi
+al-Chirkawi
+Shaykh Said
+Said Afandi
+Afandi al-Chirkawi
+Shaykh Said Afandi
+Said Afandi al-Chirkawi
+Shaykh Said Afandi al-Chirkawi
+Shaykh
+Said
+Afandi
+al-Chirkawi
+Shaykh Said
+Said Afandi
+Afandi al-Chirkawi
+Shaykh Said Afandi
+Said Afandi al-Chirkawi
+Shaykh Said Afandi al-Chirkawi
+Shaykh
+Said
+Afandi
+al-Chirkawi
+Shaykh Said
+Said Afandi
+Afandi al-Chirkawi
+Shaykh Said Afandi
+Said Afandi al-Chirkawi
+Shaykh Said Afandi al-Chirkawi
+Shaykh
+Said
+Afandi
+al-Chirkawi
+Shaykh Said
+Said Afandi
+Afandi al-Chirkawi
+Shaykh Said Afandi
+Said Afandi al-Chirkawi
+Shaykh Said Afandi al-Chirkawi
 Isidor
 Straus
 Isidor Straus
@@ -37057,6 +38427,12 @@ Eugene Galekovi?
 Rinrin
 Marinka
 Rinrin Marinka
+Yun
+Seon-do
+Yun Seon-do
+Yun
+Seon-do
+Yun Seon-do
 David
 Desrosiers
 David Desrosiers
@@ -37197,6 +38573,12 @@ Alamsyah Yunus
 Fauzi
 Adnan
 Fauzi Adnan
+Ayman
+al-Zawahiri
+Ayman al-Zawahiri
+Ayman
+al-Zawahiri
+Ayman al-Zawahiri
 André
 Planchè
 André Planchè
@@ -37291,6 +38673,12 @@ Rosaria Yusfin Pungkasari
 Art
 Cartney
 Art Cartney
+Lee
+Sun-gyun
+Lee Sun-gyun
+Lee
+Sun-gyun
+Lee Sun-gyun
 Abdiweli
 Mohamed
 Ali
@@ -37468,6 +38856,12 @@ Ketrin Agustine
 Ty
 Simpkins
 Ty Simpkins
+Jung
+So-min
+Jung So-min
+Jung
+So-min
+Jung So-min
 Hasan
 Abdullah
 Sahal
@@ -37480,6 +38874,12 @@ Ah
 Yoon Seung
 Seung Ah
 Yoon Seung Ah
+Lee
+Tae-sung
+Lee Tae-sung
+Lee
+Tae-sung
+Lee Tae-sung
 Imam
 Zarkasyi
 Imam Zarkasyi
@@ -37498,6 +38898,9 @@ Sean Brosnan
 Berry
 Anggriawan
 Berry Anggriawan
+Vondie
+Curtis-Hall
+Vondie Curtis-Hall
 Vondie
 Curtis-Hall
 Vondie Curtis-Hall
@@ -37651,6 +39054,12 @@ Yoon Chan
 Yoon
 Chan
 Yoon Chan
+Lee
+So-yeon
+Lee So-yeon
+Lee
+So-yeon
+Lee So-yeon
 Logan
 McCree
 Logan McCree
@@ -37835,6 +39244,12 @@ Goodey
 Alfred E.
 E. Goodey
 Alfred E. Goodey
+Ko
+Ah-seong
+Ko Ah-seong
+Ko
+Ah-seong
+Ko Ah-seong
 Selena
 Wendy
 Crewson
@@ -38456,6 +39871,12 @@ Tom Wolfe
 Patrich
 Wanggai
 Patrich Wanggai
+Kim
+Soo-hyun
+Kim Soo-hyun
+Kim
+Soo-hyun
+Kim Soo-hyun
 Taecyeon
 James
 E.
@@ -38466,6 +39887,9 @@ James E. Boyd
 Alisia
 Rininta
 Alisia Rininta
+Park
+Eun-Bin
+Park Eun-Bin
 Park
 Eun-Bin
 Park Eun-Bin
@@ -38716,6 +40140,12 @@ Ellen Pompeo
 Audi
 Marissa
 Audi Marissa
+Hasan
+as-Senussi
+Hasan as-Senussi
+Hasan
+as-Senussi
+Hasan as-Senussi
 Nicola
 Formichetti
 Nicola Formichetti
@@ -38963,6 +40393,12 @@ Vasili
 Kuznetsov
 Vasili Kuznetsov
 Kamijo
+Ryu
+Shi-won
+Ryu Shi-won
+Ryu
+Shi-won
+Ryu Shi-won
 Mswati
 III
 Mswati III
@@ -38991,6 +40427,9 @@ Antonio Nocerino
 Mona
 Simpson
 Mona Simpson
+Lisa
+Brennan-Jobs
+Lisa Brennan-Jobs
 Lisa
 Brennan-Jobs
 Lisa Brennan-Jobs
@@ -39061,6 +40500,12 @@ Aceng H.M. Fikri
 Fruto
 Chamorro
 Fruto Chamorro
+Ha
+Ji-won
+Ha Ji-won
+Ha
+Ji-won
+Ha Ji-won
 Zara
 Salim
 Davidson
@@ -39149,6 +40594,9 @@ Helle
 Thorning-Schmidt
 Helle Thorning-Schmidt
 Helle
+Thorning-Schmidt
+Helle Thorning-Schmidt
+Helle
 Thorning
 Schmidt
 Helle Thorning
@@ -39206,6 +40654,12 @@ Adam
 Asvi Warman
 Warman Adam
 Asvi Warman Adam
+Muhammad
+al-Qaddafi
+Muhammad al-Qaddafi
+Muhammad
+al-Qaddafi
+Muhammad al-Qaddafi
 Sakura
 Ando
 Sakura Ando
@@ -39224,6 +40678,24 @@ Piolo Pascual
 Yoshiyuki
 Sadamoto
 Yoshiyuki Sadamoto
+Saif
+al-Islam
+al-Qaddafi
+Saif al-Islam
+al-Islam al-Qaddafi
+Saif al-Islam al-Qaddafi
+Saif
+al-Islam
+al-Qaddafi
+Saif al-Islam
+al-Islam al-Qaddafi
+Saif al-Islam al-Qaddafi
+Saif
+al-Islam
+al-Qaddafi
+Saif al-Islam
+al-Islam al-Qaddafi
+Saif al-Islam al-Qaddafi
 Mestika
 Zed
 Mestika Zed
@@ -39275,6 +40747,9 @@ al Qaddafi
 Al Saadi al
 Saadi al Qaddafi
 Al Saadi al Qaddafi
+Al-Saadi
+al-Qaddafi
+Al-Saadi al-Qaddafi
 Djauhari
 Zawawi
 Djauhari Zawawi
@@ -39298,9 +40773,15 @@ Okocha
 Jay Jay
 Jay Okocha
 Jay Jay Okocha
+Jay-Jay
+Okocha
+Jay-Jay Okocha
 Michelle
 Akers
 Michelle Akers
+Hong
+Myung-Bo
+Hong Myung-Bo
 Hong
 Myung-Bo
 Hong Myung-Bo
@@ -39311,6 +40792,36 @@ Hong Myung
 Myung Bo
 Hong Myung Bo
 Stargate
+Hannibal
+al-Qaddafi
+Hannibal al-Qaddafi
+Hannibal
+al-Qaddafi
+Hannibal al-Qaddafi
+Saif
+al-Arab
+al-Qaddafi
+Saif al-Arab
+al-Arab al-Qaddafi
+Saif al-Arab al-Qaddafi
+Saif
+al-Arab
+al-Qaddafi
+Saif al-Arab
+al-Arab al-Qaddafi
+Saif al-Arab al-Qaddafi
+Saif
+al-Arab
+al-Qaddafi
+Saif al-Arab
+al-Arab al-Qaddafi
+Saif al-Arab al-Qaddafi
+Khamis
+al-Qaddafi
+Khamis al-Qaddafi
+Khamis
+al-Qaddafi
+Khamis al-Qaddafi
 Mustafa
 Abdul
 Jalil
@@ -39498,6 +41009,12 @@ Sultan Mudzafar Shah I
 Steve
 Jones
 Steve Jones
+Kwon
+Sang-woo
+Kwon Sang-woo
+Kwon
+Sang-woo
+Kwon Sang-woo
 Ralph
 M.
 Steinman
@@ -39516,6 +41033,12 @@ Santo
 Franco Di
 Di Santo
 Franco Di Santo
+Han
+Eun-jeong
+Han Eun-jeong
+Han
+Eun-jeong
+Han Eun-jeong
 Sultan
 Mu'adzam
 Shah
@@ -39853,6 +41376,18 @@ Zvonimir Habsburg-Lothringen
 Ferdinand Zvonimir Habsburg-Lothringen
 Ferdinand
 Zvonimir
+Habsburg-Lothringen
+Ferdinand Zvonimir
+Zvonimir Habsburg-Lothringen
+Ferdinand Zvonimir Habsburg-Lothringen
+Ferdinand
+Zvonimir
+Habsburg-Lothringen
+Ferdinand Zvonimir
+Zvonimir Habsburg-Lothringen
+Ferdinand Zvonimir Habsburg-Lothringen
+Ferdinand
+Zvonimir
 Habsburg
 Lothringen
 Ferdinand Zvonimir
@@ -39988,6 +41523,12 @@ Johnny Hazzard
 Andy
 Hunter
 Andy Hunter
+Song
+Chang-ui
+Song Chang-ui
+Song
+Chang-ui
+Song Chang-ui
 Balthasar
 Kambuaya
 Balthasar Kambuaya
@@ -40135,6 +41676,18 @@ Billah al Qaddafi
 Al Mu'tasim Billah al
 Mu'tasim Billah al Qaddafi
 Al Mu'tasim Billah al Qaddafi
+Al-Mu'tasim
+Billah
+al-Qaddafi
+Al-Mu'tasim Billah
+Billah al-Qaddafi
+Al-Mu'tasim Billah al-Qaddafi
+Al-Mu'tasim
+Billah
+al-Qaddafi
+Al-Mu'tasim Billah
+Billah al-Qaddafi
+Al-Mu'tasim Billah al-Qaddafi
 Marcus
 Coloma
 Marcus Coloma
@@ -40288,6 +41841,7 @@ Gani
 Bustami A.
 A. Gani
 Bustami A. Gani
+T-ara
 Godi
 Suwarna
 Godi Suwarna
@@ -40357,6 +41911,9 @@ Rene Suhardono
 Alexander
 Sriewijono
 Alexander Sriewijono
+Park
+Ji-Yeon
+Park Ji-Yeon
 Park
 Ji-Yeon
 Park Ji-Yeon
@@ -40772,6 +42329,69 @@ Sultan Zainal Rashid Al-Mu'adzam Shah I
 Sultan
 Zainal
 Rashid
+Al-Mu'adzam
+Shah
+I
+Sultan Zainal
+Zainal Rashid
+Rashid Al-Mu'adzam
+Al-Mu'adzam Shah
+Shah I
+Sultan Zainal Rashid
+Zainal Rashid Al-Mu'adzam
+Rashid Al-Mu'adzam Shah
+Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam
+Zainal Rashid Al-Mu'adzam Shah
+Rashid Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam Shah
+Zainal Rashid Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam Shah I
+Sultan
+Zainal
+Rashid
+Al-Mu'adzam
+Shah
+I
+Sultan Zainal
+Zainal Rashid
+Rashid Al-Mu'adzam
+Al-Mu'adzam Shah
+Shah I
+Sultan Zainal Rashid
+Zainal Rashid Al-Mu'adzam
+Rashid Al-Mu'adzam Shah
+Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam
+Zainal Rashid Al-Mu'adzam Shah
+Rashid Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam Shah
+Zainal Rashid Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam Shah I
+Sultan
+Zainal
+Rashid
+Al-Mu'adzam
+Shah
+I
+Sultan Zainal
+Zainal Rashid
+Rashid Al-Mu'adzam
+Al-Mu'adzam Shah
+Shah I
+Sultan Zainal Rashid
+Zainal Rashid Al-Mu'adzam
+Rashid Al-Mu'adzam Shah
+Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam
+Zainal Rashid Al-Mu'adzam Shah
+Rashid Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam Shah
+Zainal Rashid Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam Shah I
+Sultan
+Zainal
+Rashid
 Al
 Mu'adzam
 Shah
@@ -40797,6 +42417,48 @@ Rashid Al Mu'adzam Shah I
 Sultan Zainal Rashid Al Mu'adzam Shah
 Zainal Rashid Al Mu'adzam Shah I
 Sultan Zainal Rashid Al Mu'adzam Shah I
+Sultan
+Zainal
+Rashid
+Al-Mu'adzam
+Shah
+I
+Sultan Zainal
+Zainal Rashid
+Rashid Al-Mu'adzam
+Al-Mu'adzam Shah
+Shah I
+Sultan Zainal Rashid
+Zainal Rashid Al-Mu'adzam
+Rashid Al-Mu'adzam Shah
+Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam
+Zainal Rashid Al-Mu'adzam Shah
+Rashid Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam Shah
+Zainal Rashid Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam Shah I
+Sultan
+Zainal
+Rashid
+Al-Mu'adzam
+Shah
+I
+Sultan Zainal
+Zainal Rashid
+Rashid Al-Mu'adzam
+Al-Mu'adzam Shah
+Shah I
+Sultan Zainal Rashid
+Zainal Rashid Al-Mu'adzam
+Rashid Al-Mu'adzam Shah
+Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam
+Zainal Rashid Al-Mu'adzam Shah
+Rashid Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam Shah
+Zainal Rashid Al-Mu'adzam Shah I
+Sultan Zainal Rashid Al-Mu'adzam Shah I
 Jason
 Terry
 Jason Terry
@@ -40910,8 +42572,20 @@ Budi Doremi
 Pajtim
 Kasami
 Pajtim Kasami
+Son
+Dong-woon
+Son Dong-woon
+Son
+Dong-woon
+Son Dong-woon
 Abd-Allah
 Muhammad
+Yoon
+Doo-joon
+Yoon Doo-joon
+Yoon
+Doo-joon
+Yoon Doo-joon
 Leighton
 Baines
 Leighton Baines
@@ -40975,6 +42649,9 @@ Morgan
 Jeffrey Dean
 Dean Morgan
 Jeffrey Dean Morgan
+Ji
+Dong-Won
+Ji Dong-Won
 Ji
 Dong-Won
 Ji Dong-Won
@@ -41248,6 +42925,9 @@ Song
 Joong-Ki
 Song Joong-Ki
 Song
+Joong-Ki
+Song Joong-Ki
+Song
 Joong
 Ki
 Song Joong
@@ -41308,6 +42988,24 @@ Asmir Begovi?
 Mahmoud
 Jibril
 Mahmoud Jibril
+Abdul
+Majid
+al-Qa?ud
+Abdul Majid
+Majid al-Qa?ud
+Abdul Majid al-Qa?ud
+Abdul
+Majid
+al-Qa?ud
+Abdul Majid
+Majid al-Qa?ud
+Abdul Majid al-Qa?ud
+Abdul
+Majid
+al-Qa?ud
+Abdul Majid
+Majid al-Qa?ud
+Abdul Majid al-Qa?ud
 Tuanku
 Haminah
 Hamidun
@@ -41471,6 +43169,9 @@ Henri
 Cartier-Bresson
 Henri Cartier-Bresson
 Henri
+Cartier-Bresson
+Henri Cartier-Bresson
+Henri
 Cartier
 Bresson
 Henri Cartier
@@ -41502,6 +43203,9 @@ Alfred Eisenstaedt
 Priyanka
 Chopra
 Priyanka Chopra
+Madeleine
+Hartog-Bel
+Madeleine Hartog-Bel
 Madeleine
 Hartog-Bel
 Madeleine Hartog-Bel
@@ -41587,6 +43291,12 @@ La Garza
 Justin
 Bartha
 Justin Bartha
+Jo
+Hyeon-jae
+Jo Hyeon-jae
+Jo
+Hyeon-jae
+Jo Hyeon-jae
 Anggara
 Mulia
 Anggara Mulia
@@ -41779,6 +43489,12 @@ Rahmad Ramadhan
 Ahmad
 Rasyid
 Ahmad Rasyid
+Lee
+Min-ho
+Lee Min-ho
+Lee
+Min-ho
+Lee Min-ho
 Madeline
 Tompkins
 Madeline Tompkins
@@ -42140,12 +43856,24 @@ David Filo
 Saphira
 Indah
 Saphira Indah
+Lee
+Jang-woo
+Lee Jang-woo
+Lee
+Jang-woo
+Lee Jang-woo
 Dide
 Irawan
 Dide Irawan
 Richie
 Setiawan
 Richie Setiawan
+Han
+Ji-min
+Han Ji-min
+Han
+Ji-min
+Han Ji-min
 Chip
 Daniels
 Chip Daniels
@@ -42176,6 +43904,12 @@ Jurina Matsui
 Nadi
 Khairi
 Nadi Khairi
+Chun
+Jung-myung
+Chun Jung-myung
+Chun
+Jung-myung
+Chun Jung-myung
 Andre
 Chiling
 Andre Chiling
@@ -42282,6 +44016,15 @@ Rivani Indriya Suwendi
 Sylvia
 Hitchcock
 Sylvia Hitchcock
+Seo
+Ji-hye
+Seo Ji-hye
+Seo
+Ji-hye
+Seo Ji-hye
+Nam
+Gyu-Ri
+Nam Gyu-Ri
 Nam
 Gyu-Ri
 Nam Gyu-Ri
@@ -42467,6 +44210,9 @@ Benoît
 Assou-Ekotto
 Benoît Assou-Ekotto
 Benoît
+Assou-Ekotto
+Benoît Assou-Ekotto
+Benoît
 Assou
 Ekotto
 Benoît Assou
@@ -42478,6 +44224,18 @@ Achille Emana
 Jean
 Makoun
 Jean Makoun
+Eric
+Maxim
+Choupo-Moting
+Eric Maxim
+Maxim Choupo-Moting
+Eric Maxim Choupo-Moting
+Eric
+Maxim
+Choupo-Moting
+Eric Maxim
+Maxim Choupo-Moting
+Eric Maxim Choupo-Moting
 Eric
 Maxim
 Choupo-Moting
@@ -42549,9 +44307,21 @@ Cannonball
 Can
 Bonomo
 Can Bonomo
+Ha
+Jeong-woo
+Ha Jeong-woo
+Ha
+Jeong-woo
+Ha Jeong-woo
 Tomomi
 Itano
 Tomomi Itano
+Yoon
+Kye-sang
+Yoon Kye-sang
+Yoon
+Kye-sang
+Yoon Kye-sang
 Kiesha
 Alvaro
 Kiesha Alvaro
@@ -42603,6 +44373,12 @@ Campbell
 Neil A.
 A. Campbell
 Neil A. Campbell
+Park
+Hae-il
+Park Hae-il
+Park
+Hae-il
+Park Hae-il
 Reita
 Faria
 Reita Faria
@@ -42698,9 +44474,21 @@ Natasha
 Desiree
 Natasha Desiree
 Juniel
+Ha
+Seok-jin
+Ha Seok-jin
+Ha
+Seok-jin
+Ha Seok-jin
 Linor
 Abargil
 Linor Abargil
+Jung
+Eui-chul
+Jung Eui-chul
+Jung
+Eui-chul
+Jung Eui-chul
 Sayaka
 Akimoto
 Sayaka Akimoto
@@ -42752,6 +44540,9 @@ School
 Co Ed
 Ed School
 Co Ed School
+Co-Ed
+School
+Co-Ed School
 Sayaka
 Yamamoto
 Sayaka Yamamoto
@@ -42773,6 +44564,9 @@ Sae Miyazawa
 Kevin
 Gutomo
 Kevin Gutomo
+Lee
+Jun-Hyuk
+Lee Jun-Hyuk
 Lee
 Jun-Hyuk
 Lee Jun-Hyuk
@@ -42923,6 +44717,12 @@ Mohammed Al Maktoum
 Lukas
 Mandowen
 Lukas Mandowen
+Ryu
+Deok-hwan
+Ryu Deok-hwan
+Ryu
+Deok-hwan
+Ryu Deok-hwan
 Christian
 Coulson
 Christian Coulson
@@ -43129,6 +44929,9 @@ Olave
 Baden-Powell
 Olave Baden-Powell
 Olave
+Baden-Powell
+Olave Baden-Powell
+Olave
 Baden
 Powell
 Olave Baden
@@ -43260,6 +45063,18 @@ Eric Szmanda
 Haruka
 Nakagawa
 Haruka Nakagawa
+Park
+Eun-hye
+Park Eun-hye
+Park
+Eun-hye
+Park Eun-hye
+Oh
+Yeon-seo
+Oh Yeon-seo
+Oh
+Yeon-seo
+Oh Yeon-seo
 Im
 Ho
 Im Ho
@@ -43275,6 +45090,36 @@ Heiðar Helguson
 Majid
 Majidi
 Majid Majidi
+Abd
+Rabbuh
+Mansur
+Al-Hadi
+Abd Rabbuh
+Rabbuh Mansur
+Mansur Al-Hadi
+Abd Rabbuh Mansur
+Rabbuh Mansur Al-Hadi
+Abd Rabbuh Mansur Al-Hadi
+Abd
+Rabbuh
+Mansur
+Al-Hadi
+Abd Rabbuh
+Rabbuh Mansur
+Mansur Al-Hadi
+Abd Rabbuh Mansur
+Rabbuh Mansur Al-Hadi
+Abd Rabbuh Mansur Al-Hadi
+Abd
+Rabbuh
+Mansur
+Al-Hadi
+Abd Rabbuh
+Rabbuh Mansur
+Mansur Al-Hadi
+Abd Rabbuh Mansur
+Rabbuh Mansur Al-Hadi
+Abd Rabbuh Mansur Al-Hadi
 Abd
 Rabbuh
 Mansur
@@ -43381,6 +45226,9 @@ Shunichi Kumai
 Takeshi
 Natori
 Takeshi Natori
+Lee
+Yoo-Hyung
+Lee Yoo-Hyung
 Lee
 Yoo-Hyung
 Lee Yoo-Hyung
@@ -43535,6 +45383,12 @@ John Russell Hind
 Giorgino
 Abraham
 Giorgino Abraham
+Kim
+Sung-soo
+Kim Sung-soo
+Kim
+Sung-soo
+Kim Sung-soo
 Ju
 Landon
 Ju Landon
@@ -43547,6 +45401,12 @@ Ivy Batuta
 Herbert
 Chapman
 Herbert Chapman
+Lee
+Min-ki
+Lee Min-ki
+Lee
+Min-ki
+Lee Min-ki
 Shizuka
 ?ya
 Shizuka ?ya
@@ -43586,6 +45446,9 @@ Momoiro Clover Z
 André
 Santos
 André Santos
+Alex
+Oxlade-Chamberlain
+Alex Oxlade-Chamberlain
 Alex
 Oxlade-Chamberlain
 Alex Oxlade-Chamberlain
@@ -43737,6 +45600,12 @@ Sigi Wimala
 Natsumi
 Matsubara
 Natsumi Matsubara
+Lee
+Gi-kwang
+Lee Gi-kwang
+Lee
+Gi-kwang
+Lee Gi-kwang
 Rena
 Nozawa
 Rena Nozawa
@@ -43816,6 +45685,12 @@ Sosa
 Porfirio Lobo
 Lobo Sosa
 Porfirio Lobo Sosa
+Asma
+al-Assad
+Asma al-Assad
+Asma
+al-Assad
+Asma al-Assad
 Esteban
 Granero
 Esteban Granero
@@ -43901,6 +45776,12 @@ Ricki Herbert
 Pedro
 Velázquez
 Pedro Velázquez
+So
+Ji-sub
+So Ji-sub
+So
+Ji-sub
+So Ji-sub
 Joachim
 Gauck
 Joachim Gauck
@@ -43940,6 +45821,9 @@ James Collins
 Joshua
 Ledet
 Joshua Ledet
+Huh
+Jung-Moo
+Huh Jung-Moo
 Huh
 Jung-Moo
 Huh Jung-Moo
@@ -44002,6 +45886,9 @@ Yoo
 Jae-Seok
 Yoo Jae-Seok
 Yoo
+Jae-Seok
+Yoo Jae-Seok
+Yoo
 Jae
 Seok
 Yoo Jae
@@ -44014,9 +45901,21 @@ Ken
 Haruka
 Ishida
 Haruka Ishida
+Kim
+Jong-kook
+Kim Jong-kook
+Kim
+Jong-kook
+Kim Jong-kook
 Muhammad
 Hamzah
 Muhammad Hamzah
+Go
+Hyun-jung
+Go Hyun-jung
+Go
+Hyun-jung
+Go Hyun-jung
 Lizzy
 Riley
 Keough
@@ -44056,6 +45955,18 @@ Thiago
 Alcântara
 Thiago Alcântara
 Yoochun
+Seo
+Hyo-rim
+Seo Hyo-rim
+Seo
+Hyo-rim
+Seo Hyo-rim
+Jeong
+Da-bin
+Jeong Da-bin
+Jeong
+Da-bin
+Jeong Da-bin
 Mario
 Costas
 Mario Costas
@@ -44104,6 +46015,12 @@ Zaneta
 Sébastien
 Corchia
 Sébastien Corchia
+Han
+Suk-kyu
+Han Suk-kyu
+Han
+Suk-kyu
+Han Suk-kyu
 Sloan
 Privat
 Sloan Privat
@@ -44157,6 +46074,12 @@ Jake Kean
 David
 Murphy
 David Murphy
+Kang
+Hye-jeong
+Kang Hye-jeong
+Kang
+Hye-jeong
+Kang Hye-jeong
 Nurmufid
 Fastabiqul
 Khoirot
@@ -44199,6 +46122,12 @@ Roy Makaay
 Ola
 John
 Ola John
+Bae
+Jong-ok
+Bae Jong-ok
+Bae
+Jong-ok
+Bae Jong-ok
 Ádám
 Bogdán
 Ádám Bogdán
@@ -44446,6 +46375,18 @@ Martin Jol
 RTM
 Sutamihardja
 RTM Sutamihardja
+Juma
+Darwish
+Al-Mashri
+Juma Darwish
+Darwish Al-Mashri
+Juma Darwish Al-Mashri
+Juma
+Darwish
+Al-Mashri
+Juma Darwish
+Darwish Al-Mashri
+Juma Darwish Al-Mashri
 Juma
 Darwish
 Al-Mashri
@@ -44702,6 +46643,18 @@ Haruna Iikubo
 Ryan
 Taylor
 Ryan Taylor
+Cha
+Tae-hyun
+Cha Tae-hyun
+Cha
+Tae-hyun
+Cha Tae-hyun
+Lee
+Kwang-soo
+Lee Kwang-soo
+Lee
+Kwang-soo
+Lee Kwang-soo
 Alexander
 Esswein
 Alexander Esswein
@@ -44772,6 +46725,9 @@ Kim
 Yong-Hee
 Kim Yong-Hee
 Kim
+Yong-Hee
+Kim Yong-Hee
+Kim
 Yong
 Hee
 Kim Yong
@@ -44783,6 +46739,9 @@ Hesketh
 Steve Lewis
 Lewis Hesketh
 Steve Lewis Hesketh
+Kang
+Dong-Won
+Kang Dong-Won
 Kang
 Dong-Won
 Kang Dong-Won
@@ -44953,6 +46912,9 @@ Jeon
 Sung-Ha
 Jeon Sung-Ha
 Jeon
+Sung-Ha
+Jeon Sung-Ha
+Jeon
 Sung
 Ha
 Jeon Sung
@@ -44967,6 +46929,12 @@ Rhustavito
 Shesar Hiren
 Hiren Rhustavito
 Shesar Hiren Rhustavito
+Basil
+al-Assad
+Basil al-Assad
+Basil
+al-Assad
+Basil al-Assad
 Putra
 Eka
 Rhoma
@@ -44997,6 +46965,9 @@ Robert Zullick
 Robert
 Zoellick
 Robert Zoellick
+Lee
+Sang-Min
+Lee Sang-Min
 Lee
 Sang-Min
 Lee Sang-Min
@@ -45042,6 +47013,9 @@ Pacencia Laurel
 Esperanza
 Osmeña
 Esperanza Osmeña
+Victoria
+Quirino-Delgado
+Victoria Quirino-Delgado
 Victoria
 Quirino-Delgado
 Victoria Quirino-Delgado
@@ -45234,6 +47208,12 @@ Tony Pulis
 Claudio
 Pronetto
 Claudio Pronetto
+Burhanuddin
+al-Hilmi
+Burhanuddin al-Hilmi
+Burhanuddin
+al-Hilmi
+Burhanuddin al-Hilmi
 Anang
 Ma'ruf
 Anang Ma'ruf
@@ -45454,6 +47434,9 @@ Yoo
 Wook-Jin
 Yoo Wook-Jin
 Yoo
+Wook-Jin
+Yoo Wook-Jin
+Yoo
 Wook
 Jin
 Yoo Wook
@@ -45654,6 +47637,9 @@ Fortuné
 Marc Antoine
 Antoine Fortuné
 Marc Antoine Fortuné
+Marc-Antoine
+Fortuné
+Marc-Antoine Fortuné
 Paul
 Scharner
 Paul Scharner
@@ -45736,6 +47722,9 @@ Ali
 Al-Habsi
 Ali Al-Habsi
 Ali
+Al-Habsi
+Ali Al-Habsi
+Ali
 Al
 Habsi
 Ali Al
@@ -45753,6 +47742,18 @@ Deariska Putri Medita
 Roberto
 Martínez
 Roberto Martínez
+Lee
+Soo-man
+Lee Soo-man
+Lee
+Soo-man
+Lee Soo-man
+Yoo
+Young-jin
+Yoo Young-jin
+Yoo
+Young-jin
+Yoo Young-jin
 Kenzie
 Wayne
 Hennessey
@@ -45778,6 +47779,9 @@ Michael Kightly
 Karl
 Henry
 Karl Henry
+Sylvan
+Ebanks-Blake
+Sylvan Ebanks-Blake
 Sylvan
 Ebanks-Blake
 Sylvan Ebanks-Blake
@@ -45858,6 +47862,9 @@ Nathaniel
 Mendez-Laing
 Nathaniel Mendez-Laing
 Nathaniel
+Mendez-Laing
+Nathaniel Mendez-Laing
+Nathaniel
 Mendez
 Laing
 Nathaniel Mendez
@@ -45869,6 +47876,12 @@ Johnny Gorman
 Terry
 Connor
 Terry Connor
+Kim
+Min-jong
+Kim Min-jong
+Kim
+Min-jong
+Kim Min-jong
 Go
 Ara
 Go Ara
@@ -45900,6 +47913,12 @@ Paulo Bento
 Slaven
 Bili?
 Slaven Bili?
+Jang
+Dong-gun
+Jang Dong-gun
+Jang
+Dong-gun
+Jang Dong-gun
 Erik
 Hamrén
 Erik Hamrén
@@ -45987,6 +48006,9 @@ Super
 Junior-Happy
 Super Junior-Happy
 Super
+Junior-Happy
+Super Junior-Happy
+Super
 Junior
 Happy
 Super Junior
@@ -46068,6 +48090,12 @@ John
 Bani
 John Bani
 Lee
+Chun-hee
+Lee Chun-hee
+Lee
+Chun-hee
+Lee Chun-hee
+Lee
 Hyori
 Lee Hyori
 Jajang
@@ -46126,11 +48154,26 @@ Ngozi
 Okonjo-Iweala
 Ngozi Okonjo-Iweala
 Ngozi
+Okonjo-Iweala
+Ngozi Okonjo-Iweala
+Ngozi
 Okonjo
 Iweala
 Ngozi Okonjo
 Okonjo Iweala
 Ngozi Okonjo Iweala
+Jeong
+Jin-yeong
+Jeong Jin-yeong
+Jeong
+Jin-yeong
+Jeong Jin-yeong
+Choi
+Min-soo
+Choi Min-soo
+Choi
+Min-soo
+Choi Min-soo
 Gustavo
 Fabian
 Lopez
@@ -46155,6 +48198,9 @@ Rudi Widodo
 Jimmy
 Suparno
 Jimmy Suparno
+Oh
+In-Kyun
+Oh In-Kyun
 Oh
 In-Kyun
 Oh In-Kyun
@@ -46192,10 +48238,19 @@ Sukadana Pratama
 I Gede Sukadana
 Gede Sukadana Pratama
 I Gede Sukadana Pratama
+Oh
+Ji-ho
+Oh Ji-ho
+Oh
+Ji-ho
+Oh Ji-ho
 Seungri
 Adrian
 Mierzejewski
 Adrian Mierzejewski
+Girls'
+Generation-TTS
+Girls' Generation-TTS
 Girls'
 Generation-TTS
 Girls' Generation-TTS
@@ -46229,6 +48284,12 @@ Siti Helda Meilita
 Hema
 Sardesai
 Hema Sardesai
+Park
+Jin-young
+Park Jin-young
+Park
+Jin-young
+Park Jin-young
 Maciej
 Rybus
 Maciej Rybus
@@ -46519,6 +48580,9 @@ H. P. Lovecraft
 Michael
 Silberbauer
 Michael Silberbauer
+Michael
+Krohn-Dehli
+Michael Krohn-Dehli
 Michael
 Krohn-Dehli
 Michael Krohn-Dehli
@@ -47089,6 +49153,12 @@ Stelios Giannakopoulos
 Dioncounda
 Traoré
 Dioncounda Traoré
+Na
+Hye-sok
+Na Hye-sok
+Na
+Hye-sok
+Na Hye-sok
 Giannis
 Goumas
 Giannis Goumas
@@ -47199,6 +49269,9 @@ Zevannya
 Amanda Roberta
 Roberta Zevannya
 Amanda Roberta Zevannya
+Colin
+Kazim-Richards
+Colin Kazim-Richards
 Colin
 Kazim-Richards
 Colin Kazim-Richards
@@ -47352,6 +49425,9 @@ Zieler
 Ron Robert
 Robert Zieler
 Ron Robert Zieler
+Ron-Robert
+Zieler
+Ron-Robert Zieler
 Marcel
 Schmelzer
 Marcel Schmelzer
@@ -47825,6 +49901,24 @@ Amenhotep II
 Hamadi
 Jebali
 Hamadi Jebali
+Muhammad
+VII
+al-Munsif
+Muhammad VII
+VII al-Munsif
+Muhammad VII al-Munsif
+Muhammad
+VII
+al-Munsif
+Muhammad VII
+VII al-Munsif
+Muhammad VII al-Munsif
+Muhammad
+VII
+al-Munsif
+Muhammad VII
+VII al-Munsif
+Muhammad VII al-Munsif
 Yunus
 Husein
 Yunus Husein
@@ -48154,9 +50248,21 @@ Charles Fleischer
 Roy
 Clarke
 Roy Clarke
+Lee
+Ki-woo
+Lee Ki-woo
+Lee
+Ki-woo
+Lee Ki-woo
 Ken
 Barnes
 Ken Barnes
+Yim
+Si-wan
+Yim Si-wan
+Yim
+Si-wan
+Yim Si-wan
 Baek
 Sung
 Hyun
@@ -48169,6 +50275,12 @@ Sirajuddin
 Ilham Arief
 Arief Sirajuddin
 Ilham Arief Sirajuddin
+Kim
+Sun-a
+Kim Sun-a
+Kim
+Sun-a
+Kim Sun-a
 Asmawi
 Agani
 Asmawi Agani
@@ -48314,6 +50426,12 @@ Kematian Azaria Chamberlain
 Ferly
 Putra
 Ferly Putra
+Fayez
+al-Tarawneh
+Fayez al-Tarawneh
+Fayez
+al-Tarawneh
+Fayez al-Tarawneh
 Yes
 Hip
 Hop
@@ -48377,6 +50495,24 @@ Saud
 Abdul-Aziz Al
 Al Saud
 Abdul-Aziz Al Saud
+Jo
+Yoon-woo
+Jo Yoon-woo
+Jo
+Yoon-woo
+Jo Yoon-woo
+Park
+Min-woo
+Park Min-woo
+Park
+Min-woo
+Park Min-woo
+Lee
+Chung-ah
+Lee Chung-ah
+Lee
+Chung-ah
+Lee Chung-ah
 Joo
 Hyun
 Joo Hyun
@@ -48424,6 +50560,18 @@ Abdul-Aziz Al Saud
 Shaun
 Goater
 Shaun Goater
+Hussa
+Ahmad
+Al-Sudayri
+Hussa Ahmad
+Ahmad Al-Sudayri
+Hussa Ahmad Al-Sudayri
+Hussa
+Ahmad
+Al-Sudayri
+Hussa Ahmad
+Ahmad Al-Sudayri
+Hussa Ahmad Al-Sudayri
 Hussa
 Ahmad
 Al-Sudayri
@@ -48820,6 +50968,12 @@ Zden?k Zeman
 Erik
 Lamela
 Erik Lamela
+Kim
+Yu-na
+Kim Yu-na
+Kim
+Yu-na
+Kim Yu-na
 Ace
 Ventura
 Ace Ventura
@@ -48929,6 +51083,9 @@ Haaland
 Alf Inge
 Inge Haaland
 Alf Inge Haaland
+Alf-Inge
+Haaland
+Alf-Inge Haaland
 Ashilla
 Zee
 Ashilla Zee
@@ -49121,11 +51278,26 @@ Nkosazana
 Dlamini-Zuma
 Nkosazana Dlamini-Zuma
 Nkosazana
+Dlamini-Zuma
+Nkosazana Dlamini-Zuma
+Nkosazana
 Dlamini
 Zuma
 Nkosazana Dlamini
 Dlamini Zuma
 Nkosazana Dlamini Zuma
+Kim
+Tae-gyun
+Kim Tae-gyun
+Kim
+Tae-gyun
+Kim Tae-gyun
+Park
+Hie-soon
+Park Hie-soon
+Park
+Hie-soon
+Park Hie-soon
 Dawoud
 Rajiha
 Dawoud Rajiha
@@ -49205,6 +51377,18 @@ Max Woosnam
 Dries
 Wuytens
 Dries Wuytens
+Jung
+Yoo-mi
+Jung Yoo-mi
+Jung
+Yoo-mi
+Jung Yoo-mi
+Ahn
+Suk-hwan
+Ahn Suk-hwan
+Ahn
+Suk-hwan
+Ahn Suk-hwan
 Pranab
 Mukherjee
 Pranab Mukherjee
@@ -49398,6 +51582,12 @@ Alex
 Nimely
 Alex Nimely
 Kim
+Kyu-sik
+Kim Kyu-sik
+Kim
+Kyu-sik
+Kim Kyu-sik
+Kim
 Gu
 Kim Gu
 Beby
@@ -49523,9 +51713,21 @@ Amélie
 Pangeran
 Kuning
 Pangeran Kuning
+Shin
+Won-ho
+Shin Won-ho
+Shin
+Won-ho
+Shin Won-ho
 Corinna
 Dentoni
 Corinna Dentoni
+Yoo
+Hyo-jeong
+Yoo Hyo-jeong
+Yoo
+Hyo-jeong
+Yoo Hyo-jeong
 Kim
 Ian
 Kim Ian
@@ -49868,12 +52070,30 @@ Holly Holliday
 Gusti
 Heru
 Gusti Heru
+Jang
+Hyun-seung
+Jang Hyun-seung
+Jang
+Hyun-seung
+Jang Hyun-seung
 Andania
 Suri
 Andania Suri
+Yong
+Jun-hyung
+Yong Jun-hyung
+Yong
+Jun-hyung
+Yong Jun-hyung
 Marc
 Márquez
 Marc Márquez
+Yang
+Yo-seob
+Yang Yo-seob
+Yang
+Yo-seob
+Yang Yo-seob
 Murad
 U.
 Nasir
@@ -50025,6 +52245,9 @@ Saidi
 Butar-Butar
 Saidi Butar-Butar
 Saidi
+Butar-Butar
+Saidi Butar-Butar
+Saidi
 Butar
 Butar
 Saidi Butar
@@ -50085,6 +52308,9 @@ Dulles
 John Foster
 Foster Dulles
 John Foster Dulles
+Lee
+Seung-Cheol
+Lee Seung-Cheol
 Lee
 Seung-Cheol
 Lee Seung-Cheol
@@ -50202,6 +52428,9 @@ Kaspars Gorkšs
 Simon
 Church
 Simon Church
+Hal
+Robson-Kanu
+Hal Robson-Kanu
 Hal
 Robson-Kanu
 Hal Robson-Kanu
@@ -50363,6 +52592,9 @@ Payne
 Liam Payne
 Jonathan
 Guzmán
+Ki
+Sung-Yueng
+Ki Sung-Yueng
 Ki
 Sung-Yueng
 Ki Sung-Yueng
@@ -50552,6 +52784,12 @@ Raúl Fernández-Cavada
 Fernández-Cavada Mateos
 Raúl Fernández-Cavada Mateos
 Raúl
+Fernández-Cavada
+Mateos
+Raúl Fernández-Cavada
+Fernández-Cavada Mateos
+Raúl Fernández-Cavada Mateos
+Raúl
 Fernández
 Cavada
 Mateos
@@ -50561,6 +52799,12 @@ Cavada Mateos
 Raúl Fernández Cavada
 Fernández Cavada Mateos
 Raúl Fernández Cavada Mateos
+Raúl
+Fernández-Cavada
+Mateos
+Raúl Fernández-Cavada
+Fernández-Cavada Mateos
+Raúl Fernández-Cavada Mateos
 Markel
 Susaeta
 Markel Susaeta
@@ -50643,6 +52887,27 @@ Gabriel Fernández Arenas
 Kim
 Jaewon
 Kim Jaewon
+Hwang
+Jung-eum
+Hwang Jung-eum
+Hwang
+Jung-eum
+Hwang Jung-eum
+Nam
+Gung-min
+Nam Gung-min
+Nam
+Gung-min
+Nam Gung-min
+Kim
+Sae-ron
+Kim Sae-ron
+Kim
+Sae-ron
+Kim Sae-ron
+Ko
+Joon-Hee
+Ko Joon-Hee
 Ko
 Joon-Hee
 Ko Joon-Hee
@@ -50652,7 +52917,19 @@ Hee
 Ko Joon
 Joon Hee
 Ko Joon Hee
+Jeong
+Bo-seok
+Jeong Bo-seok
+Jeong
+Bo-seok
+Jeong Bo-seok
 Arin
+Seo
+Young-joo
+Seo Young-joo
+Seo
+Young-joo
+Seo Young-joo
 Ashley
 Westwood
 Ashley Westwood
@@ -50662,6 +52939,12 @@ Sierra Sutedjo
 Sierra
 Soetedjo
 Sierra Soetedjo
+Yoon
+Yeo-jeong
+Yoon Yeo-jeong
+Yoon
+Yeo-jeong
+Yoon Yeo-jeong
 Vienna
 Fridiana
 Vienna Fridiana
@@ -50675,6 +52958,12 @@ Diarra
 Cheick Modibo
 Modibo Diarra
 Cheick Modibo Diarra
+Lee
+Seo-jin
+Lee Seo-jin
+Lee
+Seo-jin
+Lee Seo-jin
 Emmanuel
 Nadingar
 Emmanuel Nadingar
@@ -50696,6 +52985,12 @@ Yudha
 Sonny Krisna
 Krisna Yudha
 Sonny Krisna Yudha
+Choi
+Tae-joon
+Choi Tae-joon
+Choi
+Tae-joon
+Choi Tae-joon
 Francisco
 Javier
 García
@@ -50733,6 +53028,9 @@ Benjamin Siegrist
 Vadis
 Odjidja-Ofu
 Vadis Odjidja-Ofu
+Vadis
+Odjidja-Ofoe
+Vadis Odjidja-Ofoe
 Vadis
 Odjidja-Ofoe
 Vadis Odjidja-Ofoe
@@ -50957,6 +53255,18 @@ Cañas Ruiz-Herrera
 José Cañas Ruiz-Herrera
 José
 Cañas
+Ruiz-Herrera
+José Cañas
+Cañas Ruiz-Herrera
+José Cañas Ruiz-Herrera
+José
+Cañas
+Ruiz-Herrera
+José Cañas
+Cañas Ruiz-Herrera
+José Cañas Ruiz-Herrera
+José
+Cañas
 Ruiz
 Herrera
 José Cañas
@@ -51125,6 +53435,12 @@ Iván Sánchez-Rico
 Sánchez-Rico Soto
 Iván Sánchez-Rico Soto
 Iván
+Sánchez-Rico
+Soto
+Iván Sánchez-Rico
+Sánchez-Rico Soto
+Iván Sánchez-Rico Soto
+Iván
 Sánchez
 Rico
 Soto
@@ -51134,6 +53450,12 @@ Rico Soto
 Iván Sánchez Rico
 Sánchez Rico Soto
 Iván Sánchez Rico Soto
+Iván
+Sánchez-Rico
+Soto
+Iván Sánchez-Rico
+Sánchez-Rico Soto
+Iván Sánchez-Rico Soto
 Abel
 Aguilar
 Abel Aguilar
@@ -51391,6 +53713,15 @@ Morgan Schneiderlin
 Jos
 Hooiveld
 Jos Hooiveld
+Kim
+Min-joon
+Kim Min-joon
+Kim
+Min-joon
+Kim Min-joon
+Cha
+In-Pyo
+Cha In-Pyo
 Cha
 In-Pyo
 Cha In-Pyo
@@ -51400,6 +53731,30 @@ Pyo
 Cha In
 In Pyo
 Cha In Pyo
+Han
+Jae-suk
+Han Jae-suk
+Han
+Jae-suk
+Han Jae-suk
+Han
+Jung-soo
+Han Jung-soo
+Han
+Jung-soo
+Han Jung-soo
+Hong
+Jong-hyun
+Hong Jong-hyun
+Hong
+Jong-hyun
+Hong Jong-hyun
+Kim
+Ji-hoo
+Kim Ji-hoo
+Kim
+Ji-hoo
+Kim Ji-hoo
 José
 Fonte
 José Fonte
@@ -51415,9 +53770,21 @@ Lee Eon
 Jiho
 Lee
 Jiho Lee
+Lee
+Sang-woo
+Lee Sang-woo
+Lee
+Sang-woo
+Lee Sang-woo
 Jay
 Rodriguez
 Jay Rodriguez
+Park
+Ki-woong
+Park Ki-woong
+Park
+Ki-woong
+Park Ki-woong
 Gastón
 Ramírez
 Gastón Ramírez
@@ -51427,6 +53794,9 @@ Paulo Gazzaniga
 Danny
 Fox
 Danny Fox
+James
+Ward-Prowse
+James Ward-Prowse
 James
 Ward-Prowse
 James Ward-Prowse
@@ -51485,6 +53855,30 @@ Ryan Dickson
 Douglas
 Booth
 Douglas Booth
+Kim
+Young-kwang
+Kim Young-kwang
+Kim
+Young-kwang
+Kim Young-kwang
+Suh
+Joon-young
+Suh Joon-young
+Suh
+Joon-young
+Suh Joon-young
+Lee
+Won-geun
+Lee Won-geun
+Lee
+Won-geun
+Lee Won-geun
+Choi
+Cheol-ho
+Choi Cheol-ho
+Choi
+Cheol-ho
+Choi Cheol-ho
 Stefano
 Lucchini
 Stefano Lucchini
@@ -51506,6 +53900,9 @@ Argand
 Jean Robert
 Robert Argand
 Jean Robert Argand
+Jean-Robert
+Argand
+Jean-Robert Argand
 Ezequiel
 Schelotto
 Ezequiel Schelotto
@@ -51789,6 +54186,9 @@ Youssef
 El-Arabi
 Youssef El-Arabi
 Youssef
+El-Arabi
+Youssef El-Arabi
+Youssef
 El
 Arabi
 Youssef El
@@ -51938,6 +54338,24 @@ Robert Acquafresca
 Hesham
 Qandil
 Hesham Qandil
+Mohamed
+Yousef
+el-Magariaf
+Mohamed Yousef
+Yousef el-Magariaf
+Mohamed Yousef el-Magariaf
+Mohamed
+Yousef
+el-Magariaf
+Mohamed Yousef
+Yousef el-Magariaf
+Mohamed Yousef el-Magariaf
+Mohamed
+Yousef
+el-Magariaf
+Mohamed Yousef
+Yousef el-Magariaf
+Mohamed Yousef el-Magariaf
 Andrea
 Lee
 Andrea Lee
@@ -53271,6 +55689,9 @@ Song
 Jong-Ho
 Song Jong-Ho
 Song
+Jong-Ho
+Song Jong-Ho
+Song
 Jong
 Ho
 Song Jong
@@ -53282,6 +55703,9 @@ Kevin Vogt
 Ragnar
 Klavan
 Ragnar Klavan
+Koo
+Ja-Cheol
+Koo Ja-Cheol
 Koo
 Ja-Cheol
 Koo Ja-Cheol
@@ -53860,6 +56284,12 @@ Yeni Rosa Damayanti
 Achmad
 Mochtar
 Achmad Mochtar
+Song
+Hye-kyo
+Song Hye-kyo
+Song
+Hye-kyo
+Song Hye-kyo
 Lukas
 Rath
 Lukas Rath
@@ -54162,6 +56592,9 @@ Serre
 Jean Pierre
 Pierre Serre
 Jean Pierre Serre
+Jean-Pierre
+Serre
+Jean-Pierre Serre
 Michael
 F.
 Atiyah
@@ -54220,6 +56653,12 @@ Casado
 José Manuel
 Manuel Casado
 José Manuel Casado
+Yen
+Chia-kan
+Yen Chia-kan
+Yen
+Chia-kan
+Yen Chia-kan
 Emanuel
 Adler
 Emanuel Adler
@@ -54274,6 +56713,12 @@ Jacques Tits
 Mikhail
 Gromov
 Mikhail Gromov
+Park
+Gun-tae
+Park Gun-tae
+Park
+Gun-tae
+Park Gun-tae
 John
 Tate
 John Tate
@@ -54319,6 +56764,9 @@ Riegler
 Jan Marc
 Marc Riegler
 Jan Marc Riegler
+Jan-Marc
+Riegler
+Jan-Marc Riegler
 Maximilian
 Karner
 Maximilian Karner
@@ -54542,6 +56990,12 @@ XO-IX
 XO
 IX
 XO IX
+Wissam
+al-Hassan
+Wissam al-Hassan
+Wissam
+al-Hassan
+Wissam al-Hassan
 Sergei
 Aleksandrovich
 Lukyanov
@@ -55089,6 +57543,12 @@ Xabier Prieto
 Aulia
 Rahman
 Aulia Rahman
+Lin
+Chi-ling
+Lin Chi-ling
+Lin
+Chi-ling
+Lin Chi-ling
 Tom
 Jones
 Tom Jones
@@ -55521,6 +57981,9 @@ Gillet
 Jean François
 François Gillet
 Jean François Gillet
+Jean-François
+Gillet
+Jean-François Gillet
 Salvatore
 Schillaci
 Salvatore Schillaci
@@ -55558,6 +58021,12 @@ Filipp Breytveyt
 Aleksandr
 Budanov
 Aleksandr Budanov
+Choi
+Woo-hyuk
+Choi Woo-hyuk
+Choi
+Woo-hyuk
+Choi Woo-hyuk
 Alberto
 la
 Bella
@@ -55571,6 +58040,9 @@ Irizábal
 Gonzalo Castro
 Castro Irizábal
 Gonzalo Castro Irizábal
+Liassine
+Cadamuro-Bentaïba
+Liassine Cadamuro-Bentaïba
 Liassine
 Cadamuro-Bentaïba
 Liassine Cadamuro-Bentaïba
@@ -55595,12 +58067,42 @@ Daniel Estrada Agirrezabalaga
 Javier
 Ros
 Javier Ros
+Lee
+Ae-jung
+Lee Ae-jung
+Lee
+Ae-jung
+Lee Ae-jung
+Han
+Chae-young
+Han Chae-young
+Han
+Chae-young
+Han Chae-young
+Seo
+In-guk
+Seo In-guk
+Seo
+In-guk
+Seo In-guk
+Ki
+Tae-young
+Ki Tae-young
+Ki
+Tae-young
+Ki Tae-young
 Kirill
 Boldyrev
 Kirill Boldyrev
 Bryan
 Bergougnox
 Bryan Bergougnox
+Kim
+Ji-hoon
+Kim Ji-hoon
+Kim
+Ji-hoon
+Kim Ji-hoon
 Federico
 Fazio
 Federico Fazio
@@ -55721,6 +58223,9 @@ Frau
 Pierre Alain
 Alain Frau
 Pierre Alain Frau
+Pierre-Alain
+Frau
+Pierre-Alain Frau
 Chairul
 Naim
 M.
@@ -55871,6 +58376,9 @@ Aulas
 Jean Michel
 Michel Aulas
 Jean Michel Aulas
+Jean-Michel
+Aulas
+Jean-Michel Aulas
 Surisman
 Marah
 Surisman Marah
@@ -56204,6 +58712,9 @@ Emmanuel
 Agyemang-Badu
 Emmanuel Agyemang-Badu
 Emmanuel
+Agyemang-Badu
+Emmanuel Agyemang-Badu
+Emmanuel
 Agyemang
 Badu
 Emmanuel Agyemang
@@ -56236,6 +58747,12 @@ Yury Kazansky
 Jérémy
 Mathieu
 Jérémy Mathieu
+Kim
+Dong-wook
+Kim Dong-wook
+Kim
+Dong-wook
+Kim Dong-wook
 Alberto
 Costa
 Alberto Costa
@@ -56321,6 +58838,9 @@ Pierazzi
 Jean Baptiste
 Baptiste Pierazzi
 Jean Baptiste Pierazzi
+Jean-Baptiste
+Pierazzi
+Jean-Baptiste Pierazzi
 Chakhir
 Belghazouani
 Chakhir Belghazouani
@@ -56393,6 +58913,12 @@ Kathleen Sebelius
 Mehdi
 Mostefa
 Mehdi Mostefa
+Jin
+Yi-han
+Jin Yi-han
+Jin
+Yi-han
+Jin Yi-han
 David
 Gigliotti
 David Gigliotti
@@ -56466,6 +58992,36 @@ Francisco Montañés
 Toni
 Doblas
 Toni Doblas
+José
+María
+Martín
+Bejarano-Serrano
+José María
+María Martín
+Martín Bejarano-Serrano
+José María Martín
+María Martín Bejarano-Serrano
+José María Martín Bejarano-Serrano
+José
+María
+Martín
+Bejarano-Serrano
+José María
+María Martín
+Martín Bejarano-Serrano
+José María Martín
+María Martín Bejarano-Serrano
+José María Martín Bejarano-Serrano
+José
+María
+Martín
+Bejarano-Serrano
+José María
+María Martín
+Martín Bejarano-Serrano
+José María Martín
+María Martín Bejarano-Serrano
+José María Martín Bejarano-Serrano
 José
 María
 Martín
@@ -56573,6 +59129,9 @@ Gaël Angoula
 Toifilou
 Maoulida
 Toifilou Maoulida
+Yassin
+El-Azzouzi
+Yassin El-Azzouzi
 Yassin
 El-Azzouzi
 Yassin El-Azzouzi
@@ -56708,6 +59267,9 @@ Poko
 André Biyogo
 Biyogo Poko
 André Biyogo Poko
+Nicolas
+Maurice-Belay
+Nicolas Maurice-Belay
 Nicolas
 Maurice-Belay
 Nicolas Maurice-Belay
@@ -57351,6 +59913,9 @@ Kévin
 Monnet-Paquet
 Kévin Monnet-Paquet
 Kévin
+Monnet-Paquet
+Kévin Monnet-Paquet
+Kévin
 Monnet
 Paquet
 Kévin Monnet
@@ -57499,6 +60064,18 @@ ter Stegen
 Marc André ter
 André ter Stegen
 Marc André ter Stegen
+Marc-André
+ter
+Stegen
+Marc-André ter
+ter Stegen
+Marc-André ter Stegen
+Marc-André
+ter
+Stegen
+Marc-André ter
+ter Stegen
+Marc-André ter Stegen
 Matthias
 Zimmermann
 Matthias Zimmermann
@@ -57664,6 +60241,9 @@ Gignac
 André Pierre
 Pierre Gignac
 André Pierre Gignac
+André-Pierre
+Gignac
+André-Pierre Gignac
 Kevin
 Osei
 Kevin Osei
@@ -57688,6 +60268,12 @@ Florian Hübner
 Morgan
 Amalfitano
 Morgan Amalfitano
+Lee
+Hoi-chuen
+Lee Hoi-chuen
+Lee
+Hoi-chuen
+Lee Hoi-chuen
 Charles
 Kaboré
 Charles Kaboré
@@ -57718,6 +60304,9 @@ Ninomiya Sontoku
 Garry
 Bocaly
 Garry Bocaly
+Mapou
+Yanga-Mbiwa
+Mapou Yanga-Mbiwa
 Mapou
 Yanga-Mbiwa
 Mapou Yanga-Mbiwa
@@ -57799,6 +60388,9 @@ Spencer C. Tucker
 Zairin
 Zain
 Zairin Zain
+Karim
+Aït-Fana
+Karim Aït-Fana
 Karim
 Aït-Fana
 Karim Aït-Fana
@@ -57944,6 +60536,9 @@ Cavalli
 Jean Michel
 Michel Cavalli
 Jean Michel Cavalli
+Jean-Michel
+Cavalli
+Jean-Michel Cavalli
 Florian
 Hartherz
 Florian Hartherz
@@ -58096,6 +60691,9 @@ Aubameyang
 Pierre Emerick
 Emerick Aubameyang
 Pierre Emerick Aubameyang
+Pierre-Emerick
+Aubameyang
+Pierre-Emerick Aubameyang
 Alejandro
 Alonso
 Alejandro Alonso
@@ -58114,6 +60712,9 @@ Mignot
 Jean Pascal
 Pascal Mignot
 Jean Pascal Mignot
+Jean-Pascal
+Mignot
+Jean-Pascal Mignot
 Faouzi
 Ghoulam
 Faouzi Ghoulam
@@ -58404,6 +61005,9 @@ Kévin
 Théophile-Catherine
 Kévin Théophile-Catherine
 Kévin
+Théophile-Catherine
+Kévin Théophile-Catherine
+Kévin
 Théophile
 Catherine
 Kévin Théophile
@@ -58659,6 +61263,9 @@ Yohann
 Thuram-Ulien
 Yohann Thuram-Ulien
 Yohann
+Thuram-Ulien
+Yohann Thuram-Ulien
+Yohann
 Thuram
 Ulien
 Yohann Thuram
@@ -58667,6 +61274,9 @@ Yohann Thuram Ulien
 Mohamed
 Camara
 Mohamed Camara
+Georges
+Gope-Fenepej
+Georges Gope-Fenepej
 Georges
 Gope-Fenepej
 Georges Gope-Fenepej
@@ -58685,6 +61295,9 @@ Bahebeck
 Jean Christophe
 Christophe Bahebeck
 Jean Christophe Bahebeck
+Jean-Christophe
+Bahebeck
+Jean-Christophe Bahebeck
 Granddi
 Ngoyi
 Granddi Ngoyi
@@ -58776,9 +61389,33 @@ Sarasvati
 Ayu
 Laksmi
 Ayu Laksmi
+Lee
+Jong-won
+Lee Jong-won
+Lee
+Jong-won
+Lee Jong-won
+Go
+Eun-ah
+Go Eun-ah
+Go
+Eun-ah
+Go Eun-ah
+Ahn
+Yong-joon
+Ahn Yong-joon
+Ahn
+Yong-joon
+Ahn Yong-joon
 Jeong
 Chan
 Jeong Chan
+Bong
+Tae-gyu
+Bong Tae-gyu
+Bong
+Tae-gyu
+Bong Tae-gyu
 Aleksandr
 Matyukhin
 Aleksandr Matyukhin
@@ -58919,6 +61556,9 @@ Nicolas
 Isimat-Mirin
 Nicolas Isimat-Mirin
 Nicolas
+Isimat-Mirin
+Nicolas Isimat-Mirin
+Nicolas
 Isimat
 Mirin
 Nicolas Isimat
@@ -58933,6 +61573,9 @@ Leca
 Jean Louis
 Louis Leca
 Jean Louis Leca
+Jean-Louis
+Leca
+Jean-Louis Leca
 Loris
 Néry
 Loris Néry
@@ -58995,6 +61638,15 @@ Furlan
 Jean Marc
 Marc Furlan
 Jean Marc Furlan
+Jean-Marc
+Furlan
+Jean-Marc Furlan
+Yu
+Oh-seong
+Yu Oh-seong
+Yu
+Oh-seong
+Yu Oh-seong
 Christophe
 Galtier
 Christophe Galtier
@@ -59235,6 +61887,12 @@ Steven Berghuis
 Decky
 Suryata
 Decky Suryata
+Zo
+In-sung
+Zo In-sung
+Zo
+In-sung
+Zo In-sung
 Ratu
 Sonja
 Ratu Sonja
@@ -59253,6 +61911,12 @@ Denis Merte
 Dzhanik
 Mikayelyan
 Dzhanik Mikayelyan
+Kim
+Dong-jun
+Kim Dong-jun
+Kim
+Dong-jun
+Kim Dong-jun
 Hwang
 Kwanghee
 Hwang Kwanghee
@@ -59735,6 +62399,9 @@ Suk
 Hyun-Jun
 Suk Hyun-Jun
 Suk
+Hyun-Jun
+Suk Hyun-Jun
+Suk
 Hyun
 Jun
 Suk Hyun
@@ -60190,6 +62857,9 @@ Lambert
 Joseph François
 François Lambert
 Joseph François Lambert
+Joseph-François
+Lambert
+Joseph-François Lambert
 Jean
 Laborde
 Jean Laborde
@@ -60253,6 +62923,9 @@ Fledderus
 Mark Jan
 Jan Fledderus
 Mark Jan Fledderus
+Mark-Jan
+Fledderus
+Mark-Jan Fledderus
 Pierre-Olivier
 Malherbe
 Pierre-Olivier Malherbe
@@ -60262,6 +62935,9 @@ Malherbe
 Pierre Olivier
 Olivier Malherbe
 Pierre Olivier Malherbe
+Pierre-Olivier
+Malherbe
+Pierre-Olivier Malherbe
 Wilfried
 Zaha
 Wilfried Zaha
@@ -60911,6 +63587,12 @@ Robert Sheehan
 Giovanni
 Hiwat
 Giovanni Hiwat
+Kim
+So-hyun
+Kim So-hyun
+Kim
+So-hyun
+Kim So-hyun
 Mustafa
 Saymak
 Mustafa Saymak
@@ -60947,6 +63629,12 @@ Youness Mokhtar
 Denni
 Avdi?
 Denni Avdi?
+Kang
+Yi-suk
+Kang Yi-suk
+Kang
+Yi-suk
+Kang Yi-suk
 Peter
 Bosz
 Peter Bosz
@@ -61131,6 +63819,9 @@ Köstner
 Lorenz Günther
 Günther Köstner
 Lorenz Günther Köstner
+Lorenz-Günther
+Köstner
+Lorenz-Günther Köstner
 Aaron
 Hunt
 Aaron Hunt
@@ -61155,6 +63846,9 @@ Nicholas A. Christakis
 John
 Muir
 John Muir
+Assani
+Lukimya-Mulongoti
+Assani Lukimya-Mulongoti
 Assani
 Lukimya-Mulongoti
 Assani Lukimya-Mulongoti
@@ -61368,6 +64062,9 @@ Kempf
 Marc Oliver
 Oliver Kempf
 Marc Oliver Kempf
+Marc-Oliver
+Kempf
+Marc-Oliver Kempf
 Khairul
 Jasmi
 Khairul Jasmi
@@ -61464,6 +64161,12 @@ Bruno Labbadia
 Christoph
 Moritz
 Christoph Moritz
+Park
+Geun-hye
+Park Geun-hye
+Park
+Geun-hye
+Park Geun-hye
 Yevgeni
 Sherenkov
 Yevgeni Sherenkov
@@ -61632,6 +64335,24 @@ Aleksandr Stolyarenko
 Andrei
 Surovtsev
 Andrei Surovtsev
+Jung
+Woong-in
+Jung Woong-in
+Jung
+Woong-in
+Jung Woong-in
+Lee
+Moon-sik
+Lee Moon-sik
+Lee
+Moon-sik
+Lee Moon-sik
+Kim
+Hae-sook
+Kim Hae-sook
+Kim
+Hae-sook
+Kim Hae-sook
 Marcos
 António
 Elias
@@ -61681,6 +64402,12 @@ Patrick Rakovsky
 Markus
 Mendler
 Markus Mendler
+Kim
+Yong-gun
+Kim Yong-gun
+Kim
+Yong-gun
+Kim Yong-gun
 Adam
 Hloušek
 Adam Hloušek
@@ -61861,6 +64588,9 @@ Bemba
 Jean Pierre
 Pierre Bemba
 Jean Pierre Bemba
+Jean-Pierre
+Bemba
+Jean-Pierre Bemba
 Chinedu
 Ede
 Chinedu Ede
@@ -62319,6 +65049,9 @@ Son
 Heung-Min
 Son Heung-Min
 Son
+Heung-Min
+Son Heung-Min
+Son
 Heung
 Min
 Son Heung
@@ -62622,6 +65355,9 @@ Han
 Sang-Min
 Han Sang-Min
 Han
+Sang-Min
+Han Sang-Min
+Han
 Sang
 Min
 Han Sang
@@ -62631,11 +65367,17 @@ Lee
 Soung-Yong
 Lee Soung-Yong
 Lee
+Soung-Yong
+Lee Soung-Yong
+Lee
 Soung
 Yong
 Lee Soung
 Soung Yong
 Lee Soung Yong
+Lim
+Joon-Sik
+Lim Joon-Sik
 Lim
 Joon-Sik
 Lim Joon-Sik
@@ -62711,6 +65453,18 @@ Yan Ilchenko
 Irakli
 Chezhiya
 Irakli Chezhiya
+Eduardo
+Frei
+Ruiz-Tagle
+Eduardo Frei
+Frei Ruiz-Tagle
+Eduardo Frei Ruiz-Tagle
+Eduardo
+Frei
+Ruiz-Tagle
+Eduardo Frei
+Frei Ruiz-Tagle
+Eduardo Frei Ruiz-Tagle
 Eduardo
 Frei
 Ruiz-Tagle
@@ -62877,6 +65631,9 @@ Silva
 Antonio
 Stradivari
 Antonio Stradivari
+Émile
+Jaques-Dalcroze
+Émile Jaques-Dalcroze
 Émile
 Jaques-Dalcroze
 Émile Jaques-Dalcroze
@@ -63097,6 +65854,12 @@ Adi Sulistya
 Aleksandr
 Bulanovskiy
 Aleksandr Bulanovskiy
+Lee
+Da-wit
+Lee Da-wit
+Lee
+Da-wit
+Lee Da-wit
 Beverly
 Burns
 Beverly Burns
@@ -63115,6 +65878,12 @@ Omar Muhammad
 Argélico
 Fucks
 Argélico Fucks
+Cha
+Soo-yeon
+Cha Soo-yeon
+Cha
+Soo-yeon
+Cha Soo-yeon
 Super
 Idola
 Band
@@ -64420,6 +67189,7 @@ Julianne
 Hough
 Julianne Hough
 Nam-Chol
+Nam-Chol
 Nam
 Chol
 Nam Chol
@@ -64452,9 +67222,21 @@ Zalmon
 Chilla
 Irawan
 Chilla Irawan
+Jeong
+Jin-woon
+Jeong Jin-woon
+Jeong
+Jin-woon
+Jeong Jin-woon
 Roni
 Yuzirman
 Roni Yuzirman
+Um
+Ki-joon
+Um Ki-joon
+Um
+Ki-joon
+Um Ki-joon
 Aleksandr
 Viktorovich
 Lapin
@@ -64516,6 +67298,15 @@ Sartono Anwar
 Henny
 Purwonegoro
 Henny Purwonegoro
+Park
+Seo-joon
+Park Seo-joon
+Park
+Seo-joon
+Park Seo-joon
+Kodi
+Smit-McPhee
+Kodi Smit-McPhee
 Kodi
 Smit-McPhee
 Kodi Smit-McPhee
@@ -64610,6 +67401,9 @@ Yun
 Suk-Young
 Yun Suk-Young
 Yun
+Suk-Young
+Yun Suk-Young
+Yun
 Suk
 Young
 Yun Suk
@@ -64658,6 +67452,12 @@ Herry Rudolf Nahak
 Mochamad
 Jaelani
 Mochamad Jaelani
+Choi
+Woo-shik
+Choi Woo-shik
+Choi
+Woo-shik
+Choi Woo-shik
 Cyrille
 Pierre
 Théodore
@@ -64684,6 +67484,12 @@ Nicos Anastasiades
 Christoph
 Waltz
 Christoph Waltz
+Jiang
+Yi-huah
+Jiang Yi-huah
+Jiang
+Yi-huah
+Jiang Yi-huah
 Lee
 Areum
 Lee Areum
@@ -64809,6 +67615,9 @@ Natasha
 St-Pier
 Natasha St-Pier
 Natasha
+St-Pier
+Natasha St-Pier
+Natasha
 St
 Pier
 Natasha St
@@ -64829,6 +67638,12 @@ Carlos Sciucatti
 Nariman
 Gusalov
 Nariman Gusalov
+Song
+Seung-hyun
+Song Seung-hyun
+Song
+Seung-hyun
+Song Seung-hyun
 Nicolás
 Maduro
 Nicolás Maduro
@@ -64838,6 +67653,18 @@ Elías Jaua
 Lee
 ChunJi
 Lee ChunJi
+Choi
+Min-hwan
+Choi Min-hwan
+Choi
+Min-hwan
+Choi Min-hwan
+Lee
+Jae-jin
+Lee Jae-jin
+Lee
+Jae-jin
+Lee Jae-jin
 Dmitri
 Kozhemyakin
 Dmitri Kozhemyakin
@@ -64896,6 +67723,9 @@ Ason Sukasa
 Ichsan
 Akbar
 Ichsan Akbar
+Edward
+Tudor-Pole
+Edward Tudor-Pole
 Edward
 Tudor-Pole
 Edward Tudor-Pole
@@ -65032,6 +67862,9 @@ Ayrault
 Jean Marc
 Marc Ayrault
 Jean Marc Ayrault
+Jean-Marc
+Ayrault
+Jean-Marc Ayrault
 Eru
 Nuzli
 Arismal
@@ -65265,6 +68098,12 @@ Sigit Pramono
 Muhammad
 Najikh
 Muhammad Najikh
+Ri
+Sol-ju
+Ri Sol-ju
+Ri
+Sol-ju
+Ri Sol-ju
 Lorenzo
 Angelis
 Winson
@@ -65484,6 +68323,9 @@ Yoo
 Jae-Hoon
 Yoo Jae-Hoon
 Yoo
+Jae-Hoon
+Yoo Jae-Hoon
+Yoo
 Jae
 Hoon
 Yoo Jae
@@ -65604,12 +68446,24 @@ Dessy Fitri
 Nani
 Sugianto
 Nani Sugianto
+Yeon
+Jung-hoon
+Yeon Jung-hoon
+Yeon
+Jung-hoon
+Yeon Jung-hoon
 Maria
 Sibylla
 Merian
 Maria Sibylla
 Sibylla Merian
 Maria Sibylla Merian
+Han
+Ga-in
+Han Ga-in
+Han
+Ga-in
+Han Ga-in
 Ravindra
 Prabhat
 Ravindra Prabhat
@@ -65685,6 +68539,30 @@ Palma
 Alvon Kurnia
 Kurnia Palma
 Alvon Kurnia Palma
+Yun
+Chi-young
+Yun Chi-young
+Yun
+Chi-young
+Yun Chi-young
+Zainuddin
+Labai
+el-Yunusiyah
+Zainuddin Labai
+Labai el-Yunusiyah
+Zainuddin Labai el-Yunusiyah
+Zainuddin
+Labai
+el-Yunusiyah
+Zainuddin Labai
+Labai el-Yunusiyah
+Zainuddin Labai el-Yunusiyah
+Zainuddin
+Labai
+el-Yunusiyah
+Zainuddin Labai
+Labai el-Yunusiyah
+Zainuddin Labai el-Yunusiyah
 Mansur
 Daud
 Dt.
@@ -65734,6 +68612,12 @@ hee
 Kang chan
 chan hee
 Kang chan hee
+Kang
+Chan-hee
+Kang Chan-hee
+Kang
+Chan-hee
+Kang Chan-hee
 Infinite
 H
 Infinite H
@@ -65789,6 +68673,9 @@ Irzen Hawer
 Duo
 Jelly
 Duo Jelly
+Rosie
+Huntington-Whiteley
+Rosie Huntington-Whiteley
 Rosie
 Huntington-Whiteley
 Rosie Huntington-Whiteley
@@ -65994,6 +68881,12 @@ Zarine Khan
 Kang
 Sora
 Kang Sora
+Ahmed
+el-Thayeb
+Ahmed el-Thayeb
+Ahmed
+el-Thayeb
+Ahmed el-Thayeb
 Manda
 Cello
 Manda Cello
@@ -66543,6 +69436,12 @@ Sabrina Carpenter
 Vincent
 Tan
 Vincent Tan
+Na
+Yoon-sun
+Na Yoon-sun
+Na
+Yoon-sun
+Na Yoon-sun
 Konstantin
 Kadeyev
 Konstantin Kadeyev

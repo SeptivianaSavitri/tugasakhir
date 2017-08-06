@@ -192,7 +192,7 @@ kardiovaskuler	O
 Di	O
 beberapa	O
 negara	O
-Barat	Place
+Barat	O
 ,	O
 nama	O
 Soekarno	Person
@@ -315,8 +315,8 @@ yang	O
 sedang	O
 melakukan	O
 misi	O
-luar	Place
-negeri	Place
+luar	O
+negeri	O
 dalam	O
 upaya	O
 untuk	O
@@ -326,9 +326,9 @@ kedaulatan	O
 negara	O
 Indonesia	Place
 oleh	O
-negara	Place
+negara	O
 -	O
-negara	Place
+negara	O
 Arab	Place
 .	O
 Dalam	O
@@ -3416,7 +3416,7 @@ dan	O
 CherryBelle	Organisation
 ,	O
 disingkat	O
-ChiBi	Organisation
+ChiBi	O
 )	O
 adalah	O
 sebuah	O
@@ -3552,7 +3552,7 @@ pencarian	O
 bakat	O
 Cherrybelle	Organisation
 Cari	O
-Chibi	Organisation
+Chibi	O
 ,	O
 pada	O
 tanggal	O

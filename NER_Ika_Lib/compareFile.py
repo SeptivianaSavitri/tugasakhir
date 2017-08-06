@@ -9,8 +9,8 @@ from function import writeListofStringToFile,writeDictToFile
 
 
 #set the input and output file
-inputX = "dbpedia-new/validate/placeCoba1.txt"
-inputY = "dbpedia-new/validate/place.txt"
+inputX = "cekPerson/expansion/x-expand/resultPERBedaX.txt"
+inputY = "cekPerson/validation/x-expand/resultPERBedaX.txt"
 
 
 
@@ -19,9 +19,9 @@ inputY = "dbpedia-new/validate/place.txt"
 dataX = open(inputX, "r",errors='ignore')
 dataY = open(inputY, "r",errors='ignore')
 folder = "huft/"
-output =  folder + "resultPERSama.txt"
-outputBedaY = folder+  "resultPERBedaY.txt"
-outputBedaX =  folder+ "resultPERBedaX.txt"
+output =  folder + "resultSama.txt"
+outputBedaY = folder+  "resultBedaY.txt"
+outputBedaX =  folder+ "resultBedaX.txt"
 dictOutputSama = {}
 dictOutputBedaX = {}
 dictOutputBedaY = {}

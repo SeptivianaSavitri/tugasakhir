@@ -28,7 +28,8 @@ folder = "dbpedia-new/validate/"
 output = folder + "organization.txt"
 outputtmp = folder + "tmporg.txt"
 
-nltk_data = "dbpedia-new/nltk_clean.txt"
+#nltk_data = "dbpedia-new/nltk_clean.txt"
+nltk_data = "dbpedia-new/english_corpus.txt"
 kebi_data = "dbpedia-new/kebi_clean.txt"
 dictKebi = {}
 dictNLTK = {}
@@ -44,6 +45,9 @@ dictKebi = buatKamus(dictKebi, kebi_data)
 ROMAWI = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
              "XI", "XII", "XIII", "XIV",
              "XX", "XXX"]
+
+AGAMA = ["Buddha","Hindu","Islam","Katolik","Khonghucu","Kristen","Protestan"]
+BULAN = ["April", "Juni", "Juli"]
 count = 1
 
 inputFile = open(input1, 'r', errors='ignore')
@@ -54,20 +58,28 @@ count = 1
 for k in flines:
     k= k.replace("\n","")
     if(diKamus(k, dictKebi)):
-        dictTmp[k] = k
+        dictTmp[k] = "diKebi"
         
     #jika nama ada di nltk
     elif(diKamus(k, dictNLTK)):
-        dictTmp[k] = k
+        dictTmp[k] = "diNLTK"
     elif(len(k) <2):
-        dictTmp[k] = k
+        dictTmp[k] = "Panjang 1"
     elif(k in ROMAWI):
-        dictTmp[k] = k
+        dictTmp[k] = "ROMAWI"
+    #V6
+    elif(k in BULAN):
+        dictTmp[k] = "Nama Bulan"
+    #V7
+    elif(k in AGAMA):
+        dictTmp[k] = "Nama agama"
     else:
         newDictOrg[k] = k
     count += 1
 inputFile.close()
 
+
+#TC1
 inputFile = open(input2, 'r', errors='ignore')
 flines = inputFile.readlines()
 
@@ -75,19 +87,23 @@ flines = inputFile.readlines()
 for k in flines:
     k= k.replace("\n","")
     if(diKamus(k, dictKebi)):
-        dictTmp[k] = k
+        dictTmp[k] = "diKebi"
+        
     #jika nama ada di nltk
     elif(diKamus(k, dictNLTK)):
-        dictTmp[k] = k
+        dictTmp[k] = "diNLTK"
     elif(len(k) <2):
-        dictTmp[k] = k
+        dictTmp[k] = "Panjang 1"
     elif(k in ROMAWI):
-        dictTmp[k] = k
+        dictTmp[k] = "ROMAWI"
+    elif(k in AGAMA):
+        dictTmp[k] = "Nama agama"
     else:
         newDictOrg[k] = k
     count += 1
 inputFile.close()
 
+#TC2
 inputFile = open(input3, 'r', errors='ignore')
 flines = inputFile.readlines()
 
@@ -95,14 +111,17 @@ flines = inputFile.readlines()
 for k in flines:
     k= k.replace("\n","")
     if(diKamus(k, dictKebi)):
-        dictTmp[k] = k
+        dictTmp[k] = "diKebi"
+        
     #jika nama ada di nltk
     elif(diKamus(k, dictNLTK)):
-        dictTmp[k] = k
+        dictTmp[k] = "diNLTK"
     elif(len(k) <2):
-        dictTmp[k] = k
+        dictTmp[k] = "Panjang 1"
     elif(k in ROMAWI):
-        dictTmp[k] = k
+        dictTmp[k] = "ROMAWI"
+    elif(k in AGAMA):
+        dictTmp[k] = "Nama agama"
     else:
         newDictOrg[k] = k
     count += 1

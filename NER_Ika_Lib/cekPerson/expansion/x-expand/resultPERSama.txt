@@ -7,6 +7,7 @@ A Flock
 A Gong
 A Rafiq
 A-Lin
+A-ha
 A. Arthur
 A. Campbell
 A. Christakis
@@ -135,6 +136,10 @@ Abd Rabbuh Mansur
 Abd Rabbuh Mansur Al-Hadi
 Abd al
 Abd al Malik
+Abd ar-Rahman
+Abd ar-Rahman al-Bazzaz
+Abd as-Salam
+Abd as-Salam Arif
 Abd-Allah
 Abd.Rahim Arsyad
 Abdalla
@@ -698,6 +703,7 @@ Advocaat
 Adya
 Adya Mecca
 Adzana
+Ae-jung
 Aedy
 Aedy Moward
 Aelita
@@ -708,6 +714,8 @@ Aeropos
 Aeropos I
 Aerosmith
 Afanasyev
+Afandi
+Afandi al-Chirkawi
 Afdhal
 Afellay
 Afero
@@ -863,6 +871,7 @@ Agyl
 Agyl Syahriar
 Ah In
 Ah Loy
+Ah-seong
 Ahadiyat
 Ahamada
 Ahern
@@ -897,6 +906,9 @@ Ahmad Fuadi
 Ahmad Hazwan
 Ahmad Hazwan Bakri
 Ahmad Heryawan
+Ahmad Husayn
+Ahmad Husayn Khudayir
+Ahmad Husayn Khudayir as-Samarrai
 Ahmad Husein
 Ahmad Jabari
 Ahmad Jufrianto
@@ -929,6 +941,8 @@ Ahmad Wahib
 Ahmad Yani
 Ahmad Zahid
 Ahmad Zahid Hamidi
+Ahmad al-Bashir
+Ahmad al-Mansur
 Ahmadinejad
 Ahmadou
 Ahmadou Ahidjo
@@ -944,6 +958,8 @@ Ahmed Deedat
 Ahmed El
 Ahmed El Aash
 Ahmed Elmohamady
+Ahmed Hassan
+Ahmed Hassan al-Bakr
 Ahmed Hegazy
 Ahmed Kantari
 Ahmed Mahamoud
@@ -959,10 +975,14 @@ Ahmed Yusuf Yasin
 Ahmed Zaki
 Ahmed Zaki Iskandar
 Ahmed Zewail
+Ahmed al-Haznawi
+Ahmed el-Thayeb
 Ahmet Necdet
 Ahmet Necdet Sezer
 Ahn
 Ahn Jung-Hwan
+Ahn Suk-hwan
+Ahn Yong-joon
 Ahney
 Ahney Her
 Ahtisaari
@@ -1054,6 +1074,8 @@ Aji Saka
 Aji Santoso
 Aji Yusman
 Ajidarma
+Ajil
+Ajil al-Yawer
 Ajilore
 Ajip
 Ajip Rosidi
@@ -1760,6 +1782,7 @@ Ali Yacob
 Ali Yafie
 Ali Yugo
 Ali Zardari
+Ali al-Gaylani
 Ali-Reza
 Ali-Reza Pahlavi
 Ali-Sharmarke
@@ -2024,6 +2047,7 @@ Amin C. Kader
 Amin Didi
 Amin Rasulzade
 Amin Younes
+Amin al-Husayni
 Aminah
 Aminah Cendrakasih
 Aminarti
@@ -3310,6 +3334,7 @@ Aslanbek
 Aslanbek Konov
 Aslim
 Aslim Tadjuddin
+Asma al-Assad
 Asman
 Asman Abnur
 Asmarani
@@ -3620,6 +3645,8 @@ Ayew
 Ayhan
 Ayhan Akman
 Aykroyd
+Ayman
+Ayman al-Zawahiri
 Aymen
 Aymen Abdennour
 Aymetdinov
@@ -3817,6 +3844,8 @@ Badrodin Haiti
 Badstuber
 Badu
 Badudu
+Bae Jong-ok
+Bae Su-bin
 Bae Suzy
 Bae Yong
 Bae Yong Joon
@@ -3990,6 +4019,7 @@ Bambang Widjojanto
 Bambang Yudhoyono
 Bamir
 Bamir Topi
+Ban Ki-moon
 Banana Yaya
 Bancroft
 Banda Wijetunga
@@ -4126,9 +4156,12 @@ Basari
 Basarudin
 Base Jam
 Basha
+Bashar
+Bashar al-Assad
 Bashiira
 Bashir
 Basil Onomagoulos
+Basil al-Assad
 Basinas
 Basinger
 Basir Barthos
@@ -4753,6 +4786,7 @@ Blythe Auffarth
 Blyton
 Bo Hong
 Bo Svensson
+Bo-seok
 Boakai
 Boakay
 Boateng
@@ -4879,6 +4913,7 @@ Bonfim
 Bonfim Costa
 Bonfim Costa Santos
 Bong Chandra
+Bong Tae-gyu
 Bongani
 Bongani Khumalo
 Bonham
@@ -5348,6 +5383,7 @@ Burhanuddin A. Rasyid
 Burhanuddin Abdullah
 Burhanuddin Harahap
 Burhanuddin Rabbani
+Burhanuddin al-Hilmi
 Burjanadze
 Burkhalter
 Burkovetskiy
@@ -5412,6 +5448,7 @@ Byrne
 Bysshe
 Bysshe Shelley
 Bystrov
+Byung-hun
 C. Atmonegoro
 C. Carson
 C. Cast
@@ -5838,6 +5875,8 @@ Ceulemans
 Ceva
 Cha Du-Ri
 Cha In-Pyo
+Cha Soo-yeon
+Cha Tae-hyun
 Chabat
 Chace
 Chace Crawford
@@ -5852,6 +5891,7 @@ Chadli
 Chadli Bendjedid
 Chadov
 Chadwick
+Chae-young
 Chaeruddin
 Chaerul
 Chaerul Saleh
@@ -5893,6 +5933,7 @@ Chambers
 Chamsyah
 Chan
 Chan Santokhi
+Chan-hee
 Chand
 Chand Kelvin
 Chand Parwez
@@ -5913,6 +5954,7 @@ Chandrika Kumaratunga
 Chanel
 Chanel Iman
 Chang Myon
+Chang-ui
 Changmin
 Chaniago
 Channing
@@ -6083,7 +6125,9 @@ Chen Duxiu
 Chen Jia
 Chen Jia Hua
 Chen Ning
+Chen Shui-bian
 Chendo
+Cheol-ho
 Cheong
 Cheong Seng
 Cheppy
@@ -6116,7 +6160,12 @@ Chezhiya
 Chheda
 Chi Keung
 Chi Minh
+Chi-ling
+Chi-young
+Chia-kan
 Chiang
+Chiang Ching-kuo
+Chiang Kai-shek
 Chiara
 Chiara Lubich
 Chiara Zanni
@@ -6168,6 +6217,7 @@ Chinese Music
 Chinese Music Group
 Ching Ying
 Ching-Yuen
+Ching-kuo
 Chinghiz
 Chinghiz Aitmatov
 Chintami
@@ -6197,14 +6247,22 @@ Chmelo
 Choden
 Choden Wangchuck
 Choi
+Choi Cheol-ho
 Choi Dong
 Choi Dong Soo
+Choi Jin-sil
 Choi Jong
 Choi Jong Hun
+Choi Kyu-ha
+Choi Min-hwan
+Choi Min-soo
 Choi Minho
 Choi Siwon
+Choi Tae-joon
 Choi Won
 Choi Won Hong
+Choi Woo-hyuk
+Choi Woo-shik
 Choirudin
 Chok
 Chok Tong
@@ -6413,10 +6471,15 @@ Chukwuma Obi
 Chul-Hyung
 Chulapa
 Chumbawamba
+Chun Doo-hwan
+Chun Jung-myung
+Chun-hee
 ChunJi
 Chung
 Chung Hee
+Chung Un-chan
 Chung-Yong
+Chung-ah
 Chuprakov
 Chye
 Chye Retty
@@ -6953,6 +7016,8 @@ D.I. Pandjaitan
 DJ Campbell
 DJ Earworm
 DJ Ozma
+Da-bin
+Da-wit
 DaMarcus
 DaMarcus Beasley
 Daan
@@ -7838,6 +7903,7 @@ Denzel Washington
 Denzil
 Denzil Douglas
 Deodoro
+Deok-hwan
 Deol
 Depapepe
 Depay
@@ -8488,6 +8554,8 @@ Doddy Achdiat
 Doddy Achdiat Tisna
 Doddy Achdiat Tisna Amidjaja
 Doddy Sukma
+Dodi
+Dodi al-Fayed
 Dodig
 Dodo Zakaria
 Doel
@@ -8570,6 +8638,11 @@ Dong Soo
 Dong Wook
 Dong-Gook
 Dong-Won
+Dong-gun
+Dong-jun
+Dong-woo
+Dong-wook
+Dong-woon
 Donghae
 Dongho
 Doni
@@ -8593,6 +8666,8 @@ Donny Michael
 Donny Suhendra
 Dono
 Donovan Patton
+Doo-hwan
+Doo-joon
 Doping Panda
 Doppert
 Doppo
@@ -8708,6 +8783,7 @@ Duc Luong
 Duchesne
 Duchess Olga
 Duchess Olga Alexandrovna
+Duck-soo
 Ducksch
 Duclerc
 Ducourtioux
@@ -9167,6 +9243,8 @@ Ehrlich
 Ehud
 Ehud Barak
 Ehud Olmert
+Ei-ichi
+Ei-ichi Negishi
 Eichmann
 Eigen
 Eiji
@@ -9880,11 +9958,15 @@ Eugene Wigner
 Eugenio
 Eugenio Aramburu
 Eugenio Corini
+Eui-chul
 Euis
 Euis Darliah
 Eukleidas
 Euler
 Eun-Bin
+Eun-ah
+Eun-hye
+Eun-jeong
 Eunhyuk
 Eunis
 Eunis Chan
@@ -10311,6 +10393,8 @@ Fay Wray
 Faye
 Faye Dunaway
 Faye Wong
+Fayez
+Fayez al-Tarawneh
 Faymann
 Fazal
 Fazal Dath
@@ -11092,6 +11176,7 @@ G. Wilson
 G.A. Siwabessy
 G.H. Mantik
 G.J. Latumahina
+Ga-in
 Gaafar
 Gaafar Nimeiry
 Gabbiadini
@@ -11609,6 +11694,8 @@ Gery Setia Adi
 Gery Setia Adi Nugraha
 Gesang
 Getachew
+Geun-hye
+Geun-suk
 Gevorg
 Gevorg Davoyan
 Geyer
@@ -11622,6 +11709,9 @@ Ghannouchi
 Ghassani
 Ghazali
 Ghazali Langitan
+Ghazi Mashal
+Ghazi Mashal Ajil
+Ghazi Mashal Ajil al-Yawer
 Ghea
 Ghea Dahliana
 Ghea Dahliana Oktarin
@@ -11638,6 +11728,7 @@ Ghufron
 Ghufron Mukti
 Ghulam
 Ghulam Muhammad
+Gi-kwang
 Giaccherini
 Giacconi
 Giacinto
@@ -11923,6 +12014,8 @@ Gnarls
 Gnarls Barkley
 Gnedov
 Go Ara
+Go Eun-ah
+Go Hyun-jung
 Go Morita
 Go Nagai
 Goaryan
@@ -11998,6 +12091,7 @@ Gonzalez
 Gonzalo Castro
 Gonzalo Jara
 Gonzalo Pineda
+Goo Ha-ra
 Good Charlotte
 GoodBoyBadminton
 Goodey
@@ -12280,6 +12374,7 @@ Gumilar Rusliwa Somantri
 Gumira
 Gumira Ajidarma
 Gumley
+Gun-tae
 Guna Dharma
 Gunadi
 Gunapradiptha
@@ -12287,6 +12382,7 @@ Gunawan Dwi
 Gunawan Dwi Cahyo
 Gunawan Paggaru
 Gunawan Sudradjat
+Gung-min
 Gunnar Gren
 Gunnar Nielsen
 Gunnarsson
@@ -12416,6 +12512,10 @@ H.G. Wells
 H.M. Fikri
 H.M.A. Tihami
 HIM Damsyik
+Ha Jeong-woo
+Ha Ji-won
+Ha Seok-jin
+Ha-ra
 Haakon
 Haakon Hjelde
 Haaland
@@ -12477,12 +12577,16 @@ Hadju
 Hadley
 Hadley Barkley
 Hadouir
+Hae-il
+Hae-sook
 Haeckel
 Haemhouts
 Haeny
 Haeny Relawati
 Haeny Relawati Rini
 Haeny Relawati Rini Widyastuti
+Hafez
+Hafez al-Assad
 Hafid
 Hafid Murtadho
 Hafidz
@@ -12617,10 +12721,21 @@ Hamse Abdouh
 Hamzah Haz
 Hamzah Shopi
 Hamzah Thayeb
+Han Chae-young
+Han Duck-soo
+Han Eun-jeong
+Han Ga-in
 Han Geng
 Han Hwak
+Han Hyo-joo
+Han Jae-suk
+Han Ji-min
+Han Jung-soo
+Han Myung-sook
 Han Sang-Min
+Han Seung-soo
 Han Seungyeon
+Han Suk-kyu
 Han Sunhwa
 Han Yun
 Hanadia
@@ -12659,6 +12774,7 @@ Hannah Al
 Hannah Al Rasyid
 Hannah Kempfer
 Hannelius
+Hannibal al-Qaddafi
 Hannigan
 Hanno
 Hanno Balitsch
@@ -12924,11 +13040,14 @@ Haryono
 Haryono Suyono
 Hasan Abdullah
 Hasan Abdullah Sahal
+Hasan Ahmad
+Hasan Ahmad al-Bashir
 Hasan Basri
 Hasan Basri Agus
 Hasan Basri Durin
 Hasan Ishaaq
 Hasan Rais
+Hasan as-Senussi
 Hasani
 Hasanuddin
 Hasballah
@@ -12972,6 +13091,7 @@ Hassan Roudbarian
 Hassan Sanusi
 Hassan Wirajuda
 Hassan Yebda
+Hassan al-Bakr
 Hassanal
 Hassanal Bolkiah
 Hasselbaink
@@ -12996,6 +13116,7 @@ Hatoyama
 Hatta Rajasa
 Hattusili
 Hattusili III
+Hau Lung-pin
 Hauerwas
 Hauptman
 Hauser
@@ -13077,6 +13198,7 @@ Hedwiges Maduro
 Hedy
 Hedy Lamarr
 Hee
+Hee-sun
 Heechul
 Heejun
 Heejun Han
@@ -13480,6 +13602,7 @@ Hideyo Noguchi
 Hideyuki
 Hideyuki Ashihara
 Hideyuki Nozawa
+Hie-soon
 Hierro
 Hifikepunye
 Hifikepunye Pohamba
@@ -13617,6 +13740,7 @@ Hofstadter
 Hogan Ephraim
 Hogeland
 Hogg
+Hoi-chuen
 Hoilett
 Hok
 Hok Gie
@@ -13647,6 +13771,7 @@ Honecker
 Honegger
 Honesti
 Honesti Basyir
+Hong Jong-hyun
 Hong Kingston
 Hong Myung-Bo
 Hong Yoon
@@ -13800,6 +13925,9 @@ Huntley
 Huo
 Hupperts
 Hurd-Wood
+Husayn
+Husayn Khudayir
+Husayn Khudayir as-Samarrai
 Husbands
 Husein
 Huseyn
@@ -13848,6 +13976,7 @@ Huygens
 Hwak
 Hwan
 Hwang
+Hwang Jung-eum
 Hwang Kwanghee
 Hwanhee
 Hwayoung
@@ -13857,8 +13986,16 @@ Hyde
 Hye
 Hye Sun
 Hye Young
+Hye-jeong
+Hye-kyo
+Hye-sok
+Hye-sung
+Hyeon-jae
 Hyeonjong
 Hylmi
+Hyo-jeong
+Hyo-joo
+Hyo-rim
 Hyolyn
 Hyomin
 Hyori
@@ -13875,6 +14012,11 @@ Hyun Joon
 Hyun Koo
 Hyun Woo
 Hyun-Jun
+Hyun-bin
+Hyun-il
+Hyun-joong
+Hyun-jung
+Hyun-seung
 Hyung
 Hyung Joon
 I Gede
@@ -13962,6 +14104,7 @@ Ibrahim Nasir
 Ibrahim Sakty
 Ibrahim Sakty Batubara
 Ibrahim Shah
+Ibrahim al-Jaafari
 Ibrahima
 Ibrahima Mbaye
 Ibram
@@ -14147,6 +14290,7 @@ Iker Muniain
 Ikeuchi
 Ikhsan
 Ikhsan Samiaji
+Ikimono-gakari
 Iking
 Ikke
 Ikke Nurjanah
@@ -14158,6 +14302,8 @@ Ikuta
 Ikuta Toma
 Il
 Il Volo
+Il-sung
+Il-woo
 Ilan
 Ilan Boccara
 Ilana
@@ -14266,6 +14412,8 @@ In Ae
 In't Veld
 In-Kyun
 In-Pyo
+In-guk
+In-sung
 Inal
 Inal Siregar
 Inamoto
@@ -14356,6 +14504,7 @@ Infanta Maria
 Infanta Maria Francisca
 Infante Dinis
 Infinite H
+Ing-wen
 Inggrid
 Inggrid Kansil
 Inggrid Widjanarko
@@ -14913,6 +15062,9 @@ Jae Moo
 Jae Wook
 Jae-Hoon
 Jae-Seok
+Jae-jin
+Jae-suk
+Jae-sung
 Jaejoong
 Jaelani
 Jaenal
@@ -15162,11 +15314,16 @@ Janet Reno
 Jang
 Jang Bahadur
 Jang Bahadur Rana
+Jang Dong-gun
+Jang Geun-suk
+Jang Hyun-seung
 Jang Mi
 Jang Mi In
 Jang Mi In Ae
 Jang Nara
 Jang Wooyoung
+Jang Yoon-jeong
+Jang-woo
 Janis
 Janis Joplin
 Jankovic
@@ -15299,6 +15456,7 @@ Jazlan
 Jazlan Mohamed
 Jazlin
 Jazlin Jazimin
+Je-hoon
 Jean Anouilh
 Jean Astruc
 Jean Baptiste
@@ -15493,8 +15651,14 @@ Jeon Boram
 Jeon Hyosung
 Jeon Sung-Ha
 Jeong
+Jeong Bo-seok
 Jeong Chan
+Jeong Da-bin
 Jeong Hoon
+Jeong Il-woo
+Jeong Jin-woon
+Jeong Jin-yeong
+Jeong-woo
 Jepsen
 Jeranding
 Jeranding Abdurrahman
@@ -15622,6 +15786,16 @@ Ji Hoon
 Ji Yun-Nam
 Ji-Sung
 Ji-Yeon
+Ji-bin
+Ji-ho
+Ji-hoo
+Ji-hoon
+Ji-hye
+Ji-hyeon
+Ji-hyo
+Ji-min
+Ji-sub
+Ji-won
 Jia
 Jia Hua
 Jia Xiao-Chen
@@ -15629,6 +15803,7 @@ Jiabao
 Jian
 Jian Batari
 Jiang
+Jiang Yi-huah
 Jiang Zemin
 Jiao
 Jiayi
@@ -15697,6 +15872,11 @@ Jimmy Wang Yu
 Jin Akanishi
 Jin Goo
 Jin Woon
+Jin Yi-han
+Jin-sil
+Jin-woon
+Jin-yeong
+Jin-young
 Jinarakkhita
 Jindal
 Jingwei
@@ -15717,8 +15897,10 @@ Jiwa Zainal Adilin II
 Jiyeon
 Jiyoung
 Jo Frost
+Jo Hyeon-jae
 Jo Kwon
 Jo Novita
+Jo Yoon-woo
 Joachim Gauck
 Joachim Heer
 Joachim Winckelmann
@@ -16142,6 +16324,13 @@ Jong Min
 Jong Suk
 Jong Up
 Jong-Ho
+Jong-hyun
+Jong-il
+Jong-kook
+Jong-nam
+Jong-ok
+Jong-un
+Jong-won
 Jonghyun
 Joni Marsinih
 Joni Mitchell
@@ -16167,6 +16356,7 @@ Joo Sang Wook
 Joo Won
 Joon-Hee
 Joon-Sik
+Joon-young
 Joong-Ki
 Joop
 Joop Ave
@@ -16535,6 +16725,8 @@ Jun Min Seo
 Jun'ya
 Jun'ya Ikeda
 Jun-Hyuk
+Jun-hyung
+Jun-ki
 Juna
 Juna Rorimpandey
 Junaedhie
@@ -16542,23 +16734,32 @@ Junaidi
 Junaidi Hamzah
 June Allyson
 June Foray
+Jung Eui-chul
 Jung Hana
 Jung Hye
 Jung Hye Young
 Jung Hyun
+Jung Jae-sung
 Jung Jin
 Jung Jin Woon
 Jung Min
 Jung Nicole
 Jung Shin
+Jung So-min
 Jung Tae
 Jung Tae Woo
 Jung Wook
+Jung Woong-in
 Jung Yong
 Jung Yong Hwa
+Jung Yoo-mi
 Jung-Hwan
 Jung-Moo
 Jung-Soo
+Jung-eum
+Jung-hoon
+Jung-myung
+Jung-soo
 Juni Arcan
 Junianatha
 Junichi
@@ -16668,6 +16869,7 @@ K.N. Singh
 KH. Abdullah
 KLa
 KLa Project
+Ka-shing
 Kaban
 Kabanov
 Kabardin
@@ -16725,6 +16927,7 @@ Kahn
 Kahneman
 Kahveci
 Kai Heerings
+Kai-shek
 Kaiane
 Kaiane Aldorino
 Kaisar Norton
@@ -16820,13 +17023,16 @@ Kanedi
 Kaneko
 Kaneshiro
 Kaneyev
+Kang Chan-hee
 Kang Dong-Won
+Kang Hye-jeong
 Kang Ibing
 Kang Jiyoung
 Kang Min
 Kang Min Hyuk
 Kang San
 Kang Sora
+Kang Yi-suk
 Kang chan
 Kang chan hee
 Kang-In
@@ -17488,6 +17694,8 @@ Khama
 Khamani
 Khamani Griffin
 Khamenei
+Khamis
+Khamis al-Qaddafi
 Khamtai
 Khamtai Siphandon
 Khanal
@@ -17545,6 +17753,8 @@ Khripunkov
 Khrisna
 Khrisna Mukti
 Khrushchev
+Khudayir
+Khudayir as-Samarrai
 Khudobko
 Khumalo
 Khune
@@ -17555,7 +17765,12 @@ Ki Hadjar Dewantara
 Ki Sarmidi
 Ki Sarmidi Mangunsarkoro
 Ki Sung-Yueng
+Ki Tae-young
 Ki Umbara
+Ki-joon
+Ki-moon
+Ki-woo
+Ki-woong
 Kian Egan
 Kian Gie
 Kiarostami
@@ -17614,13 +17829,20 @@ Kim Basinger
 Kim Bum
 Kim Cattrall
 Kim Dae-Jung
+Kim Dong-jun
+Kim Dong-wook
 Kim Gu
+Kim Hae-sook
 Kim Harrison
+Kim Hee-sun
 Kim Heechul
 Kim Hok
+Kim Hye-sung
+Kim Hyun-joong
 Kim Hyung
 Kim Hyung Joon
 Kim Ian
+Kim Il-sung
 Kim Isak
 Kim Jae
 Kim Jae Wook
@@ -17629,6 +17851,12 @@ Kim Jeffrey
 Kim Jeffrey Kurniawan
 Kim Jeong
 Kim Jeong Hoon
+Kim Ji-hoo
+Kim Ji-hoon
+Kim Jong-il
+Kim Jong-kook
+Kim Jong-nam
+Kim Jong-un
 Kim Jonghyun
 Kim Joon
 Kim Junsu
@@ -17636,11 +17864,28 @@ Kim Kardashian
 Kim Kibum
 Kim Kyu
 Kim Kyu Jong
+Kim Kyu-sik
+Kim Min-jong
+Kim Min-joon
+Kim Nam-gil
+Kim Sae-ron
+Kim So-eun
+Kim So-hyun
+Kim Soo-hyun
+Kim Su-ro
+Kim Sun-a
+Kim Sung-soo
+Kim Tae-gyun
 Kim Wee
 Kim Wilde
 Kim Yong-Hee
+Kim Yong-gun
+Kim Yong-il
 Kim Yoo
 Kim Yoo Jung
+Kim Young-kwang
+Kim Young-sam
+Kim Yu-na
 Kimball
 Kimberly Russell
 Kimberly Ryder
@@ -17783,6 +18028,7 @@ Knowles
 Knox
 Knox Polk
 Knuth
+Ko Ah-seong
 Ko Joon-Hee
 Ko Ko
 Kobayashi
@@ -18257,6 +18503,7 @@ Kwame Nkrumah
 Kwame Quansah
 Kwang
 Kwang Hyun
+Kwang-soo
 Kwanghee
 Kwangsoo
 Kwanrico
@@ -18272,6 +18519,7 @@ Kwik Kian Gie
 Kwok
 Kwon
 Kwon Jun
+Kwon Sang-woo
 Kyai
 Kyai Haji
 Kyai Haji Hisyam
@@ -18286,6 +18534,7 @@ Kyaw
 Kyaw Ko
 Kyaw Ko Ko
 Kydland
+Kye-sang
 Kyi
 Kyla
 Kyla Pratt
@@ -18304,6 +18553,8 @@ Kyriakos
 Kyriakos Papadopoulos
 Kyu Jong
 Kyu Sakamoto
+Kyu-ha
+Kyu-sik
 Kyuhyun
 L'Arc~en~Ciel
 L. Berger
@@ -18327,6 +18578,8 @@ LaCroix
 LaKisha
 LaKisha Jones
 LaVey
+Labai
+Labai el-Yunusiyah
 Labaka
 Labbadia
 Labeko
@@ -18629,10 +18882,15 @@ Ledesma
 Ledet
 Ledley
 Ledley King
+Lee Ae-jung
 Lee Areum
+Lee Byung-hun
 Lee Cattermole
+Lee Chun-hee
 Lee ChunJi
 Lee Chung-Yong
+Lee Chung-ah
+Lee Da-wit
 Lee Dong
 Lee Dong Wook
 Lee Dong-Gook
@@ -18640,8 +18898,10 @@ Lee Donghae
 Lee Dorrian
 Lee Eon
 Lee Eusebio
+Lee Gi-kwang
 Lee Harvey
 Lee Harvey Oswald
+Lee Hoi-chuen
 Lee Hongki
 Lee Hsien
 Lee Hsien Loong
@@ -18649,41 +18909,65 @@ Lee Hyori
 Lee Hyun
 Lee Hyun Jin
 Lee Hyun Woo
+Lee Hyun-il
 Lee Jae
 Lee Jae Hwang
+Lee Jae-jin
+Lee Jang-woo
+Lee Je-hoon
 Lee Ji
 Lee Ji Hoon
 Lee Jong
 Lee Jong Hyun
 Lee Jong Suk
+Lee Jong-won
 Lee Joon
 Lee Jun-Hyuk
+Lee Jun-ki
 Lee Jung
 Lee Jung Hyun
 Lee Jung Shin
 Lee Jung-Soo
 Lee Kershaw
+Lee Ki-woo
 Lee Kiseop
 Lee Kuan
 Lee Kuan Yew
+Lee Kwang-soo
 Lee Lucas
 Lee Marvin
 Lee McKenzie
 Lee Min
 Lee Min Jeong
+Lee Min-ho
+Lee Min-ki
 Lee Minhyuk
+Lee Moon-sik
+Lee Myung-bak
 Lee Pace
 Lee Rose
 Lee Sang-Min
+Lee Sang-woo
+Lee Seo-jin
 Lee Seung-Cheol
+Lee Seung-gi
+Lee Seung-hyo
 Lee Si
 Lee Si Young
+Lee So-yeon
+Lee Soo-man
 Lee Soung-Yong
+Lee Sun-gyun
+Lee Tae-sung
 Lee Taemin
 Lee Tamahori
+Lee Teng-hui
+Lee Won-geun
 Lee Woon-Jae
 Lee Yeon
 Lee Yeon Hee
+Lee Yo-won
+Lee Yong-dae
 Lee Yoo-Hyung
 Lee Young-Pyo
 Leeds
@@ -18919,9 +19203,11 @@ Lezgintsev
 Li Bai
 Li Ching-Yuen
 Li Chun
+Li Ka-shing
 Li Keqiang
 Li Peng
 Li Xiannian
+Li Yuan-tsu
 Li Yundi
 Lia
 Lia Ananta
@@ -19024,6 +19310,7 @@ Lin Bo
 Lin Bo Hong
 Lin Che
 Lin Che Wei
+Lin Chi-ling
 Lina Budiarti
 Lina Medina
 Linchuk
@@ -19458,6 +19745,7 @@ Lunan
 Lund
 Lund Nielsen
 Lunev
+Lung-pin
 Luntungan
 Luong
 Lupatelli
@@ -19528,6 +19816,7 @@ M'Bengue
 M'Bow
 M'Madi
 M'Vila
+M-flo
 M. A.
 M. A. G.
 M. A. G. Osmani
@@ -19600,6 +19889,7 @@ MS Syafiuddin
 MZA Djalal
 Ma Mi
 Ma Mi Re
+Ma Ying-jeou
 Ma'ruf
 Maak
 Maarif
@@ -20529,6 +20819,8 @@ Marmorini
 Marouane
 Marouane Chamakh
 Marouane Fellaini
+Marouf
+Marouf al-Bakhit
 Marpaung
 Marques
 Marques Gomes
@@ -20655,6 +20947,7 @@ Marwa
 Marwan
 Marwan Paris
 Marwan Sayedeh
+Marwan al-Barghutsi
 Marwin
 Marwin Hitz
 Marwoto
@@ -20751,6 +21044,8 @@ Masayuki Yamamoto
 Mascherano
 Masduki
 Masefield
+Mashal Ajil
+Mashal Ajil al-Yawer
 Mashudi
 Mashuri
 Mashuri Saleh
@@ -21844,6 +22139,14 @@ Min Jeong
 Min Seo
 Min Soo
 Min Young
+Min-ho
+Min-hwan
+Min-jong
+Min-joon
+Min-ki
+Min-soo
+Min-soon
+Min-woo
 Mina Fukui
 Minaj
 Minako
@@ -21861,6 +22164,7 @@ Minegishi
 Minenko
 Minero
 Mineyev
+Ming-tao
 Minghella
 Minh
 Minh Triet
@@ -22100,6 +22404,8 @@ Mohamed Sambi
 Mohamed Sissoko
 Mohamed Vall
 Mohamed Yattara
+Mohamed Yousef
+Mohamed Yousef el-Magariaf
 Mohamed Zidan
 Mohammad Adnan
 Mohammad Ahsan
@@ -22302,7 +22608,9 @@ Montgomery
 Monti
 Montolivo
 Monty Tiwa
+Moo-hyun
 Mookhey
+Moon-sik
 Mooryati
 Mooryati Soedibyo
 Mooy
@@ -22450,6 +22758,8 @@ Mu'arif
 Mu'in
 Mu'in Umar
 Muamba
+Muammar
+Muammar al-Qaddafi
 Muara Sakti
 Muara Sakti Simbolon
 Mubaraq
@@ -22565,6 +22875,10 @@ Muhammad Mawardi
 Muhammad Misrad
 Muhammad Mursi
 Muhammad Naguib
+Muhammad Naji
+Muhammad Naji al-Otari
+Muhammad Najib
+Muhammad Najib ar-Ruba'i
 Muhammad Najikh
 Muhammad Nasir
 Muhammad Nasir Djamil
@@ -22611,6 +22925,8 @@ Muhammad Thoha Ma'ruf
 Muhammad Tholchah
 Muhammad Tholchah Hasan
 Muhammad Ulinnuha
+Muhammad VII
+Muhammad VII al-Munsif
 Muhammad Wahib
 Muhammad Wahib Wahab
 Muhammad Yasir
@@ -22625,7 +22941,10 @@ Muhammad Zaini Abdul
 Muhammad Zaini Abdul Ghani
 Muhammad Zainul
 Muhammad Zainul Majdi
+Muhammad Zia-ul-Haq
 Muhammad Zuhal
+Muhammad al-Idrisi
+Muhammad al-Qaddafi
 Muhidin
 Muhidin M.
 Muhidin M. Said
@@ -22837,6 +23156,8 @@ Mytha
 Mytha Lestari
 Myung
 Myung-Bo
+Myung-bak
+Myung-sook
 Myuu
 Myuu Azama
 N Jiyeon
@@ -22857,6 +23178,8 @@ N. Bohr
 N. Brockhouse
 N. Lewis
 NSG Star
+Na Hye-sok
+Na Yoon-sun
 Nababan
 Nababkin
 Nabeel
@@ -22885,6 +23208,8 @@ Nacho Monreal
 Nachrowi
 Nachrowi Ramli
 Nada Soraya
+Nader
+Nader al-Dahabi
 Nadezhda
 Nadezhda Krupskaya
 Nadi Khairi
@@ -22952,6 +23277,10 @@ Nainggolan
 Naipaul
 Naismith
 Najamuddin
+Naji
+Naji al-Otari
+Najib
+Najib ar-Ruba'i
 Najibullah
 Najihah
 Najikh
@@ -22981,8 +23310,11 @@ Nala Amrytha
 Nalon
 Nalon Abadi
 Nalon Abadi Sihotang
+Nam Gung-min
 Nam Gyu-Ri
+Nam Ji-hyeon
 Nam-Chol
+Nam-gil
 Nambaryn
 Nambaryn Enkhbayar
 Nambiar
@@ -23262,6 +23594,7 @@ Neesima
 Neeskens
 Neeson
 Nefzi
+Negishi
 Negramaro
 Nehemia
 Nehemia Solossa
@@ -23702,6 +24035,7 @@ Nnaji
 Nnamdi
 Nnamdi Azikiwe
 Nneka
+No Min-woo
 Noah Cyrus
 Noah Gray-Cabey
 Noah Puckerman
@@ -24146,7 +24480,10 @@ Oguro
 Oh In-Kyun
 Oh Jae
 Oh Jae Moo
+Oh Ji-ho
 Oh Sehun
+Oh Yeon-seo
+Oh-seong
 Ohandza
 Ohira
 Ohno
@@ -24770,16 +25107,30 @@ Park Chul-Hyung
 Park Chung
 Park Chung Hee
 Park Eun-Bin
+Park Eun-hye
+Park Geun-hye
+Park Gun-tae
 Park Gyuri
+Park Hae-il
+Park Hie-soon
+Park Hyun-bin
 Park Ji-Sung
 Park Ji-Yeon
+Park Ji-bin
+Park Jin-young
 Park Jung
 Park Jung Min
 Park Jung-Hwan
+Park Ki-woong
 Park Kwang
 Park Kwang Hyun
 Park Min
 Park Min Young
+Park Min-woo
+Park Seo-joon
+Park Shin-hye
+Park Ye-jin
+Park Yong-ha
 Parke
 Parker Follett
 Parker Posey
@@ -25926,6 +26277,7 @@ Pyotr Tabanov
 Pyotr Ustinov
 Pyrame
 Q Rastafara
+Q-ta
 Qadarsih
 Qadir
 Qadir Jaelani
@@ -26430,6 +26782,8 @@ Rashid
 Rashid Al-Mu'adzam
 Rashid Al-Mu'adzam Shah
 Rashid Al-Mu'adzam Shah I
+Rashid Ali
+Rashid Ali al-Gaylani
 Rashid Mu'adzam
 Rashid Mu'adzam Shah
 Rashid Mu'adzam Shah II
@@ -26807,6 +27161,7 @@ Rhustavito
 Rhys
 Rhys Meyers
 Ri Bandang
+Ri Sol-ju
 Ri Tiro
 Ria Amelia
 Ria Enes
@@ -27548,6 +27903,8 @@ Roger Wolcott
 Roger Wolcott Sperry
 Rogers
 Rogov
+Roh Moo-hyun
+Roh Tae-woo
 Rohali
 Rohana
 Rohana Kudus
@@ -28117,6 +28474,9 @@ Ryosuke
 Ryosuke Yamada
 Ryota
 Ryota Ozawa
+Ryu
+Ryu Deok-hwan
+Ryu Shi-won
 Ryutaro
 Ryutaro Hashimoto
 Ryutaro Morimoto
@@ -28223,6 +28583,7 @@ Sadruddin Aga
 Sadruddin Aga Khan
 Sae
 Sae Miyazawa
+Sae-ron
 Saefullah
 Saeng
 Saenko
@@ -28273,6 +28634,8 @@ Sahrul Gunawan
 Sahuleka
 Sai Mauk
 Sai Mauk Kham
+Said Afandi
+Said Afandi al-Chirkawi
 Said Agil
 Said Agil Husin
 Said Agil Husin Al
@@ -28291,6 +28654,10 @@ Said Umar
 Saidi Butar-Butar
 Saido
 Saido Berahino
+Saif al-Arab
+Saif al-Arab al-Qaddafi
+Saif al-Islam
+Saif al-Islam al-Qaddafi
 Saifuddin
 Saifuddin Zuhri
 Saifudin
@@ -28592,6 +28959,7 @@ Sandyawan
 Sandyawan Sumardi
 Sang Wook
 Sang-Min
+Sang-woo
 Sangadzhiyev
 Sangay
 Sangay Choden
@@ -29122,8 +29490,16 @@ Seno Gumira
 Seno Gumira Ajidarma
 Senses
 Seo
+Seo Hyo-rim
+Seo In-guk
+Seo Ji-hye
 Seo Woo
+Seo Young-joo
+Seo-jin
+Seo-joon
 Seohyun
+Seok-jin
+Seon-do
 Separo
 Sepp
 Sepp Blatter
@@ -29311,6 +29687,12 @@ Seung Ah
 Seung-Cheol
 Seung-Hui
 Seung-Hui Cho
+Seung-gi
+Seung-heon
+Seung-ho
+Seung-hyo
+Seung-hyun
+Seung-soo
 Seungri
 Seungyeon
 Seurieus
@@ -29482,6 +29864,10 @@ Shawn Parker
 Shay Given
 Shaye
 Shaye Smith
+Shaykh
+Shaykh Said
+Shaykh Said Afandi
+Shaykh Said Afandi al-Chirkawi
 Shaymordanov
 Shazar
 Shaziman
@@ -29560,6 +29946,8 @@ Shezy Idris
 Shi Ma
 Shi Ma Mi
 Shi Ma Mi Re
+Shi-won
+Shi-yoon
 Shia
 Shia LaBeouf
 Shibaki
@@ -29600,6 +29988,7 @@ Shimomura
 Shimon
 Shimon Peres
 Shimura
+Shin Dong-woo
 Shin Dongho
 Shin Hashimoto
 Shin Hyun
@@ -29607,8 +29996,10 @@ Shin Hyun Joon
 Shin Koyamada
 Shin Saimdang
 Shin Soohyun
+Shin Won-ho
 Shin'ichi
 Shin'ichi Ishihara
+Shin-hye
 Shinawatra
 Shindong
 Shinee
@@ -29694,6 +30085,7 @@ Shuan
 Shuan Wang
 Shubin
 Shue
+Shui-bian
 Shuichi
 Shuichi Ikeda
 Shuko
@@ -29724,6 +30116,7 @@ Shyla Stylez
 Si Kembar
 Si Kembar Tolmachevy
 Si Young
+Si-wan
 Siad
 Siad Barre
 Siagian
@@ -30099,6 +30492,11 @@ Sno
 Snodgrass
 Snoop Dogg
 Snurnitsyn
+So Ji-sub
+So-eun
+So-hyun
+So-min
+So-yeon
 Soares
 Sobandi
 Sobchenko
@@ -30269,6 +30667,7 @@ Sol Bamba
 Sol Campbell
 Sol Davis
 Sol Saleh
+Sol-ju
 Solahudin
 Solaiman
 Solange
@@ -30307,6 +30706,7 @@ Somoza
 Somoza Debayle
 Sompie
 Sompong Soleb
+Son Dong-woon
 Son Heung-Min
 Son Ji
 Son Ji Chang
@@ -30316,11 +30716,17 @@ Sondakh
 Sondari
 Sondoro
 Sonenclar
+Song Chang-ui
+Song Hye-kyo
+Song Ji-hyo
 Song Jieun
 Song Jong-Ho
 Song Joong-Ki
+Song Min-soon
 Song Ok
 Song Ok Sook
+Song Seung-heon
+Song Seung-hyun
 Songling
 Sonia
 Sonia Gandhi
@@ -30344,6 +30750,9 @@ Sonya
 Sonya Fatmala
 Sonya Pandarmawan
 Soo
+Soo-hyun
+Soo-man
+Soo-yeon
 Sood
 Soohyun
 Sooyoung
@@ -30776,6 +31185,8 @@ Stylez
 Styron
 Su
 Su Shi
+Su-bin
+Su-ro
 Sualudin
 Suardi
 Suardi Memet
@@ -30851,6 +31262,7 @@ Sugiharto
 Sugimoto
 Sugiono
 Sugiono Wiyono
+Suh Joon-young
 Suhadi
 Suhaimi
 Suhardi
@@ -30885,6 +31297,8 @@ Sujarwo
 Sujudi
 Suk Hyun-Jun
 Suk-Young
+Suk-hwan
+Suk-kyu
 Sukadana
 Sukadana Pratama
 Sukadji
@@ -31038,6 +31452,9 @@ Sumual
 Sun Boy'z
 Sun Jihai
 Sun Xiang
+Sun Yat-sen
+Sun-a
+Sun-gyun
 Sunan Kudus
 Sunan Nyamplungan
 Sunar
@@ -31057,6 +31474,7 @@ Sung Hoon
 Sung Hyun
 Sung-Ha
 Sung-Yueng
+Sung-soo
 Sungje
 Sungkar
 Sungmin
@@ -31441,6 +31859,7 @@ Szohr
 Szostak
 T-Five
 T-Sha
+T-ara
 T. Austin
 T. Djamil
 T. J.
@@ -31477,6 +31896,13 @@ Tadjudin Noor
 Tadjudin Noor Aly
 Tae Woo
 Tae Woong
+Tae-gyu
+Tae-gyun
+Tae-hyun
+Tae-joon
+Tae-sung
+Tae-woo
+Tae-young
 Taecyeon
 Taemin
 Taeyeon
@@ -31668,6 +32094,7 @@ Tarida Gloria
 Tarigan
 Tariq
 Tariq Ali
+Tariq al-Hashimi
 Tarja
 Tarja Halonen
 Tarja Turunen
@@ -31820,6 +32247,7 @@ Temuri Ketsbaia
 Tenacious D
 Tendean
 Teng Cheong
+Teng-hui
 Tengku Afzan
 Tengku Amir
 Tengku Amir Shah
@@ -32699,6 +33127,8 @@ Trybull
 Trygve
 Trygve Lie
 Tsagolov
+Tsai
+Tsai Ing-wen
 Tsakhiagiin
 Tsakhiagiin Elbegdorj
 Tsang
@@ -32970,10 +33400,14 @@ Ulrich Ochsenbein
 Ulrich Stern
 Ulysses S.
 Ulysses S. Grant
+Um Ki-joon
 Umam
 Umar
 Umar Anggara
 Umar Anggara Jenie
+Umar Hasan
+Umar Hasan Ahmad
+Umar Hasan Ahmad al-Bashir
 Umar Kayam
 Umar Patek
 Umar Wirahadikusumah
@@ -32994,6 +33428,7 @@ Umm
 Umm Kulthum
 Umtiti
 Umunegbu
+Un-chan
 Unai
 Unai Emery
 Undunsyah
@@ -33092,6 +33527,7 @@ Uys
 Uyun
 V. Luce
 V. Schally
+VII al-Munsif
 Vacek
 Vachss
 Vader
@@ -33857,6 +34293,7 @@ Wandly Yazid
 Wang Fei
 Wang Fei Fei
 Wang Jingwei
+Wang Ming-tao
 Wang Shixian
 Wang Yu
 Wangchuck
@@ -34382,6 +34819,7 @@ Wisran Hadi
 Wissam
 Wissam Ben
 Wissam Ben Yedder
+Wissam al-Hassan
 Witarsa
 With Klasik
 Witherspoon
@@ -34431,11 +34869,16 @@ Wolters
 Wome
 Won Bin
 Won Hong
+Won-geun
+Won-ho
 Wondoamiseno
 Wong Yiu
 Wong Yiu Ming
 Wongsawat
 Wongsonegoro
+Woo-hyuk
+Woo-jin
+Woo-shik
 Woodgate
 Woodlee
 Woodley
@@ -34451,6 +34894,7 @@ Woolf
 Woon-Ge
 Woon-Jae
 Woong
+Woong-in
 Woosnam
 Wooten
 Wooyoung
@@ -34702,6 +35146,7 @@ Yasutaka
 Yasutaka Nakata
 Yasuyuki
 Yasuyuki Konno
+Yat-sen
 Yatasha
 Yati Octavia
 Yati Pesek
@@ -34723,6 +35168,7 @@ Yazirwan
 Yazirwan Uyun
 Yazman
 Yazman Yazid
+Ye-jin
 Yeardley
 Yeardley Smith
 Yebda
@@ -34746,6 +35192,7 @@ Yellow Magic
 Yellow Magic Orchestra
 Yellowcard
 Yeltsin
+Yen Chia-kan
 Yener
 Yeni Asmarani
 Yeni Rosa
@@ -34757,9 +35204,13 @@ Yeo Hoonmin
 Yeo Jin
 Yeo Jin Goo
 Yeo Woon-Ge
+Yeo-jeong
 Yeon
 Yeon Gaesomun
 Yeon Hee
+Yeon Jung-hoon
+Yeon Woo-jin
+Yeon-seo
 Yepes
 Yepifanov
 Yeremeyev
@@ -34830,9 +35281,15 @@ Yevseyev
 Yeyen
 Yeyen Lidya
 Yeyen Tumena
+Yi-han
+Yi-huah
+Yi-suk
 Yigal
 Yigal Allon
+Yim
+Yim Si-wan
 Ying
+Ying-jeou
 Yingluck
 Yingluck Shinawatra
 Yitzhak
@@ -34845,6 +35302,7 @@ Yiu Man
 Yiu Ming
 Yngwie
 Yngwie Malmsteen
+Yo-won
 Yoan
 Yoan Gouffran
 Yoan Tanamal
@@ -34908,8 +35366,14 @@ Yong
 Yong Guk
 Yong Hwa
 Yong Joon
+Yong Jun-hyung
 Yong Kim
 Yong-Hee
+Yong-dae
+Yong-gun
+Yong-ha
+Yong-il
+Yong-joon
 Yongki
 Yongki Aribowo
 Yongqing
@@ -34918,17 +35382,29 @@ Yono Daryono
 Yoo
 Yoo Ah
 Yoo Ah In
+Yoo Hyo-jeong
 Yoo Jae-Hoon
 Yoo Jae-Seok
 Yoo Jung
 Yoo Wook-Jin
+Yoo Young-jin
 Yoo-Hyung
+Yoo-mi
 Yoochun
 Yoon
 Yoon Chan
+Yoon Doo-joon
+Yoon Eun-hye
 Yoon Hwa
+Yoon Kye-sang
 Yoon Seung
 Yoon Seung Ah
+Yoon Shi-yoon
+Yoon Yeo-jeong
+Yoon Young-kwan
+Yoon-jeong
+Yoon-sun
+Yoon-woo
 Yoona
 Yoonhak
 Yoris
@@ -34993,6 +35469,11 @@ Youness
 Youness Mokhtar
 Young Saeng
 Young-Pyo
+Young-jin
+Young-joo
+Young-kwan
+Young-kwang
+Young-sam
 Youngblood
 Younghusband
 Youngjae
@@ -35007,6 +35488,8 @@ Yousaf
 Yousaf Raza
 Yousaf Raza Gillani
 Yousafzai
+Yousef
+Yousef el-Magariaf
 Youssef
 Youssef Adnane
 Youssef El
@@ -35033,9 +35516,13 @@ Yu Guang
 Yu Hyun
 Yu Hyun Koo
 Yu Mizushima
+Yu Oh-seong
+Yu Seung-ho
 Yu Wenxia
 Yu-Ching
+Yu-na
 Yuan Shikai
+Yuan-tsu
 Yuanita
 Yuanita Christiani
 Yuanna
@@ -35122,9 +35609,11 @@ Yumi
 Yumi Sugimoto
 Yumiko
 Yumiko Cheng
+Yun Chi-young
 Yun Hyu
 Yun Po
 Yun Po Sun
+Yun Seon-do
 Yun Suk-Young
 Yun-Nam
 Yuna
@@ -35330,6 +35819,8 @@ Zaini Abdul Ghani
 Zaini Abdullah
 Zaini Dahlan
 Zainuddin
+Zainuddin Labai
+Zainuddin Labai el-Yunusiyah
 Zainuddin MZ
 Zainul
 Zainul Arifin
@@ -35516,6 +36007,7 @@ Zhu
 Zhu Xi
 Zhukov
 Zia
+Zia-ul-Haq
 Ziad
 Ziad Jaziri
 Ziana
@@ -35557,6 +36049,7 @@ Zivilia
 Ziyang
 Ziyech
 Zizes
+Zo In-sung
 Zobnin
 Zoellick
 Zoelverdi
@@ -35654,13 +36147,47 @@ Zyablov
 Zylgwyn
 Zyryanov
 al Malik
+al-Arab
+al-Arab al-Qaddafi
+al-Assad
+al-Bakhit
+al-Bakr
+al-Barghutsi
+al-Bashir
+al-Bazzaz
+al-Chirkawi
+al-Dahabi
+al-Fayed
+al-Gaylani
+al-Hashimi
+al-Hassan
+al-Haznawi
+al-Hilmi
+al-Husayni
+al-Idrisi
+al-Islam
+al-Islam al-Qaddafi
+al-Jaafari
 al-Khalifah
+al-Mansur
+al-Munsif
+al-Otari
 al-Qaddafi
+al-Tarawneh
+al-Yawer
+al-Zawahiri
 ap
 ap Catesby
 ap Catesby Jones
+ar-Rahman
+ar-Rahman al-Bazzaz
+ar-Ruba'i
 arap
 arap Moi
+as-Salam
+as-Salam Arif
+as-Samarrai
+as-Senussi
 chan
 chan hee
 cuz
@@ -35695,6 +36222,9 @@ diri Tyler Clementi
 du
 du Vigneaud
 el Sebsi
+el-Magariaf
+el-Thayeb
+el-Yunusiyah
 hee
 in Chains
 le

@@ -30,10 +30,10 @@ from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 
 #set the input and output file
 
-input = "dbpedia-new/original/person.txt"
-inputPlace = "dbpedia-new/original/place.txt"
-folder = "dbpedia-new/cleansing/"
-output = folder + "person.txt"
+input = "dbpediaRule/original/person.txt"
+inputPlace = "dbpediaRule/original/place.txt"
+folder = "dbpediaRule/cleansing/"
+output = folder + "personAll.txt"
 outputtmp = folder + "tmp.txt"
 outputtmpStem = folder + "tmpStem.txt"
 outputtmpThe = folder + "tmpThe.txt"
@@ -84,6 +84,7 @@ for k in flines:
 	kurung = arrSplit[len(arrSplit) - 1]
 	tutup = kurung[len(kurung)-2]
 
+	#PA-1 MODIFIKASI
 	if tutup == ")": 
 		cekHapusKurung = cekHapusKurung+1
 		koorTutup = k.find(tutup) 
@@ -94,29 +95,35 @@ for k in flines:
 			newListTmp.append(k[:koorBuka])
 			newListPersonInd.append(k[:koorBuka])
 			k = ""
-		else:
-			k = k[:koorBuka]
+		#PN-1
+		# else:
+		# 	k = k[:koorBuka]
 
 			
 	arrSplit = k.split(" ")
 	#memastikan bahwa kata bukan yang dipindah ke Organization
 	if k!="":
+	# 	#PA6
 		if(arrSplit[0] == "SMA" or arrSplit[0] == "SMP"):   
 			newListTmp.append(k)
+	# 	#PA5
 		elif(k.find("&")!= -1):
 			newListPersonAnd.append(k)
-		elif(any(i.isdigit() for i in k)):
+		#PA-2
+		if(any(i.isdigit() for i in k)):
 			newListPersonNumber.append(k)
+	# 	#PA-3
 		elif(lemmaLongDiCorpus(k,dictNLTK)):
 			newListPersonStem.append(k)
+		#PA-4
 		elif(findWord(k, "the")):
 			newListPersonThe.append(k)
 			countCek = countCek+1
 		else:
 			newListPerson.append(k)
 		
-		# if(stemDiCorpus(k, dictKEBI)):
-		# 	newListPersonInd.append(k)
+		if(stemDiCorpus(k, dictKEBI)):
+			newListPersonInd.append(k)
 inputFile.close()
 
 writeListofStringToFile(newListPerson, output)

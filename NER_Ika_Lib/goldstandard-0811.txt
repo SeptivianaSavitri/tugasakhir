@@ -192,7 +192,7 @@ kardiovaskuler	O
 Di	O
 beberapa	O
 negara	O
-Barat	Place
+Barat	O
 ,	O
 nama	O
 Soekarno	Person
@@ -315,20 +315,20 @@ yang	O
 sedang	O
 melakukan	O
 misi	O
-luar	Place
-negeri	Place
+luar	O
+negeri	O
 dalam	O
 upaya	O
 untuk	O
-mendapatkan	O	
+mendapatkan	O
 pengakuan	O
 kedaulatan	O
 negara	O
 Indonesia	Place
 oleh	O
-negara	Place
+negara	O
 -	O
-negara	Place
+negara	O
 Arab	Place
 .	O
 Dalam	O
@@ -883,7 +883,6 @@ dia	O
 dari	O
 rumahnya	O
 .	O
-
 Ahmad	Person
 Yani	Person
 lahir	O
@@ -1003,7 +1002,6 @@ ke	O
 Jawa	Place
 Tengah	Place
 .	O
-
 Pada	O
 tahun	O
 1943	O
@@ -1157,7 +1155,6 @@ Fisika	O
 Teoretis	O
 "	O
 .	O
-
 Setelah	O
 teori	O
 relativitas	O
@@ -1217,7 +1214,6 @@ di	O
 seluruh	O
 dunia	O
 .	O
-
 Albert	Person
 Einstein	Person
 ,	O
@@ -1245,7 +1241,6 @@ oleh	O
 majalah	O
 Time	Organisation
 .	O
-
 Untuk	O
 menghargainya	O
 ,	O
@@ -1331,7 +1326,6 @@ pada	O
 tahun	O
 1800	O
 .	O
-
 Ia	O
 melanjutkan	O
 pekerjaan	O
@@ -1586,7 +1580,6 @@ yang	O
 lebih	O
 baik	O
 .	O
-
 Meski	O
 demikian	O
 ,	O
@@ -1639,7 +1632,6 @@ mencoba	O
 mendaftarkan	O
 patennya	O
 .	O
-
 Oleh	O
 ayahnya	O
 ,	O
@@ -1679,7 +1671,6 @@ terbang	O
 dan	O
 menerbangkannya	O
 .	O
-
 Rupanya	O
 kegiatan	O
 tersebut	O
@@ -2145,7 +2136,6 @@ di	O
 Perancis	Place
 utara	Place
 .	O
-
 Mereka	O
 memainkan	O
 peran	O
@@ -2345,7 +2335,6 @@ uang	O
 negara	O
 lain	O
 .	O
-
 Untuk	O
 mencapai	O
 tujuan	O
@@ -2405,7 +2394,6 @@ efektif	O
 dan	O
 efisien	O
 .	O
-
 BI	Organisation
 juga	O
 menjadi	O
@@ -2537,7 +2525,6 @@ Hakka	O
 Kejia	O
 )	O
 .	O
-
 Masa	O
 kecil	O
 Basuki	Person
@@ -2586,7 +2573,6 @@ ke	O
 kampung	O
 halaman	O
 .	O
-
 Basuki	Person
 menikah	O
 dengan	O
@@ -2743,7 +2729,6 @@ menulis	O
 beberapa	O
 buku	O
 .	O
-
 Gates	Person
 termasuk	O
 salah	O
@@ -2821,7 +2806,6 @@ didirikan	O
 tahun	O
 2000	O
 .	O
-
 Gates	Person
 mengundurkan	O
 diri	O
@@ -2951,7 +2935,6 @@ Liga	Organisation
 Utama	Organisation
 Inggris	Organisation
 .	O
-
 Sepanjang	O
 sejarah	O
 penampilan	O
@@ -3287,7 +3270,6 @@ berusia	O
 15	O
 tahun	O
 .	O
-
 Pertama	O
 kali	O
 terjun	O
@@ -3353,7 +3335,7 @@ Tarakanita	Organisation
 dan	O
 SMP	Organisation
 St	Organisation
-.	O	
+.	O
 Louis	Organisation
 1	Organisation
 .	O
@@ -3434,7 +3416,7 @@ dan	O
 CherryBelle	Organisation
 ,	O
 disingkat	O
-ChiBi	Organisation
+ChiBi	O
 )	O
 adalah	O
 sebuah	O
@@ -3484,7 +3466,6 @@ Gading	Place
 Jakarta	Place
 Utara	Place
 .	O
-
 Cherrybelle	Organisation
 memiliki	O
 konsep	O
@@ -3805,7 +3786,6 @@ kedua	O
 di	O
 dunia	O
 .	O
-
 Sebagai	O
 pusat	O
 bisnis	O
@@ -4021,7 +4001,6 @@ akibat	O
 sebuah	O
 racun	O
 .	O
-
 Detektif	O
 Conan	Person
 telah	O
@@ -4143,7 +4122,6 @@ tokoh	O
 Detektif	O
 Conan	O
 .	O
-
 Viz	Organisation
 Media	Organisation
 melisensikan	O
@@ -4213,7 +4191,6 @@ Tengah	Place
 ,	O
 Indonesia	Place
 .	O
-
 Sejarah	O
 Djarum	Organisation
 berawal	O
@@ -4388,7 +4365,6 @@ tanggal	O
 April	O
 2000	O
 .	O
-
 Selain	O
 dunia	O
 rokok	O
@@ -4517,7 +4493,6 @@ karena	O
 kebodohan 	O
 Nobita	Person
 .	O
-
 Setelah	O
 gagal	O
 dalam	O
@@ -4590,7 +4565,6 @@ yang	O
 lebih 	O
 besar	O
 .	O
-
 Sejak	O
 pertama	O
 kali	O
@@ -4693,7 +4667,6 @@ lambang	O
 kuda	O
 jingkrak	O
 .	O
-
 Lambang	O
 kuda	O
 jingkrak	O
@@ -4748,7 +4721,6 @@ ditempatkan	O
 di	O
 belakang	O
 .	O
-
 Enzo	Person
 Ferrari	Person
 meninggal	O
@@ -4843,7 +4815,6 @@ berpenggerak	O
 roda	O
 belakang	O
 .	O
-
 Porsche	Person
 juga	O
 berkontribusi	O
@@ -4896,7 +4867,6 @@ oleh	O
 Nazi	Organisation
 Jerman	Place
 .	O
-
 Pada	O
 tahun	O
 1996	O
@@ -5012,7 +4982,6 @@ bumi	O
 mengelilingi	O
 matahari	O
 .	O
-
 Akibat	O
 pandangannya	O
 yang	O
@@ -5222,7 +5191,6 @@ Fraksi	O
 PDI	Organisation
 Perjuangan	Organisation
 .	O
-
 Ia	O
 menempuh	O
 pendidikan	O
@@ -5261,7 +5229,6 @@ Universitas	Organisation
 Gajah	Organisation
 Mada	Organisation
 .	O
-
 Ganjar	Person
 maju	O
 menjadi	O
@@ -5313,7 +5280,6 @@ mencapai	O
 48,82	O
 %	O
 .	O
-
 Pelantikan	O
 Ganjar	Person
 sebagai	O
@@ -5365,7 +5331,6 @@ senator	O
 dari	O
 Texas	Place
 .	O
-
 Bush	Person
 lulus	O
 dari	O
@@ -5424,7 +5389,6 @@ pada	O
 tahun	O
 1981	O
 .	O
-
 Ia	O
 mengawali	O
 karier	O
@@ -5493,7 +5457,6 @@ menjadi	O
 direktur	O
 Harken	Organisation
 .	O
-
 Pada	O
 April	O
 1989	O
@@ -5616,7 +5579,6 @@ sang	O
 presiden	O
 wafat	O
 .	O
-
 Dalam	O
 Perang	O
 Dunia	O
@@ -5648,7 +5610,6 @@ usahanya	O
 itu	O
 gagal	O
 .	O
-
 Sewaktu	O
 mudanya	O
 ,	O
@@ -5659,7 +5620,6 @@ dalam	O
 Partai	Organisation
 Demokrat	Organisation
 .	O
-
 Harry	Person
 S	Person
 .	O
@@ -5723,7 +5683,6 @@ selama	O
 dua	O
 tahun	O
 .	O
-
 Dalam	O
 Perang	O
 Dunia	O
@@ -5945,7 +5904,6 @@ memajukan	O
 revolusi	O
 ilmiah	O
 .	O
-
 Dalam	O
 bidang	O
 mekanika	O
@@ -6094,7 +6052,6 @@ pendiam	O
 dan	O
 pemalu	O
 .	O
-
 Sebagai	O
 anak	O
 pengusaha	O
@@ -6140,7 +6097,6 @@ pelayan	O
 -	O
 pelayannya	O
 .	O
-
 Melihat	O
 James	Person
 begitu	O
@@ -6208,7 +6164,6 @@ panas	O
 dan	O
 listrik	O
 .	O
-
 Pada	O
 tahun	O
 1840	O
@@ -6363,7 +6318,6 @@ untuk	O
 melakukan	O
 seleksi	O
 .	O
-
 Generasi	O
 pertama	O
 diperkenalkan	O
@@ -6809,7 +6763,7 @@ Justin	Person
 pada	O
 tahun	O
 2007	O
-,	O 
+,	O
 di	O
 mana	O
 Justin	Person
@@ -6851,7 +6805,7 @@ pertamanya	O
 yang	O
 berjudul	O
 "	O
-One	O 
+One	O
 Time	O
 "	O
 ,	O
@@ -6879,7 +6833,7 @@ negara	O
 Albumnya	O
 pertamanya	O
 "	O
-My	O 
+My	O
 World	O
 "	O
 (	O
@@ -7118,7 +7072,6 @@ di	O
 luar	O
 Indonesia	Place
 .	O
-
 Kaskus	Organisation
 ,	O
 yang	O
@@ -7318,7 +7271,6 @@ in	O
 chief	O
 pertamanya	O
 .	O
-
 Awalnya	O
 harian	O
 ini	O
@@ -7587,7 +7539,6 @@ korek	O
 api	O
 gas	O
 .	O
-
 Bangsa	O
 Tiongkok	Place
 sejak	O
@@ -7673,7 +7624,6 @@ tidak	O
 mendapatkan	O
 popularitas	O
 .	O
-
 Korek	O
 api	O
 yang	O
@@ -7829,7 +7779,6 @@ melalui	O
 jalur	O
 barat	O
 .	O
-
 Kolumbus	Person
 bukanlah	O
 orang	O
@@ -7925,7 +7874,6 @@ sepanjang	O
 masa	O
 itu	O
 .	O
-
 Kolombus	Person
 mengira	O
 bahwa	O
@@ -8256,7 +8204,6 @@ menggantikan	O
 Eric	Person
 Schmidt	Person
 .	O
-
 Larry	Person
 Page	Person
 dilahirkan	O
@@ -8289,7 +8236,6 @@ Michigan	Organisation
 State	Organisation
 University	Organisation
 .	O
-
 Page	Person
 adalah	O
 seorang	O
@@ -8626,7 +8572,6 @@ dari	O
 kota	O
 Vinci	Place
 .	O
-
 Pada	O
 usia	O
 belia	O
@@ -8680,7 +8625,6 @@ bidang	O
 yang	O
 lain	O
 .	O
-
 Pada	O
 tahun	O
 1481	O
@@ -8844,7 +8788,6 @@ dan	O
 terjadi	O
 perseteruan	O
 .	O
-
 Akibat	O
 dari	O
 perseteruan	O
@@ -8934,7 +8877,6 @@ sepak	O
 bola	O
 Inggris	Place
 .	O
-
 Mengawali	O
 debutnya	O
 sebagai	O
@@ -9062,7 +9004,6 @@ orang	O
 orang	O
 buta	O
 .	O
-
 Pada	O
 umur	O
 4	O
@@ -9303,7 +9244,6 @@ mulai	O
 menjadi	O
 tuli	O
 .	O
-
 Ketuliannya	O
 semakin	O
 parah	O
@@ -9352,7 +9292,6 @@ tak	O
 pernah	O
 menikah	O
 .	O
-
 Kakek	O
 Beethoven	Person
 ,	O
@@ -9483,7 +9422,6 @@ sistem	O
 ketatanegaraan	O
 Indonesia	Place
 .	O
-
 Sebelum	O
 Reformasi	O
 ,	O
@@ -9504,7 +9442,6 @@ di	O
 ibukota	O
 negara	O
 .	O
-
 Sejak	O
 17	O
 Agustus	O
@@ -9625,7 +9562,6 @@ Etihad	Place
 ,	O
 Manchester	Place
 .	O
-
 Pertandingan	O
 pertama	O
 dimainkan	O
@@ -9672,7 +9608,6 @@ F	Organisation
 .	O
 C	Organisation
 .	O
-
 City	Organisation
 telah	O
 memenangi	O
@@ -9801,7 +9736,6 @@ pada	O
 tahun	O
 1910	O
 .	O
-
 Manchester	Organisation
 United	Organisation
 telah	O
@@ -9892,7 +9826,6 @@ untuk	O
 klub	O
 Inggris	Place
 .	O
-
 Bencana	Place
 Udara	Place
 M�nchen	Place
@@ -10388,7 +10321,6 @@ dan	O
 permainan	O
 video	O
 .	O
-
 Marvel	Organisation
 juga	O
 memiliki	O
@@ -10561,7 +10493,6 @@ putaran	O
 yang	O
 kedua	O
 .	O
-
 Ia	O
 menjadi	O
 presiden	O
@@ -10597,7 +10528,7 @@ MPR	Organisation
 /	O
 DPR	Organisation
 dan	O
-Partai	Organisation 
+Partai	Organisation
 Golkar	Organisation
 .	O
 Ia	O
@@ -10628,7 +10559,6 @@ Gus	Person
 Dur	Person
 )	O
 .	O
-
 Megawati	Person
 juga	O
 merupakan	O
@@ -10774,7 +10704,6 @@ Matsui	Person
 dari	O
 SKE48	Organisation
 .	O
-
 Melody	Person
 terpilih	O
 sebagai	O
@@ -10841,7 +10770,6 @@ dan	O
 Angelina	Person
 Sondakh	Person
 .	O
-
 Pada	O
 konser	O
 ulang	O
@@ -10974,7 +10902,6 @@ panas	O
 yang	O
 praktis	O
 .	O
-
 Efek	O
 magnetisme	O
 menuntunnya	O
@@ -11012,7 +10939,6 @@ hasilnya	O
 amat	O
 mengagumkan	O
 .	O
-
 Pada	O
 Usia	O
 20	O
@@ -11154,7 +11080,6 @@ dari	O
 3	O
 bersaudara	O
 .	O
-
 Ayah	O
 Ariel	Person
 adalah	O
@@ -11276,7 +11201,6 @@ sebagai	O
 rumahnya	O
 sendiri	O
 .	O
-
 Sejak	O
 kecil	O
 Ariel	Person
@@ -11314,7 +11238,6 @@ menggambar	O
 di	O
 Bandung	Place
 .	O
-
 Gara	O
 -	O
 gara	O
@@ -11355,7 +11278,6 @@ kemudian	O
 meniti	O
 karier	O
 .	O
-
 Ariel	Person
 pernah	O
 menikah	O
@@ -11430,7 +11352,6 @@ listrik	O
 Amerika	Place
 Serikat	Place
 .	O
-
 Tesla	Person
 dianggap	O
 sebagai	O
@@ -11488,7 +11409,6 @@ di	O
 negara	O
 tersebut	O
 .	O
-
 Paten	O
 Tesla	Person
 dan	O
@@ -11771,7 +11691,6 @@ parasit	O
 Rafflesia	O
 patma	O
 .	O
-
 Bunga	O
 merupakan	O
 parasit	O
@@ -12005,7 +11924,6 @@ meninggal	O
 tahun	O
 1980	O
 .	O
-
 Lahir	O
 di	O
 Bukittinggi	Place
@@ -12126,7 +12044,6 @@ satunya	O
 milik	O
 ayahnya	O
 .	O
-
 Semasa	O
 hidupnya	O
 ,	O
@@ -12274,7 +12191,6 @@ Russia	Place
 dan	O
 Indonesia	Place
 .	O
-
 Prabowo	Person
 adalah	O
 keturunan	O
@@ -12431,7 +12347,6 @@ Madrid	Place
 ,	O
 Spanyol	Place
 .	O
-
 Didirikan	O
 pada	O
 tahun	O
@@ -12498,7 +12413,6 @@ sejak	O
 tahun	O
 1947	O
 .	O
-
 Klub	O
 ini	O
 adalah	O
@@ -12573,7 +12487,6 @@ dengan	O
 Atl�tico	Organisation
 Madrid	Organisation
 .	O
-
 Klub	O
 memantapkan	O
 dirinya	O
@@ -12736,10 +12649,9 @@ Makhachkala	Organisation
 ,	O
 dan	O
 tim	O
-nasional	O	
+nasional	O
 Brasil	Place
 .	O
-
 Roberto	Person
 Carlos	Person
 dikenal	O
@@ -12899,7 +12811,6 @@ bagi	O
 klub	O
 Corinthians	Organisation
 .	O
-
 Setelah	O
 menderita	O
 serangkaian	O
@@ -13003,7 +12914,7 @@ Soeharto	Person
 ,	O
 (	O
 ER	O
-,	O 
+,	O
 EYD	O
 :	O
 Suharto	Person
@@ -13092,7 +13003,6 @@ yang	O
 selalu	O
 tersenyum	O
 .	O
-
 Sebelum	O
 menjadi	O
 presiden	O
@@ -13229,7 +13139,6 @@ J	Person
 .	O
 Habibie	Person
 .	O
-
 Peninggalan	O
 Soeharto	Person
 masih	O
@@ -13470,7 +13379,6 @@ perusahaan	O
 General	Organisation
 Electric	Organisation
 .	O
-
 Edison	Person
 dipandang	O
 sebagai	O
@@ -13536,7 +13444,6 @@ masih	O
 banyak	O
 lagi	O
 .	O
-
 Ia	O
 meninggal	O
 pada	O
@@ -13598,7 +13505,6 @@ Bonaparte	Person
 dari	O
 Perancis	Place
 .	O
-
 Sewaktu	O
 Raffles	Person
 menjabat	O
@@ -13730,7 +13636,6 @@ Kolonel	O
 Colin	Person
 Mackenzie	Person
 .	O
-
 Istri	O
 Raffles	Person
 ,	O
@@ -14199,7 +14104,6 @@ $	O
 35	O
 miliar	O
 .	O
-
 Disney	Person
 terkenal	O
 sebagai	O
@@ -14365,7 +14269,6 @@ dari	O
 Jawa	Place
 Timur	Place
 .	O
-
 Thiam	Person
 Hien	Person
 dibesarkan	O
@@ -14403,7 +14306,6 @@ kesewenang	O
 -	O
 wenangan	O
 .	O
-
 Pada	O
 usia	O
 9	O
@@ -14469,7 +14371,6 @@ di	O
 masa	O
 dewasa	O
 .	O
-
 Yap	Person
 Sin	Person
 Eng	Person

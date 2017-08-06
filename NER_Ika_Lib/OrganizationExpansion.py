@@ -70,6 +70,7 @@ for k in flines:
 		listOrganization.append(k)
 
 	spasiSplit = k.split(" ")
+	#EC3
 	if(spasiSplit[0] == "Partai"):
 		listOrganization.append(k[7:])
 		listOrganizationPartai.append(k[7:])

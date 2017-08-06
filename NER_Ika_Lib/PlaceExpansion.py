@@ -16,7 +16,7 @@
 ####################################################################################
 
 
-from function import writeListofStringToFile, writeDictToFile, nameGram
+from function import writeListofStringToFile, writeDictToFile, nameGramKoma
 
 ##########################################################################
 # M A I N
@@ -35,26 +35,34 @@ flines = inputFile.readlines()
 arrPlace = []
 cek = 0
 count = 1
+arrGram = []
+
 for k in flines: 
 	k= k.replace("\n","")
-	komaspasiSplit = k.split(", ")
+	k = k.replace("  "," ")
+	komaspasiSplit = k.split(",")
 	if len(komaspasiSplit) > 1: 
-		cek = cek+1
-		arrPlace.append(k.replace(",",""))
+		#cek = cek+1
+		kNormal = k.replace(",","")
+		kNormal = kNormal.replace("  "," ")
+		arrPlace.append(kNormal)
 		kSpasi = k.replace(",","")
 		spasiSplit = kSpasi.split(" ")
-		arrGram = nameGram(k, len(komaspasiSplit))
+		arrGram = nameGramKoma(k, len(komaspasiSplit))
 		for x in range(0,len(arrGram)):
+			masukGram = arrGram[x]
+			masukGram = masukGram.replace("  "," ")
 			arrPlace.append(arrGram[x])
 			cek = cek+1
 			#arrPlace.append(komaspasiSplit[i]) 
 		   
    
 	else:
-		cek = cek+1
+		#cek = cek+1
 		arrPlace.append(k) 
 	count += 1
 inputFile.close()
+writeListofStringToFile(arrPlace, output)
 
 
 

@@ -1124,6 +1124,7 @@ MA Negeri 2 Bandung
 MA Negeri 2 Kudus
 MA Negeri 3 Kediri
 MA Negeri 9 Jakarta
+MAN 1
 MAN Babakan Lebaksiu
 MAN Banyuwangi
 MAN Wonokromo Bantul
@@ -4865,6 +4866,7 @@ Sekolah Tinggi Manajemen Informatika dan Komputer Balikpapan
 Sekolah Tinggi Manajemen Informatika dan Komputer Banjarbaru
 Sekolah Tinggi Manajemen Informatika dan Komputer Sisingamangaraja XII
 Sekolah Tinggi Manajemen Informatika dan Teknik Komputer Stikom Bali
+Sekolah Tinggi Manajemen Transportasi
 Sekolah Tinggi Pariwisata AMPTA Yogyakarta
 Sekolah Tinggi Pariwisata Bali
 Sekolah Tinggi Pastoral Tahasak Danum Pambelum
@@ -5563,6 +5565,7 @@ Universitas Teknologi Michigan
 Universitas Teknologi Nanyang
 Universitas Teknologi Queensland
 Universitas Teknologi Rhein Westfalen Aachen
+Universitas Teknologi Sulawesi
 Universitas Teknologi Sulawesi Utara
 Universitas Teknologi Yogyakarta
 Universitas Tel Aviv

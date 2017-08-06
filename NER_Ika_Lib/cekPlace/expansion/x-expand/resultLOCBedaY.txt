@@ -19,6 +19,7 @@ A Coruña
 Aba
 Abang
 Abar?Abir
+Abar?Abir Bungah
 Abar?Abir Bungah Gresik
 Aberdeen
 Abuan
@@ -27,15 +28,16 @@ Ada
 Adam
 Adang
 Adda-Daouéni
-Adian Jior Panyabungan  Mandailing Natal
+Adian Jior Panyabungan
+Adian Jior Panyabungan Mandailing Natal
 Adiraja
-Aek  Batu
-Aek  Batu Na IX-X Labuhanbatu Utara
-Aek Banir Panyabungan  Mandailing Natal
-Aek Mata Panyabungan  Mandailing Natal
+Aek Banir Panyabungan
+Aek Banir Panyabungan Mandailing Natal
+Aek Batu Na IX-X
+Aek Batu Na IX-X Labuhanbatu Utara
+Aek Mata Panyabungan
+Aek Mata Panyabungan Mandailing Natal
 Aerodrome Île d'Yeu
-Afrika Selatan
-Afrika Tengah
 Agam
 Agawam
 Aghire?u
@@ -43,14 +45,14 @@ Aguinaldo
 Agung
 Aha
 Ain
-Air Mata  Lama Kupang
+Air Mata Lama
+Air Mata Lama Kupang
 Aire
 Ajang
 Ajung
 Akabiluru Lima Puluh
 Akas
 Akbar
-Akra
 Ala?ehir
 Alabama
 Alai
@@ -67,12 +69,10 @@ Ale?d
 Aleksandrów Kujawski
 Aleppo
 Alessandria
-Algiers
 Alim
 Allen
 Allgood
 Alma
-Alma Ata
 Almaty
 Almazán
 Almería
@@ -83,15 +83,15 @@ Ambal
 Ambit
 Ambon
 Amen
-Amerika Selatan
-Amerika Utara
 Amis
 Amman
 Amnat Charoen
 Ampah
-Ampah  Dusun Tengah Barito Timur
-Ampana  Tojo Una-Una
-Ampana Ampana  Tojo Una-Una
+Ampah Dusun Tengah
+Ampah Dusun Tengah Barito Timur
+Ampana Ampana
+Ampana Ampana Tojo Una-Una
+Ampana Tojo Una-Una
 Ampang
 Ampel
 Anchorage
@@ -100,8 +100,6 @@ Andaman
 Andang
 Andi
 Andong
-Andorra
-Andorra la Vella
 Anggai
 Anggrek
 Angkasa
@@ -109,14 +107,17 @@ Angola
 Angsana
 Anguilla
 Anilao
-Anjir Muara  Anjir Muara Barito Kuala
-Anjir Muara  Tengah
-Anjir Muara  Tengah Anjir Muara Barito Kuala
-Anjir Pasar  Anjir Pasar Barito Kuala
-Anjir Pasar  II
-Anjir Pasar  II Anjir Pasar Barito Kuala
+Anjir Muara Anjir Muara
+Anjir Muara Anjir Muara Barito Kuala
+Anjir Muara Tengah
+Anjir Muara Tengah Anjir Muara
+Anjir Muara Tengah Anjir Muara Barito Kuala
+Anjir Pasar Anjir Pasar
+Anjir Pasar Anjir Pasar Barito Kuala
+Anjir Pasar II
+Anjir Pasar II Anjir Pasar
+Anjir Pasar II Anjir Pasar Barito Kuala
 Antara
-Antigua dan Barbuda
 Antique
 Antártica Chilena
 Anyar
@@ -124,13 +125,12 @@ Apalit
 Apar
 Apas
 Api-Api
-Apia
 Aplahoué
 Aplasi
-Aplasi  Kefamenanu Timor Tengah Utara
+Aplasi Kefamenanu
+Aplasi Kefamenanu Timor Tengah Utara
 Apung
 Ara
-Arab Saudi
 Arad
 Arara
 Aras
@@ -142,7 +142,6 @@ Argo
 Arizona
 Arkansas
 Armançon
-Armenia
 Aro
 Aron
 Arse
@@ -154,18 +153,16 @@ Arén
 Asam
 Ascension
 Asem
-Ashakabad
-Asia Barat
 Asmara
 Astana
 Asunción
 Atap
 Atas
 Athena
-Athens
 Atlanta
 Atok
 Atu–Atu
+Atu–Atu Pelaihari
 Atu–Atu Pelaihari Tanah Laut
 Augusta
 Auh
@@ -194,12 +191,14 @@ Baban
 Babat
 Babatan
 Babbie
-Babelan  Babelan Bekasi
+Babelan Babelan
+Babelan Babelan Bekasi
 Bacem
 Bacin
 Baco
 Badak
-Badak Bejuang Tebing Tinggi  Tebing Tinggi
+Badak Bejuang Tebing Tinggi
+Badak Bejuang Tebing Tinggi Tebing Tinggi
 Badal
 Badang
 Badar
@@ -209,8 +208,10 @@ Badung
 Bae
 Bagak
 Bagan
-Bagan  Bangko Rokan Hilir
-Bagan Pete  Baru Jambi
+Bagan Bangko
+Bagan Bangko Rokan Hilir
+Bagan Pete Baru
+Bagan Pete Baru Jambi
 Bagang
 Bagdad
 Bagi
@@ -219,20 +220,19 @@ Bago
 Bagor
 Bagus
 Bahagia
-Bahama
 Bahara
 Bahari
 Baharu
 Baho
-Bahrain
 Bahu
 Baia de Aram?
-Bailo Ampana  Tojo Una-Una
-Bairiki
+Bailo Ampana
+Bailo Ampana Tojo Una-Una
 Bais
 Bajak
 Bajang
-Bajarum  Besi waringin Timur
+Bajarum Besi
+Bajarum Besi waringin Timur
 Bajing
 Baka
 Bakal
@@ -256,10 +256,10 @@ Bale
 Balela
 Balen
 Balian
-Baloi Permai Batam  Batam
+Baloi Permai Batam
+Baloi Permai Batam Batam
 Balok
 Balong
-Baltimore
 Baluk
 Balun
 Balung
@@ -267,7 +267,8 @@ Bamban
 Bambang
 Bambu
 Bambung
-Bamo  Komba Manggarai Timur
+Bamo Komba
+Bamo Komba Manggarai Timur
 Ban
 Bana
 Bancak
@@ -275,8 +276,8 @@ Bancang
 Bancar
 Banda
 Bandar
-Bandar Udara  B?l?i
 Bandar Udara Angoulême - Brie - Champniers
+Bandar Udara B?l?i
 Bandar Udara Bahía de los Ángeles
 Bandar Udara Bordeaux - Mérignac
 Bandar Udara Bourg - Ceyzériat
@@ -287,16 +288,16 @@ Bandar Udara Ciudad Constitución
 Bandar Udara Dêqên Shangri-La
 Bandar Udara Frédéric Chopin Warsawa
 Bandar Udara Gällivare
-Bandar Udara Internasional  Jembrana
-Bandar Udara Internasional  Kinabalu
 Bandar Udara Internasional Abraham González
 Bandar Udara Internasional Albrook %22Marcos A. Gelabert%22
 Bandar Udara Internasional Alfonso Bonilla Aragón
 Bandar Udara Internasional Alfredo Vásquez Cobo
 Bandar Udara Internasional B?l?i
 Bandar Udara Internasional Bahías de Huatulco
+Bandar Udara Internasional Beijing
 Bandar Udara Internasional Berlin-Schönefeld
 Bandar Udara Internasional Bocas del Toro %22Isla Colón%22
+Bandar Udara Internasional Capital
 Bandar Udara Internasional Capitán de Corbeta Carlos A. Curbelo
 Bandar Udara Internasional Carlos Rovirosa Pérez
 Bandar Udara Internasional Ciudad Obregón
@@ -319,14 +320,15 @@ Bandar Udara Internasional Golosón
 Bandar Udara Internasional Gregorio Luperón
 Bandar Udara Internasional Guaraní
 Bandar Udara Internasional Hercílio Luz
-Bandar Udara Internasional Ibu  Beijing
 Bandar Udara Internasional Ing. Alberto Acuña Ongay
 Bandar Udara Internasional Ingeniero Aeronáutico Ambrosio L.V. Taravella
+Bandar Udara Internasional Jembrana
 Bandar Udara Internasional Jenderal José Antonio Anzoátegui
 Bandar Udara Internasional José Joaquín de Olmedo
 Bandar Udara Internasional José Martí
 Bandar Udara Internasional José María Córdova
 Bandar Udara Internasional Juan Manuel Gálvez
+Bandar Udara Internasional Kinabalu
 Bandar Udara Internasional Las Américas
 Bandar Udara Internasional Lic. Jesús Terán Peredo
 Bandar Udara Internasional Limón
@@ -384,9 +386,14 @@ Bandar Udara Uíge
 Bandar Udara Vágar
 Bandar Udara Yaoundé
 Bandar Udara Zabré
+Bandar Udara al County Eagle
+Bandar Udara al Ha'il
+Bandar Udara al Jizan
+Bandar Udara al Red Deer
 Bandar Udara Ölgii
 Bandar Udara Örnsköldsvik
-Bandar Utama Tebing Tinggi  Tebing Tinggi
+Bandar Utama Tebing Tinggi
+Bandar Utama Tebing Tinggi Tebing Tinggi
 Banding
 Bandongan
 Bandul
@@ -394,33 +401,42 @@ Bandung
 Bane
 Banga
 Bangai
-Bangalore
 Bange
 Banget
 Bangka
 Bangkal
-Bangkal  Sumenep Sumenep
-Bangkinang  Bangkinang Kampar
+Bangkal Sumenep
+Bangkal Sumenep Sumenep
+Bangkinang Bangkinang
+Bangkinang Bangkinang Kampar
 Bangkir
 Bangkok
-Bangladesh
 Banglas
 Bangsa
 Bangsal
-Bangselok  Sumenep Sumenep
+Bangselok Sumenep
+Bangselok Sumenep Sumenep
 Bangun
-Bangun I  Bangun Kutai Kartanegara
-Bangun II  Bangun Kutai Kartanegara
-Bangun III  Bangun Kutai Kartanegara
-Bangun Ilir  Bangun Kutai Kartanegara
-Bangun Seberang  Bangun Kutai Kartanegara
-Bangun Ulu  Bangun Kutai Kartanegara
+Bangun I Bangun
+Bangun I Bangun Kutai Kartanegara
+Bangun II Bangun
+Bangun II Bangun Kutai Kartanegara
+Bangun III Bangun
+Bangun III Bangun Kutai Kartanegara
+Bangun Ilir Bangun
+Bangun Ilir Bangun Kutai Kartanegara
+Bangun Seberang Bangun
+Bangun Seberang Bangun Kutai Kartanegara
+Bangun Ulu Bangun
+Bangun Ulu Bangun Kutai Kartanegara
 Baning
-Baning  Sintang Sintang
+Baning Sintang
+Baning Sintang Sintang
 Banjang
 Banjar
 Banjaran
-Bansone  Kefamenanu Timor Tengah Utara
+Bansone Kefamenanu
+Bansone Kefamenanu Timor Tengah Utara
 Bantal
 Bantar
 Bantaran
@@ -428,9 +444,9 @@ Bantayan
 Banteng
 Banter
 Banua
-Banyul
 Bao
-Bao  Batu Lanteh Sumbawa
+Bao Batu Lanteh
+Bao Batu Lanteh Sumbawa
 Baquedano
 Bara
 Baran
@@ -440,31 +456,35 @@ Baras
 Barat
 Barat Papua Nugini
 Barat Sri Lanka
-Barbados
 Barcelona
 Bareng
-Baringin Sibolga  Sibolga
+Baringin Sibolga
+Baringin Sibolga Sibolga
 Baron
 Barongan
-Barongan  Kudus
-Baros  Agung Pusat Tanggamus
+Barongan Kudus
+Baros Agung Pusat
+Baros Agung Pusat Tanggamus
 Baru
 Baru KM 76
+Baru KM 76 Wih Pesam
 Baru KM 76 Wih Pesam Bener Meriah
-Baru Pekanbaru  Pekanbaru
+Baru Pekanbaru
+Baru Pekanbaru Pekanbaru
+Baru Siak Hulu
 Baru Siak Hulu Kampar
-Barueh  Jantho Aceh Besar
+Barueh Jantho
+Barueh Jantho Aceh Besar
 Baruh
 Barðastrandarsýsla
 Basin
 Baso
 Basoka
-Basseterre
 Basséra
 Bata
 Bataan
 Batakan
-Batam  Batam
+Batam Batam
 Batan
 Batang
 Batara
@@ -473,8 +493,10 @@ Bate
 Batik
 Batok
 Batu
-Batu  Malalayang Manado
-Batu Lidung Malinau  Malinau
+Batu Lidung Malinau
+Batu Lidung Malinau Malinau
+Batu Malalayang
+Batu Malalayang Manado
 Batung
 Bau
 Baulu
@@ -513,17 +535,16 @@ Belat
 Belawan
 Belendung
 Belian
-Belian Batam  Batam
+Belian Batam
+Belian Batam Batam
 Belik
 Belimbing
 Belitung
 Beliung
-Beliung  Baru Jambi
-Belize
+Beliung Baru
+Beliung Baru Jambi
 Bellis
-Belmopan
 Belo
-Belo Horizonte
 Beloh
 Belok
 Belu
@@ -541,22 +562,24 @@ Bendung
 Beng
 Bengkak
 Bengkal
-Bengkalis  Bengkalis Bengkalis
+Bengkalis Bengkalis Bengkalis
 Bengkawan
 Bengkayang
 Bengkel
 Bengkol
 Bengkong
-Benin
 Bening
-Benpasi  Kefamenanu Timor Tengah Utara
+Benpasi Kefamenanu
+Benpasi Kefamenanu Timor Tengah Utara
 Bentak
 Bentang
 Bentar
 Benteng
-Benteng  Tempilang Bangka Barat
+Benteng Tempilang
+Benteng Tempilang Bangka Barat
 Benua
-Benua Baru  Bangun Kutai Kartanegara
+Benua Baru Bangun
+Benua Baru Bangun Kutai Kartanegara
 Benuang
 Beo
 Berangas
@@ -567,13 +590,13 @@ Bere
 Berembang
 Bergas
 Beri
+Beri Brang Rea
 Beri Brang Rea Sumbawa Barat
 Beringin
 Berkas
-Berlin
 Bermi
-Bern
-Berngam Binjai  Binjai
+Berngam Binjai
+Berngam Binjai Binjai
 Bero
 Berok
 Berong
@@ -584,8 +607,10 @@ Beruk
 Besan
 Besar
 Besi
-Besi  Besi waringin Timur
-Besi Hulu  Besi waringin Timur
+Besi Besi
+Besi Besi waringin Timur
+Besi Hulu Besi
+Besi Hulu Besi waringin Timur
 Besi waringin Timur
 Best
 Besuk
@@ -597,15 +622,18 @@ Beting
 Beton
 Betung
 Beverly
-Bhutan
 Biak
-Biak  Biak Numfor
+Biak Biak Numfor
 Biau
-Biawao  Selatan Gorontalo
-Biawu  Selatan Gorontalo
+Biawao Selatan
+Biawao Selatan Gorontalo
+Biawu Selatan
+Biawu Selatan Gorontalo
 Bidara
 Bido
 Biga
+Biga Kaidipang
+Biga Kaidipang Bolaang Mongondow Utara
 Biha?
 Bika
 Bila
@@ -614,20 +642,27 @@ Bilas
 Billa
 Bilo
 Binjai
-Binjai  Binjai
-Binjai Binjai  Binjai
+Binjai Binjai
+Binjai Binjai Binjai
 Bintan
-Bintan Dumai  Dumai
+Bintan Dumai
+Bintan Dumai Dumai
 Bintang
 Bintara
 Birahi
 Birang
-Bireuen  Juang Bireuen
-Bireun Meunasah Blang  Juang Bireuen
-Bireun Meunasah Capa  Juang Bireuen
-Bireun Meunasah Dayah  Juang Bireuen
-Bireun Meunasah Reuleut  Juang Bireuen
-Bireun Meunasah Teungku Digadong  Juang Bireuen
+Bireuen Juang
+Bireuen Juang Bireuen
+Bireun Meunasah Blang Juang
+Bireun Meunasah Blang Juang Bireuen
+Bireun Meunasah Capa Juang
+Bireun Meunasah Capa Juang Bireuen
+Bireun Meunasah Dayah Juang
+Bireun Meunasah Dayah Juang Bireuen
+Bireun Meunasah Reuleut Juang
+Bireun Meunasah Reuleut Juang Bireuen
+Bireun Meunasah Teungku Digadong Juang
+Bireun Meunasah Teungku Digadong Juang Bireuen
 Birit
 Birmingham
 Biru
@@ -637,6 +672,7 @@ Bitis
 Black
 Blender
 Blimbing
+Blitar Wlingi 1
 Bo
 Bo'a
 Boba
@@ -650,8 +686,6 @@ Bodi
 Bogem
 Bogo
 Bogor
-Bogota
-BogotÃ¡
 Bogotá
 Bog‘ot
 Boho
@@ -670,7 +704,8 @@ Bolívar
 Bonang
 Bonder
 Bone
-Bonesompe Poso  Utara Poso
+Bonesompe Poso Utara
+Bonesompe Poso Utara Poso
 Bongkok
 Bongkot
 Bongo
@@ -684,12 +719,11 @@ Borgarfjarðarsýsla
 Boro
 Borong
 Boros
-Bosnia dan Herzegovina
 Boston
 Boto
 Botok
-Botswana
-Botu  Timur Gorontalo
+Botu Timur
+Botu Timur Gorontalo
 Boya
 Br?ila
 Bra?ov
@@ -697,19 +731,13 @@ Brad
 Brambang
 Bran
 Bran Bra?ov
-Brasilia
 Brasília
-Bratislava
 Brent
 Brest
-Bridgetown
 Bristol
 Bronx
 Brosot
-Brunei Darussalam
 Bruno
-Brussel
-Brussels
 Bu?teni
 Bua
 Buang
@@ -719,29 +747,36 @@ Bucu
 Budiman
 Buduk
 Budur
-Bugis  Timur Gorontalo
-Bugis Samarinda  Samarinda
+Bugis Samarinda
+Bugis Samarinda Samarinda
+Bugis Timur
+Bugis Timur Gorontalo
 Buhu?i
 Bujang
-Bukarest
 Bukat
 Bukit
-Bukit Bambu Poso  Selatan Poso
+Bukit Bambu Poso Selatan
+Bukit Bambu Poso Selatan Poso
 Bukit Barisan Lima Puluh
-Bukit Rata  Kuala Simpang Aceh Tamiang
-Bukit Tempurung  Kuala Simpang Aceh Tamiang
+Bukit Rata Kuala Simpang
+Bukit Rata Kuala Simpang Aceh Tamiang
+Bukit Tempurung Kuala Simpang
+Bukit Tempurung Kuala Simpang Aceh Tamiang
 Buku
 Bukur
-Buladu  Barat Gorontalo
+Buladu Barat
+Buladu Barat Gorontalo
 Bulak
 Bulan
 Bulang
 Bulangan
-Bulgaria
 Bulian
-Buliide  Barat Gorontalo
-Bulotadaa Barat  Utara Gorontalo
-Bulotadaa Timur  Utara Gorontalo
+Buliide Barat
+Buliide Barat Gorontalo
+Bulotadaa Barat Utara
+Bulotadaa Barat Utara Gorontalo
+Bulotadaa Timur Utara
+Bulotadaa Timur Utara Gorontalo
 Bulu
 Bulu-bulu
 Bulus
@@ -764,16 +799,19 @@ Buntet
 Bunton
 Buntu
 Bunut
-Bunut  Kisaran Barat Asahan
-Bunut Barat  Kisaran Barat Asahan
+Bunut Barat Kisaran Barat
+Bunut Barat Kisaran Barat Asahan
+Bunut Kisaran Barat
+Bunut Kisaran Barat Asahan
 Burai
 Buran
 Burat
-Burikan  Kudus
+Burikan Kudus
 Buriram
 Burka
+Buroko Kaidipang
+Buroko Kaidipang Bolaang Mongondow Utara
 Buru
-Burundi
 Busung
 Butler
 Butuh
@@ -792,13 +830,12 @@ C?n Th?
 Caba
 Cabak
 Cagayan
-Cairo
 California
 Calvià
-Camba  Besi waringin Timur
+Camba Besi
+Camba Besi waringin Timur
 Campa
 Campo de Fútbol de Vallecas
-Canberra
 Candi
 Candung
 Cangak
@@ -817,7 +854,6 @@ Carchi
 Carolina
 Cartago
 Castilla y León
-Castries
 Catamarca
 Catur
 Cawan
@@ -827,7 +863,6 @@ Cañete Chili
 Ceadîr-Lunga
 Cekalang
 Cekel
-Ceko
 Cekok
 Celak
 Celep
@@ -846,7 +881,6 @@ Cepu
 Cerih
 Ceruk
 Chaco
-Chad
 Chaiyaphum
 Champasak
 Chandler
@@ -860,18 +894,21 @@ Chiang Mai
 Chihuahua
 Chili
 Chimborazo
-China
 Chubut
 Chumphon
 Cikalang
-Cikampek  Cikampek Karawang
-Cikarang  Cikarang Utara Bekasi
+Cikampek Cikampek
+Cikampek Cikampek Karawang
+Cikarang Cikarang Utara
+Cikarang Cikarang Utara Bekasi
 Ciluk
-Cimuncang Garut  Garut
+Cimuncang Garut
+Cimuncang Garut Garut
 Cinta
 Cisn?die
 Ciudad de México
-Ciwalen Garut  Garut
+Ciwalen Garut
+Ciwalen Garut Garut
 Clayton
 Clio
 Codo
@@ -890,12 +927,12 @@ Concord
 Condong
 Constan?a
 Conto
-Copenhagen
 Coper
 Corrientes
 Coste?ti
 Coste?ti Moldova
-Cot Gapu  Juang Bireuen
+Cot Gapu Juang
+Cot Gapu Juang Bireuen
 Cotopaxi
 Cottonwood
 County Järva
@@ -927,9 +964,10 @@ D?rm?ne?ti
 Da?oguz
 Dadap
 Dadi
-Dadi Mulyo  Kisaran Barat Asahan
+Dadi Mulyo Kisaran Barat
+Dadi Mulyo Kisaran Barat Asahan
+Daerah Brussel
 Daerah Gävleborg
-Daerah Ibu  Brussel
 Daerah Jämtland
 Daerah Jönköping
 Daerah Södermanland
@@ -945,15 +983,15 @@ Dairi
 Dak Lak
 Dakar
 Dalam
-Dalan Lidang Panyabungan  Mandailing Natal
+Dalan Lidang Panyabungan
+Dalan Lidang Panyabungan Mandailing Natal
 Dalang
 Dalasýsla
 Daleman
-Dallas/Fort Worth
 Dalung
 Damai
 Damar
-Damaran  Kudus
+Damaran Kudus
 Dame
 Damon
 Dampit
@@ -968,12 +1006,14 @@ Danyang
 Daphne
 Dara
 Darat
-Darat Sekip Pontianak  Pontianak
+Darat Sekip Pontianak
+Darat Sekip Pontianak Pontianak
 Daren
 Dari
 Darma
 Darunu
-Darussalam Panyabungan  Mandailing Natal
+Darussalam Panyabungan
+Darussalam Panyabungan Mandailing Natal
 Dasun
 Data
 Datar
@@ -993,10 +1033,12 @@ Delhi
 Delik
 Delima
 Delta
-Demaan  Kudus
-Demangan  Kudus
-Dembe I  Barat Gorontalo
-Dembe II  Utara Gorontalo
+Demaan Kudus
+Demangan Kudus
+Dembe I Barat
+Dembe I Barat Gorontalo
+Dembe II Utara
+Dembe II Utara Gorontalo
 Demen
 Demit
 Dempet
@@ -1005,7 +1047,6 @@ Dena
 Denai
 Dendang
 Dengkol
-Denmark
 Denok
 Departemen El Petén
 Departemen El Quiché
@@ -1015,20 +1056,20 @@ Deram
 Deras
 Derik
 Deru
-Detroit
 Dewi
 Dian
 Diat
 Dirgahayu
-Djibouti City
 Doko
 Dolok
-Dominika
 Dompak
 Dompol
-Dondo Ampana  Tojo Una-Una
+Dondo Ampana
+Dondo Ampana Tojo Una-Una
 Done
-Donggala  Selatan Gorontalo
+Donga
+Donggala Selatan
+Donggala Selatan Gorontalo
 Dorang
 Dorman
 Dorong
@@ -1039,18 +1080,21 @@ Dr?g??ani
 Dr?g?ne?ti-Olt
 Dragomire?ti
 Dragomire?ti Maramure?
-Dublin
 Duda
 Duku
 Dukuh
 Dukun
-Dulalowo  Tengah Gorontalo
+Dulalowo Tengah
+Dulalowo Tengah Gorontalo
 Dulang
-Dulomo Selatan  Utara Gorontalo
-Dulomo Utara  Utara Gorontalo
-Dumai  Dumai
-Dumai  Dumai  Dumai
-Dumai  Dumai Timur Dumai
+Dulomo Selatan Utara
+Dulomo Selatan Utara Gorontalo
+Dulomo Utara Utara
+Dulomo Utara Utara Gorontalo
+Dumai Dumai
+Dumai Dumai Dumai
+Dumai Dumai Timur
+Dumai Dumai Timur Dumai
 Dupak
 Durango
 Duren
@@ -1066,9 +1110,9 @@ Eclectic
 Edremit
 Edremit Bal?kesir
 Ejer Bavnehøj
-Ekuador
 El Oro
-El Salvador
+El Petén
+El Quiché
 Elberta
 Elok
 Embacang
@@ -1083,7 +1127,6 @@ Era
 Esmeraldas
 Essang
 Estación Central
-Estonia
 Ethiopia
 Etna
 Evergreen
@@ -1094,10 +1137,7 @@ Falköping
 Fat
 Fete?ti
 Figur
-Fiji
 Filia?i
-Filipina
-Finlandia
 Firdaus
 Fjarðabyggð
 Flagstaff
@@ -1106,12 +1146,8 @@ Florence
 Florida
 Formosa
 Fresno
-Frunze
-Funafuti
 G?e?ti
 G?taia
-Gabon
-Gabourone
 Gabus
 Gadang
 Gadding
@@ -1124,7 +1160,8 @@ Gaharu
 Gajah
 Gaji
 Galang
-Galang  Galang Deli Serdang
+Galang Galang
+Galang Galang Deli Serdang
 Galax
 Galih
 Galuh
@@ -1133,7 +1170,8 @@ Galur
 Galápagos
 Gambia
 Gambir
-Gambir Baru  Kisaran Timur Asahan
+Gambir Baru Kisaran Timur
+Gambir Baru Kisaran Timur Asahan
 Gambut
 Gampang
 Gamping
@@ -1164,7 +1202,7 @@ Garuda
 Garum
 Garung
 Garut
-Garut  Garut
+Garut Garut
 Garðabær
 Gasang
 Gaum
@@ -1174,7 +1212,8 @@ Gawang
 Gayam
 Gda?sk
 Gebang
-Gebangrejo Poso  Poso
+Gebangrejo Poso
+Gebangrejo Poso Poso
 Gedang
 Gedebeg
 Gedong
@@ -1188,7 +1227,8 @@ Gelombang
 Gelong
 Gelora
 Gelugur
-Gelumbang  Manna Bengkulu Selatan
+Gelumbang Manna
+Gelumbang Manna Bengkulu Selatan
 Gelung
 Gema
 Gemah
@@ -1203,8 +1243,6 @@ Geneva
 Genteng
 Genting
 Gentong
-George Town
-Georgia
 Georgiana
 Geplak
 Gera
@@ -1219,12 +1257,18 @@ Gersik
 Gerung
 Gerunggung
 Getas
-Geudong Alue  Juang Bireuen
-Geudong-geudong  Juang Bireuen
-Geulanggang Baro  Juang Bireuen
-Geulanggang Gampong  Juang Bireuen
-Geulanggang Kulam  Juang Bireuen
-Geulanggang Teungoh  Juang Bireuen
+Geudong Alue Juang
+Geudong Alue Juang Bireuen
+Geudong-geudong Juang
+Geudong-geudong Juang Bireuen
+Geulanggang Baro Juang
+Geulanggang Baro Juang Bireuen
+Geulanggang Gampong Juang
+Geulanggang Gampong Juang Bireuen
+Geulanggang Kulam Juang
+Geulanggang Kulam Juang Bireuen
+Geulanggang Teungoh Juang
+Geulanggang Teungoh Juang Bireuen
 Gilang
 Giling
 Gio
@@ -1233,11 +1277,12 @@ Giring
 Gita
 Gitik
 Gjirokastër
-Glantengan  Kudus
+Glantengan Kudus
 Glee
 Glodok
 Glugur
-Glugur  Medan Barat Medan
+Glugur Medan Barat
+Glugur Medan Barat Medan
 Goa
 Gobah
 Gobang
@@ -1247,9 +1292,12 @@ Goes
 Gohong
 Goleniów
 Golo
-Golo Meni  Komba Manggarai Timur
-Golo Nderu  Komba Manggarai Timur
-Golo Tolang  Komba Manggarai Timur
+Golo Meni Komba
+Golo Meni Komba Manggarai Timur
+Golo Nderu Komba
+Golo Nderu Komba Manggarai Timur
+Golo Tolang Komba
+Golo Tolang Komba Manggarai Timur
 Golok
 Goma
 Gombang
@@ -1263,13 +1311,9 @@ Gouda
 Goyang
 Granada
 Grave
-Grenada
 Grindavík
-Grozny
 Grímsvötn
 Gu
-Guangzhou
-Guatemala City
 Guayas
 Guci
 Gudang
@@ -1277,8 +1321,6 @@ Guguk
 Guguk Lima Puluh
 Guha
 Guinea
-Guinea Bissau
-Guinea Khatulistiwa
 Guli
 Gullbringusýsla
 Gumuk
@@ -1290,30 +1332,38 @@ Gunting
 Guntung
 Guntur
 Gunung
-Gunung  Komba Manggarai Timur
-Gunung Ayu  Manna Bengkulu Selatan
-Gunung Barani Panyabungan  Mandailing Natal
-Gunung Manaon Panyabungan  Mandailing Natal
+Gunung Ayu Manna
+Gunung Ayu Manna Bengkulu Selatan
+Gunung Barani Panyabungan
+Gunung Barani Panyabungan Mandailing Natal
+Gunung Komba
+Gunung Komba Manggarai Timur
+Gunung Manaon Panyabungan
+Gunung Manaon Panyabungan Mandailing Natal
 Gunung Omeh Lima Puluh
 Gunung Peuët Sagoë
-Gunung Tua Jae Panyabungan  Mandailing Natal
-Gunung Tua Julu Panyabungan  Mandailing Natal
-Gunung Tua Tonga Panyabungan  Mandailing Natal
+Gunung Tua Jae Panyabungan
+Gunung Tua Jae Panyabungan Mandailing Natal
+Gunung Tua Julu Panyabungan
+Gunung Tua Julu Panyabungan Mandailing Natal
+Gunung Tua Tonga Panyabungan
+Gunung Tua Tonga Panyabungan Mandailing Natal
 Gurah
 Gádor
 Göteborg
 H? Chí Minh
 H?i Phòng
 Ha?eg
-Hadundung  Pinang Labuhanbatu Selatan
+Hadundung Pinang
+Hadundung Pinang Labuhanbatu Selatan
 Hafnarfjörður
-Haiti
 Hale
 Haleakal?
-Hambala  Waingapu Sumba Timur
-Hamburg
+Hambala Waingapu
+Hambala Waingapu Sumba Timur
 Hamilton
-Hanjalipan  Besi waringin Timur
+Hanjalipan Besi
+Hanjalipan Besi waringin Timur
 Hanjuang
 Harau Lima Puluh
 Harus
@@ -1324,8 +1374,10 @@ Havana
 Hayo
 Headland
 Heath
-Heledulaa Selatan  Timur Gorontalo
-Heledulaa Utara  Timur Gorontalo
+Heledulaa Selatan Timur
+Heledulaa Selatan Timur Gorontalo
+Heledulaa Utara Timur
+Heledulaa Utara Timur Gorontalo
 Helmand
 Helvetia
 Heredia
@@ -1335,16 +1387,15 @@ Hilir
 Holi
 Hollywood
 Homiel
-Honduras
-Hong Kong
-Hongaria
 Houaphan
 Hu'u
 Huascarán
 Hulu
 Hum
-Huta Lombang Lubis Panyabungan  Mandailing Natal
-Huta Siantar Panyabungan  Mandailing Natal
+Huta Lombang Lubis Panyabungan
+Huta Lombang Lubis Panyabungan Mandailing Natal
+Huta Siantar Panyabungan
+Huta Siantar Panyabungan Mandailing Natal
 Hveragerði
 Hâr?ova
 Hârl?u
@@ -1357,7 +1408,8 @@ Iba
 Ibra
 Ibu
 Ibul
-Ibul  Manna Bengkulu Selatan
+Ibul Manna
+Ibul Manna Bengkulu Selatan
 Ibun
 Idaho
 Ifugao
@@ -1367,22 +1419,17 @@ Ilir
 Ilu
 Imbabura
 In Aménas
-India
-Indrapura  Air Putih Batu Bara
 Inowroc?aw
 Intan
 Inwood
 Iowa
-Ipar Bondar Panyabungan  Mandailing Natal
-Ipilo  Timur Gorontalo
-Irak
-Iran
-Irlandia
+Ipar Bondar Panyabungan
+Ipar Bondar Panyabungan Mandailing Natal
+Ipilo Timur
+Ipilo Timur Gorontalo
 Irlandia Baru
 Isfahan
 Islam
-Islandia
-Israel
 Istiqlal
 Ithaca
 J?kabpils
@@ -1401,18 +1448,17 @@ Jagur
 Jajar
 Jake
 Jali
-Jamaika
 Jaman
 Jambak
 Jambar
 Jambe
 Jambi Luar
-Jambi Luar  Muaro Jambi
+Jambi Luar Muaro Jambi
 Jamblang
 Jambon
 Jambu
 Jamu
-Janggalan  Kudus
+Janggalan Kudus
 Janggi
 Jangka
 Jangkang
@@ -1421,8 +1467,10 @@ Jangkat
 Jangkung
 Janjang
 Janji
-Jantho Makmur  Jantho Aceh Besar
-Jantho Meusar  Jantho Aceh Besar
+Jantho Makmur Jantho
+Jantho Makmur Jantho Aceh Besar
+Jantho Meusar Jantho
+Jantho Meusar Jantho Aceh Besar
 Jantuk
 Jantur
 Japan
@@ -1435,7 +1483,6 @@ Jatuh
 Jaya
 Jebol
 Jebus
-Jeddah
 Jejawi
 Jelai
 Jelantik
@@ -1453,7 +1500,6 @@ Jenggot
 Jengkol
 Jenu
 Jerambang
-Jerman
 Jernih
 Jeruk
 Jetis
@@ -1461,13 +1507,13 @@ Jila
 Jipang
 Jirak
 Joglo
-Johannesburg
 Jojol
 Jombang
 Jompo
 Jonggol
 Jonggon
-Jonggon  Loa Kulu Kutai Kartanegara
+Jonggon Loa Kulu
+Jonggon Loa Kulu Kutai Kartanegara
 Jongkang
 Jontor
 Jorok
@@ -1485,6 +1531,7 @@ Jumba
 Jumeneng
 Jumput
 Jumrah
+Jung
 Jungkal
 Jungkat
 Junjung
@@ -1507,7 +1554,8 @@ Kabupaten Varaždin
 Kabupaten Šibenik-Knin
 Kaca
 Kacapiring
-Kacongan  Sumenep Sumenep
+Kacongan Sumenep
+Kacongan Sumenep Sumenep
 Kacung
 Kadipaten
 Kadu
@@ -1516,52 +1564,62 @@ Kahu
 Kais
 Kajang
 Kajar
-Kajeksan  Kudus
+Kajeksan Kudus
 Kajen
 Kakan
 Kakas
 Kala
 Kalabahi
-Kalabahi  Teluk Mutiara Alor
+Kalabahi Teluk Mutiara
+Kalabahi Teluk Mutiara Alor
 Kalang
 Kalembak
-Kalembu Kuni  Waikabubak Sumba Barat
+Kalembu Kuni Waikabubak
+Kalembu Kuni Waikabubak Sumba Barat
 Kaleng
 Kali
 Kalian
-Kaliputu  Kudus
+Kaliputu Kudus
 Kalis
 Kalon
 Kalpataru
 Kalumpang
 Kamal
-Kamalaputi  Waingapu Sumba Timur
+Kamalaputi Waingapu
+Kamalaputi Waingapu Sumba Timur
 Kamba
-Kambajawa  Waingapu Sumba Timur
-Kambaniru  Waingapu Sumba Timur
-Kamboja
+Kambajawa Waingapu
+Kambajawa Waingapu Sumba Timur
+Kambaniru Waingapu
+Kambaniru Waingapu Sumba Timur
 Kampak
 Kampil
 Kampung
-Kampung   Kuala Simpang Aceh Tamiang
-Kampung Baru  Manna Bengkulu Selatan
-Kampung Baru  Waikabubak Sumba Barat
+Kampung Baru Manna
+Kampung Baru Manna Bengkulu Selatan
+Kampung Baru Waikabubak
+Kampung Baru Waikabubak Sumba Barat
 Kampung Besar
-Kampung Besar  Rengat Indragiri Hulu
-Kampung Bugis Tanjung Pinang  Tanjung Pinang
-Kampung Padang Panyabungan  Mandailing Natal
-Kampung Sawah  Waikabubak Sumba Barat
+Kampung Besar Rengat
+Kampung Besar Rengat Indragiri Hulu
+Kampung Bugis Tanjung Pinang
+Kampung Bugis Tanjung Pinang Tanjung Pinang
+Kampung Kuala Simpang
+Kampung Kuala Simpang Aceh Tamiang
+Kampung Padang Panyabungan
+Kampung Padang Panyabungan Mandailing Natal
+Kampung Sawah Waikabubak
+Kampung Sawah Waikabubak Sumba Barat
 Kamu
-Kanada
 Kanan
 Kanang
 Kanara
 Kancana
-Kandan  Besi waringin Timur
+Kandan Besi
+Kandan Besi waringin Timur
 Kandang
-Kandangan  Kandangan Hulu Sungai Selatan
+Kandangan Kandangan Hulu Sungai Selatan
 Kandis
-Kandis  Kandis Siak
 Kangkung
 Kanjar
 Kano
@@ -1580,26 +1638,31 @@ Kapung
 Kapur
 Kapur IX Lima Puluh
 Kara
-Karachi
 Karah
 Karakul
 Karang
-Karang Anyer  Kisaran Timur Asahan
-Karang Mumus Samarinda  Samarinda
-Karangduak  Sumenep Sumenep
-Karangtengah  Ngawi Ngawi
+Karang Anyer Kisaran Timur
+Karang Anyer Kisaran Timur Asahan
+Karang Mumus Samarinda
+Karang Mumus Samarinda Samarinda
+Karangduak Sumenep
+Karangduak Sumenep Sumenep
+Karangtengah Ngawi
+Karangtengah Ngawi Ngawi
 Karas
 Karau
 Karet
 Karo
-Kartini Binjai  Binjai
+Kartini Binjai
+Kartini Binjai Binjai
 Karuan
 Karya
 Kasai
 Kasang
 Kasih
 Kasihan
-Kasintuwu Poso  Utara Poso
+Kasintuwu Poso Utara
+Kasintuwu Poso Utara Poso
 Kasmaran
 Kaso
 Kasturi
@@ -1609,22 +1672,28 @@ Kates
 Katul
 Katung
 Katurai
-Kauman  Kudus
+Kauman Kudus
 Kawak
 Kawal
 Kawan
-Kawua Poso  Selatan Poso
-Kayamanya Poso  Poso
+Kawua Poso Selatan
+Kawua Poso Selatan Poso
+Kayamanya Poso
+Kayamanya Poso Poso
 Kayang
 Kayangan
 Kayo
-Kayu Jati Panyabungan  Mandailing Natal
+Kayu Jati Panyabungan
+Kayu Jati Panyabungan Mandailing Natal
 Kazakhstan Selatan
 Kazakhstan Timur
 Kebo
-Kebonagung  Sumenep Sumenep
-Kebun Tengah  Kuala Simpang Aceh Tamiang
-Kebunan  Sumenep Sumenep
+Kebonagung Sumenep
+Kebonagung Sumenep Sumenep
+Kebun Tengah Kuala Simpang
+Kebun Tengah Kuala Simpang Aceh Tamiang
+Kebunan Sumenep
+Kebunan Sumenep Sumenep
 Kebur
 Keburu
 Kecapi
@@ -1632,19 +1701,25 @@ Kecik
 Kecipir
 Kedah
 Kedai
-Kedai Ledang  Kisaran Timur Asahan
+Kedai Ledang Kisaran Timur
+Kedai Ledang Kisaran Timur Asahan
 Kedak
-Kedang Ipil  Bangun Kutai Kartanegara
-Kedang Murung  Bangun Kutai Kartanegara
+Kedang Ipil Bangun
+Kedang Ipil Bangun Kutai Kartanegara
+Kedang Murung Bangun
+Kedang Murung Bangun Kutai Kartanegara
 Kedasih
 Kedaung
 Kedok
 Kedondong
 Kedongdong
 Kedung
-Kefamenanu Selatan  Kefamenanu Timor Tengah Utara
-Kefamenanu Tengah  Kefamenanu Timor Tengah Utara
-Kefamenanu Utara  Kefamenanu Timor Tengah Utara
+Kefamenanu Selatan Kefamenanu
+Kefamenanu Selatan Kefamenanu Timor Tengah Utara
+Kefamenanu Tengah Kefamenanu
+Kefamenanu Tengah Kefamenanu Timor Tengah Utara
+Kefamenanu Utara Kefamenanu
+Kefamenanu Utara Kefamenanu Timor Tengah Utara
 Keflavík
 Kegubernuran Béja
 Kegubernuran Gabès
@@ -1666,7 +1741,8 @@ Keluang
 Kelubi
 Kelumpang
 Kelun
-Kemala Putih  Waingapu Sumba Timur
+Kemala Putih Waingapu
+Kemala Putih Waingapu Sumba Timur
 Kemamang
 Keman
 Kemang
@@ -1682,9 +1758,12 @@ Kemudi
 Kemukus
 Kemumu
 Kemuning
-Kenali Asam Atas  Baru Jambi
-Kenali Asam Bawah  Baru Jambi
-Kenali Besar  Baru Jambi
+Kenali Asam Atas Baru
+Kenali Asam Atas Baru Jambi
+Kenali Asam Bawah Baru
+Kenali Asam Bawah Baru Jambi
+Kenali Besar Baru
+Kenali Besar Baru Jambi
 Kenanga
 Kenari
 Kencana
@@ -1698,9 +1777,9 @@ Kentara
 Kenteng
 Kentong
 Kentucky
-Kenya
 Kenyam
-Kepanjin  Sumenep Sumenep
+Kepanjin Sumenep
+Kepanjin Sumenep Sumenep
 Kepayang
 Kepek
 Kepel
@@ -1725,7 +1804,7 @@ Kerek
 Keresek
 Kerik
 Keriting
-Kerjasan  Kudus
+Kerjasan Kudus
 Kerkap
 Keroncong
 Kersik
@@ -1752,30 +1831,32 @@ Kias
 Kidal
 Kidang
 Kijang
-Kijang  Bintan Timur Bintan
+Kijang Bintan Timur
+Kijang Bintan Timur Bintan
 Kilang
 Kilo
 Kinantan
 Kincang
 Kingking
-Kingstone
-Kingstown
-Kirgizstan
-Kiribati
 Kirkuk
-Kisaran   Kisaran Barat Asahan
-Kisaran Barat  Kisaran Barat Asahan
-Kisaran Baru  Kisaran Barat Asahan
-Kisaran Naga  Kisaran Timur Asahan
-Kisaran Timur  Kisaran Timur Asahan
-Kishinev
+Kisaran Barat Kisaran Barat
+Kisaran Barat Kisaran Barat Asahan
+Kisaran Baru Kisaran Barat
+Kisaran Baru Kisaran Barat Asahan
+Kisaran Kisaran Barat
+Kisaran Kisaran Barat Asahan
+Kisaran Naga Kisaran Timur
+Kisaran Naga Kisaran Timur Asahan
+Kisaran Timur Kisaran Timur
+Kisaran Timur Kisaran Timur Asahan
 Kisik
 Kitang
 Klitik
 Knoxville
 Kober
 Kodak
-Kodaka  Waikabubak Sumba Barat
+Kodaka Waikabubak
+Kodaka Waikabubak Sumba Barat
 Kodi
 Kohong
 Koja
@@ -1786,20 +1867,20 @@ Kolak
 Kolam
 Kolek
 Koli
-Kolkata
-Kolombia
-Kolombo
 Kolong
 Kolor
-Kolor  Sumenep Sumenep
+Kolor Sumenep
+Kolor Sumenep Sumenep
 Kolot
+Kolot Cilawu
 Kolot Cilawu Garut
-Komba  Komba Manggarai Timur
-Komerda  Waikabubak Sumba Barat
+Komba Komba
+Komba Komba Manggarai Timur
+Komerda Waikabubak
+Komerda Waikabubak Sumba Barat
 Komet
 Komodo
 Kona
-Konakry
 Kondang
 Konstantin
 Kopah
@@ -1808,31 +1889,30 @@ Kopi
 Kopong
 Koprivnica-Križevci
 Kore
-Korea Selatan
-Korea Utara
 Koreng
 Korçë
 Kosambi
 Kosar
-Kosta Rika
 Kota
 Kota H? Chí Minh
+Kota Mukomuko Mukomuko
 Kotes
 Koto
 Krabi
 Krakal
-Kramat  Kudus
-Krandon  Kudus
+Kramat Kudus
+Krandon Kudus
 Kras
 Krecek
 Kricak
 Kristen
 Kuala
-Kuala Baru Seberang  Tanjung Jabung Barat
-Kuala Simpang  Kuala Simpang Aceh Tamiang
+Kuala Baru Seberang
+Kuala Baru Seberang Tanjung Jabung Barat
+Kuala Simpang Kuala Simpang
+Kuala Simpang Kuala Simpang Aceh Tamiang
 Kuang
 Kuari
-Kuba
 Kubang
 Kubu
 Kubung
@@ -1847,7 +1927,8 @@ Kukuh
 Kuli
 Kulim
 Kulon
-Kulon Garut  Garut
+Kulon Garut
+Kulon Garut Garut
 Kulur
 Kumai
 Kumbang
@@ -1871,30 +1952,30 @@ Kurau
 Kuri
 Kurik
 Kuripan
-Kuripan  Agung Pusat Tanggamus
+Kuripan Agung Pusat
+Kuripan Agung Pusat Tanggamus
 Kurma
 Kurun
 Kurung
 Kusu
 Kuta
 Kutuk
-Kuwait
 Kuwu
 Kärdla
 Kéllé
 Kópavogur
 La Línea de la Concepción
-La Valetta
 Laba
 Laban
 Labang
-Laboratorium Lingkungan  Bitung
-Labuah Ampana  Tojo Una-Una
-Labuan Ampana  Tojo Una-Una
+Laboratorium Lingkungan Bitung
+Labuah Ampana
+Labuah Ampana Tojo Una-Una
+Labuan Ampana
+Labuan Ampana Tojo Una-Una
 Ladan
 Ladang
 Lagan
-Lagos
 Laguna
 Lahar
 Lahat
@@ -1904,12 +1985,14 @@ Lais
 Laju
 Laksa
 Laksamana
-Laksamana Dumai  Dumai
+Laksamana Dumai
+Laksamana Dumai Dumai
 Laksana
 Lalang
 Lama
 Lambak
-Lambanapu  Waingapu Sumba Timur
+Lambanapu Waingapu
+Lambanapu Waingapu Sumba Timur
 Lambu
 Lambur
 Lame
@@ -1923,7 +2006,7 @@ Landak
 Langgai
 Langgam
 Langgar
-Langgardalem  Kudus
+Langgardalem Kudus
 Langgeng
 Langi
 Langir
@@ -1932,7 +2015,7 @@ Langkan
 Langkap
 Langkas
 Langkat
-Langsa  Langsa
+Langsa Langsa
 Langse
 Langut
 Lanji
@@ -1942,8 +2025,8 @@ Lantan
 Lantik
 Lantung
 Lanín
-Laos
-Lapale  Waikabubak Sumba Barat
+Lapale Waikabubak
+Lapale Waikabubak Sumba Barat
 Lapang
 Lappa
 Lara
@@ -1953,23 +2036,25 @@ Laru
 Lasi
 Latak
 Latung
-Latvia
 Laura
 Lawa
 Lawang
-Lawanga Poso  Utara Poso
+Lawanga Poso Utara
+Lawanga Poso Utara Poso
 Layang
 Layap
 Layuh
 La’as Baru
+La’as Baru Sumber Barito
 La’as Baru Sumber Barito Murung Raya
 Lea
-Leato Selatan  Timur Gorontalo
-Leato Utara  Timur Gorontalo
+Leato Selatan Timur
+Leato Selatan Timur Gorontalo
+Leato Utara Timur
+Leato Utara Timur Gorontalo
 Lebak
 Leban
 Lebang
-Lebanon
 Lebih
 Lebuh
 Ledang
@@ -1983,7 +2068,8 @@ Legok
 Legundi
 Lehi
 Leighton
-Lekobalo  Barat Gorontalo
+Lekobalo Barat
+Lekobalo Barat Gorontalo
 Lekok
 Lela
 Lelak
@@ -1994,11 +2080,13 @@ Lembak
 Lembang
 Lembar
 Lembeng
-Lembomawo Poso  Selatan Poso
+Lembomawo Poso Selatan
+Lembomawo Poso Selatan Poso
 Lembu
 Lembung
 Lembur
-Lembur  Komba Manggarai Timur
+Lembur Komba
+Lembur Komba Manggarai Timur
 Lemo
 Lemon
 Lempang
@@ -2012,34 +2100,40 @@ Lepak
 Les
 Lesa
 Lesah
-Lesotho
 Lestari
-Lestari  Kisaran Timur Asahan
+Lestari Kisaran Timur
+Lestari Kisaran Timur Asahan
 Letang
 Letung
 Leu
 Lewa
 Lewat
 León Baru
-Lhok Awe Teungoh  Juang Bireuen
+Lhok Awe Teungoh Juang
+Lhok Awe Teungoh Juang Bireuen
 Liang
-Liang  Bangun Kutai Kartanegara
-Liang Ulu  Bangun Kutai Kartanegara
+Liang Bangun
+Liang Bangun Kutai Kartanegara
+Liang Ulu Bangun
+Liang Ulu Bangun Kutai Kartanegara
 Libas
 Liberia
-Libya
 Licin
 Lidi
-Liechtenstein
 Lija
 Lili
-Liluwo  Tengah Gorontalo
+Liluwo Tengah
+Liluwo Tengah Gorontalo
 Lima
-Lima Puluh  Limapuluh Batu Bara
+Lima Puluh Limapuluh
+Lima Puluh Limapuluh Batu Bara
 Limau
-Limba B  Selatan Gorontalo
-Limba U I  Selatan Gorontalo
-Limba U II  Selatan Gorontalo
+Limba B Selatan
+Limba B Selatan Gorontalo
+Limba U I Selatan
+Limba U I Selatan Gorontalo
+Limba U II Selatan
+Limba U II Selatan Gorontalo
 Limbung
 Limbur
 Limpas
@@ -2052,16 +2146,16 @@ Lingga
 Lingsir
 Lino
 Lintang
-Lintang  Kuala Simpang Aceh Tamiang
+Lintang Kuala Simpang
+Lintang Kuala Simpang Aceh Tamiang
 Lio
 Liquiçá
 Lirik
-Lisabon
-Lisbon
 Lite
-Lituania
+Littoral
 Loa
-Loa Kulu  Loa Kulu Kutai Kartanegara
+Loa Kulu Loa Kulu
+Loa Kulu Loa Kulu Kutai Kartanegara
 Lobang
 Loei
 Loji
@@ -2070,11 +2164,12 @@ Loke
 Lola
 Lolak
 Loleng
-Loleng  Bangun Kutai Kartanegara
+Loleng Bangun
+Loleng Bangun Kutai Kartanegara
 Lolong
-Lombogia Poso  Utara Poso
+Lombogia Poso Utara
+Lombogia Poso Utara Poso
 Lombok
-Lome
 Lomé
 Longa
 Longok
@@ -2093,18 +2188,20 @@ Luar
 Luas
 Luba
 Lubuk
-Lubuk Baja  Lubuk Baja Batam
+Lubuk Baja Lubuk Baja
+Lubuk Baja Lubuk Baja Batam
 Ludu?
 Lugu
 Luhak
 Luhak Lima Puluh
 Luk
-Luksemburg
-Luku Wingir  Waingapu Sumba Timur
+Luku Wingir Waingapu
+Luku Wingir Waingapu Sumba Timur
 Lulu
 Lulut
 Lumar
-Lumban Pasir Panyabungan  Mandailing Natal
+Lumban Pasir Panyabungan
+Lumban Pasir Panyabungan Mandailing Natal
 Lumbang
 Lumbu
 Lumbung
@@ -2112,8 +2209,6 @@ Lumpang
 Lumpur
 Lumut
 Lurah
-Luxembourg City
-Lyon
 Lélé
 Léré
 Léré Mali
@@ -2122,8 +2217,8 @@ M?gurele
 M?r??e?ti
 Maba
 Macapá
-Madagaskar
-Madale Poso  Utara Poso
+Madale Poso Utara
+Madale Poso Utara Poso
 Madar
 Madat
 Made
@@ -2143,50 +2238,50 @@ Maine
 Maja
 Majir
 Maju
-Majuro
 Makam
 Makassar
 Maki
 Makmur
 Mala
 Malabar
-Maladewa
 Malaka
 Malang
 Malapari
 Malati
-Malawi
-Male
 Maleo
 Mali
 Mali-Mali
-Malinau  Malinau
-Malinau  Malinau  Malinau
-Malinau Hilir Malinau  Malinau
-Malinau Hulu Malinau  Malinau
-Maliti  Waikabubak Sumba Barat
+Malinau Hilir Malinau
+Malinau Hilir Malinau Malinau
+Malinau Hulu Malinau
+Malinau Hulu Malinau Malinau
+Malinau Malinau
+Malinau Malinau Malinau
+Maliti Waikabubak
+Maliti Waikabubak Sumba Barat
 Malo
-Malotong Ampana  Tojo Una-Una
-Malta
-Malumbi  Waingapu Sumba Timur
+Malotong Ampana
+Malotong Ampana Tojo Una-Una
+Malumbi Waingapu
+Malumbi Waingapu Sumba Timur
 Mama
 Maman
 Mamar
 Mambang
 Mambo
 Mampai
-Mampang  Pinang Labuhanbatu Selatan
+Mampang Pinang
+Mampang Pinang Labuhanbatu Selatan
 Mampir
 Mampu
 Mamut
 Manabí
-Managua
-Manama
 Manchester
 Mancung
 Mandah
 Mandai
-Mandailing Tebing Tinggi  Tebing Tinggi
+Mandailing Tebing Tinggi
+Mandailing Tebing Tinggi Tebing Tinggi
 Mandala
 Mandan
 Mandau
@@ -2209,22 +2304,28 @@ Manjung
 Manna
 Manuk
 Manunggal
-Manyabar Panyabungan  Mandailing Natal
+Manyabar Panyabungan
+Manyabar Panyabungan Mandailing Natal
 Manyar
+Mapo
 Mara
-Mara  Umbu Ratu Nggay Sumba Tengah
-Marabahan  Marabahan Barito Kuala
+Mara Umbu Ratu Nggay
+Mara Umbu Ratu Nggay Sumba Tengah
+Marabahan Marabahan
+Marabahan Marabahan Barito Kuala
 Maramure?
 Marang
 Mare
-Marengan Daya  Sumenep Sumenep
+Marengan Daya Sumenep
+Marengan Daya Sumenep Sumenep
 Marga
-Margawati Garut  Garut
+Margawati Garut
+Margawati Garut Garut
 Maria
 Mariana
-Mariana Pontianak  Pontianak
+Mariana Pontianak
+Mariana Pontianak Pontianak
 Mario
-Marshall
 Maru
 Mary
 Mas
@@ -2233,36 +2334,40 @@ Masohi
 Masrum
 Masvingo
 Mata
-Matawai  Waingapu Sumba Timur
+Matawai Waingapu
+Matawai Waingapu Sumba Timur
 Matur
-Maubeli  Kefamenanu Timor Tengah Utara
-Mauhau  Waingapu Sumba Timur
-Mauliru  Waingapu Sumba Timur
-Mauritania
-Mauritius
+Maubeli Kefamenanu
+Maubeli Kefamenanu Timor Tengah Utara
+Mauhau Waingapu
+Mauhau Waingapu Sumba Timur
+Mauliru Waingapu
+Mauliru Waingapu Sumba Timur
 Mawar
 Mayang
-Mayang Mengurai  Baru Jambi
+Mayang Mengurai Baru
+Mayang Mengurai Baru Jambi
 Mayung
 Mazowsze
-Mbengan  Komba Manggarai Timur
+Mbengan Komba
+Mbengan Komba Manggarai Timur
 Me?imurje
 Medali
 Medan
-Medan  Manna Bengkulu Selatan
-Medan  Medan
+Medan Manna
+Medan Manna Bengkulu Selatan
+Medan Medan
 Medang
 Medellín
 Meger
 Mekar
-Mekar Baru  Kisaran Barat Asahan
-Meksiko City
+Mekar Baru Kisaran Barat
+Mekar Baru Kisaran Barat Asahan
 Melas
 Melayu
-Melayu  Piring
-Melayu  Piring Tanjung Pinang Timur Tanjung Pinang
-Melbourne
-Melekeok
+Melayu Piring
+Melayu Piring Tanjung Pinang Timur
+Melayu Piring Tanjung Pinang Timur Tanjung Pinang
 Meles
 Melirang
 Menang
@@ -2272,17 +2377,20 @@ Mendoza
 Mendung
 Mendut
 Menggala
-Menggala  Menggala Tulang Bawang
+Menggala Menggala
+Menggala Menggala Tulang Bawang
 Mengkudu
 Mengok
 Meninting
 Menjangan
+Mentaya Hilir Selatan waringin Timur
 Menteng
 Mentor
 Menur
 Merah
 Merak
-Meral  Meral Karimun
+Meral Meral
+Meral Meral Karimun
 Merambung
 Meranti
 Merbau
@@ -2293,24 +2401,21 @@ Meri
 Merpati
 Mertelu
 Mesjid
-Mesjid Medan  Medan
+Mesjid Medan
+Mesjid Medan Medan
 Metro
 Mewek
-Mexico City
 Miami
 Michigan
 Michoacán
 Mico
 Midar
 Midway
-Mikronesia
 Mila
-Milan
 Milir
 Mindi
 Minggir
 Mini
-Minneapolis
 Minter
 Mir
 Mira
@@ -2319,28 +2424,34 @@ Mirat
 Mire
 Misiones
 Missouri
-Mlati Kidul  Kudus
-Mlati Lor  Kudus
-Mlati Norowito  Kudus
+Mlati Kidul Kudus
+Mlati Lor Kudus
+Mlati Norowito Kudus
 Moat
-Moengko Baru Poso  Poso
-Moengko Lama Poso  Poso
+Moengko Baru Poso
+Moengko Baru Poso Poso
+Moengko Lama Poso
+Moengko Lama Poso Poso
 Moga
 Moho
 Mojo
-Mokel  Komba Manggarai Timur
+Mokel Komba
+Mokel Komba Manggarai Timur
 Moldova Nou?
-Molosifat  Barat Gorontalo
-Molosipat U  Utara Gorontalo
+Molosifat Barat
+Molosifat Barat Gorontalo
+Molosipat U Utara
+Molosipat U Utara Gorontalo
 Mome
 Momo
-Monako
+Mon
 Monggo
 Monggol
-Mongolia
+Mono
 Monterey
 Monzón
-Moodu  Timur Gorontalo
+Moodu Timur
+Moodu Timur Gorontalo
 Mora
 Morcote
 Morella
@@ -2348,24 +2459,24 @@ Moro
 Morona-Santiago
 Morong
 Morvin
-Moscow
 Mosfellsbær
-Moskow
 Motto
 Moyang
 Moyo
-Mozambik
 Muai
 Muang
 Muara
-Muara Sanding Garut  Garut
+Muara Sanding Garut
+Muara Sanding Garut Garut
 Muda
 Muhajirin
-Muhuran  Bangun Kutai Kartanegara
+Muhuran Bangun
+Muhuran Bangun Kutai Kartanegara
 Mujahidin
 Mujur
 Muka
 Mukdahan
+Mukomuko Mukomuko
 Mulur
 Muna
 Muncang
@@ -2379,7 +2490,6 @@ Munggur
 Mungka Lima Puluh
 Mungkin
 Mungkur
-Munich
 Munjung
 Mura
 Murni
@@ -2391,9 +2501,9 @@ Mustika
 Musyawarah
 Musée d'Art Moderne de la Ville de Paris
 Mutiara
-Mutiara  Kisaran Timur Asahan
+Mutiara Kisaran Timur
+Mutiara Kisaran Timur Asahan
 My?jin-sh?
-Myanmar
 Málaga
 Mérida
 Mérida Meksiko
@@ -2411,22 +2521,18 @@ Nain
 Nakhon Phanom
 Nakhon Si Thammarat
 Nam ??nh
-Namibia
 Nampan
 Namun
 Nangka
 Naning
 Napal
-Naples
 Napo
 Nasal
 Nassau
 Natal
 Natar
 Nau
-Nauru
 Nayarit
-Ndjamena
 Neath
 Nectar
 Needham
@@ -2435,25 +2541,20 @@ Negara
 Negre?ti
 Negre?ti-Oa?
 Nelayan
-Nepal
 Neuquén
 Nevada
 Newton
 Ngablak
 Ngalau
-Nganguk  Kudus
-Niamey
+Nganguk Kudus
 Nias
 Nibong
 Nibung
-Niger
-Nikaragua
 Nipa
 Niur
 Nong Bua Lamphu
 Nong Khai
 Normal
-Norwegia
 Norður-Múlasýsla
 Norður-Ísafjarðarsýsla
 Norður-Þingeyjarsýsla
@@ -2461,7 +2562,6 @@ Norðurland eystra
 Norðurland vestra
 Norðurþing
 Nosu
-Nukualofa
 Numbing
 Nusa
 Nyalang
@@ -2474,13 +2574,13 @@ O?elu Ro?u
 Oaxaca de Juárez
 Obi
 Ocna Mure?
-Oeba  Lama Kupang
+Oeba Lama
+Oeba Lama Kupang
 Ohio
 Oklahoma
 Olak
 Olteni?a
 Oma
-Oman
 Onto
 Onycha
 Or??tie
@@ -2488,75 +2588,93 @@ Oravi?a
 Orellana
 Oreng
 Orlando
-Osenia
 Ottawa
-Ouagadoudou
+Ouémé
 Oxford
 Oyak
 Ozark
-PASn
 PGE Arena Gda?sk
 Pa?cani
 Paal
-Paal Lima  Baru Jambi
-Paan Leleng  Komba Manggarai Timur
+Paal Lima Baru
+Paal Lima Baru Jambi
+Paan Leleng Komba
+Paan Leleng Komba Manggarai Timur
 Pabean
-Paberasan  Sumenep Sumenep
-Pabian  Sumenep Sumenep
+Paberasan Sumenep
+Paberasan Sumenep Sumenep
+Pabian Sumenep
+Pabian Sumenep Sumenep
 Pacar
 Pace
 Pacet
 Pacul
 Pada
-Pada Eweta  Waikabubak Sumba Barat
+Pada Eweta Waikabubak
+Pada Eweta Waikabubak Sumba Barat
 Padan
 Padang
-Padang Berangin  Manna Bengkulu Selatan
-Padang Kapuk  Manna Bengkulu Selatan
-Padang Niur  Manna Bengkulu Selatan
-Padang Tumbuo Ampana  Tojo Una-Una
+Padang Berangin Manna
+Padang Berangin Manna Bengkulu Selatan
+Padang Kapuk Manna
+Padang Kapuk Manna Bengkulu Selatan
+Padang Niur Manna
+Padang Niur Manna Bengkulu Selatan
+Padang Tumbuo Ampana
+Padang Tumbuo Ampana Tojo Una-Una
 Padas
 Padasan
-Padebuolo  Timur Gorontalo
+Padebuolo Timur
+Padebuolo Timur Gorontalo
 Padi
 Paga
 Pagar
-Pagar  Bayung Lencir Musi Banyuasin
-Pagar Dewa  Manna Bengkulu Selatan
-Pagaran Tonga Panyabungan  Mandailing Natal
+Pagar Bayung Lencir
+Pagar Bayung Lencir Musi Banyuasin
+Pagar Dewa Manna
+Pagar Dewa Manna Bengkulu Selatan
+Pagaran Tonga Panyabungan
+Pagaran Tonga Panyabungan Mandailing Natal
 Pagelaran
 Pager
 Pagon
 Pagu
-Paguyaman  Tengah Gorontalo
+Paguyaman Tengah
+Paguyaman Tengah Gorontalo
 Pahang
 Pahlawan
 Pai
-Pajagalan  Sumenep Sumenep
+Pajagalan Sumenep
+Pajagalan Sumenep Sumenep
 Pajang
 Pakal
 Pakem
 Paking
 Pakis
 Paku
+Paku Galang
 Paku Galang Deli Serdang
 Pakuncen
-Pakuwon Garut  Garut
+Pakuwon Garut
+Pakuwon Garut Garut
 Palam
 Palama
 Palang
-Palangan  Besi waringin Timur
+Palangan Besi
+Palangan Besi waringin Timur
 Palar
 Palas
-Palau
 Pallette
 Palolo
 Palu
 Paluh
 Pamah
-Pamalian  Besi waringin Timur
-Paminggir Garut  Garut
-Pamolokan  Sumenep Sumenep
+Pamalian Besi
+Pamalian Besi waringin Timur
+Paminggir Garut
+Paminggir Garut Garut
+Pamolokan Sumenep
+Pamolokan Sumenep Sumenep
 Pampang
 Pampanga
 Pampangan
@@ -2568,19 +2686,23 @@ Panca
 Pancang
 Pancasila
 Pancur
-Pancuran Gerobak Sibolga  Sibolga
+Pancuran Gerobak Sibolga
+Pancuran Gerobak Sibolga Sibolga
 Panda
 Pandai
 Pandak
 Pandan
 Pandang
-Pandau Hulu I Medan  Medan
+Pandau Hulu I Medan
+Pandau Hulu I Medan Medan
 Pandean
-Pandian  Sumenep Sumenep
+Pandian Sumenep
+Pandian Sumenep Sumenep
 Pandu
 Pane
 Panembahan
-Pangarangan  Sumenep Sumenep
+Pangarangan Sumenep
+Pangarangan Sumenep Sumenep
 Pangasinan
 Pangeran
 Panggang
@@ -2589,7 +2711,8 @@ Panggul
 Panggung
 Pangi
 Pangkah
-Pangkalan Kerinci  Pangkalan Kerinci Pelalawan
+Pangkalan Kerinci Pangkalan Kerinci
+Pangkalan Kerinci Pangkalan Kerinci Pelalawan
 Pangkalan Koto Baru Lima Puluh
 Pangkat
 Pangkur
@@ -2599,7 +2722,7 @@ Panjang
 Panjer
 Panji
 Panjunan
-Panjunan  Kudus
+Panjunan Kudus
 Panorama
 Pantai
 Pantar
@@ -2607,57 +2730,76 @@ Pantelimon Constan?a
 Panti
 Pantik
 Panu’ut
+Panu’ut Murung
 Panu’ut Murung Murung Raya
-Panyabungan  Mandailing Natal
-Panyabungan I Panyabungan  Mandailing Natal
-Panyabungan II Panyabungan  Mandailing Natal
-Panyabungan III Panyabungan  Mandailing Natal
-Panyabungan Jae Panyabungan  Mandailing Natal
-Panyabungan Julu Panyabungan  Mandailing Natal
-Panyabungan Tonga Panyabungan  Mandailing Natal
+Panyabungan I Panyabungan
+Panyabungan I Panyabungan Mandailing Natal
+Panyabungan II Panyabungan
+Panyabungan II Panyabungan Mandailing Natal
+Panyabungan III Panyabungan
+Panyabungan III Panyabungan Mandailing Natal
+Panyabungan Jae Panyabungan
+Panyabungan Jae Panyabungan Mandailing Natal
+Panyabungan Julu Panyabungan
+Panyabungan Julu Panyabungan Mandailing Natal
+Panyabungan Mandailing Natal
+Panyabungan Tonga Panyabungan
+Panyabungan Tonga Panyabungan Mandailing Natal
 Pao-Pao
 Papar
 Para
 Paradise
 Parado
-Paraguay
 Parak
 Paran
 Parang
 Paras
-Parbangunan Panyabungan  Mandailing Natal
+Parbangunan Panyabungan
+Parbangunan Panyabungan Mandailing Natal
 Pare
 Paren
 Parewa
 Pari
 Paria
-Paringin  Paringin Balangan
+Paringin Paringin
+Paringin Paringin Balangan
 Paris
 Parit
 Paron
-Parsanga  Sumenep Sumenep
+Parsanga Sumenep
+Parsanga Sumenep Sumenep
 Pasan
 Pasang
 Pasanggrahan
 Pasar
-Pasar  Krui
-Pasar  Krui Pesisir Tengah Pesisir Barat
-Pasar  Rengat Indragiri Hulu
-Pasar Baru  Manna Bengkulu Selatan
-Pasar Baru Medan  Medan
-Pasar Baru Sibolga  Sibolga
-Pasar Baru Tebing Tinggi  Tebing Tinggi
-Pasar Belakang Sibolga  Sibolga
-Pasar Gambir Tebing Tinggi  Tebing Tinggi
-Pasar Hilir Panyabungan  Mandailing Natal
-Pasar Madang  Agung Pusat Tanggamus
-Pasar Merah Barat Medan  Medan
-Pasar Pagi Samarinda  Samarinda
+Pasar Baru Manna
+Pasar Baru Manna Bengkulu Selatan
+Pasar Baru Medan
+Pasar Baru Medan Medan
+Pasar Baru Sibolga
+Pasar Baru Sibolga Sibolga
+Pasar Baru Tebing Tinggi
+Pasar Baru Tebing Tinggi Tebing Tinggi
+Pasar Belakang Sibolga
+Pasar Belakang Sibolga Sibolga
+Pasar Gambir Tebing Tinggi
+Pasar Gambir Tebing Tinggi Tebing Tinggi
+Pasar Hilir Panyabungan
+Pasar Hilir Panyabungan Mandailing Natal
+Pasar Madang Agung Pusat
+Pasar Madang Agung Pusat Tanggamus
+Pasar Merah Barat Medan
+Pasar Merah Barat Medan Medan
+Pasar Pagi Samarinda
+Pasar Pagi Samarinda Samarinda
+Pasar Rengat
+Pasar Rengat Indragiri Hulu
 Paseban
 Paser
 Pasi
 Pasir
-Pasir Tuntung  Pinang Labuhanbatu Selatan
+Pasir Tuntung Pinang
+Pasir Tuntung Pinang Labuhanbatu Selatan
 Passo
 Pastaza
 Pasteur
@@ -2687,13 +2829,15 @@ Pedang
 Pedes
 Pegunungan Selatan
 Pekaja
-Pekan Binjai Binjai  Binjai
-Pekanbaru  Pekanbaru
+Pekan Binjai Binjai
+Pekan Binjai Binjai Binjai
+Pekanbaru Pekanbaru
 Pekat
 Pekojan
-Pela  Bangun Kutai Kartanegara
-Pelabuhan Samarinda  Samarinda
-Pelabuhan Vila
+Pela Bangun
+Pela Bangun Kutai Kartanegara
+Pelabuhan Samarinda
+Pelabuhan Samarinda Samarinda
 Pelaga
 Pelanduk
 Pelang
@@ -2701,9 +2845,11 @@ Pelas
 Pelat
 Pelawa
 Pelita
-Pelita Kanaan Malinau  Malinau
+Pelita Kanaan Malinau
+Pelita Kanaan Malinau Malinau
 Pemali
-Pemangkat  Pemangkat Sambas
+Pemangkat Pemangkat
+Pemangkat Pemangkat Sambas
 Pematang
 Pemuda
 Penaga
@@ -2715,13 +2861,14 @@ Penjalin
 Penjor
 Penjuru
 Pennsylvania
-Penyengat Tanjung Pinang  Tanjung Pinang
+Penyengat Tanjung Pinang
+Penyengat Tanjung Pinang Tanjung Pinang
 Pepas
 Pepe
 Perak
-Perancis
 Perangai
-Perdamaian  Kuala Simpang Aceh Tamiang
+Perdamaian Kuala Simpang
+Perdamaian Kuala Simpang Aceh Tamiang
 Perdana
 Perean
 Perepat
@@ -2731,9 +2878,12 @@ Perigi
 Perincit
 Pering
 Periuk
-Perkebunan Nagodang  Pinang Labuhanbatu Selatan
-Perkebunan Normark  Pinang Labuhanbatu Selatan
-Perkebunan Sei Rumbia  Pinang Labuhanbatu Selatan
+Perkebunan Nagodang Pinang
+Perkebunan Nagodang Pinang Labuhanbatu Selatan
+Perkebunan Normark Pinang
+Perkebunan Normark Pinang Labuhanbatu Selatan
+Perkebunan Sei Rumbia Pinang
+Perkebunan Sei Rumbia Pinang Labuhanbatu Selatan
 Permata
 Peron
 Peru
@@ -2762,16 +2912,20 @@ Pia
 Pianggu
 Pichincha
 Picung
-Pidoli Dolok 2 Panyabungan  Mandailing Natal
-Pidoli Dolok Panyabungan  Mandailing Natal
-Pidoli Lombang Panyabungan  Mandailing Natal
+Pidoli Dolok 2 Panyabungan
+Pidoli Dolok 2 Panyabungan Mandailing Natal
+Pidoli Dolok Panyabungan
+Pidoli Dolok Panyabungan Mandailing Natal
+Pidoli Lombang Panyabungan
+Pidoli Lombang Panyabungan Mandailing Natal
 Piedmont
 Pikat
 Pilang
-Pilolodaa  Barat Gorontalo
+Pilolodaa Barat
+Pilolodaa Barat Gorontalo
 Pimping
 Pinang
-Pinang  Pinang Labuhanbatu Selatan
+Pinang Pinang Labuhanbatu Selatan
 Pinding
 Pinggan
 Pinggang
@@ -2783,11 +2937,12 @@ Pisan
 Pisang
 Pitak
 Piton
-Pittsburgh
+Plateau
 Plymouth
 Pobè
 Pocong
-Pohe  Selatan Gorontalo
+Pohe Selatan
+Pohe Selatan Gorontalo
 Pojok
 Pola
 Polan
@@ -2801,35 +2956,32 @@ Poma
 Pondoh
 Pondok
 Pone
-Pong Ruan  Komba Manggarai Timur
+Pong Ruan Komba
+Pong Ruan Komba Manggarai Timur
 Ponggang
 Ponggok
 Pongo
 Pontianak
-Pontianak  Pontianak
+Pontianak Pontianak
 Ponto
 Popayán
 Pope?ti-Leordeni
 Popocatépetl
 Poring
 Porong
-Port of Span
-Port-au-Prince
-Portland
 Porto
-Porto Alegre
-Portugal
 Poso
-Poso  Poso
-Poso  Selatan
-Poso  Selatan Poso
-Poso  Utara
-Poso  Utara Poso
+Poso Poso
+Poso Selatan
+Poso Selatan Poso
+Poso Utara
+Poso Utara Poso
 Powiat P?ock
 Požega-Slavonia
 Prabu
 Prachuap Khiri Khan
-Prailiu  Waingapu Sumba Timur
+Prailiu Waingapu
+Prailiu Waingapu Sumba Timur
 Praja
 Prapatan
 Prasi
@@ -2862,11 +3014,15 @@ Pukat
 Pukul
 Pulau
 Pule
-Pulo Ara Geudong Teungoh  Juang Bireuen
+Pulo Ara Geudong Teungoh Juang
+Pulo Ara Geudong Teungoh Juang Bireuen
 Pulo Brayan
-Pulo Brayan  Medan Barat Medan
-Pulo Kiton  Juang Bireuen
-Pulubala  Tengah Gorontalo
+Pulo Brayan Medan Barat
+Pulo Brayan Medan Barat Medan
+Pulo Kiton Juang
+Pulo Kiton Juang Bireuen
+Pulubala Tengah
+Pulubala Tengah Gorontalo
 Pulung
 Puncak
 Punggur
@@ -2885,8 +3041,9 @@ Puring
 Purnama
 Purus
 Purut
-Purwosari  Kudus
-Pusat Pasar Medan  Medan
+Purwosari Kudus
+Pusat Pasar Medan
+Pusat Pasar Medan Medan
 Puser
 Pusu
 Putat
@@ -2894,13 +3051,13 @@ Putih
 Puy-de-Dôme
 Pyrénées-Atlantiques
 Pâncota
+Qala i Naw Badghis
 Qaraghandy
-Qatar
 Querétaro
 Qyzylorda
 R?d?u?i
 R?zekne
-RSUD  Sumedang
+RSUD Sumedang
 Raba
 Rabak
 Rabat
@@ -2918,14 +3075,18 @@ Rambai
 Rambang
 Rambat
 Rambung
-Rambung Tebing Tinggi  Tebing Tinggi
+Rambung Tebing Tinggi
+Rambung Tebing Tinggi Tebing Tinggi
 Rambutan
 Rampa
-Rana Kolong  Komba Manggarai Timur
-Rana Mbeling  Komba Manggarai Timur
+Rana Kolong Komba
+Rana Kolong Komba Manggarai Timur
+Rana Mbeling Komba
+Rana Mbeling Komba Manggarai Timur
 Ranah
 Ranai
-Ranai  Bunguran Timur Natuna
+Ranai Bunguran Timur
+Ranai Bunguran Timur Natuna
 Rancah
 Randau
 Random
@@ -2938,12 +3099,14 @@ Rangkang
 Rangsang
 Rangárvallasýsla
 Ranong
-Ranononcu Poso  Selatan Poso
+Ranononcu Poso Selatan
+Ranononcu Poso Selatan Poso
 Rantang
 Rantau
 Rasan
 Rasau
-Rasau Tumbuh  Besi waringin Timur
+Rasau Tumbuh Besi
+Rasau Tumbuh Besi waringin Timur
 Rasi
 Rata
 Ratas
@@ -2952,17 +3115,18 @@ Ratu
 Rau
 Rawa
 Rawang
-Rawasari  Baru Jambi
+Rawasari Baru
+Rawasari Baru Jambi
 Rawi
 Raya
 Re?i?a
-Real Madrid C.F.  Stadion Santiago Bernabéu  1
+Real Madrid C.F. Stadion Santiago Bernabéu 1
 Reban
 Reca?
-Recife
 Redang
 Regol
-Regol Garut  Garut
+Regol Garut
+Regol Garut Garut
 Rejasa
 Rejeki
 Rembang
@@ -2971,27 +3135,24 @@ Rempak
 Renda
 Rendang
 Rendeng
-Rendeng  Kudus
+Rendeng Kudus
 Rengas
 Rengat
 Rengkam
 Renteng
-Republik Demokratik Kongo
-Republik Dominika
-Republik Kongo
 República
 Resun
 Rewak
 Reykjanesbær
 Reykjavík
-Reykyavik
 Ria
 Riam
 Rian
 Ribang
 Ribeirão Pires
 Richmond
-Rimba Sekampung Dumai  Dumai
+Rimba Sekampung Dumai
+Rimba Sekampung Dumai Dumai
 Rimbun
 Rinding
 Ringgit
@@ -3009,18 +3170,18 @@ Roi Et
 Roka
 Roma
 Roman
-Rome
 Rompi
 Rompu
 Rongga
-Rongga Koe  Komba Manggarai Timur
+Rongga Koe Komba
+Rongga Koe Komba Manggarai Timur
 Ronta
 Rosa
-Roseau
 Roto
 Rua
 Ruan
-Ruan  Komba Manggarai Timur
+Ruan Komba
+Ruan Komba Manggarai Timur
 Ruji
 Rukam
 Rum
@@ -3041,11 +3202,13 @@ S?cueni
 S?ubice
 Sa Kaeo
 Saba
-Saba Jambu Panyabungan  Mandailing Natal
+Saba Jambu Panyabungan
+Saba Jambu Panyabungan Mandailing Natal
 Sabah
 Saban
 Sabang
-Sabulira Toba Ampana  Tojo Una-Una
+Sabulira Toba Ampana
+Sabulira Toba Ampana Tojo Una-Una
 Sacramento
 Sadah
 Sadai
@@ -3053,15 +3216,13 @@ Sadu
 Saga
 Sago
 Sagu
-Sagulung  Sagulung Batam
+Sagulung Sagulung
+Sagulung Sagulung Batam
 Sahan
 Sahang
 Sai
 Sail
 Saing
-Saint Kitts and Nevis
-Saint Lucia
-Saint Vincent and the Grenadines
 Saint-Charles-Borromée
 Saint-Charles-Borromée Quebec
 Sais
@@ -3072,7 +3233,8 @@ Sakon Nakhon
 Sakti
 Salak
 Salam
-Salambue Panyabungan  Mandailing Natal
+Salambue Panyabungan
+Salambue Panyabungan Mandailing Natal
 Salang
 Salap
 Sale
@@ -3082,7 +3244,7 @@ Salto
 Salur
 Salut
 Samar
-Samarinda  Samarinda
+Samarinda Samarinda
 Sambangan
 Sambau
 Sambet
@@ -3090,7 +3252,6 @@ Sambi
 Sambit
 Sambung
 Samir
-Samoa
 Sampak
 Sampang
 Sampean
@@ -3099,7 +3260,8 @@ Sampir
 Sampurna
 Samsam
 Samson
-Samuda  Mentaya Hilir Selatan waringin Timur
+Samuda Mentaya Hilir Selatan
+Samuda Mentaya Hilir Selatan waringin Timur
 Samudera
 Samudra
 San Juan
@@ -3107,15 +3269,12 @@ San Juan Argentina
 San Luis
 San Luis Potosí
 San Pablo
-San Salvador
-San Yose
-Sanaa
 Sanca
 Sandi
 Sanding
 Sanford
 Sanga
-Sanga  Musi Banyuasin
+Sanga Musi Banyuasin
 Sangau
 Sanggang
 Sanggar
@@ -3123,7 +3282,8 @@ Sangir
 Sangkala
 Sangku
 Sanjai
-Sansarino Ampana  Tojo Una-Una
+Sansarino Ampana
+Sansarino Ampana Tojo Una-Una
 Santa Elena
 Santa Lucía
 Santa Maria la Carità
@@ -3131,31 +3291,32 @@ Santiago
 Santiago Bernabéu
 Santiago del Estero
 Santing
-Santo Domingo
 Santo Domingo de los Tsáchilas
 Santos
 Sanya
-Sao Tome
-Sao Tome and Principe
 Sapa
 Sapat
 Sapit
 Saptamarga
-Sarak Matua Panyabungan  Mandailing Natal
+Sarak Matua Panyabungan
+Sarak Matua Panyabungan Mandailing Natal
 Sarandë
 Sarang
 Sarangan
 Saren
 Sari
-Sarinadi  Bangun Kutai Kartanegara
+Sarinadi Bangun
+Sarinadi Bangun Kutai Kartanegara
 Sasa
 Sasak
 Sasi
-Sasi  Kefamenanu Timor Tengah Utara
+Sasi Kefamenanu
+Sasi Kefamenanu Timor Tengah Utara
 Saskatoon
 Satak
 Satria
-Satria Binjai  Binjai
+Satria Binjai
+Satria Binjai Binjai
 Sauk
 Sawah
 Sawai
@@ -3166,14 +3327,16 @@ Sawangan
 Sawit
 Sawo
 Sayang
-Sayo Poso  Selatan Poso
+Sayo Poso Selatan
+Sayo Poso Selatan Poso
 Sayung
 Schiedam
 Scornice?ti
 Sea
-Sebelimbingan  Bangun Kutai Kartanegara
+Sebelimbingan Bangun
+Sebelimbingan Bangun Kutai Kartanegara
 Seberang
-Seberang  Tanjung Jabung Barat
+Seberang Tanjung Jabung Barat
 Sebet
 Sebi?
 Secang
@@ -3183,10 +3346,13 @@ Sedang
 Sedari
 Sedeng
 Sedong
-Sedulang  Bangun Kutai Kartanegara
+Sedulang Bangun
+Sedulang Bangun Kutai Kartanegara
 Segah
-Sei Rengas I Medan  Medan
-Sei Renggas  Kisaran Barat Asahan
+Sei Rengas I Medan
+Sei Rengas I Medan Medan
+Sei Renggas Kisaran Barat
+Sei Renggas Kisaran Barat Asahan
 Sejahtera
 Sejati
 Sejoli
@@ -3201,15 +3367,18 @@ Selamat
 Selang
 Selat
 Selat Panjang
-Selat Panjang  Tebing Tinggi Kepulauan Meranti
+Selat Panjang Tebing Tinggi
+Selat Panjang Tebing Tinggi Kepulauan Meranti
 Selatan
 Selatan Sierra Leone
-Selawan  Kisaran Timur Asahan
+Selawan Kisaran Timur
+Selawan Kisaran Timur Asahan
 Selesai
 Seling
 Selo
 Selong
-Selong  Selong Lombok Timur
+Selong Selong
+Selong Selong Lombok Timur
 Semambu
 Semanak
 Semangat
@@ -3231,14 +3400,16 @@ Sempur
 Semut
 Sena
 Sendang
-Sendang Sari  Kisaran Barat Asahan
+Sendang Sari Kisaran Barat
+Sendang Sari Kisaran Barat Asahan
 Senduk
-Senegal
 Senen
-Senggarang Tanjung Pinang  Tanjung Pinang
+Senggarang Tanjung Pinang
+Senggarang Tanjung Pinang Tanjung Pinang
 Sengkuang
 Sengon
-Sentang  Kisaran Timur Asahan
+Sentang Kisaran Timur
+Sentang Kisaran Timur Asahan
 Senting
 Sentosa
 Sentul
@@ -3252,7 +3423,6 @@ Serai
 Serang
 Serasi
 Serbaguna
-Serbia
 Serdang
 Sereh
 Sering
@@ -3262,13 +3432,13 @@ Serut
 Sesap
 Setabelan
 Setia
-Setia Binjai  Binjai
+Setia Binjai
+Setia Binjai Binjai
 Setren
 Setu
 Sevastopol
 Sewaka
 Sewu
-Shanghai
 Sheffield
 Shibar
 Shiloh
@@ -3277,17 +3447,23 @@ Siaga
 Siak
 Sialang
 Siantan
-Siantar Panyabungan  Mandailing Natal
+Siantar Panyabungan
+Siantar Panyabungan Mandailing Natal
 Sibak
-Sibolga  Sibolga
+Sibolga Sibolga
 Sidamukti
-Sidikalang  Sidikalang Dairi
+Sidikalang Sidikalang
+Sidikalang Sidikalang Dairi
 Siding
-Sidodadi  Kisaran Barat Asahan
-Sidomukti  Kisaran Barat Asahan
+Sidodadi Kisaran Barat
+Sidodadi Kisaran Barat Asahan
+Sidomukti Kisaran Barat
+Sidomukti Kisaran Barat Asahan
 Sie
-Siendeng  Selatan Gorontalo
-Sigalapang Julu Panyabungan  Mandailing Natal
+Siendeng Selatan
+Siendeng Selatan Gorontalo
+Sigalapang Julu Panyabungan
+Sigalapang Julu Panyabungan Mandailing Natal
 Sigando
 Sighetu Marma?iei
 Sigi
@@ -3299,15 +3475,20 @@ Silo
 Siluman
 Silungkang
 Sima
-Simatahari  Pinang Labuhanbatu Selatan
+Simatahari Pinang
+Simatahari Pinang Labuhanbatu Selatan
 Simbang
 Simpang
-Simpang  Medan
-Simpang  Medan Kelayang Indragiri Hulu
-Simpang Empat Pekanbaru  Pekanbaru
-Simpang Tiga Sipin  Baru Jambi
+Simpang Empat Pekanbaru
+Simpang Empat Pekanbaru Pekanbaru
+Simpang Medan
+Simpang Medan Kelayang
+Simpang Medan Kelayang Indragiri Hulu
+Simpang Tiga Sipin Baru
+Simpang Tiga Sipin Baru Jambi
 Simpur
-Simpur  Besi waringin Timur
+Simpur Besi
+Simpur Besi waringin Timur
 Sinaloa
 Sindon
 Sine
@@ -3317,18 +3498,22 @@ Singkawang
 Singkil
 Singkir
 Singkup
-Singocandi  Kudus
+Singocandi Kudus
 Sini
 Sinoman
 Sintuk
 Sintung
-Siobin Jae Panyabungan  Mandailing Natal
-Siobon Panyabungan  Mandailing Natal
+Siobin Jae Panyabungan
+Siobin Jae Panyabungan Mandailing Natal
+Siobon Panyabungan
+Siobon Panyabungan Mandailing Natal
 Sion
 Siong
-Sipapaga Panyabungan  Mandailing Natal
+Sipapaga Panyabungan
+Sipapaga Panyabungan Mandailing Natal
 Sipi
-Sipolu Polu Panyabungan  Mandailing Natal
+Sipolu Polu Panyabungan
+Sipolu Polu Panyabungan Mandailing Natal
 Sirap
 Sire
 Sirih
@@ -3336,22 +3521,25 @@ Siring
 Sisaket
 Sisir
 Sistan dan Baluchestan
-Sisumut  Pinang Labuhanbatu Selatan
-Sitirejo I Medan  Medan
+Sisumut Pinang
+Sisumut Pinang Labuhanbatu Selatan
+Sitirejo I Medan
+Sitirejo I Medan Medan
 Situ
 Situjuh Lima Nagari Lima Puluh
-Siumbut Baru  Kisaran Timur Asahan
-Siumbut-umbut  Kisaran Timur Asahan
+Siumbut Baru Kisaran Timur
+Siumbut Baru Kisaran Timur Asahan
+Siumbut-umbut Kisaran Timur
+Siumbut-umbut Kisaran Timur Asahan
 Siwalan
 Skagafjarðarsýsla
 Skagafjörður
 Slendro
-Slovenia
-Slowakia
 Snead
 Snæfellsnes- og Hnappadalssýsla
 Soba
-Soba Rade  Waikabubak Sumba Barat
+Soba Rade Waikabubak
+Soba Rade Waikabubak Sumba Barat
 Soban
 Soco
 Soe
@@ -3365,33 +3553,30 @@ Solan
 Solo
 Solok
 Solokan
-Solomon
 Sonder
 Songkhla
 Sono
-Sopo Batu Panyabungan  Mandailing Natal
+Sopo Batu Panyabungan
+Sopo Batu Panyabungan Mandailing Natal
 Sorong
 Sosial
 Soso
-Sosopan  Pinang Labuhanbatu Selatan
+Sosopan Pinang
+Sosopan Pinang Labuhanbatu Selatan
 Sotol
 Soya
 Srigading
-Sriwijaya  Kuala Simpang Aceh Tamiang
-St Louis
-St Petersburg
-St. Georgeâ€™s
-St. Johnâ€™s
+Sriwijaya Kuala Simpang
+Sriwijaya Kuala Simpang Aceh Tamiang
 Stade de Genève
 Stadion
-Stadion  Batik
-Stadion  Toulouse
 Stadion ?ita
 Stadion ?ükrü Saraço?lu
 Stadion Alfredo Di Stéfano
 Stadion Artemio Franchi – Montepaschi Arena
 Stadion BJK ?nönü
 Stadion Balaídos
+Stadion Batik
 Stadion Benito Villamarín
 Stadion Chamartín
 Stadion Ciutat de València
@@ -3412,7 +3597,7 @@ Stadion Olimpiade Lluís Companys
 Stadion Olimpiade München
 Stadion Presiden Juan Domingo Perón
 Stadion Puskás Ferenc
-Stadion Rakyat  Guangdong
+Stadion Rakyat Guangdong
 Stadion Ramón Sánchez Pizjuán
 Stadion Ricardo Saprissa Aymá
 Stadion San Mamés
@@ -3420,6 +3605,7 @@ Stadion Santiago Bernabéu
 Stadion Sarriá
 Stadion Th?ng Nh?t
 Stadion Thiên Tr??ng
+Stadion Toulouse
 Stadion Utama Lille Métropole
 Stadion Vicente Calderón
 Stadion Vélodrome
@@ -3440,19 +3626,28 @@ Sucre
 Sucumbíos
 Sudan
 Sudi
-Sudirejo I Medan  Medan
-Sudirejo II Medan  Medan
+Sudirejo I Medan
+Sudirejo I Medan Medan
+Sudirejo II Medan
+Sudirejo II Medan Medan
 Sudu
 Suit
 Suka
-Sukabumi  Bangun Kutai Kartanegara
-Sukajadi Batam  Batam
-Sukajadi Dumai  Dumai
-Sukakarya  Baru Jambi
+Sukabumi Bangun
+Sukabumi Bangun Kutai Kartanegara
+Sukajadi Batam
+Sukajadi Batam Batam
+Sukajadi Dumai
+Sukajadi Dumai Dumai
+Sukakarya Baru
+Sukakarya Baru Jambi
 Sukamandi
-Sukamantri Garut  Garut
-Sukanegla Garut  Garut
-Sukaramai Pekanbaru  Pekanbaru
+Sukamantri Garut
+Sukamantri Garut Garut
+Sukanegla Garut
+Sukanegla Garut Garut
+Sukaramai Pekanbaru
+Sukaramai Pekanbaru Pekanbaru
 Sukun
 Sukur
 Sulang
@@ -3463,31 +3658,40 @@ Sulu
 Suluan
 Suluk
 Sulung
-Sumahilang Pekanbaru  Pekanbaru
+Sumahilang Pekanbaru
+Sumahilang Pekanbaru Pekanbaru
 Sumbang
 Sumber
-Sumber Sari  Bangun Kutai Kartanegara
+Sumber Sari Bangun
+Sumber Sari Bangun Kutai Kartanegara
 Sumbul
 Sumbung
 Sumilir
 Sumo
-Sumoli Ampana  Tojo Una-Una
+Sumoli Ampana
+Sumoli Ampana Tojo Una-Una
 Sumsum
 Sumur
 Sundul
 Sungai Ardèche
 Sungai Arge?
 Sungai Ariège
-Sungai Bangkong Pontianak  Pontianak
+Sungai Bangkong Pontianak
+Sungai Bangkong Pontianak Pontianak
 Sungai Biobío
 Sungai Dâmbovi?a
-Sungai Jawi Pontianak  Pontianak
-Sungai Liput  Kuala Simpang Aceh Tamiang
+Sungai Jawi Pontianak
+Sungai Jawi Pontianak Pontianak
+Sungai Liput Kuala Simpang
+Sungai Liput Kuala Simpang Aceh Tamiang
 Sungai Maullín
-Sungai Panas Batam  Batam
-Sungai Pinang Luar Samarinda  Samarinda
-Sungai Tabuk  Sungai Tabuk Banjar
-Sunggingan  Kudus
+Sungai Panas Batam
+Sungai Panas Batam Batam
+Sungai Pinang Luar Samarinda
+Sungai Pinang Luar Samarinda Samarinda
+Sungai Tabuk Sungai Tabuk
+Sungai Tabuk Sungai Tabuk Banjar
+Sunggingan Kudus
 Sungkai
 Sungkap
 Sungsum
@@ -3495,10 +3699,8 @@ Suphan Buri
 Surat
 Surat Thani
 Suren
-Suriah
 Surian
 Surin
-Suriname
 Surrey
 Suruh
 Susu
@@ -3511,13 +3713,9 @@ Suðurland
 Suðurnes
 Swadaya
 Swakarya
-Swaziland
-Swedia
 Swiss
-Sydney
 Szabolcs-Szatmár-Bereg
 Szigetvár
-SÃ£o Paulo
 Sângeorgiu de P?dure
 Sângeorz-B?i
 Sânnicolau Mare
@@ -3544,15 +3742,17 @@ Tajur
 Talang
 Taler
 Tales
-Tallinu
 Taluk
-Talumolo  Timur Gorontalo
+Talumolo Timur
+Talumolo Timur Gorontalo
 Talun
 Tamak
-Tamalate  Timur Gorontalo
+Tamalate Timur
+Tamalate Timur Gorontalo
 Tamale
 Taman
-Taman Baloi Batam  Batam
+Taman Baloi Batam
+Taman Baloi Batam Batam
 Tambak
 Tambakan
 Tamban
@@ -3562,12 +3762,13 @@ Tambi
 Tamboo
 Tambun
 Tambung
-Tampa/St Petersburg
 Tampan
 Tampang
 Tampung
-Tanah Datar Pekanbaru  Pekanbaru
-Tanah Rata  Komba Manggarai Timur
+Tanah Datar Pekanbaru
+Tanah Datar Pekanbaru Pekanbaru
+Tanah Rata Komba
+Tanah Rata Komba Manggarai Timur
 Tandang
 Tandu
 Tanduk
@@ -3582,33 +3783,44 @@ Tangki
 Tangkil
 Tangkis
 Tangsi
-Tangsi Binjai  Binjai
+Tangsi Binjai
+Tangsi Binjai Binjai
 Tangun
 Tanjong
 Tanjung
-Tanjung Batu  Kundur Karimun
+Tanjung Batu Kundur
+Tanjung Batu Kundur Karimun
 Tanjung Berlian
-Tanjung Berlian  Kundur Utara Karimun
-Tanjung Keramat  Selatan Gorontalo
-Tanjung Keranjang Malinau  Malinau
-Tanjung Pinang  Tanjung Pinang  Tanjung Pinang
-Tanjung Tiram  Tanjung Tiram Batu Bara
+Tanjung Berlian Kundur Utara
+Tanjung Berlian Kundur Utara Karimun
+Tanjung Keramat Selatan
+Tanjung Keramat Selatan Gorontalo
+Tanjung Keranjang Malinau
+Tanjung Keranjang Malinau Malinau
+Tanjung Pinang Tanjung Pinang
+Tanjung Pinang Tanjung Pinang Tanjung Pinang
+Tanjung Tiram Tanjung Tiram
+Tanjung Tiram Tanjung Tiram Batu Bara
 Tanjung Uban
-Tanjung Uban  Bintan Utara Bintan
-Tanjung Verde
-Tanjungbalai  I
-Tanjungbalai  I Tanjungbalai Selatan Tanjungbalai
-Tanjungbalai  II
-Tanjungbalai  II Tanjungbalai Selatan Tanjungbalai
-Tanjungbalai  III
-Tanjungbalai  III Tanjungbalai Utara Tanjungbalai
-Tanjungbalai  IV
-Tanjungbalai  IV Tanjungbalai Utara Tanjungbalai
-Tanjungpinang  Tanjungpinang
-Tanzania
+Tanjung Uban Bintan Utara
+Tanjung Uban Bintan Utara Bintan
+Tanjungbalai I
+Tanjungbalai I Tanjungbalai Selatan
+Tanjungbalai I Tanjungbalai Selatan Tanjungbalai
+Tanjungbalai II
+Tanjungbalai II Tanjungbalai Selatan
+Tanjungbalai II Tanjungbalai Selatan Tanjungbalai
+Tanjungbalai III
+Tanjungbalai III Tanjungbalai Utara
+Tanjungbalai III Tanjungbalai Utara Tanjungbalai
+Tanjungbalai IV
+Tanjungbalai IV Tanjungbalai Utara
+Tanjungbalai IV Tanjungbalai Utara Tanjungbalai
+Tanjungpinang Tanjungpinang
 Taos
 Tapa
-Tapa  Utara Gorontalo
+Tapa Utara
+Tapa Utara Gorontalo
 Tapak
 Tapen
 Tapin
@@ -3635,29 +3847,35 @@ Tawang
 Tawar
 Taylor
 Tebang
-Tebara  Waikabubak Sumba Barat
+Tebara Waikabubak
+Tebara Waikabubak Sumba Barat
 Tebas
-Tebat Kubu  Manna Bengkulu Selatan
+Tebat Kubu Manna
+Tebat Kubu Manna Bengkulu Selatan
 Tebet
 Tebing
-Tebing Kisaran  Kisaran Barat Asahan
-Tebing Tinggi  Tebing Tinggi
-Tebing Tinggi Lama Tebing Tinggi  Tebing Tinggi
+Tebing Kisaran Kisaran Barat
+Tebing Kisaran Kisaran Barat Asahan
+Tebing Tinggi Lama Tebing Tinggi
+Tebing Tinggi Lama Tebing Tinggi Tebing Tinggi
 Tebon
 Tebuk
 Tegak
 Tegal
-Tegal Rejo Poso  Utara Poso
-Tegal Sari  Kisaran Barat Asahan
-Tegucigalpa
+Tegal Rejo Poso Utara
+Tegal Rejo Poso Utara Poso
+Tegal Sari Kisaran Barat
+Tegal Sari Kisaran Barat Asahan
 Teheran
-Tehran
 Teja
 Tekung
 Teladan
-Teladan  Kisaran Timur Asahan
-Teladan Barat Medan  Medan
-Teladan Timur Medan  Medan
+Teladan Barat Medan
+Teladan Barat Medan Medan
+Teladan Kisaran Timur
+Teladan Kisaran Timur Asahan
+Teladan Timur Medan
+Teladan Timur Medan Medan
 Teladas
 Telaga
 Telak
@@ -3666,12 +3884,15 @@ Telap
 Telempong
 Teleng
 Teluk
-Teluk Pulai Raya Seberang  Tanjung Jabung Barat
-Teluk Tering Batam  Batam
+Teluk Pulai Raya Seberang
+Teluk Pulai Raya Seberang Tanjung Jabung Barat
+Teluk Tering Batam
+Teluk Tering Batam Batam
 Temalang
 Temas
 Tembelang
-Tembilahan  Tembilahan Indragiri Hilir
+Tembilahan Tembilahan
+Tembilahan Tembilahan Indragiri Hilir
 Tembok
 Tembong
 Tembuku
@@ -3687,17 +3908,20 @@ Temu
 Temukus
 Tenam
 Tenda
-Tenda  Selatan Gorontalo
+Tenda Selatan
+Tenda Selatan Gorontalo
 Tendas
 Tengah
-Tengah Pontianak  Pontianak
+Tengah Pontianak
+Tengah Pontianak Pontianak
 Tenggak
 Tenggarang
 Tenggayun
 Tengger
 Tenggiling
 Tengguli
-Tenilo  Barat Gorontalo
+Tenilo Barat
+Tenilo Barat Gorontalo
 Tepal
 Tepas
 Tepos
@@ -3725,8 +3949,6 @@ Tetap
 Tetel
 Teter
 Texas
-Thailand
-Tianjin
 Tibú
 Tierra del Fuego
 Tiga
@@ -3735,12 +3957,12 @@ Tikung
 Tilang
 Timbang
 Timbau
-Timor Leste
 Timpuk
 Timur
 Timur Sierra Leone
 Tinggi
-Tinggi Pekanbaru  Pekanbaru
+Tinggi Pekanbaru
+Tinggi Pekanbaru Pekanbaru
 Tino
 Tipar
 Tipes
@@ -3752,7 +3974,6 @@ Toba
 Tobang
 Tobat
 Toga
-Togo
 Toho
 Toko
 Tolok
@@ -3760,7 +3981,6 @@ Tomang
 Tombolo
 Tombstone
 Tone
-Tonga
 Tongas
 Topang
 Tope
@@ -3768,19 +3988,20 @@ Topli?a
 Topo
 Toro
 Tote
+Totonicapán
 Tou
 Trang
 Trat
 Trepan
 Trimurti
-Trinidad and Tobago
 Tripoli
 Tritunggal
 Tua
 Tual
 Tualang
 Tuban
-Tubuhue  Kefamenanu Timor Tengah Utara
+Tubuhue Kefamenanu
+Tubuhue Kefamenanu Timor Tengah Utara
 Tucumán
 Tugu
 Tuik
@@ -3796,6 +4017,7 @@ Tumang
 Tumbak
 Tumbal
 Tumbang Sa’an
+Tumbang Sa’an Sungai Babuat
 Tumbang Sa’an Sungai Babuat Murung Raya
 Tumbuk
 Tumpak
@@ -3809,28 +4031,27 @@ Tunggang
 Tunggu
 Tunggul
 Tungkal IV
-Tungkal IV  Tungkal Ilir Tanjung Jabung Barat
-Tungkal IV Desa Seberang  Tanjung Jabung Barat
-Tungkal V Seberang  Tanjung Jabung Barat
+Tungkal IV Desa Seberang
+Tungkal IV Desa Seberang Tanjung Jabung Barat
+Tungkal IV Tungkal Ilir
+Tungkal IV Tungkal Ilir Tanjung Jabung Barat
+Tungkal V Seberang
+Tungkal V Seberang Tanjung Jabung Barat
 Tungkap
 Tungkup
 Tungurahua
-Tunisia
 Tunjuk
 Tunjung
 Tuntun
 Tura
 Turangga
 Turi
-Turin
-Turki
 Turnu M?gurele
 Turus
 Tutul
 Tutung
 Tutup
 Tutur
-Tuvalu
 Tuwung
 Tyler
 Târgu C?rbune?ti
@@ -3846,13 +4067,13 @@ Türkmenabat
 Türkmenba?y
 Ubar
 Ubung
-Uentanaga Atas Ampana  Tojo Una-Una
-Uentanaga Bawah Ampana  Tojo Una-Una
-Uganda
+Uentanaga Atas Ampana
+Uentanaga Atas Ampana Tojo Una-Una
+Uentanaga Bawah Ampana
+Uentanaga Bawah Ampana Tojo Una-Una
 Ujang
 Ujung
 Ukir
-Ulanbator
 Ulang
 Ulin
 Uling
@@ -3862,7 +4083,6 @@ Umu
 Ungar
 Ungkal
 Ungu
-Uni Emirat Arab
 Union
 Unity
 Universidad Católica
@@ -3880,18 +4100,15 @@ Utan
 Utara
 Utara Sierra Leone
 Uthai Thani
-Uzbekistan
 V?lenii de Munte
 Va?c?u
 Vadul lui Vod?
 Valencia
 Valley
 Vance
-Vanuatu
 Varaždin
 Varna
 Vayots Dzor
-Venezuela
 Vermont
 Vestfirðir
 Vestur-Húnavatnssýsla
@@ -3903,10 +4120,7 @@ Vicente Valdés
 Victoria
 Victoria Bra?ov
 Vicuña Mackenna
-Vienna
-Vietnam
 Villa Puerto Edén
-Vilna
 Vina
 Vitsebsk
 Vulcan
@@ -3918,20 +4132,25 @@ Waduk
 Wadung
 Waer
 Wage
-Wailiang  Waikabubak Sumba Barat
+Wailiang Waikabubak
+Wailiang Waikabubak Sumba Barat
 Wain
 Waiwerang
-Waiwerang  Adonara Timur Flores Timur
+Waiwerang Adonara Timur
+Waiwerang Adonara Timur Flores Timur
 Wajik
 Waled
 Wali
 Walikukun
 Waling
 Wanga
-Wangga  Waingapu Sumba Timur
+Wangga Waingapu
+Wangga Waingapu Sumba Timur
 Wangi
-Wangkaditi Barat  Utara Gorontalo
-Wangkaditi Timur  Utara Gorontalo
+Wangkaditi Barat Utara
+Wangkaditi Barat Utara Gorontalo
+Wangkaditi Timur Utara
+Wangkaditi Timur Utara Gorontalo
 Wantilan
 Wara
 Warangan
@@ -3940,15 +4159,13 @@ Waringin
 Waris
 Warrior
 Warsa
-Warsaw
 Waru
 Washington
-Washington D.C
-Washington DC
 Wasiat
 Wates
 Watu
-Watu Nggene  Komba Manggarai Timur
+Watu Nggene Komba
+Watu Nggene Komba Manggarai Timur
 Wau
 Waur
 Wawa
@@ -3959,13 +4176,14 @@ Weda
 Wedani
 Wellington
 Wenang
-Wergu Kulon  Kudus
-Wergu Wetan  Kudus
+Wergu Kulon Kudus
+Wergu Wetan Kudus
 Weri
 West
 Westland
 Wetan
-Wetan Garut  Garut
+Wetan Garut
+Wetan Garut Garut
 Weton
 Wetumpka
 Whetstone
@@ -3979,33 +4197,32 @@ Windu
 Wirang
 Wiru
 Wisnu
-Wonosari  Bangun Kutai Kartanegara
+Wlingi Blitar Wlingi 1
+Wonosari Bangun
+Wonosari Bangun Kutai Kartanegara
 Wora-Wari
 Wulung
-Wumialo  Tengah Gorontalo
+Wumialo Tengah
+Wumialo Tengah Gorontalo
 Wungu
 Xiangkhoang
-Yaman
-Yaonde
 Yaoundé
-Yaren
 Yaru
 Yayasan
 Yding Skovhøj
-Yehuwa Poso  Selatan Poso
+Yehuwa Poso Selatan
+Yehuwa Poso Selatan Poso
 Yucatán
 Yuma
 Z?rne?ti
-Zagrib
 Zamora-Chinchipe
 Zichyújfalu
-Zimbabwe
 Zorlen?u Mare
-Zurich
 bumi
-bumi  Lampung Utara
+bumi Lampung Utara
 matsum III
-matsum III Medan  Medan
+matsum III Medan
+matsum III Medan Medan
 mobagu
 waringin Timur
 Álftanes

@@ -1,0 +1,579 @@
+Afganistan
+Afrika Selatan
+Afrika Tengah
+Albania
+Aljazair
+Amerika Serikat
+Andorra
+Angola
+Antigua dan Barbuda
+Arab Saudi
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahama
+Bahrain
+Bangladesh
+Barbados
+Belanda
+Belarus
+Belgia
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia dan Herzegovina
+Botswana
+Brasil
+Britania Raya
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Ceko
+Chad
+Chili
+China
+Denmark
+Djibouti
+Dominika
+Ekuador
+El Salvador
+Eritrea
+Estonia
+Ethiopia
+Fiji
+Filipina
+Finlandia
+Gabon
+Gambia
+Georgia
+Ghana
+Grenada
+Guatemala
+Guinea
+Guinea Bissau
+Guinea Khatulistiwa
+Guyana
+Haiti
+Honduras
+Hongaria
+India
+Indonesia
+Irak
+Iran
+Irlandia
+Islandia
+Israel
+Italia
+Jamaika
+Jepang
+Jerman
+Kamboja
+Kamerun
+Kanada
+Kazakhstan
+Kenya
+Kirgizstan
+Kiribati
+Kolombia
+Komoro
+Republik Kongo
+Korea Selatan
+Korea Utara
+Kosta Rika
+Kroasia
+Kuba
+Kuwait
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lituania
+Luksemburg
+Madagaskar
+Makedonia
+Maladewa
+Malawi
+Malaysia
+Mali
+Malta
+Maroko
+Marshall
+Mauritania
+Mauritius
+Meksiko
+Mesir
+Mikronesia
+Moldova
+Monako
+Mongolia
+Montenegro
+Mozambik
+Myanmar
+Namibia
+Nauru
+Nepal
+Niger
+Nigeria
+Nikaragua
+Norwegia
+Oman
+Pakistan
+Palau
+Panama
+Pantai Gading
+Papua Nugini
+Paraguay
+Perancis
+Peru
+Polandia
+Portugal
+Qatar
+Republik Demokratik Kongo
+Republik Dominika
+Rumania
+Rusia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Selandia Baru
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapura
+Siprus
+Slovenia
+Slowakia
+Solomon
+Somalia
+Spanyol
+Sri Lanka
+Sudan
+Sudan Selatan
+Suriah
+Suriname
+Swaziland
+Swedia
+Swiss
+Tajikistan
+Tanjung Verde
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turki
+Turkmenistan
+Tuvalu
+Uganda
+Ukraina
+Uni Emirat Arab
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Yaman
+Yordania
+Yunani
+Zambia
+Zimbabwe
+Kabul
+Pretoria
+Bangui
+Tirana
+Algiers
+Washington D.C
+Andorra la Vella
+Luanda
+St. John’s
+Riyadh
+Buenos Aires
+Yerevan
+Canberra
+Wina
+Baku
+Nassau
+Manama
+Dhaka
+Bridgetown
+Amsterdam
+Minsk
+Brussel
+Belmopan
+Porto Novo
+Thimphu
+La Paz
+Sarajevo
+Gabourone
+Brasilia
+London
+Bandar Seri Begawan
+Sofia
+Ouagadoudou
+Bujumbura
+Praha
+Ndjamena
+Santiago
+Beijing
+Kopenhagen
+Djibouti City
+Roseau
+Quito
+San Salvador
+Asmara
+Tallinu
+Addis Ababa
+Suva
+Manila
+Helsinki
+Libreville
+Banyul
+Grozny
+Akra
+St. George’s
+Guatemala City
+Konakry
+Bissau
+Malabo
+George Town
+Port-au-Prince
+Tegucigalpa
+Budapest
+New Delhi
+Jakarta
+Bagdad
+Teheran
+Dublin
+Reykyavik
+Tel Aviv
+Roma
+Kingstone
+Tokyo
+Berlin
+Phnom Penh
+Yaonde
+Ottawa
+Alma Ata
+Nairobi
+Frunze
+Bairiki
+Bogota
+Moroni
+Brazzaville
+Seoul
+Pyongyang
+San Yose
+Zagrib
+Havana
+Kuwait City
+Vientiane
+Riga
+Beirut
+Maseru
+Monrovia
+Tripoli
+Vaduz
+Vilna
+Luxembourg City
+Antananarivo
+Skopje
+Male
+Lilongwe
+Kuala Lumpur
+Bamako
+La Valetta
+Rabat
+Majuro
+Nouakchott
+Port Louis
+Mexico City
+Kairo
+Palikir
+Kishinev
+Monako
+Ulanbator
+Podgorica
+Maputo
+Naypyidaw
+Windhoek
+Yaren
+Kathmandu
+Niamey
+Lagos
+Managua
+Oslo
+Muskat
+Islamabad
+Melekeok
+Panama
+Yamoussoukro
+Port Moresby
+Asuncion
+Paris
+Lima
+Warsawa
+Lisabon
+Doha
+Kinshasa
+Santo Domingo
+Bukarest
+Moskow
+Kigali
+Basseterre
+Castries
+Kingstown
+Apia
+San Marino
+Sao Tome
+Wellington
+Dakar
+Beograd
+Victoria
+Freetown
+Singapura
+Nikosia
+Ljubljana
+Bratislava
+Honiara
+Mogadishu
+Madrid
+Kolombo
+Khartoum
+Juba
+Damaskus
+Paramaribo
+Mbabane
+Stockholm
+Bern
+Dushanbe
+Praia
+Dodoma
+Bangkok
+Dili
+Lome
+Nukualofa
+Port of Span
+Tunis
+Ankara
+Ashakabad
+Funafuti
+Kampala
+Kiev
+Abu Dhabi
+Montevideo
+Tashkent
+Pelabuhan Vila
+Caracas
+Hanoi
+Sanaa
+Amman
+Athena
+Lusaka
+Harare
+Asia
+Afrika
+Afrika
+Eropa
+Afrika
+Amerika Utara
+Eropa
+Afrika
+Amerika Utara
+Asia
+Amerika Selatan
+Asia
+Australia
+Eropa
+Asia
+Amerika Utara
+Asia
+Asia
+Amerika Utara
+Eropa
+Eropa
+Eropa
+Amerika Utara
+Afrika
+Asia
+Amerika Selatan
+Eropa
+Afrika
+Amerika Selatan
+Eropa
+Asia
+Eropa
+Afrika
+Afrika
+Eropa
+Afrika
+Amerika Selatan
+Asia
+Eropa
+Afrika
+Amerika Utara
+Amerika Selatan
+Amerika Utara
+Afrika
+Eropa
+Afrika
+Osenia
+Asia
+Eropa
+Afrika
+Afrika
+Eropa
+Afrika
+Amerika Utara
+Amerika Utara
+Afrika
+Afrika
+Afrika
+Amerika Selatan
+Amerika Utara
+Amerika Utara
+Eropa
+Asia
+Asia
+Asia
+Asia
+Eropa
+Eropa
+Asia
+Eropa
+Amerika Utara
+Asia
+Eropa
+Asia
+Afrika
+Amerika Utara
+Eropa
+Afrika
+Eropa
+Osenia
+Amerika Selatan
+Afrika
+Afrika
+Asia
+Asia
+Amerika Utara
+Eropa
+Amerika Utara
+Asia
+Asia
+Eropa
+Asia
+Afrika
+Afrika
+Afrika
+Eropa
+Eropa
+Eropa
+Afrika
+Eropa
+Asia
+Afrika
+Asia
+Afrika
+Eropa
+Afrika
+Osenia
+Afrika
+Afrika
+Amerika Utara
+Afrika
+Osenia
+Eropa
+Eropa
+Asia
+Eropa
+Eropa
+Asia
+Afrika
+Osenia
+Asia
+Afrika
+Afrika
+Amerika Utara
+Eropa
+Asia
+Asia
+Osenia
+Amerika Utara
+Afrika
+Osenia
+Amerika Selatan
+Eropa
+Amerika Selatan
+Eropa
+Eropa
+Asia Barat
+Afrika
+Amerika
+Eropa
+Eropa
+Afrika
+Amerika
+Amerika
+Amerika
+Osenia
+Eropa
+Afrika
+Osenia
+Afrika
+Eropa
+Afrika
+Afrika
+Asia
+Asia
+Eropa
+Eropa
+Osenia
+Afrika
+Eropa
+Asia
+Afrika
+Afrika
+Asia
+Amerika Selatan
+Afrika
+Eropa
+Eropa
+Eropa
+Afrika
+Afrika
+Asia
+Asia
+Afrika
+Osenia
+Amerika Utara
+Afrika
+Asia
+Eropa
+Osenia
+Afrika
+Eropa
+Asia
+Amerika Selatan
+Eropa
+Osenia
+Amerika Selatan
+Asia
+Asia
+Asia
+Eropa
+Afrika
+Afrika

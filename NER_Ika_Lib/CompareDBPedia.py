@@ -25,8 +25,8 @@ from function import writeListofStringToFile,writeDictToFile
 
 
 #set the input and output file
-inputX = "dbpedia/expanded/Person_expanded.txt"
-inputY = "dbpedia-new/expanded/person.txt"
+inputX = "dbpedia-v1/expanded/Place_expanded.txt"
+inputY = "dbpediaRule/validate/BnoG.txt"
 
 
 
@@ -34,7 +34,7 @@ inputY = "dbpedia-new/expanded/person.txt"
 
 dataX = open(inputX, "r")
 dataY = open(inputY, "r")
-folder = "cekPerson/expansion/x-expand/"
+folder = "cekPerson/validation/withBuIka/"
 output =  folder + "resultPERSama.txt"
 outputBedaY = folder+  "resultPERBedaY.txt"
 outputBedaX =  folder+ "resultPERBedaX.txt"
@@ -100,7 +100,7 @@ writeListofStringToFile(sortedDictOutputBedaY, outputBedaY)
 
 #set the input and output file
 inputX = "dbpedia/expanded/Place_expanded.txt"
-inputY = "dbpedia-new/expanded/place.txt"
+inputY = "dbpedia-new/validate/place.txt"
 
 
 
@@ -108,7 +108,7 @@ inputY = "dbpedia-new/expanded/place.txt"
 
 dataX = open(inputX, "r")
 dataY = open(inputY, "r")
-folder = "cekPlace/expansion/x-expand/"
+folder = "cekPlace/validation/x-expand/"
 output =  folder + "resultLOCSama.txt"
 outputBedaY = folder+  "resultLOCBedaY.txt"
 outputBedaX =  folder+ "resultLOCBedaX.txt"
@@ -172,7 +172,7 @@ writeListofStringToFile(sortedDictOutputBedaY, outputBedaY)
 
 #set the input and output file
 inputX = "dbpedia/expanded/ORG_expanded.txt"
-inputY = "dbpedia-new/expanded/organization.txt"
+inputY = "dbpedia-new/validate/organization.txt"
 
 
 
@@ -180,7 +180,7 @@ inputY = "dbpedia-new/expanded/organization.txt"
 
 dataX = open(inputX, "r")
 dataY = open(inputY, "r")
-folder = "cekOrganisation/expansion/x-expand/"
+folder = "cekOrganisation/validation/x-expand/"
 output =  folder + "resultORGSama.txt"
 outputBedaY = folder+  "resultORGBedaY.txt"
 outputBedaX =  folder+ "resultORGBedaX.txt"

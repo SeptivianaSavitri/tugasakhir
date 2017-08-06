@@ -50,23 +50,24 @@ for k in flines:
     dosSplit = re.split(" dos | Dos ",k)
     deSplit = re.split(" de | De ",k)
     spasiSplit = k.split(" ")
-    #Jika nama ejaan lama
+    #NA 8 Jika nama ejaan lama
     if("oe" in k):
         ejaanBaru = k.replace("oe","u")
         newListPerson.append(ejaanBaru)
+        newListPerson.append(k)
         
-    #jika nama mengandung gelar dan kata sapaan
+    #NA 7 jika nama mengandung gelar dan kata sapaan
     if spasiSplit[0]=="KH" or spasiSplit[0]=="Pak" or spasiSplit[0]=="KH." or spasiSplit[0]=="Dr.":
         k = k[(len(spasiSplit[0])+1):]
         
-    #Jika nama mengandung kata bin
+    #NA1-MODIFIKAI Jika nama mengandung kata bin
     if len(binSplit) > 1: 
         newListBin.append(k)
         
         for i in range(0, len(binSplit)):    
             newListPerson.append(binSplit[i])
             
-    #Jika nama mengandung kata binti   
+    #NA1-MODIFIKAI  Jika nama mengandung kata binti   
     elif len(bintiSplit) > 1:
         newListBin.append(k)
         
@@ -77,7 +78,7 @@ for k in flines:
     elif len(dariSplit) > 1:
         newListPerson.append(dariSplit[0])
         newListTmp.append(dariSplit[1])
-
+    # NA3-MODIFIKASI
     elif len(vanSplit) > 1:
         newListBin.append(k)
         newListPerson.append(vanSplit[0])
@@ -102,21 +103,25 @@ for k in flines:
         newListBin.append(k)
         newListPerson.append(deSplit[0])
         newListPerson.append(deSplit[1])
+
+    #NA4-MODIFIKASI
     elif spasiSplit[len(spasiSplit) - 1] == "Jr.\n":
         newListPerson.append(k.replace(",",""))
         newListPerson.append(k.replace(", Jr.",""))
     elif spasiSplit[len(spasiSplit) - 1] == "Sr.\n":
         newListPerson.append(k.replace(",",""))
         newListPerson.append(k.replace(", Sr.",""))
+    #NA 6
     elif k.find("-") != -1:
         for m in range (0, len(spasiSplit)):
             tmp = spasiSplit[m]
             stripSplit = tmp.split("-")
-            if len(stripSplit)>1 and stripSplit[0][0].isupper() and stripSplit[1][0].isupper():
-                
+            if len(stripSplit)>1 and stripSplit[0][0].isupper() and stripSplit[1][0].isupper():         
                 newListPerson.append(k)
                 hapusStrip = k.replace("-"," ")
                 newListPerson.append(hapusStrip)
+            else:
+                newListPerson.append(k)
     else:
         newListPerson.append(k);
     count += 1
@@ -133,6 +138,7 @@ for name in flines:
     newListPerson.append(name)
 for name in flines:
     splitKoma = name.split(",")
+    #NA9
     if len(splitKoma)>1:
 
         if len(splitKoma) == 2:
