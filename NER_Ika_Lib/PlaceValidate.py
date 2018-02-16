@@ -30,7 +30,7 @@ from function import writeDictToFile, writeListofListToFile, writeListofStringTo
 input = "dbpedia-new/expanded/place.txt"
 
 folder = "dbpedia-new/validate/"
-output = folder + "place.txt"
+output = folder + "placeNoGzt.txt"
 outputtmp = folder + "tmpplace.txt"
 #nltk_data = "dbpedia-new/nltk_clean.txt"
 nltk_data = "dbpedia-new/english_corpus.txt"
@@ -79,8 +79,11 @@ for k in flines:
         dictPlace[k] = k
 inputFile.close()
 
-data1 = open("dbpedia-new/original/listNegara.txt", "r")
-data2 = "dbpedia-new/original/listNegaraWrite.txt"
+# data1 = open("dbpedia-new/original/listNegara.txt", "r")
+# data2 = "dbpedia-new/original/listNegaraWrite.txt"
+
+data1 = open("dbpedia-new/original/blank.txt", "r")
+data2 = "dbpedia-new/original/blank.txt"
 place = {}
 dataBaca = data1.readlines()
 for data in dataBaca:

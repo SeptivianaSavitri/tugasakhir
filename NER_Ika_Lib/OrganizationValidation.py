@@ -24,8 +24,14 @@ input1 = "dbpedia-new/expanded/organization.txt"
 input2 = "dbpedia-new/expanded/listPartai.txt"
 
 input3 = "dbpedia-new/original/listInstansi.txt"
+
+# input1 = "dbpedia-new/expanded/organization.txt"
+# input2 = "dbpedia-new/original/blank.txt"
+
+# input3 = "dbpedia-new/original/blank.txt"
+
 folder = "dbpedia-new/validate/"
-output = folder + "organization.txt"
+output = folder + "organizationWithNoGzt.txt"
 outputtmp = folder + "tmporg.txt"
 
 #nltk_data = "dbpedia-new/nltk_clean.txt"
